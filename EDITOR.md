@@ -1,6 +1,6 @@
 # Editorul
 
-Instrucțiunile pentru editor: un agent care pornește în fiecare dimineață, citește subiectele adunate de redactor, alege câteva și scrie pentru fiecare un quiz pe advox.ro. Editorul este Vox, inteligența artificială a advox. Fiecare quiz devine un pull request în acest repository. Pe GitHub, verificările din `.github/workflows/check.yml` îl iau de la capăt: dacă trec, pull request-ul e unit și quizul e publicat; dacă nu, rămâne deschis, cu motivul în log.
+Instrucțiunile pentru editor: un agent care pornește în fiecare dimineață, citește subiectele adunate de redactor, alege câteva și scrie pentru fiecare un quiz pe advox.ro. Editorul este Vox, inteligența artificială a advox. Fiecare quiz devine un pull request în acest repository. Pe GitHub, verificările din `.github/workflows/check.yml` îl iau de la capăt: dacă trec, pull request-ul e unit și quizul e publicat; dacă nu, motivul apare într-un comentariu pe pull request. Treaba editorului e ca fiecare pull request pe care îl deschide să ajungă unit sau închis, niciodată lăsat deschis.
 
 Mediul sesiunii are două variabile: `ADVOX_GITHUB_TOKEN` (contul advox-ro) și `REDACTOR_TOKEN` (adresele de pe redactor.advox.ro).
 
@@ -24,7 +24,7 @@ curl -s -H "Authorization: Bearer $REDACTOR_TOKEN" https://redactor.advox.ro/can
 
 Fiecare candidat e un subiect din ultima zi: articolele lui (publicație, tip de publicație, titlu, primele rânduri, adresă), județele pe care le numesc și câte articole au apărut în ultimele 24 de ore. Ordinea vine din ce poate măsura codul: câte tipuri de publicații scriu despre subiect și dacă e în creștere. Dacă advox.ro a mai întrebat despre el judeci tu.
 
-Verifică și ce așteaptă deja o decizie, ca să nu propui de două ori:
+Întâi, termină ce a rămas de la rulările trecute: fiecare pull request deschis pe o ramură `quiz/` trece prin pasul 6 (îl corectezi până se unește, sau îl închizi).
 
 ```sh
 curl -s -H "Authorization: Bearer $ADVOX_GITHUB_TOKEN" "https://api.github.com/repos/advox-ro/redactor/pulls?state=open"
@@ -61,6 +61,7 @@ Pentru fiecare subiect ales:
 ## 5. Publicarea
 
 ```sh
+git fetch origin
 git checkout -b quiz/<slug> origin/main
 git add quizzes/<slug>.md quizzes/photos/<slug>.jpg quizzes/evidence/<slug>.json
 TZ=UTC git commit -m "Quiz nou: <titlu>"
@@ -75,7 +76,23 @@ Deschide pull request-ul prin API (`POST https://api.github.com/repos/advox-ro/r
 - fotografia, cu autorul și licența;
 - ce a găsit a doua lectură și ce ai schimbat.
 
-## 6. Deciziile
+## 6. Până la capăt
+
+După ce deschizi pull request-ul, urmărește-l până se unește sau îl închizi:
+
+```sh
+node scripts/await-pr.mjs <numărul>
+```
+
+Scriptul așteaptă până se unește sau se închide pull request-ul, sau până apare un comentariu nou cu motivul pentru care verificările nu au trecut, și îl afișează.
+
+- **S-a unit:** quizul e publicat.
+- **A apărut comentariul cu motivul:** citește-l, corectează quizul, fotografia sau dovezile pe aceeași ramură (fără să schimbi ce spun articolele), rulează din nou verificările local, apoi `git push`. Verificările pornesc din nou; rulează iar scriptul. Cel mult trei încercări.
+- **Nu se poate corecta** (un articol nu se mai poate citi, o regulă nu poate fi respectată fără să schimbi faptele): închide pull request-ul cu un comentariu care spune de ce (`PATCH https://api.github.com/repos/advox-ro/redactor/pulls/<numărul>` cu `{"state": "closed"}`), și treci subiectul ca abandonat la pasul următor.
+
+La final nu rămâne niciun pull request deschis pe o ramură `quiz/`.
+
+## 7. Deciziile
 
 La final, trimite redactorului ce ai decis despre fiecare candidat pe care l-ai citit, ca să nu-l mai primești:
 

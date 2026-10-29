@@ -2,7 +2,8 @@
 # (a branch quiz/<slug> that changes nothing but files in quizzes/: the quiz, its photo, its
 # evidence) also has every new or changed news quiz checked against its articles (check-quiz, with
 # quizzes/evidence/<slug>.json). When everything passes, it is merged and deployed, which publishes
-# it. A pull request that fails stays open, with the reason in this log.
+# it. When a check fails, the reason goes in a comment on the pull request, where the editor reads
+# it and fixes the quiz (EDITOR.md).
 name: Check
 
 on:
@@ -27,14 +28,15 @@ jobs:
           cache: npm
 
       - run: npm ci --no-audit --no-fund
+      # Each check's output also goes to check.log, for the comment when one fails.
       - name: Check types
-        run: npx tsc -p .
+        run: npx tsc -p . 2>&1 | tee -a check.log
       - name: Test
-        run: npx vitest run
+        run: npx vitest run 2>&1 | tee -a check.log
       - name: Check the question pool
-        run: node questions/validate.mjs
+        run: node questions/validate.mjs 2>&1 | tee -a check.log
       - name: Check the quizzes
-        run: npm run validate
+        run: npm run validate 2>&1 | tee -a check.log
 
       - name: Which files the pull request changes
         id: files
@@ -54,8 +56,8 @@ jobs:
           for f in $(grep -E '^quizzes/[a-z0-9-]+\.md$' changed.txt); do
             slug=$(basename "$f" .md)
             grep -q '^date:' "$f" || continue
-            [ -f "quizzes/evidence/$slug.json" ] || { echo "::error::$f has no quizzes/evidence/$slug.json"; exit 1; }
-            npm run -s check-quiz -- "$f" "quizzes/evidence/$slug.json"
+            [ -f "quizzes/evidence/$slug.json" ] || { echo "$f has no quizzes/evidence/$slug.json" | tee -a check.log; exit 1; }
+            npm run -s check-quiz -- "$f" "quizzes/evidence/$slug.json" 2>&1 | tee -a check.log
           done
 
       - name: Publish
@@ -65,3 +67,11 @@ jobs:
         run: |
           gh pr merge "${{ github.event.pull_request.number }}" --squash --delete-branch
           gh workflow run deploy.yml --ref main
+
+      - name: Say why it failed
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          { echo "Verificările nu au trecut. Ultimele rânduri:"; echo; echo '```'; tail -n 60 check.log 2>/dev/null; echo '```'; } > comment.md
+          gh pr comment "${{ github.event.pull_request.number }}" --body-file comment.md
