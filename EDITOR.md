@@ -12,10 +12,9 @@ cd redactor
 git config user.name advox-ro
 git config user.email 349334465+advox-ro@users.noreply.github.com
 npm ci
-curl -s -H "Authorization: Bearer $REDACTOR_TOKEN" "https://redactor.advox.ro/kb?kind=doc&key=questions/QUIZ.md" > ../QUIZ.md
 ```
 
-Citește înainte de orice: `quizzes/README.md` (formatul și regulile quizurilor), `../QUIZ.md` (regulile întrebărilor, din repository-ul site-ului) și ultimele quizuri din știri din `quizzes/` (cele cu `date`), ca exemplu de ton.
+Citește înainte de orice: `quizzes/README.md` (formatul și regulile quizurilor), `questions/QUIZ.md` (regulile întrebărilor) și ultimele quizuri din știri din `quizzes/` (cele cu `date`), ca exemplu de ton.
 
 ## 2. Candidații
 
@@ -57,7 +56,7 @@ Pentru fiecare subiect ales:
    npm run validate
    ```
    Prima descarcă fiecare articol și caută fiecare citat, cuvânt cu cuvânt, și fiecare număr din fapte, rezumat și cifra-cheie în citatele lui. Corectează quizul până trec, fără să schimbi ce spun articolele.
-6. **O a doua lectură.** Cere unui subagent care nu ți-a văzut notițele să citească quizul cu `../QUIZ.md` și `quizzes/README.md` în față și să caute: reguli încălcate, fapte pe care articolele nu le susțin, întrebări care sugerează un răspuns sau la care unii cititori nu pot răspunde sincer, și cum l-ar ataca drept părtinitor un susținător și un critic al guvernului. Corectează ce are dreptate. Dacă rămâne o problemă reală, renunță la subiect.
+6. **O a doua lectură.** Cere unui subagent care nu ți-a văzut notițele să citească quizul cu `questions/QUIZ.md` și `quizzes/README.md` în față și să caute: reguli încălcate, fapte pe care articolele nu le susțin, întrebări care sugerează un răspuns sau la care unii cititori nu pot răspunde sincer, și cum l-ar ataca drept părtinitor un susținător și un critic al guvernului. Corectează ce are dreptate. Dacă rămâne o problemă reală, renunță la subiect.
 
 ## 5. Propunerea
 

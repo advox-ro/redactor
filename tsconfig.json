@@ -9,6 +9,7 @@
     "noEmit": true,
     "skipLibCheck": true,
     "resolveJsonModule": true,
+    "allowJs": true,
     "allowImportingTsExtensions": false
   },
   "include": ["src", "test", "scripts"]

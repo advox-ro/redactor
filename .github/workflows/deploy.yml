@@ -1,5 +1,5 @@
-# Every push to main checks redactor, deploys it to Cloudflare, then syncs its knowledge base with
-# the site repository (src/sync.ts). "Run workflow" on the Actions tab does it by hand. Wrangler's
+# Every push to main checks redactor and its content, then deploys it to Cloudflare, which publishes
+# the content (scripts/content.ts). "Run workflow" on the Actions tab does it by hand. Wrangler's
 # own output goes to a file, not the public log: it can name the Cloudflare account. On failure the
 # log shows only its error lines, with emails and account names blanked out.
 name: Deploy
@@ -33,9 +33,9 @@ jobs:
         run: npx tsc -p .
       - name: Test
         run: npx vitest run
+      - name: Check the question pool
+        run: node questions/validate.mjs
       - name: Check the quizzes
-        env:
-          REDACTOR_TOKEN: ${{ secrets.REDACTOR_TOKEN }}
         run: npm run validate
 
       - name: Apply database migrations
@@ -51,8 +51,3 @@ jobs:
         run: |
           npx wrangler deploy > wrangler.log 2>&1 || { .github/redact-tail.sh wrangler.log; exit 1; }
           grep -o 'Current Version ID: [0-9a-f-]*' wrangler.log || true
-
-      - name: Sync the knowledge base
-        env:
-          REDACTOR_TOKEN: ${{ secrets.REDACTOR_TOKEN }}
-        run: 'curl -fsS -X POST -H "Authorization: Bearer $REDACTOR_TOKEN" https://redactor.advox.ro/sync'

@@ -1,17 +1,15 @@
 // Checks the quizzes against the rules in quizzes/README.md: the schema, the question pool, the wiki,
 // the news quizzes' press links, photos and own questions, and duplicates (a question in two quizzes,
-// two quizzes on the same thing). The question pool and the wiki live in the site repository; the
-// check reads the redactor's copy of them (GET /kb, with REDACTOR_TOKEN in the environment), or a
-// checkout of the site next to this repository.
+// two quizzes on the same thing). The question pool and the wiki are read from questions/ and wiki/.
 // Usage: npm run validate
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { basename, dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import YAML from 'yaml';
+import { buildPool } from '../scripts/pool.mjs';
 
 const root = dirname(fileURLToPath(import.meta.url));
 const redactor = join(root, '..');
-const site = join(redactor, '..', 'site');
 
 function frontMatter(md) {
   const m = md.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
@@ -25,26 +23,14 @@ const COUNTIES = new Set([...readFileSync(join(redactor, 'src/counties.ts'), 'ut
 const NEWS_DAYS = 14; // a news quiz older than this is flagged for the archive
 
 // The pool questions the site serves (id → where, group) and each wiki page's source numbers.
-let pool = null, wiki = null;
-if (process.env.REDACTOR_TOKEN) {
-  const kb = async (kind) => {
-    const res = await fetch(`https://redactor.advox.ro/kb?kind=${kind}`, { headers: { Authorization: `Bearer ${process.env.REDACTOR_TOKEN}` } });
-    if (!res.ok) throw new Error(`GET /kb?kind=${kind}: ${res.status}`);
-    return res.json();
-  };
-  pool = new Map((await kb('question')).map((q) => [q.key, q.meta]));
-  wiki = new Map((await kb('wiki')).map((w) => [w.key, new Set(w.meta.sources ?? [])]));
-} else if (existsSync(join(site, 'web/src/data/quiz.json'))) {
-  pool = new Map(Object.entries(JSON.parse(readFileSync(join(site, 'web/src/data/quiz.json'), 'utf8')).questions));
-  wiki = new Map(
-    readdirSync(join(site, 'wiki')).filter((f) => f.endsWith('.md')).map((f) => {
-      const surse = readFileSync(join(site, 'wiki', f), 'utf8').split(/^## Surse\s*$/m)[1] ?? '';
-      return [f.slice(0, -3), new Set([...surse.matchAll(/^(\d+)\. /gm)].map((m) => Number(m[1])))];
-    }),
-  );
-}
-if (!pool) console.log('! no REDACTOR_TOKEN and no site checkout next to this repository: the pool and wiki checks are skipped');
-const wikiSources = (slug) => wiki?.get(slug) ?? null;
+const pool = new Map(Object.entries(buildPool(join(redactor, 'questions')).questions));
+const wiki = new Map(
+  readdirSync(join(redactor, 'wiki')).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f)).map((f) => {
+    const surse = readFileSync(join(redactor, 'wiki', f), 'utf8').split(/^## Surse\s*$/m)[1] ?? '';
+    return [f.slice(0, -3), new Set([...surse.matchAll(/^(\d+)\. /gm)].map((m) => Number(m[1])))];
+  }),
+);
+const wikiSources = (slug) => wiki.get(slug) ?? null;
 
 const words = (s) => new Set(s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').match(/[a-z]{4,}/g) ?? []);
 const jaccard = (a, b) => [...a].filter((x) => b.has(x)).length / (new Set([...a, ...b]).size || 1);
@@ -92,7 +78,7 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
     if (outlets.size < 2 && !(outlets.size === 1 && d.wiki && d.sources?.length)) err(f, 'a news quiz needs two outlets, or one and wiki sources');
   }
 
-  if (d.wiki && wiki) {
+  if (d.wiki) {
     const sources = wikiSources(d.wiki);
     if (!sources) err(f, `no wiki page wiki/${d.wiki}.md`);
     else for (const n of d.sources ?? []) if (!sources.has(n)) err(f, `source ${n} not in the Surse list of wiki/${d.wiki}.md`);
@@ -101,7 +87,7 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
   const qs = d.questions ?? [];
   if (qs.length < 4 || qs.length > 8) err(f, `${qs.length} questions (4–8)`);
   const groups = new Map(), own = new Set();
-  let home = 0, abroad = 0, unknown = 0;
+  let home = 0, abroad = 0;
   for (const q of qs) {
     if (typeof q === 'object') {
       // A question written for this set: the shape and the parts of QUIZ.md a script can check.
@@ -132,9 +118,8 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
       if (q.where !== 'romania') abroad++;
       continue;
     }
-    if (!pool) { unknown++; continue; }
     const p = pool.get(q);
-    if (!p) { err(f, `${q} is not a question the site serves (web/src/data/quiz.json in the site)`); continue; }
+    if (!p) { err(f, `${q} is not a question the site serves (questions/)`); continue; }
     if (p.group) {
       if (groups.has(p.group)) err(f, `${q} and ${groups.get(p.group)} are the same question (group ${p.group})`);
       groups.set(p.group, q);
@@ -144,8 +129,8 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
   }
   // Who sees the quiz: residents, unless it is for the diaspora only.
   const dspOnly = d.counties?.length === 1 && d.counties[0] === 'DSP';
-  if (!unknown && dspOnly && abroad < 3) err(f, `only ${abroad} questions for the diaspora (at least 3)`);
-  if (!unknown && !dspOnly && home < 3) err(f, `only ${home} questions for residents (at least 3)`);
+  if (dspOnly && abroad < 3) err(f, `only ${abroad} questions for the diaspora (at least 3)`);
+  if (!dspOnly && home < 3) err(f, `only ${home} questions for residents (at least 3)`);
 }
 
 // Duplicates across quizzes.

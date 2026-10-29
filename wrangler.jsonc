@@ -4,8 +4,9 @@
 	"main": "./src/index.ts",
 	"compatibility_date": "2026-10-12",
 	"compatibility_flags": ["nodejs_compat"],
-	// The published quizzes are built into the Worker (scripts/content.ts): deploying publishes them.
-	"build": { "command": "npm run -s content", "watch_dir": "quizzes" },
+	// The published content (quizzes, wiki, question pool) is built into the Worker
+	// (scripts/content.ts): deploying publishes it.
+	"build": { "command": "npm run -s content", "watch_dir": ["quizzes", "wiki", "questions"] },
 	// Their photos, served only through the Content entrypoint (src/index.ts): every request runs
 	// the Worker first, and without the token it answers 404.
 	"assets": { "directory": "./quizzes/photos", "binding": "ASSETS", "run_worker_first": true },
@@ -20,10 +21,6 @@
 	// Times in UTC (src/index.ts says what each one runs).
 	"triggers": {
 		"crons": ["*/30 * * * *", "0 2 * * *"]
-	},
-	"vars": {
-		// The site repository: what advox.ro has published (sync.ts).
-		"SITE_REPO": "advox-ro/site"
 	},
 	"observability": { "enabled": true }
 }
