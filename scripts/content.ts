@@ -5,7 +5,6 @@
 //   quiz.json     the question pool, questions/*.jsonl, as the site's older quiz reads it (pool.mjs)
 import { mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { createSatteriMarkdownProcessor } from '@astrojs/markdown-satteri';
-import { marked } from 'marked';
 import { parse } from 'yaml';
 import citations from './citations.mjs';
 import { buildPool } from './pool.mjs';
@@ -19,10 +18,13 @@ const front = (file: string) => {
 // Lowercase names only: README.md is each folder's index on GitHub, not content.
 const pages = (dir: string) => readdirSync(dir).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f));
 
-const quizzes = pages('quizzes').map((f) => {
+// A quiz's facts: plain Markdown, through the same processor as the wiki, without its plugins.
+const plain = await createSatteriMarkdownProcessor({ syntaxHighlight: false });
+const quizzes = [];
+for (const f of pages('quizzes')) {
   const { data, body } = front(`quizzes/${f}`);
-  return { slug: f.slice(0, -3), data, html: marked.parse(body.trim(), { async: false }) };
-});
+  quizzes.push({ slug: f.slice(0, -3), data, html: (await plain.render(body.trim())).code });
+}
 
 // The wiki goes through the same Markdown processor, with the same plugins, as the site's own pages
 // (Astro's Sätteri processor): [n] citations link to the "Surse" list (citations.mjs), and the
