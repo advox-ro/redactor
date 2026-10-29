@@ -1,15 +1,14 @@
 // redactor: publishes advox.ro's content (the quizzes, the wiki and the question pool), reads the
 // Romanian press and groups articles into stories, for the editor (EDITOR.md), which chooses the
-// stories and proposes the quizzes.
+// stories and proposes the quizzes. The editor reads the content from the repository itself.
 // Scheduled jobs (UTC, wrangler.jsonc):
-//   every 30 minutes   ingest: read the feeds, place new articles in stories (ingest.ts); then sync
-//                      the knowledge base, which only redoes what changed (sync.ts)
+//   every 30 minutes   ingest: read the feeds, place new articles in stories (ingest.ts)
 //   02:00              clean up
 // Addresses, all with the REDACTOR_TOKEN as a bearer token:
 //   GET  /candidates   the last day's stories that could become a quiz (candidates.ts)
 //   POST /decisions    what the editor decided about them
 //   GET  /status       counts, failing feeds, the last runs and decisions
-//   POST /run/<job>    run ingest, sync or cleanup by hand
+//   POST /run/<job>    run ingest or cleanup by hand
 // The site reads the published content through the Content entrypoint, over a service binding: a
 // private connection between the two Workers, with no public address.
 import { WorkerEntrypoint } from 'cloudflare:workers';
@@ -17,7 +16,6 @@ import { candidates, decide, type Decision } from './candidates';
 import { photo, POOL, QUIZZES, WIKI, type Pool, type Quiz, type WikiPage } from './content';
 import type { Env } from './env';
 import { ingest } from './ingest';
-import { sync } from './sync';
 
 const DAY = 86_400_000;
 
@@ -32,7 +30,7 @@ async function cleanup(env: Env) {
   ]);
 }
 
-const JOBS: Record<string, (env: Env) => Promise<unknown>> = { ingest, sync, cleanup };
+const JOBS: Record<string, (env: Env) => Promise<unknown>> = { ingest, cleanup };
 
 async function run(env: Env, job: string): Promise<unknown> {
   const started = Date.now();
@@ -48,15 +46,14 @@ async function run(env: Env, job: string): Promise<unknown> {
 
 async function status(env: Env) {
   const now = Date.now();
-  const [articles, stories, kb, failing, decisions, runs] = await Promise.all([
+  const [articles, stories, failing, decisions, runs] = await Promise.all([
     env.DB.prepare('SELECT COUNT(*) AS n, SUM(fetched_at > ?) AS lastDay FROM articles').bind(now - DAY).first(),
     env.DB.prepare('SELECT COUNT(*) AS n, SUM(last_seen > ?) AS open FROM stories').bind(now - 3 * DAY).first(),
-    env.DB.prepare('SELECT kind, COUNT(*) AS n FROM kb GROUP BY kind').all(),
     env.DB.prepare('SELECT id, fail_count, last_error FROM feeds WHERE fail_count > 0 ORDER BY fail_count DESC').all(),
     env.DB.prepare('SELECT story_id, day, decision, reason, slug, pr_url FROM decisions ORDER BY created_at DESC LIMIT 20').all(),
     env.DB.prepare('SELECT job, status, detail, started_at FROM runs ORDER BY id DESC LIMIT 10').all(),
   ]);
-  return { articles, stories, kb: kb.results, failingFeeds: failing.results, decisions: decisions.results, runs: runs.results };
+  return { articles, stories, failingFeeds: failing.results, decisions: decisions.results, runs: runs.results };
 }
 
 export class Content extends WorkerEntrypoint<Env> {
@@ -84,7 +81,7 @@ export class Content extends WorkerEntrypoint<Env> {
 
 export default {
   async scheduled(event: ScheduledController, env: Env, ctx: ExecutionContext) {
-    if (event.cron === '*/30 * * * *') ctx.waitUntil(run(env, 'ingest').finally(() => run(env, 'sync')));
+    if (event.cron === '*/30 * * * *') ctx.waitUntil(run(env, 'ingest'));
     if (event.cron === '0 2 * * *') ctx.waitUntil(run(env, 'cleanup'));
   },
 

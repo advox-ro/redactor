@@ -21,23 +21,19 @@ node questions/validate.mjs       # fondul de întrebări, după questions/READM
 
 | Când (UTC) | Ce face | Unde |
 |---|---|---|
-| La 30 de minute | Citește fluxurile de știri, păstrează articolele noi și le pune în subiecte, apoi actualizează tabela `kb` | `src/ingest.ts`, `src/sync.ts` |
+| La 30 de minute | Citește fluxurile de știri, păstrează articolele noi și le pune în subiecte | `src/ingest.ts` |
 | 02:00 | Șterge ce e mai vechi de o lună | `src/index.ts` |
 | Dimineața | Editorul citește candidații, alege, scrie quizurile și deschide pull request-urile | [EDITOR.md](EDITOR.md) |
 | La fiecare deploy | Publică quizurile, wiki-ul și fondul de întrebări | `.github/workflows/deploy.yml` |
 
 - **Subiecte.** Fiecare articol primește un vector (embedding, modelul bge-m3) din titlu și primele rânduri. Un articol intră într-un subiect deschis dacă e destul de apropiat de el (`JOIN` în `src/ingest.ts`), altfel începe unul nou. Un subiect rămâne deschis 72 de ore de la ultimul articol. Un articol preluat aproape identic de la altă publicație nu se numără ca a doua sursă.
-- **Candidații.** `GET /candidates` dă subiectele din ultima zi care ar putea deveni un quiz, ordonate după ce poate măsura codul: câte tipuri de publicații scriu despre subiect, dacă advox.ro a mai întrebat despre el și dacă subiectul crește. Pentru fiecare: articolele, județele, quizul publicat cel mai apropiat și întrebările din fondul de întrebări cele mai apropiate (`src/candidates.ts`). Judecata (ce fel de știre e, câți oameni atinge, dacă se pot pune întrebări fără vinovați și fără partide) e a editorului.
+- **Candidații.** `GET /candidates` dă subiectele din ultima zi care ar putea deveni un quiz, ordonate după ce poate măsura codul: câte tipuri de publicații scriu despre subiect și dacă subiectul crește. Pentru fiecare: articolele și județele (`src/candidates.ts`). Judecata (ce fel de știre e, câți oameni atinge, dacă se pot pune întrebări fără vinovați și fără partide, dacă advox.ro a mai întrebat despre el) e a editorului, care citește quizurile, fondul de întrebări și wiki-ul direct din repository.
 - **Verificarea quizului.** Înainte să propună un quiz, editorul trebuie să treacă `npm run check-quiz`. Comanda descarcă fiecare articol citat și verifică faptul că propoziția pe care se sprijină fiecare fapt apare în articol cuvânt cu cuvânt, că fiecare număr din fapte, rezumat și cifra-cheie se află în propozițiile citate, că faptele vin de la cel puțin două publicații și, la un quiz pentru toată țara, de la două tipuri de publicații (`src/quizcheck.ts`). Apoi trebuie să treacă și `npm run validate`.
 - **Deciziile.** Editorul trimite înapoi ce a decis despre fiecare candidat citit, cu motivul (`POST /decisions`). Un subiect cu o decizie nu mai e oferit.
 
 ## Sursele
 
 Fluxurile sunt în [`src/sources.ts`](src/sources.ts), verificate unul câte unul. Publicațiile sunt grupate după ce sunt (radio și televiziune publică, agenții, televiziuni, ziare și site-uri, presă economică, presă de investigație, presă de specialitate, presă locală), nu după ce cred. Presa locală dă o primă estimare a județului pentru articolele ei.
-
-## Sincronizarea
-
-Tabela `kb` ține quizurile publicate, întrebările din fond și paginile din wiki, așa cum sunt în Worker, fiecare cu vectorul ei și un hash al conținutului: o rulare fără schimbări nu face nimic, una după o schimbare recalculează doar ce s-a schimbat și șterge ce a dispărut. Sincronizarea rulează la fiecare 30 de minute, după citirea fluxurilor.
 
 ## Structura
 
@@ -48,7 +44,6 @@ Tabela `kb` ține quizurile publicate, întrebările din fond și paginile din w
 | `src/index.ts` | Programul rulărilor, entrypoint-ul `Content` pentru site și adresele, toate cu `REDACTOR_TOKEN`: `GET /candidates`, `POST /decisions`, `GET /status`, `POST /run/<job>` |
 | `src/ingest.ts`, `src/feeds.ts`, `src/counties.ts`, `src/sources.ts` | Fluxurile, subiectele, județele din titluri |
 | `src/candidates.ts` | Candidații zilei și deciziile editorului |
-| `src/sync.ts` | Tabela `kb`: conținutul publicat, cu vectori |
 | `src/quizcheck.ts`, `src/facts.ts`, `scripts/check-quiz.ts` | Verificarea unui quiz față de articolele lui |
 | `EDITOR.md` | Instrucțiunile editorului |
 | `migrations/` | Tabelele bazei de date (Cloudflare D1, în Uniunea Europeană) |
