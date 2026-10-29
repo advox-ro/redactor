@@ -50,5 +50,5 @@ jobs:
 
       - name: Sync the knowledge base
         env:
-          SYNC_TOKEN: ${{ secrets.SYNC_TOKEN }}
-        run: 'curl -fsS -X POST -H "Authorization: Bearer $SYNC_TOKEN" https://redactor.advox.ro/sync'
+          REDACTOR_TOKEN: ${{ secrets.REDACTOR_TOKEN }}
+        run: 'curl -fsS -X POST -H "Authorization: Bearer $REDACTOR_TOKEN" https://redactor.advox.ro/sync'

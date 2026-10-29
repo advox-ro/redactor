@@ -121,10 +121,10 @@ export async function sync(env: Env): Promise<SyncReport> {
     );
   report.deleted = gone.length;
 
-  // A quiz merged on the site marks the story it came from, so the story isn't drafted again.
+  // A quiz merged on the site marks the story it was proposed for.
   await env.DB.prepare(
-    `UPDATE stories SET quiz_slug = (SELECT d.slug FROM drafts d WHERE d.story_id = stories.id AND d.slug IN (SELECT key FROM kb WHERE kind = 'quiz') LIMIT 1)
-     WHERE quiz_slug IS NULL AND id IN (SELECT story_id FROM drafts WHERE slug IN (SELECT key FROM kb WHERE kind = 'quiz'))`,
+    `UPDATE stories SET quiz_slug = (SELECT d.slug FROM decisions d WHERE d.story_id = stories.id AND d.slug IN (SELECT key FROM kb WHERE kind = 'quiz') LIMIT 1)
+     WHERE quiz_slug IS NULL AND id IN (SELECT story_id FROM decisions WHERE slug IN (SELECT key FROM kb WHERE kind = 'quiz'))`,
   ).run();
   return report;
 }

@@ -6,16 +6,17 @@
     "dev": "wrangler dev --test-scheduled",
     "test": "vitest run",
     "check": "tsc -p .",
-    "deploy": "wrangler deploy"
+    "deploy": "wrangler deploy",
+    "check-quiz": "tsx scripts/check-quiz.ts"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^1.3.0",
     "fast-xml-parser": "^5.11.2",
-    "yaml": "^2.9.1",
-    "zod": "^4.6.7"
+    "yaml": "^2.9.1"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20261029.1",
+    "@types/node": "^26.6.6",
+    "tsx": "^4.23.15",
     "typescript": "^7.0.2",
     "vitest": "^3.2.7",
     "wrangler": "^4.155.0"

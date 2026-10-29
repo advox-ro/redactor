@@ -14,13 +14,11 @@
 	"ai": { "binding": "AI" },
 	// Times in UTC (src/index.ts says what each one runs).
 	"triggers": {
-		"crons": ["*/30 * * * *", "0 2 * * *", "30 3 * * *", "*/15 4-8 * * *"]
+		"crons": ["*/30 * * * *", "0 2 * * *"]
 	},
 	"vars": {
-		// The site repository: where the published sets live and where drafts go as pull requests.
-		"SITE_REPO": "advox-ro/site",
-		// The most the model calls may cost in a day, in US dollars.
-		"DAILY_BUDGET_USD": "8"
+		// The site repository: what advox.ro has published (sync.ts).
+		"SITE_REPO": "advox-ro/site"
 	},
 	"observability": { "enabled": true }
 }
