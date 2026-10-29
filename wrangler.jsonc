@@ -4,6 +4,11 @@
 	"main": "./src/index.ts",
 	"compatibility_date": "2026-10-12",
 	"compatibility_flags": ["nodejs_compat"],
+	// The published quizzes are built into the Worker (scripts/content.ts): deploying publishes them.
+	"build": { "command": "npm run -s content", "watch_dir": "quizzes" },
+	// Their photos, served only through the Content entrypoint (src/index.ts): every request runs
+	// the Worker first, and without the token it answers 404.
+	"assets": { "directory": "./quizzes/photos", "binding": "ASSETS", "run_worker_first": true },
 	"workers_dev": false,
 	"routes": [{ "pattern": "redactor.advox.ro", "custom_domain": true }],
 	"preview_urls": false,

@@ -1,15 +1,21 @@
 // redactor: reads the Romanian press, groups articles into stories and keeps a copy of what advox.ro
 // has published, for the editor (EDITOR.md), which chooses the stories and proposes the quizzes.
 // Scheduled jobs (UTC, wrangler.jsonc):
-//   every 30 minutes   ingest: read the feeds, place new articles in stories (ingest.ts)
-//   02:00              sync the knowledge base with the site repository (sync.ts), then clean up
+//   every 30 minutes   ingest: read the feeds, place new articles in stories (ingest.ts); then sync
+//                      the knowledge base, which only redoes what changed (sync.ts)
+//   02:00              clean up
 // Addresses, all with the REDACTOR_TOKEN as a bearer token:
 //   GET  /candidates   the last day's stories that could become a quiz (candidates.ts)
 //   POST /decisions    what the editor decided about them
 //   POST /sync         sync now (the repositories' deploy jobs call it)
 //   GET  /status       counts, failing feeds, the last runs and decisions
+//   GET  /kb?kind=     the synced copy of the question pool, the wiki or the question rules (doc)
 //   POST /run/<job>    run ingest, sync or cleanup by hand
+// The site reads the published quizzes through the Content entrypoint, over a service binding:
+// a private connection between the two Workers, with no public address.
+import { WorkerEntrypoint } from 'cloudflare:workers';
 import { candidates, decide, type Decision } from './candidates';
+import { photo, QUIZZES, type Quiz } from './content';
 import type { Env } from './env';
 import { ingest } from './ingest';
 import { sync } from './sync';
@@ -54,10 +60,21 @@ async function status(env: Env) {
   return { articles, stories, kb: kb.results, failingFeeds: failing.results, decisions: decisions.results, runs: runs.results };
 }
 
+export class Content extends WorkerEntrypoint<Env> {
+  /** Every published quiz. */
+  quizzes(): Quiz[] {
+    return QUIZZES;
+  }
+  /** A quiz's photo, by its file name ("<slug>.jpg"), or null. */
+  photo(file: string): Promise<Response | null> {
+    return photo(this.env, file);
+  }
+}
+
 export default {
   async scheduled(event: ScheduledController, env: Env, ctx: ExecutionContext) {
-    if (event.cron === '*/30 * * * *') ctx.waitUntil(run(env, 'ingest'));
-    if (event.cron === '0 2 * * *') ctx.waitUntil(run(env, 'sync').then(() => run(env, 'cleanup')));
+    if (event.cron === '*/30 * * * *') ctx.waitUntil(run(env, 'ingest').finally(() => run(env, 'sync')));
+    if (event.cron === '0 2 * * *') ctx.waitUntil(run(env, 'cleanup'));
   },
 
   async fetch(request: Request, env: Env): Promise<Response> {
@@ -70,6 +87,15 @@ export default {
       if (route === 'POST /decisions') return Response.json(await decide(env, (await request.json()) as Decision[]));
       if (route === 'POST /sync') return Response.json(await run(env, 'sync'));
       if (route === 'GET /status') return Response.json(await status(env));
+      if (route === 'GET /kb') {
+        const kind = url.searchParams.get('kind') ?? '';
+        const rows = await env.DB.prepare('SELECT key, title, meta FROM kb WHERE kind = ? ORDER BY key').bind(kind).all<{ key: string; title: string; meta: string }>();
+        if (kind === 'doc') {
+          const doc = await env.DB.prepare("SELECT body FROM kb WHERE kind = 'doc' AND key = ?").bind(url.searchParams.get('key') ?? '').first<{ body: string }>();
+          return doc ? new Response(doc.body, { headers: { 'Content-Type': 'text/markdown; charset=utf-8' } }) : new Response('not found\n', { status: 404 });
+        }
+        return Response.json((rows.results ?? []).map((r) => ({ key: r.key, title: r.title, meta: JSON.parse(r.meta) })));
+      }
       const job = url.pathname.match(/^\/run\/([a-z]+)$/)?.[1];
       if (request.method === 'POST' && job && JOBS[job]) return Response.json(await run(env, job));
       return new Response('not found\n', { status: 404 });

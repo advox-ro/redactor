@@ -7,7 +7,9 @@
     "test": "vitest run",
     "check": "tsc -p .",
     "deploy": "wrangler deploy",
-    "check-quiz": "tsx scripts/check-quiz.ts"
+    "check-quiz": "tsx scripts/check-quiz.ts",
+    "content": "tsx scripts/content.ts",
+    "validate": "node quizzes/validate.mjs"
   },
   "dependencies": {
     "fast-xml-parser": "^5.11.2",
@@ -16,6 +18,7 @@
   "devDependencies": {
     "@cloudflare/workers-types": "^5.20261029.1",
     "@types/node": "^26.6.6",
+    "marked": "^18.1.2",
     "tsx": "^4.23.15",
     "typescript": "^7.0.2",
     "vitest": "^3.2.7",

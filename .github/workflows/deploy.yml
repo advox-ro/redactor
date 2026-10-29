@@ -33,6 +33,10 @@ jobs:
         run: npx tsc -p .
       - name: Test
         run: npx vitest run
+      - name: Check the quizzes
+        env:
+          REDACTOR_TOKEN: ${{ secrets.REDACTOR_TOKEN }}
+        run: npm run validate
 
       - name: Apply database migrations
         env:
