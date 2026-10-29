@@ -1,0 +1,26 @@
+{
+	"$schema": "./node_modules/wrangler/config-schema.json",
+	"name": "redactor",
+	"main": "./src/index.ts",
+	"compatibility_date": "2026-10-12",
+	"compatibility_flags": ["nodejs_compat"],
+	"workers_dev": false,
+	"routes": [{ "pattern": "redactor.advox.ro", "custom_domain": true }],
+	"preview_urls": false,
+	// Created with --jurisdiction=eu, like the site's: the data stays in the European Union.
+	"d1_databases": [
+		{ "binding": "DB", "database_name": "redactor", "database_id": "f76a670d-7db1-43a6-8d3f-c61f536381c3", "migrations_dir": "migrations" }
+	],
+	"ai": { "binding": "AI" },
+	// Times in UTC (src/index.ts says what each one runs).
+	"triggers": {
+		"crons": ["*/30 * * * *", "0 2 * * *", "30 3 * * *", "*/15 4-8 * * *"]
+	},
+	"vars": {
+		// The site repository: where the published sets live and where drafts go as pull requests.
+		"SITE_REPO": "advox-ro/site",
+		// The most the model calls may cost in a day, in US dollars.
+		"DAILY_BUDGET_USD": "8"
+	},
+	"observability": { "enabled": true }
+}
