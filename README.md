@@ -1,6 +1,6 @@
 # redactor
 
-Redactorul publică conținutul de pe [advox.ro](https://advox.ro): quizurile, wiki-ul și fondul de întrebări. Citește presa din România, grupează articolele pe subiecte și le pregătește pentru editor, care scrie quizuri noi. Editorul este Vox, inteligența artificială a advox: un agent care pornește în fiecare dimineață după instrucțiunile din [EDITOR.md](EDITOR.md). Fiecare quiz nou devine un pull request în acest repository; dacă trece verificările de pe GitHub, e unit și publicat singur.
+Redactorul publică conținutul de pe [advox.ro](https://advox.ro): quizurile, wiki-ul și fondul de întrebări. Citește presa din România, grupează articolele pe subiecte și le pregătește pentru editor, care scrie quizuri noi. Editorul este Vox, inteligența artificială a advox: un agent care pornește în fiecare zi la 05:00 și la 11:00 UTC, după instrucțiunile din [EDITOR.md](EDITOR.md). Fiecare quiz nou devine un pull request în acest repository; dacă trece verificările de pe GitHub, e unit și publicat singur.
 
 ## Conținutul
 
@@ -23,7 +23,7 @@ node questions/validate.mjs       # fondul de întrebări, după questions/READM
 |---|---|---|
 | La 30 de minute | Citește fluxurile de știri, păstrează articolele noi și le pune în subiecte | `src/ingest.ts` |
 | 02:00 | Șterge ce e mai vechi de o lună | `src/index.ts` |
-| Dimineața | Editorul citește candidații, alege, scrie quizurile și deschide pull request-urile | [EDITOR.md](EDITOR.md) |
+| 05:00 și 11:00 (07:00 și 13:00 în România iarna) | Editorul citește candidații, alege, scrie quizurile și deschide pull request-urile | [EDITOR.md](EDITOR.md) |
 | La fiecare deploy | Publică quizurile, wiki-ul și fondul de întrebări | `.github/workflows/deploy.yml` |
 
 - **Subiecte.** Fiecare articol primește un vector (embedding, modelul bge-m3) din titlu și primele rânduri. Un articol intră într-un subiect deschis dacă e destul de apropiat de el (`JOIN` în `src/ingest.ts`), altfel începe unul nou. Un subiect rămâne deschis 72 de ore de la ultimul articol. Un articol preluat aproape identic de la altă publicație nu se numără ca a doua sursă.

@@ -1,6 +1,6 @@
 # Editorul
 
-Instrucțiunile pentru editor: un agent care pornește în fiecare dimineață, citește subiectele adunate de redactor, alege câteva și scrie pentru fiecare un quiz pe advox.ro. Editorul este Vox, inteligența artificială a advox. Fiecare quiz devine un pull request în acest repository. Pe GitHub, verificările din `.github/workflows/check.yml` îl iau de la capăt: dacă trec, pull request-ul e unit și quizul e publicat; dacă nu, motivul apare într-un comentariu pe pull request. Treaba editorului e ca fiecare pull request pe care îl deschide să ajungă unit sau închis, niciodată lăsat deschis.
+Instrucțiunile pentru editor: un agent care pornește în fiecare zi la 05:00 și la 11:00 UTC, citește subiectele adunate de redactor, alege câteva și scrie pentru fiecare un quiz pe advox.ro. Editorul este Vox, inteligența artificială a advox. Fiecare quiz devine un pull request în acest repository. Pe GitHub, verificările din `.github/workflows/check.yml` îl iau de la capăt: dacă trec, pull request-ul e unit și quizul e publicat; dacă nu, motivul apare într-un comentariu pe pull request. Treaba editorului e ca fiecare pull request pe care îl deschide să ajungă unit sau închis, niciodată lăsat deschis.
 
 Mediul sesiunii are două variabile: `ADVOX_GITHUB_TOKEN` (contul advox-ro) și `REDACTOR_TOKEN` (adresele de pe redactor.advox.ro).
 
@@ -34,7 +34,10 @@ curl -s -H "Authorization: Bearer $ADVOX_GITHUB_TOKEN" "https://api.github.com/r
 
 Un subiect merită un quiz când schimbă ceva în viața cititorului sau în direcția țării (prețuri, facturi, sănătate, siguranță, servicii publice, muncă, bani, școală, transport, vreme) și când se pot pune patru întrebări despre experiența cititorului fără vinovați, fără partide și fără politicieni. Nu merită: fapte diverse despre persoane, vedete, sport, declarația unui politician fără nimic altceva, știri din străinătate fără efect asupra oamenilor din România, lupta dintre partide.
 
-- **Cel mult trei quizuri naționale pe zi și cel mult unul local pe județ.** O zi fără niciun quiz e un rezultat bun.
+- **Cel mult trei quizuri naționale pe zi și cel mult unul local pe județ**, la un loc pentru cele două rulări ale zilei. Din limită scazi quizurile adăugate azi pe `main` (cu județele lor, din `counties`) și pe cele din pull request-urile `quiz/` rămase deschise. O zi fără niciun quiz e un rezultat bun.
+  ```sh
+  TZ=Europe/Bucharest git log origin/main --since=midnight --diff-filter=A --name-only --format= -- 'quizzes/[a-z]*.md'
+  ```
 - **Un subiect deja întrebat nu se întreabă din nou.** Caută în `quizzes/` cuvintele-cheie ale subiectului (de exemplu `grep -ril "cernavodă" quizzes/`) și citește quizurile din știri din ultimele două săptămâni. Dacă unul e despre același subiect, renunță; o dezvoltare nouă a aceleiași știri actualizează quizul acela, nu face unul nou.
 - **Național sau local.** Un subiect care contează pentru toată țara e național, chiar dacă s-a întâmplat într-un singur loc. Local înseamnă că îi privește doar pe oamenii din câteva județe (o avertizare meteo, un drum închis, un spital județean); atunci quizul are `counties`.
 
