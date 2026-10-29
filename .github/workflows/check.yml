@@ -18,6 +18,10 @@ permissions:
 jobs:
   check:
     runs-on: ubuntu-latest
+    # bash with pipefail: a check piped into tee still fails the step.
+    defaults:
+      run:
+        shell: bash
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
@@ -28,6 +32,9 @@ jobs:
           cache: npm
 
       - run: npm ci --no-audit --no-fund
+      # The content the Worker is built with (scripts/content.ts); the type check needs it too.
+      - name: Build the content
+        run: npm run content
       # Each check's output also goes to check.log, for the comment when one fails.
       - name: Check types
         run: npx tsc -p . 2>&1 | tee -a check.log

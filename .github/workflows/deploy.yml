@@ -29,6 +29,9 @@ jobs:
           cache: npm
 
       - run: npm ci --no-audit --no-fund
+      # The content the Worker is built with (scripts/content.ts); the type check needs it too.
+      - name: Build the content
+        run: npm run content
       - name: Check types
         run: npx tsc -p .
       - name: Test
