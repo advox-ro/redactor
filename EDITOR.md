@@ -32,7 +32,7 @@ curl -s -H "Authorization: Bearer $REDACTOR_TOKEN" https://redactor.advox.ro/pro
 
 Un subiect merită o pagină când schimbă ceva în viața cititorului sau în direcția țării (prețuri, facturi, sănătate, siguranță, servicii publice, muncă, bani, școală, transport, vreme) și când se pot pune patru întrebări despre experiența cititorului fără vinovați, fără partide și fără politicieni. Nu merită: fapte diverse despre persoane, vedete, sport, declarația unui politician fără nimic altceva, știri din străinătate fără efect asupra oamenilor din România, lupta dintre partide.
 
-- **Cel mult trei pagini naționale pe zi și cel mult una locală pe județ**, la un loc pentru cele două rulări ale zilei. Din limită scazi paginile adăugate azi pe `main` (cu județele lor, din `counties`) și pe cele din pull request-urile `page/` rămase deschise. O zi fără nicio pagină e un rezultat bun.
+- **Cel mult trei pagini naționale pe zi și cel mult una locală pe județ**, la un loc pentru cele două rulări ale zilei. Din limită scazi paginile adăugate azi pe `main` (cu județele lor, din `counties`) și pe cele din pull request-urile `page/` rămase deschise. Un subiect lăsat doar din cauza limitei nu se trece la decizii (pasul 7). O zi fără nicio pagină e un rezultat bun.
   ```sh
   TZ=Europe/Bucharest git log origin/main --since=midnight --diff-filter=A --name-only --format= -- 'pages/[a-z]*.md'
   ```
@@ -114,7 +114,7 @@ La final nu rămâne niciun pull request deschis pe o ramură `page/` sau `conte
 
 ## 7. Deciziile
 
-La final, trimite redactorului ce ai decis despre fiecare candidat pe care l-ai citit, ca să nu-l mai primești:
+La final, trimite redactorului ce ai decis despre fiecare candidat pe care l-ai citit, ca să nu-l mai primești. Un subiect bun pe care l-ai lăsat doar pentru că limita zilei e atinsă nu primește nicio decizie: așa revine la rularea următoare, cât timp e încă printre candidați.
 
 ```sh
 curl -s -X POST -H "Authorization: Bearer $REDACTOR_TOKEN" -H "Content-Type: application/json" https://redactor.advox.ro/decisions \
