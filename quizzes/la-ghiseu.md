@@ -4,7 +4,7 @@ summary: Cozile, drumurile la instituții, serviciile online și cum îți răsp
 tags: [stat, servicii publice]
 order: 6
 wiki: justitie-administratie
-stat: { value: "24%", label: "dintre români au interacționat online cu autoritățile în 2025 (UE: 72%)" }
+stat: { value: "1.274.999", label: "de posturi erau ocupate în sectorul public în aprilie 2026" }
 sources: [25, 26, 29, 32]
 ---
 

@@ -4,8 +4,8 @@ summary: Viața ta acum, față de anul trecut și peste un an. Și direcția î
 tags: [viața ta]
 order: 1
 wiki: romania-pe-scurt
-stat: { value: "79%", label: "dintre români spun că țara merge într-o direcție greșită" }
-sources: [7, 8, 9, 21, 22, 23]
+stat: { value: "19,04 mil.", label: "de oameni locuiau în România la 1 ianuarie 2026" }
+sources: [1, 7, 8, 9, 21, 22, 23]
 ---
 
 - Economia stagnează, iar prețurile cresc. Inflația a ajuns la 10,4% în iunie 2026, iar salariul real este sub nivelul de acum un an.

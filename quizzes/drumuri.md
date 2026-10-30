@@ -4,7 +4,6 @@ summary: Cum te deplasezi, cât pierzi în trafic, transportul public și trenul
 tags: [transport, județ]
 order: 10
 wiki: infrastructura
-stat: { value: "42,6 km/h", label: "viteza comercială medie a trenurilor de călători în 2025" }
 image:
   src: /quizzes/drumuri.jpg
   alt: Stația de metrou Râul Doamnei, linia M5, București

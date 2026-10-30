@@ -4,7 +4,6 @@ summary: Școlile din localitatea ta, profesorii, meditațiile și ce ar trebui 
 tags: [educație, copii]
 order: 4
 wiki: educatie
-stat: { value: "38,5%", label: "dintre elevii de 15 ani sunt sub pragul minim la toate cele trei probe PISA 2025" }
 image:
   src: /quizzes/scoala.jpg
   alt: Clădirea Liceului Teoretic „Mihail Kogălniceanu” din Vaslui

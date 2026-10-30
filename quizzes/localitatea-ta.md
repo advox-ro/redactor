@@ -4,8 +4,8 @@ summary: Cum s-a schimbat locul în care trăiești, ce de lucru găsești acolo
 tags: [județ, regiuni]
 order: 8
 wiki: regiuni
-stat: { value: "6,4×", label: "PIB-ul pe locuitor al Bucureștiului față de cel al Vasluiului, în 2023" }
-sources: [1, 3, 6, 10, 18]
+stat: { value: "51,4%", label: "dintre locuitori trăiau la oraș la 1 ianuarie 2026" }
+sources: [1, 3, 5, 6, 10, 18]
 ---
 
 - București-Ilfov avea în 2024 un PIB pe locuitor de 188% din media UE, Nord-Est de 48%.

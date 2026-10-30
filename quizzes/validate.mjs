@@ -66,6 +66,9 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
   }
   if (!d.stat && !d.image) err(f, 'the cover needs a stat or an image');
   if (d.stat && (!d.stat.value || !d.stat.label)) err(f, 'stat needs value and label');
+  // A neutral key figure (README, Rules): no verdict words, no comparison picked to judge, no opinions.
+  const judging = `${d.stat?.label ?? ''}`.match(/(?<!\p{L})(prea|doar|numai|abia|record\p{L}*|criz\p{L}*|alarm\p{L}*|grav[ăe]?|dramatic\p{L}*|cel mai|cea mai|cei mai|cele mai|(spun|cred|consideră|declară) că|încredere)(?!\p{L})|\(UE|UE:/iu);
+  if (judging) err(f, `stat: "${judging[0]}" judges the subject; the key figure gives its size (README, A neutral key figure)`);
   if (d.stat?.value?.length > 10) err(f, `stat value "${d.stat.value}" over 10 characters`);
   if (!body) err(f, 'no body (the facts)');
 

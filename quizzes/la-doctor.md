@@ -4,7 +4,6 @@ summary: Medicul de familie, drumul până la cabinet, așteptarea la specialist
 tags: [sănătate, servicii publice]
 order: 2
 wiki: sanatate
-stat: { value: "1.055", label: "localități aveau prea puțini medici de familie la sfârșitul lui 2025" }
 image:
   src: /quizzes/la-doctor.jpg
   alt: Spitalul Colțea din București

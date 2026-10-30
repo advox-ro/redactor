@@ -4,7 +4,7 @@ summary: Sursele tale de știri, cât te încrezi în ele și cât de des verifi
 tags: [media, încredere]
 order: 7
 wiki: securitate-media
-stat: { value: "23%", label: "dintre români spun că au în general încredere în știri" }
+stat: { value: "15%", label: "plătesc pentru știri online, după Digital News Report 2026" }
 sources: [10, 11, 12, 13, 14]
 ---
 
