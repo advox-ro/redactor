@@ -1,9 +1,13 @@
-# Every pull request is checked: the code, the question pool and the quizzes. A quiz's pull request
-# (a branch quiz/<slug> that changes nothing but files in quizzes/: the quiz, its photo, its
-# evidence) also has every new or changed news quiz checked against its articles (check-quiz, with
-# quizzes/evidence/<slug>.json). When everything passes, it is merged and deployed, which publishes
-# it. When a check fails, the reason goes in a comment on the pull request, where the editor reads
-# it and fixes the quiz (EDITOR.md).
+# Every pull request is checked: the code, the question pool, the wiki and the quizzes. The editor's
+# pull requests (EDITOR.md) publish themselves when everything passes: they are merged and deployed.
+# There are two kinds:
+#   quiz/<slug>      only the quiz's files in quizzes/ (the quiz, its photo, its evidence); every
+#                    new or changed news quiz is also checked against its articles (check-quiz, with
+#                    quizzes/evidence/<slug>.json)
+#   content/<slug>   only wiki pages and question pool files; a question already in the pool must
+#                    keep what it asks (scripts/pool-unchanged.mjs)
+# When a check fails, the reason goes in a comment on the pull request, where the editor reads it
+# and fixes it.
 name: Check
 
 on:
@@ -51,10 +55,15 @@ jobs:
           git diff --name-only --diff-filter=AM origin/main...HEAD > changed.txt
           git diff --name-only --diff-filter=D origin/main...HEAD > removed.txt
           cat changed.txt removed.txt
-          # Only quiz files, on a quiz/ branch, and nothing removed: such a pull request publishes itself.
-          if [ "${GITHUB_HEAD_REF#quiz/}" != "$GITHUB_HEAD_REF" ] && [ ! -s removed.txt ] && [ -s changed.txt ] \
+          # The editor's two kinds of pull request, with nothing removed, publish themselves.
+          if [ -s removed.txt ] || [ ! -s changed.txt ]; then exit 0; fi
+          if [ "${GITHUB_HEAD_REF#quiz/}" != "$GITHUB_HEAD_REF" ] \
             && ! grep -qvE '^quizzes/([a-z0-9-]+\.md|photos/[a-z0-9-]+\.jpg|evidence/[a-z0-9-]+\.json)$' changed.txt; then
-            echo "quiz=true" >> "$GITHUB_OUTPUT"
+            echo "quiz=true" >> "$GITHUB_OUTPUT"; echo "publish=true" >> "$GITHUB_OUTPUT"
+          fi
+          if [ "${GITHUB_HEAD_REF#content/}" != "$GITHUB_HEAD_REF" ] \
+            && ! grep -qvE '^(wiki/[a-z][a-z0-9-]*\.md|questions/[a-z][a-z0-9-]*\.jsonl)$' changed.txt; then
+            echo "content=true" >> "$GITHUB_OUTPUT"; echo "publish=true" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Check each news quiz against its articles
@@ -67,8 +76,12 @@ jobs:
             npm run -s check-quiz -- "$f" "quizzes/evidence/$slug.json" 2>&1 | tee -a check.log
           done
 
+      - name: Check that existing questions keep what they ask
+        if: steps.files.outputs.content == 'true'
+        run: node scripts/pool-unchanged.mjs origin/main 2>&1 | tee -a check.log
+
       - name: Publish
-        if: steps.files.outputs.quiz == 'true'
+        if: steps.files.outputs.publish == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

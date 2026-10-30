@@ -1,12 +1,14 @@
 // The editor's pull requests, opened by the Worker as advox-ro. The editor runs where GitHub is
-// reachable only for reading, so it sends a quiz here and the Worker commits it to a branch
-// quiz/<slug> and opens the pull request, with GITHUB_TOKEN (a token of the advox-ro account for
-// this repository only). It can touch nothing else: only quiz/ branches, only the quiz's own three
-// files (quizzes/<slug>.md, its photo, its evidence), never main. The checks on GitHub then merge
-// it or say why not (.github/workflows/check.yml).
-//   GET  /proposals              the open quiz pull requests
-//   POST /proposals              { slug, title, body, message?, files: { path: base64 } }: commit the
-//                                files to quiz/<slug> (from main, or on top of the branch when it
+// reachable only for reading, so it sends its changes here and the Worker commits them to a branch
+// and opens the pull request, with GITHUB_TOKEN (a token of the advox-ro account for this
+// repository only). Two kinds, and nothing else, never on main:
+//   quiz      branch quiz/<slug>: the quiz's own three files (quizzes/<slug>.md, its photo, its evidence)
+//   content   branch content/<slug>: wiki pages (wiki/<name>.md) and question pool files
+//             (questions/<name>.jsonl); the READMEs and QUIZ.md stay out of reach
+// The checks on GitHub then merge it or say why not (.github/workflows/check.yml).
+//   GET  /proposals              the editor's open pull requests
+//   POST /proposals              { kind?, slug, title, body, message?, files: { path: base64 } }:
+//                                commit the files to the branch (from main, or on top of it when it
 //                                exists) and open its pull request if none is open
 //   GET  /proposals/<n>          its state (open, merged, closed) and the checks' failure comments
 //   POST /proposals/<n>/close    { reason }: comment the reason, close it, delete its branch
@@ -41,21 +43,36 @@ const brief = (p: Pull) => ({ number: p.number, branch: p.head.ref, title: p.tit
 
 export async function openProposals(env: Env) {
   const pulls = await gh<Pull[]>(env, 'GET', '/pulls?state=open&per_page=100');
-  return pulls.filter((p) => p.head.ref.startsWith('quiz/')).map(brief);
+  return pulls.filter((p) => OURS(p.head.ref)).map(brief);
 }
 
-export type Proposal = { slug: string; title: string; body: string; message?: string; files: Record<string, string> };
+export type Proposal = { kind?: 'quiz' | 'content'; slug: string; title: string; body: string; message?: string; files: Record<string, string> };
+
+const KINDS = {
+  quiz: {
+    branch: (slug: string) => `quiz/${slug}`,
+    allows: (path: string, slug: string) => [`quizzes/${slug}.md`, `quizzes/photos/${slug}.jpg`, `quizzes/evidence/${slug}.json`].includes(path),
+    title: (t: string) => `Quiz nou: ${t}`,
+  },
+  content: {
+    branch: (slug: string) => `content/${slug}`,
+    allows: (path: string) => /^(wiki\/[a-z][a-z0-9-]*\.md|questions\/[a-z][a-z0-9-]*\.jsonl)$/.test(path),
+    title: (t: string) => t,
+  },
+};
+const OURS = (ref: string) => ref.startsWith('quiz/') || ref.startsWith('content/');
 
 export async function propose(env: Env, p: Proposal) {
+  const kind = KINDS[p.kind ?? 'quiz'];
+  if (!kind) throw new ProposalError('kind: quiz or content');
   if (!SLUG.test(p.slug ?? '')) throw new ProposalError('slug: lowercase letters, digits and hyphens');
   if (!p.title || !p.body) throw new ProposalError('title and body are required');
-  const allowed = [`quizzes/${p.slug}.md`, `quizzes/photos/${p.slug}.jpg`, `quizzes/evidence/${p.slug}.json`];
   const paths = Object.keys(p.files ?? {});
   if (!paths.length) throw new ProposalError('files: none given');
-  const stray = paths.filter((f) => !allowed.includes(f));
-  if (stray.length) throw new ProposalError(`files: only ${allowed.join(', ')}; not ${stray.join(', ')}`);
+  const stray = paths.filter((f) => !kind.allows(f, p.slug));
+  if (stray.length) throw new ProposalError(`files not allowed for a ${p.kind ?? 'quiz'} proposal: ${stray.join(', ')}`);
 
-  const branch = `quiz/${p.slug}`;
+  const branch = kind.branch(p.slug);
   const existing = await gh<{ object: { sha: string } }>(env, 'GET', `/git/ref/heads/${branch}`).catch(() => null);
   const parent = existing?.object.sha ?? (await gh<{ object: { sha: string } }>(env, 'GET', '/git/ref/heads/main')).object.sha;
   const base = await gh<{ tree: { sha: string } }>(env, 'GET', `/git/commits/${parent}`);
@@ -68,7 +85,7 @@ export async function propose(env: Env, p: Proposal) {
   const newTree = await gh<{ sha: string }>(env, 'POST', '/git/trees', { base_tree: base.tree.sha, tree });
   const date = new Date().toISOString(); // UTC
   const commit = await gh<{ sha: string }>(env, 'POST', '/git/commits', {
-    message: p.message || `Quiz nou: ${p.title}`,
+    message: p.message || kind.title(p.title),
     tree: newTree.sha,
     parents: [parent],
     author: { ...AUTHOR, date },
@@ -78,13 +95,13 @@ export async function propose(env: Env, p: Proposal) {
   else await gh(env, 'POST', '/git/refs', { ref: `refs/heads/${branch}`, sha: commit.sha });
 
   const [open] = await gh<Pull[]>(env, 'GET', `/pulls?state=open&head=advox-ro:${branch}`);
-  const pull = open ?? (await gh<Pull>(env, 'POST', '/pulls', { title: `Quiz nou: ${p.title}`, head: branch, base: 'main', body: p.body }));
+  const pull = open ?? (await gh<Pull>(env, 'POST', '/pulls', { title: kind.title(p.title), head: branch, base: 'main', body: p.body }));
   return { ...brief(pull), commit: commit.sha };
 }
 
 async function quizPull(env: Env, n: number) {
   const pull = await gh<Pull>(env, 'GET', `/pulls/${n}`);
-  if (!pull.head.ref.startsWith('quiz/')) throw new ProposalError(`#${n} is not a quiz pull request`);
+  if (!OURS(pull.head.ref)) throw new ProposalError(`#${n} is not one of the editor's pull requests`);
   return pull;
 }
 
