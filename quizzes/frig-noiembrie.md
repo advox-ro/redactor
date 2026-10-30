@@ -21,7 +21,6 @@ image:
 - De sâmbătă, 31 octombrie, ora 5, până duminică, 1 noiembrie, ora 10, zona de deal și de munte din Gorj, Vâlcea, Argeș, Dâmbovița și Prahova e sub cod galben de ploi, cu 25–40 de litri pe metru pătrat și, izolat, peste 45–50. În Carpații Meridionali, la altitudini în general de peste 1.500 de metri, va ninge și se va depune un strat de zăpadă de 15–25 de centimetri.
   > „Potrivit meteorologilor, în intervalul 31 octombrie, ora 5:00 – 1 noiembrie, ora 10:00, în zona deluroasă și montană a județelor Gorj, Vâlcea, Argeș, Dâmbovița și Prahova va ploua și se vor acumula cantități de apă de 25 – 40 l/mp și izolat de peste 45 – 50 l/mp.” [3]
   > „În același timp, în Carpații Meridionali, la altitudini în general de peste 1.500 de metri, vor predomina ninsorile și se va depune strat de zăpadă de 15 – 25 cm.” [3]
-  > „Pentru intervalul 31 octombrie, ora 05 - 01 noiembrie, ora 10, ANM a emis un Cod galben de ploi însemnate cantitativ în zona deluroasă și montană a județelor Gorj, Vâlcea, Argeș, Dâmbovița și Prahova” [4]
 
 ## Întrebări
 
@@ -83,4 +82,3 @@ image:
 1. Vremea rămâne mai rece decât de obicei la începutul lui noiembrie și va ploua mai mult. Estimări meteo pe 4 săptămâni — Digi24. https://www.digi24.ro/meteo/vremea-ramane-mai-rece-decat-de-obicei-la-inceputul-lui-noiembrie-si-va-ploua-mai-mult-estimari-meteo-pe-4-saptamani-4014683
 2. Cinci județe intră în Cod Galben de ploi de sâmbătă dimineața. Se anunță ninsori în zona Carpaților Meridionali — Adevărul. https://adevarul.ro/stiri-interne/meteo/cinci-judete-intra-in-cod-galben-de-ploi-de-2567653.html
 3. Alertă meteo: Cod galben de ploi în cinci județe și ninsori la munte — HotNews. https://hotnews.ro/alerta-meteo-cod-galben-de-ploi-in-cinci-judete-si-ninsori-la-munte-2390554
-4. Weekend cu vânt și ploi în Oltenia, vestul, nordul și centrul Munteniei și local în Transilvania. Cinci județe, sub atenționare Cod galben de ploi — News.ro. https://www.news.ro/social/weekend-vant-ploi-oltenia-vestul-nordul-centrul-munteniei-local-transilvania-cinci-judete-atentionare-cod-galben-ploi-ninsori-strat-zapada-15-25-centimetri-carpatii-meridionali-vreme-inchisa-1922401230002026101122907383
