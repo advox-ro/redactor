@@ -5,41 +5,36 @@ tags: [viața ta]
 order: 1
 wiki: romania-pe-scurt
 stat: { value: "19,04 mil.", label: "de oameni locuiau în România la 1 ianuarie 2026" }
-sources: [1, 7, 8, 9, 20, 21, 22, 23, 24, 27, 34, 35]
+sources: [1, 7, 8, 9, 20, 21, 22, 24, 27, 34]
 quiz: cum-iti-merge
 ---
 
 ## Carduri
 
-### Prețurile cresc, salariile nu țin pasul
+### Prețurile au crescut mai repede decât salariile
 tip: cifră
 - 10,4%
-a fost inflația în iunie 2026. Economia stagnează, iar salariul real, adică ce poți cumpăra cu el, e sub nivelul de acum un an.
+au crescut prețurile într-un an, până în iunie 2026. Cu salariul de acum se pot cumpăra mai puține lucruri decât acum un an.
 
-### Mai puțini oameni în sărăcie
+### Mai puțini români trăiesc în sărăcie
 tip: evoluție
 - 2021: 34,4%
 - 2025: 27,4%
-dintre români erau în risc de sărăcie sau excluziune socială. Media UE în 2025 era 20,9%.
+dintre români erau în risc de sărăcie, adică aveau venituri mici sau duceau lipsă de lucruri de bază. Scăderea e mare, dar România rămâne peste media UE.
 
-### La sat, sărăcia e mult mai răspândită
+### La sat, sărăcia e mult mai des întâlnită
 tip: comparație
 - Sate: 39,8%
 - Orașe mari: 13,7%
-e riscul de sărăcie sau excluziune socială. În UE, între sat și oraș aproape nu există diferență.
+dintre oameni sunt în risc de sărăcie. În restul UE, între sat și oraș aproape nu există diferență.
 
-### București și Moldova, departe una de alta
+### Bucureștiul e mult mai bogat decât nord-estul țării
 tip: comparație
 - București-Ilfov: 188%
-- Nord-Est: 48%
-din media UE e producția economică pe locuitor (PIB pe locuitor) a fiecărei regiuni. Diferența dintre București și restul țării e printre cele mai mari din UE.
+- Nord-Est (Moldova): 48%
+din media UE este valoarea a ce produce economia, socotită pe fiecare locuitor. Bucureștiul e cu mult peste media europeană, iar nord-estul are sub jumătate din ea.
 
-### Mulți au plecat
-tip: cifră
-- 3,1 milioane
-de români, cifră aproximativă, trăiesc legal în alte state din UE, cea mai mare diasporă din Uniune. În locul lor vin lucrători din Asia.
-
-### Încredere puțină în Parlament
-tip: cifră
+### Puțini au încredere în Parlament
+tip: parte
 - 11,9%
-dintre români aveau încredere în Parlament în ianuarie 2026. În Guvern, 18,4%, iar în presă, 23%. Armata și Biserica sunt singurele instituții în care au încredere majoritatea.
+dintre români aveau încredere în Parlament în ianuarie 2026. Armata și Biserica sunt singurele instituții în care au încredere majoritatea.

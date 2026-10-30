@@ -5,46 +5,37 @@ tags: [energie, bani]
 order: 3
 wiki: energie-mediu-agricultura
 stat: { value: "+58,6%", label: "a crescut prețul curentului pentru casnici după încheierea plafonării" }
-sources: [1, 2, 3, 4, 6, 7, 20]
+sources: [1, 2, 3, 4, 7, 27]
 quiz: facturile
 ---
 
 ## Carduri
 
-### Cât costă acum un kWh
+### Curentul s-a scumpit după ce statul a scos plafonul
 tip: comparație
 - Plafonul vechi: 0,68 lei/kWh
-- Cea mai ieftină ofertă: 1,11 lei/kWh
-- Cea mai scumpă ofertă: 1,94 lei/kWh
-Ofertele standard pentru casnici din iulie 2026, pe comparatorul ANRE, față de prețul plafonat până la 1 iulie 2025. Prețul diferă de la un județ la altul, după tariful de distribuție.
+- Cea mai ieftină ofertă, iulie 2026: 1,11 lei/kWh
+costă un kWh, unitatea după care se plătește curentul pe factură. Până la 1 iulie 2025, statul a ținut prețul jos. De atunci prețul îl face piața, iar la casele care consumă puțin facturile aproape s-au dublat.
 
-### Casa rece iarna
+### Între oferte, diferența e mare
+tip: comparație
+- Cea mai ieftină: 1,11 lei/kWh
+- Cea mai scumpă: 1,94 lei/kWh
+au cerut furnizorii pentru un kWh în iulie 2026, în ofertele pentru case de pe comparatorul ANRE, autoritatea care reglementează energia. Prețul ține de furnizor și de zonă, pentru că distribuția costă diferit de la un județ la altul. Oricine își poate schimba furnizorul.
+
+### Mai mulți români decât media UE nu își pot încălzi casa
 tip: comparație
 - România: 11,9%
 - Media UE: 8,8%
-dintre oameni spuneau în 2025 că nu își pot încălzi cum trebuie locuința. Printre cei sub pragul sărăciei, 21,4%, față de 19,6% în UE.
+dintre oameni spuneau în 2025 că nu își pot încălzi locuința cât ar trebui. La cei săraci, problema e și mai des întâlnită.
 
-### Voucherul ajunge la puțini
+### Ajutorul de 50 de lei ajunge la unul din trei
 tip: parte
 - 1 din 3
-dintre cei care au dreptul la voucherul de energie de 50 de lei pe lună îl primesc, cu aproximație. Sunt circa 710.000 de beneficiari, din circa 2,1 milioane de gospodării estimate eligibile.
-
-### De unde vine curentul
-tip: comparație
-- Hidro: 26,6%
-- Nuclear: 20,4%
-- Gaze: 17,2%
-- Cărbune: 14,9%
-- Vânt: 11,9%
-din electricitatea produsă în România în 2024. Soarele a dat 6,4%.
+dintre cei care au dreptul la voucherul pentru energie îl primesc, cu aproximație. Guvernul a anunțat că ajutorul va fi scăzut direct din factură.
 
 ### Tot mai mulți își fac singuri curentul
 tip: evoluție
 - Sfârșitul lui 2024: 200.000
 - Iunie 2026: 359.378
-de prosumatori, adică oameni care își produc curentul, de obicei cu panouri solare, și dau în rețea ce le prisosește. Cifra din 2024 e aproximativă; 127.084 dintre ei au și baterii. În 2025 au produs aproape 9% din electricitatea țării.
-
-### Oamenii își schimbă furnizorul
-tip: cifră
-- 650.773
-de ori au schimbat oamenii furnizorul de energie în 2025, după datele ANRE, autoritatea care reglementează piața.
+de oameni își produc curentul, de obicei cu panouri solare pe casă, și dau în rețea ce nu consumă. Programul de stat care ajuta la plata panourilor, Casa Verde Fotovoltaice, a fost scos din buget în 2026.

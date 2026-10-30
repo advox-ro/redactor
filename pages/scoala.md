@@ -11,46 +11,40 @@ image:
   license: CC BY-SA 4.0
   url: https://commons.wikimedia.org/wiki/File:School_building_-_Liceul_Teoretic_Mihail_Kog%C4%83lniceanu,_Vaslui,_Romania.jpg
   illustrative: true
-sources: [2, 5, 7, 11, 14, 15, 16, 17, 18, 19, 23]
+sources: [2, 5, 7, 11, 16, 17, 19, 23]
 quiz: scoala
 ---
 
 ## Carduri
 
-### Mai mulți elevi rămân în urmă
+### Tot mai mulți elevi nu au nici minimul
 tip: evoluție
 - PISA 2022: 33,2%
 - PISA 2025: 38,5%
-dintre elevii de 15 ani nu ating nivelul minim nici la citire, nici la matematică, nici la științe, la testul internațional PISA. Media țărilor OCDE e 19,7%. În UE, doar Bulgaria și Cipru stau mai rău.
+dintre elevii de 15 ani nu ating nivelul minim nici la citire, nici la matematică, nici la științe, la testul internațional PISA. În UE, doar Bulgaria și Cipru stau mai rău.
 
-### La sat, mult mai multe medii sub 5
+### La sat, mai mult de un elev din trei ia sub 5
 tip: comparație
 - Sat: 36,4%
 - Oraș: 11,6%
-dintre elevii de clasa a VIII-a au avut medii sub 5 la Evaluarea Națională 2026, înainte de contestații. La Bacalaureat 2026, tot înainte de contestații, au promovat 52,2% în liceele de la sat și 75,8% în cele de la oraș.
+dintre elevii de clasa a VIII-a au avut medii sub 5 la Evaluarea Națională 2026, înainte de contestații. Și la Bacalaureat, liceele de la sat au rezultate mult mai slabe.
 
-### Câți tineri lasă școala devreme
+### România are cei mai mulți tineri care lasă școala devreme din UE
 tip: comparație
-- Sate: 23,7%
-- Orașe mici și suburbii: 16,3%
-- Orașe mari: 4,6%
-dintre tinerii de 18–24 de ani au cel mult opt clase și nu mai învață, în 2025. Pe toată țara, 15,5%, cel mai mult din UE, unde media e 9,1%. Rata a scăzut însă de la 16,8% în 2024.
+- România: 15,5%
+- Media UE: 9,1%
+dintre tinerii de 18–24 de ani au terminat cel mult opt clase și nu mai învață, în 2025. Sunt ceva mai puțini decât în 2024. La sat sunt mult mai mulți decât în orașele mari.
 
-### Meditațiile, aproape regulă
+### Majoritatea elevilor de gimnaziu fac meditații
 tip: parte
 - 60%
-dintre elevii de gimnaziu fac pregătire în plus, după o estimare a Salvați Copiii. Unele familii au dat între 12.000 și 30.000 de lei pe meditații în clasa a VIII-a. Doar circa 12.500 de oameni au declarat la fisc venituri din meditații pentru 2025.
+dintre elevii de gimnaziu fac pregătire în plus, după o estimare a organizației Salvați Copiii. Pentru familii e o cheltuială mare, mai ales în clasa a VIII-a.
 
-### Ce s-a schimbat pentru profesori
-tip: cronologie
-- Iunie 2023: după o grevă de trei săptămâni, salariile cresc cu 1.300 de lei brut
-- 2025: norma profesorilor de gimnaziu și liceu crește de la 18 la 20 de ore pe săptămână, plata cu ora scade la jumătate
-- 8 septembrie 2025: sindicatele boicotează deschiderea anului școlar
-- Octombrie 2026: profesori din Prahova, Giurgiu și Bihor nu își primesc salariile la timp
-Schimbările din 2025 vin din legea de reducere a cheltuielilor statului. Au venit cu clase mai mari și școli comasate.
-
-### Cât dă statul pentru școală
-tip: comparație
-- România: 2,97%
-- Media UE: 4,66%
-din PIB au fost cheltuielile publice cu educația în 2023, cel mai puțin din UE. Legea educației cere cel puțin 15% din cheltuielile statului; bugetul ministerului pe 2026 e de circa 3,03% din PIB.
+### Profesorii lucrează mai mult, în clase mai mari
+tip: listă
+- Ore de predare: de la 18 la 20 pe săptămână, la gimnaziu și liceu
+- Clase: mai mulți elevi într-o clasă
+- Plata cu ora: redusă la jumătate
+- Școlile mici: comasate cu altele
+- Bursele elevilor: cu 40% mai puțini bani
+Așa a hotărât legea din 2025 prin care statul și-a redus cheltuielile. Sindicatele au protestat, iar în octombrie 2026 profesori din Prahova, Giurgiu și Bihor nu și-au primit salariile la timp.

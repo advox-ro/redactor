@@ -15,53 +15,47 @@ quiz: cernavoda-oprita
 
 ## Carduri
 
-### Oprite de la jumătatea verii
+### Singura centrală nucleară a țării stă oprită din vară
 tip: cronologie
 - 28 iulie: se oprește reactorul 1
-- 13 august: se oprește reactorul 2
-- 29 octombrie: alerta în energie, prelungită cu 30 de zile
-Dunărea a scăzut prea mult ca să mai răcească centrala. Nuclearelectrica, compania de stat care o conduce, spune că oprirea nu e un risc nuclear.
+- 13 august: se oprește și reactorul 2
+- 29 octombrie: starea de alertă în energie e prelungită, centrala rămâne oprită
+Dunărea a scăzut prea mult ca să mai poată răci centrala de la Cernavodă. Nu e un pericol nuclear: oprirea atinge doar producția de curent.
 > „Reactorul 1 a fost oprit controlat la 28 iulie, iar Reactorul 2 a fost oprit la 13 august.” [1]
 > „Comitetul Național pentru Situații de Urgență (CNSU) a prelungit cu 30 de zile, de la 29 octombrie, starea de alertă în energie, pentru că reactoarele de la Cernavodă nu pot fi repornite în noiembrie” [4]
 > „Situația afectează exclusiv producția de energie electrică” [2]
 
-### Dunărea are prea puțină apă
+### Dunărea duce încă prea puțină apă
 tip: comparație
-- Prognoza: 1.550 m³/s
-- Necesar: 4.900 m³/s
-Atâta apă ar trebui să curgă pe Dunăre pe secundă, față de cât arată prognoza pentru săptămâna următoare. La Cernavodă, apa a crescut cu aproximativ 10 cm, dar rămâne sub pragul de repornire.
+- Cât ar trebui: 4.900 m³/s
+- Cât se așteaptă săptămâna viitoare: 1.550 m³/s
+Atâția metri cubi de apă pe secundă ar trebui să curgă pe Dunăre ca centrala să poată reporni, iar prognoza arată mult mai puțin. Apa trebuie să crească și să se țină așa mai multe zile.
 > „Specialiștii au afirmat că va ajunge săptămâna viitoare la 1.550m³/s, dar este insuficient, ținând cont de faptul că ar trebui să fie de 4.900m³/s.” [1]
-> „a fost înregistrată o creștere a nivelului apei măsurat în bazinul de aspirație al pompelor CNE Cernavodă, de aproximativ 10 centimetri, ca urmare a creșterii nivelului Dunării.” [3]
-> „nivelul apei în bazinul de aspirație al centralei rămâne, în continuare, sub pragul considerat necesar pentru repornirea uneia sau a ambelor unități.” [3]
+> „Nivelul necesar repornirii în siguranță a unităților trebuie menținut pe o perioadă de mai multe zile și trebuie să prezinte o tendință de creștere.” [3]
 
-### Când repornește
+### Nu se știe încă sigur când repornește
 tip: voci
 - Ministrul Energiei: un reactor ar putea reporni în jurul datei de 15 noiembrie
-- Nuclearelectrica: încă nu sunt îndeplinite toate condițiile
-- Hotărârea de urgență: nicio repornire în noiembrie
-Hotărârea e a Comitetului Național pentru Situații de Urgență, care se bazează pe prognoza Institutului Național de Hidrologie.
+- Comitetul pentru Situații de Urgență: repornirea e imposibilă în tot noiembrie
+- Nuclearelectrica, care conduce centrala: repornește imediat ce apa ajunge la nivelul necesar
+Comitetul se bazează pe prognoza Institutului Național de Hidrologie, care arată că apa crește încet și nu destul.
 > „pe baza prognozelor actuale, unul dintre reactoarele nucleare ale Centralei de la Cernavodă va putea fi repornit în jurul datei de 15 noiembrie.” [1]
-> „La momentul actual, deși există premise, prognozele curente nu indică îndeplinirea tuturor criteriilor care să permită luarea deciziei de repornire a cel puțin uneia dintre unități” [3]
 > „Prognoza Institutului Național de Hidrologie indică o redresare lentă și insuficientă pentru prima jumătate a lunii noiembrie. Din acest motiv, repunerea în funcțiune a unităților 1 și 2 ale centralei rămâne imposibilă pe tot parcursul lunii noiembrie 2026.” [5]
+> „SNN este pregătită să repornească CNE Cernavodă imediat ce prognozele devin favorabile și condițiile necesare sunt îndeplinite, pentru a susține Sistemul Energetic Național.” [1]
 
-### Golul din rețea
-tip: cifră
-- 1.300 MW
-lipsesc din producția țării cât timp ambele reactoare sunt oprite. Restul centralelor sau importurile trebuie să-i țină locul.
-> „Oprirea simultană a acestora înseamnă că Sistemul Energetic Național trebuie să compenseze absența unei capacități de producție de aproximativ 1.300 MW.” [2]
+### Lipsește o cincime din curentul țării
+tip: parte
+- 20%
+din curentul produs în România vine, de obicei, de la Cernavodă. Acum trebuie produs de alte centrale sau adus din țările vecine. Dacă nu ajunge, Transelectrica, firma care conduce rețeaua, poate cere reducerea consumului.
+> „În mod normal, cele două reactoare de la Cernavodă asigură 20% din producția de energie, cantitate pe care România este acum nevoită să o importe de la vecinii săi.” [4]
 > „Oprirea simultană a ambelor unități elimină temporar această contribuție și obligă sistemul energetic să acopere necesarul prin alte centrale, prin importuri sau printr-o combinație a acestora.” [2]
+> „Transelectrica va solicita creșterea producției interne din toate sursele, va asigura importurile necesare din țările vecine și, la nevoie, va ordona reducerea consumului.” [5]
 
-### Curent scump pe bursă
-tip: evoluție
-- Prima zi: 323 €/MWh
-- A doua zi: 258 €/MWh
-Prețul mediu al curentului cumpărat pe bursă pentru ziua următoare, în două zile la rând. A scăzut, dar a rămas foarte mare: România era printre cele mai scumpe piețe din Europa.
-> „Ieri, România era printre cele mai scumpe piețe spot europene, cu o medie de 323 euro/MWh, iar azi nivelul continuă să se mențină la un nivel extrem de ridicat, de 258 euro/MWh.” [4]
-
-### Consumul poate fi redus
+### Pe bursă, curentul e printre cele mai scumpe din Europa
 tip: text
-Transelectrica, compania care administrează rețeaua de curent, trebuie să evite o pană mare. Poate cere mai multă producție din țară, poate aduce curent din țările vecine și, la nevoie, poate dispune reducerea consumului.
-> „Operatorul are obligația să dispună toate măsurile necesare pentru evitarea unei pene majore de curent. Transelectrica va solicita creșterea producției interne din toate sursele, va asigura importurile necesare din țările vecine și, la nevoie, va ordona reducerea consumului.” [5]
+Cât se va simți în facturi depinde de cât durează oprirea, de consum, de celelalte centrale și de prețurile din țările din jur. Nuclearelectrica nu a dat o estimare.
+> „Ieri, România era printre cele mai scumpe piețe spot europene, cu o medie de 323 euro/MWh, iar azi nivelul continuă să se mențină la un nivel extrem de ridicat, de 258 euro/MWh.” [4]
+> „Impactul asupra prețurilor electricității depinde însă de durata opririi, de consum, de disponibilitatea celorlalte capacități de producție și de condițiile de pe piața regională. Comunicatul Nuclearelectrica nu conține o estimare privind eventualele efecte asupra prețurilor.” [2]
 
 ## Surse
 

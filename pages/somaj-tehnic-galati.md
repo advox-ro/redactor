@@ -17,43 +17,40 @@ quiz: somaj-tehnic-galati
 
 ## Carduri
 
-### Fără salariu din mai
-tip: cronologie
-- Mai: salariile nu se mai plătesc
-- 8 octombrie: directorii avertizează public, într-o scrisoare deschisă
-- 30 octombrie: protest în fața Prefecturii Galați
-- 1 noiembrie: începe șomajul tehnic
-Șomajul tehnic înseamnă că activitatea se oprește o vreme, iar oamenii stau acasă. Măsura e pentru toată luna noiembrie și îi cuprinde și pe cei de la Liberty Tubular Products.
-> „Măsura vine în contextul în care salariații nu și-au mai primit salariile din luna mai și pregătesc un nou protest.” [1]
-> „Avertismentul apare într-o scrisoare deschisă datată 8 octombrie 2026 și semnată de 27 de directori și șefi de departament ai combinatului, în frunte cu directorul general Aida Nechifor.” [4]
-> „În paralel, angajații pregătesc un nou protest pentru vineri, 30 octombrie, pe platoul din fața Prefecturii Galați.” [2]
-> „Vă informăm că, pe fondul dificultăților severe prin care trecem, inclusiv cele legate de furnizarea de energie și de transportul salariaților, s-a luat decizia ca regimul de lucru de la 1 noiembrie 2026 să fie cel de «întrerupere temporară a activității», cunoscut sub denumirea de «șomaj tehnic». Măsura se aplică și pentru salariații de la Liberty Tubular Products S.A.” [1]
-
-### Cine mai vine la lucru
+### În noiembrie, combinatul se oprește
 tip: text
-Rămân la lucru oamenii de la pază, de la întreținere și de la alte activități fără de care instalațiile s-ar strica. Câți vor fi nu s-a stabilit încă: fiecare departament își face lista.
+De la 1 noiembrie, cei mai mulți dintre cei 2.200 de angajați ai combinatului din Galați intră în șomaj tehnic: activitatea se oprește, iar oamenii stau acasă. Măsura e pentru toată luna și îi cuprinde și pe cei de la Liberty Tubular Products.
+> „Majoritatea celor 2.200 de angajați ai combinatului siderurgic Liberty Galați vor intra în șomaj tehnic de la 1 noiembrie, din cauza dificultăților cu care se confruntă compania, arată o notificare internă consultată de News.ro.” [1]
+> „Vă informăm că, pe fondul dificultăților severe prin care trecem, inclusiv cele legate de furnizarea de energie și de transportul salariaților, s-a luat decizia ca regimul de lucru de la 1 noiembrie 2026 să fie cel de «întrerupere temporară a activității», cunoscut sub denumirea de «șomaj tehnic». Măsura se aplică și pentru salariații de la Liberty Tubular Products S.A.” [1]
+> „Angajații au fost informați joi dimineață că activitatea va fi întreruptă temporar pe parcursul lunii noiembrie, în urma unei decizii a conducerii companiei.” [1]
+
+### Unii rămân la lucru
+tip: listă
+- La pază
+- La întreținerea instalațiilor
+- La alte lucrări fără de care utilajele s-ar strica
+Câți vor fi nu s-a hotărât încă. Fiecare departament își face lista, iar angajații completează până pe 30 octombrie un tabel cu programul de lucru.
 > „O parte dintre ei vor continua să lucreze pentru a asigura paza combinatului, întreținerea instalațiilor și alte activități necesare conservării unităților de producție.” [1]
+> „Aceștia trebuie să completeze până pe 30 octombrie un tabel privind programul de lucru, iar organizarea personalului care va continua să se prezinte la serviciu urmează să fie stabilită la nivelul fiecărui departament.” [1]
 > „Deocamdată, nu a fost stabilit numărul exact al angajaților care vor continua să lucreze în perioada următoare. La nivelul fiecărui departament se desfășoară operațiuni de organizare pentru identificarea personalului necesar desfășurării activităților indispensabile.” [3]
 
-### Ce se spera la început de octombrie
+### Salariile nu s-au mai plătit din mai
 tip: text
-Atunci se vorbea de repornirea laminoarelor după 15 octombrie, de contracte pentru circa 23.000 de tone de produse și de circa 1.000 de angajați care s-ar fi putut întoarce la lucru.
-> „La începutul lunii octombrie, existau speranțe că o parte dintre activitățile combinatului Liberty Galați ar putea fi reluate după data de 15 octombrie.” [3]
-> „În acel moment, erau menționate contracte pentru aproximativ 23.000 de tone de produse, iar circa 1.000 de angajați din totalul de aproximativ 2.000 ar fi putut reveni la lucru în cazul repornirii instalațiilor.” [3]
-
-### De ce nu se plătesc salariile
-tip: voci
-- Conducerea: nu poate plăti nici oamenii, nici curentul, cât timp vânzarea stocurilor vechi e blocată
-- Angajații: vor să știe ce se întâmplă cu combinatul și cu locurile lor de muncă
-Combinatul din Galați e cel mai mare din România.
+Conducerea spune că nu are din ce: vânzarea unor stocuri vechi de materii prime e blocată, iar fără bani nu poate plăti nici oamenii, nici curentul de care ar avea nevoie ca să pornească iar producția.
+> „Măsura vine în contextul în care salariații nu și-au mai primit salariile din luna mai și pregătesc un nou protest.” [1]
 > „Conducerea spune că nu poate face plăți salariale și către furnizori, în condițiile în care vânzarea unor stocuri vechi de materii prime este blocată, și nu poate plăti resursele energetice, astfel că reluarea producției rămâne imposibilă, în ciuda eforturilor tehnice și comerciale făcute până acum.” [4]
-> „Membrii conducerii executive a combinatului siderurgic Liberty Galați, cel mai mare din România, avertizează că situația financiară a companiei a devenit "disperată"” [4]
-> „Oamenii vor să știe ce se întâmplă cu combinatul și ce soartă vor avea salariații, neplătiți din luna mai.” [2]
 
-### Dacă se oprește curentul
+### Pe 30 octombrie, protest în fața Prefecturii
+tip: text
+Angajații se adună pe 30 octombrie în fața Prefecturii Galați. Vor să afle dacă combinatul va mai merge și ce se întâmplă cu locurile lor de muncă.
+> „În paralel, angajații pregătesc un nou protest pentru vineri, 30 octombrie, pe platoul din fața Prefecturii Galați.” [2]
+> „Oamenii vor să știe ce se întâmplă cu combinatul și ce soartă vor avea salariații, neplătiți din luna mai.” [2]
+> „Protestatarii vor să afle dacă unitatea siderurgică va putea reveni la funcționarea normală și ce se va întâmpla cu locurile lor de muncă.” [3]
+
+### Fără curent, combinatul s-ar putea strica
 tip: cifră
 - 50 de zile
-ar putea dura repornirea, spun directorii. Fără curent, toate sistemele combinatului s-ar opri în câteva ore, iar unele utilaje s-ar putea strica de tot.
+ar putea dura repornirea dacă platforma rămâne fără curent, spun directorii combinatului. Toate sistemele s-ar opri în câteva ore, iar unele utilaje s-ar putea pierde de tot.
 > „Re-energizarea platformei siderurgice ar fi un proces extrem de complex, care nu a mai fost realizat niciodată și care ar putea dura până la 50 de zile, estimează managerii, care nu exclud nici dezechilibre în sistemul energetic național.” [4]
 > „o eventuală deconectare a platformei de la energia electrică ar duce, în doar câteva ore, la colapsul tuturor sistemelor combinatului” [4]
 > „Totodată, unele echipamente ar putea fi pierdute ireversibil.” [4]

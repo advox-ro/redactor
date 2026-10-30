@@ -16,39 +16,42 @@ quiz: copii-retele-sociale
 
 ## Carduri
 
-### Cum s-a ajuns la pauză
+### UE pune pe pauză un an legile noi ale țărilor
 tip: cronologie
 - Iulie: Austria trimite la Bruxelles legea ei
-- Septembrie: Comisia propune o lege pentru toată UE
+- Septembrie: Comisia Europeană propune o lege pentru toată UE
 - 29 octombrie: legile naționale noi, puse pe pauză
-Austria voia să interzică rețelele sociale copiilor sub 14 ani. Comisia Europeană, executivul Uniunii Europene, i-a cerut să aștepte un an.
+Austria voia să interzică rețelele sociale copiilor sub 14 ani. Comisia Europeană, guvernul Uniunii, i-a cerut să aștepte un an, ca să nu fie reguli diferite de la o țară la alta.
 > „Austria solicitase Comisiei încă din iulie să verifice dacă propria sa propunere de lege, care ar interzice accesul copiilor sub 14 ani, este în conformitate cu legislația UE.” [1]
 > „În septembrie, UE a propus „Kids Act", care ar stabili același standard în întreaga Uniune, impunând limite diferite de acces pentru cei cu vârsta sub 13 ani și pentru cei sub 15 ani.” [1]
 > „Uniunea Europeană a anunțat joi, 29 octombrie, că nu dorește adoptarea unor noi interdicții la nivel național privind accesul copiilor la rețelele sociale până la aprobarea unei legislații comune la nivel european.” [2]
 
-### Ce ar putea face copiii, după vârstă
-tip: cronologie
-- Sub 13 ani: doar conturi făcute și ținute de părinți
-- 13–15 ani: conturi de început, cu limite
-- De la 15 ani: conturi proprii
-Așa propune Comisia. Conturile de început ar limita contactul cu necunoscuți și timpul pe ecran, iar părinții ar avea cum să le controleze.
+### Regula UE ar depinde de vârsta copilului
+tip: listă
+- Sub 13 ani: doar cont făcut și ținut de părinți
+- 13–15 ani: cont de început, cu limite
+- De la 15 ani: cont propriu
+Contul de început limitează discuțiile cu necunoscuți și timpul pe ecran, iar părinții îl pot controla.
 > „Pentru copiii cu vârsta sub 13 ani, accesul ar urma să fie posibil prin conturi create de părinți și aflate sub controlul acestora.” [3]
 > „În cazul copiilor cu vârste între 13 și 15 ani, sunt propuse conturi de tip introductiv. Acestea ar include limitări privind contactul cu persoane necunoscute și timpul petrecut în fața ecranelor, precum și instrumente prin care părinții să poată controla utilizarea platformelor.” [3]
 > „După împlinirea vârstei de 15 ani, adolescenții ar putea să își creeze și să își gestioneze propriile conturi.” [3]
 
-### Bruxelles și Viena, în dezacord
+### Austria nu e de acord cu pauza
 tip: voci
-- Comisia Europeană: o problemă europeană cere un răspuns european unitar
+- Comisia Europeană: legi diferite de la țară la țară ar fi imposibil de aplicat
 - Guvernul Austriei: e inacceptabil să blochezi legile naționale fără o soluție europeană completă
-Comisia spune că legi diferite de la țară la țară, cu vârste diferite, ar fi imposibil de aplicat. Austria spune că își pregătește legea ca s-o aplice imediat după pauză.
+Austria spune că își pregătește legea ca s-o aplice imediat după pauză.
 > „O problemă europeană necesită un răspuns european unitar", a spus Regnier.” [1]
 > „Este inacceptabil ca Bruxelles-ul să împiedice statele membre să adopte legi naționale fără a prezenta o soluție europeană completă proprie", a declarat secretarul de stat austriac Alexander Pröll pentru POLITICO, scrie News.ro.” [1]
 > „ajungeți să aveți grupe de vârstă diferite, legi diferite în diferite state membre", iar reglementările devin "imposibil de aplicat", a explicat purtătorul de cuvânt Thomas Regnier” [3]
 > „interdicția privind rețelele sociale poate fi pusă în aplicare imediat după expirarea perioadei de suspendare a UE” [1]
 
-### Alte țări au mers înainte
-tip: text
-Grecia a adoptat deja o lege pentru copiii sub 15 ani și probabil o poate păstra. În Franța, legea pentru cei sub 15 ani a fost anulată de Consiliul Constituțional, iar președintele Macron a promis una nouă până în primăvara lui 2027. Pentru Italia și Slovacia nu s-a decis încă.
+### Alte țări au legi sau le pregătesc
+tip: listă
+- Grecia: are deja lege pentru copiii sub 15 ani și probabil o poate păstra
+- Franța: legea pentru cei sub 15 ani a fost anulată de Curtea Constituțională, iar președintele promite una nouă
+- Italia și Slovacia: UE nu a decis încă
+Grecia își adoptase legea înainte ca UE să-și facă propunerea.
 > „Grecia a adoptat deja propria lege pentru copiii sub 15 ani și va putea probabil să o mențină, pur și simplu pentru că a parcurs procesul de adoptare înainte de propunerea UE.” [1]
 > „În Franța, legea care interzice rețelele de socializare pentru cei sub 15 ani, aprobată în această vară de Parlament, a fost anulată de cea mai înaltă instanță, Consiliul Constituțional, în numele libertății de exprimare.” [3]
 > „Președintele Emmanuel Macron a promis o nouă lege "robustă din punct de vedere juridic" până în primăvara anului 2027.” [3]
@@ -56,7 +59,7 @@ Grecia a adoptat deja o lege pentru copiii sub 15 ani și probabil o poate păst
 
 ### Legea europeană nu e încă votată
 tip: text
-Trebuie aprobată de Parlamentul European și de toate cele 27 de state, în aceeași formă. Comisia speră la un acord în lunile următoare.
+Trebuie aprobată de Parlamentul European și de toate statele UE, în aceeași formă. Comisia speră la un acord în lunile următoare.
 > „trebuie încă aprobat, în aceiași termeni, de Parlamentul European și de cele 27 de state membre.” [3]
 > „Comisia Europeană speră că statele membre și Parlamentul European vor ajunge la un acord asupra noilor reguli în următoarele luni.” [2]
 

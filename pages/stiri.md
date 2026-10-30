@@ -5,41 +5,34 @@ tags: [media, încredere]
 order: 7
 wiki: securitate-media
 stat: { value: "15%", label: "plătesc pentru știri online, după Digital News Report 2026" }
-sources: [10, 11, 12, 13, 14, 28, 29, 34, 37]
+sources: [10, 11, 12, 13, 14, 34]
 quiz: stiri
 ---
 
 ## Carduri
 
-### Încrederea în știri, la cel mai jos nivel
-tip: comparație
-- România: 23%
-- Media globală: 37%
-dintre români spun că au în general încredere în știri, după Digital News Report 2026, un studiu al Institutului Reuters. E cel mai puțin de la prima măsurătoare, în 2015. România e pe locul 43 din 48 de țări.
+### Mai puțin de un român din patru are încredere în știri
+tip: parte
+- 23%
+dintre români spun că au, în general, încredere în știri, cel mai puțin de când se măsoară, din 2015. Așa arată Digital News Report 2026, un studiu al Institutului Reuters. În cele mai multe țări din studiu, încrederea e mai mare.
 
-### Televiziunea, încă prima sursă
-tip: cifră
+### Televizorul rămâne prima sursă de știri
+tip: parte
 - 58%
-dintre români spun că televiziunea e principala lor sursă de știri. Totuși, rețelele sociale și platformele video au ajuns principala cale prin care dau de știri, înaintea televiziunii și a site-urilor. Aproape jumătate, 47%, evită uneori sau des știrile.
+dintre români spun că televizorul e principala lor sursă de știri. Totuși, rețelele sociale și platformele video au ajuns calea pe care oamenii dau cel mai des de știri.
 
-### Adolescenții și TikTok
+### Mulți adolescenți nu verifică ce văd pe TikTok
 tip: parte
 - 41,6%
-dintre adolescenții de 14–19 ani care au TikTok nu verifică informațiile pe care le văd acolo, arată un studiu World Vision din 2025. 84,2% intră zilnic, în medie 2,5 ore pe zi.
+dintre adolescenții de 14–19 ani care au TikTok nu verifică informațiile pe care le văd acolo, arată un studiu World Vision din 2025. Cei mai mulți intră pe TikTok în fiecare zi.
 
-### Presa, puțin mai liberă
+### Presa e ceva mai liberă decât anul trecut
 tip: clasament
 - Libertatea presei: 49 din 180
 - 2025: 55
-Așa arată clasamentul Reporteri fără Frontiere (RSF) din 2026. Chiar după urcare, presa din România are statutul „problematic”. Republica Moldova e pe locul 31.
+E locul României în clasamentul Reporteri fără Frontiere din 2026, care arată cât de liber pot lucra jurnaliștii. Chiar după urcare, presa din România are statutul „problematic”.
 
-### Bani publici pentru presă, prin partide
+### Partidele dau aproape jumătate din banii de la stat pe presă
 tip: parte
 - 48%
-din subvențiile de la stat cheltuite de partide în 2025 au mers pe „presă și propagandă”, circa 117 milioane de lei. Expert Forum propune ca aceste cheltuieli să fie limitate la 30% din subvenții.
-
-### Încrederea în ceilalți oameni
-tip: comparație
-- România: 7,3
-- Media UE: 5,8
-din 10 a fost încrederea în ceilalți oameni în 2024, după Eurostat, cel mai mult din UE. Sondaje mai vechi, făcute altfel, arătau o încredere mult mai mică, așa că cifrele nu se pot compara direct.
+din banii primiți de la stat și cheltuiți de partide în 2025 au mers pe „presă și propagandă”. Organizația Expert Forum cere ca această parte să fie limitată, iar partidele spun că au nevoie să comunice cu oamenii.

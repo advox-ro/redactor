@@ -112,7 +112,8 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
         err(f, `${at}: a share is one item, - <n>% or - <a> din <b> (b up to 10)`);
     }
     if (c.kind === 'clasament' && !/^\d+ din \d+$/.test(rows[0]?.value ?? '')) err(f, `${at}: a ranking starts with - <label>: <place> din <how many>`);
-    if ((c.kind === 'cronologie' || c.kind === 'voci') && (rows.length < 2 || !labelled)) err(f, `${at}: needs two or more items, - <label>: <text>`);
+    if (c.kind === 'listă' && rows.length < 2) err(f, `${at}: a list needs two or more items, - <text> or - <label>: <text>`);
+    if (['cronologie', 'voci'].includes(c.kind) && (rows.length < 2 || !labelled)) err(f, `${at}: needs two or more items, - <label>: <text>`);
     if (c.kind === 'text' && rows.length) err(f, `${at}: a text card has no items`);
   }
 

@@ -15,44 +15,38 @@ quiz: frig-noiembrie
 
 ## Carduri
 
-### Noiembrie, săptămână cu săptămână
+### Frigul ține o săptămână, apoi vremea revine la normal
 tip: cronologie
-- Prima săptămână: mai rece decât de obicei, în toată țara
-- A doua săptămână: temperaturi aproape normale
-- A treia săptămână: tot aproape normale
-- A patra săptămână: ca de obicei în acea perioadă
-Așa arată estimarea Administrației Naționale de Meteorologie (ANM) pentru 2–30 noiembrie.
+- Prima săptămână din noiembrie: mai rece decât de obicei, în toată țara
+- Restul lunii: temperaturi aproape normale
+Așa estimează Administrația Națională de Meteorologie (ANM) pentru 2–30 noiembrie.
 > „Temperaturile vor fi mai scăzute decât cele obișnuite pentru această perioadă în prima săptămână din noiembrie, în toate regiunile țării, în timp ce precipitațiile vor fi excedentare în sud și est, dar și în unele zone din vest și centru, potrivit estimărilor meteorologice pentru intervalul 2-30 noiembrie, publicate vineri de Administrația Națională de Meteorologie (ANM).” [2]
 > „În următoarele trei săptămâni, temperaturile vor fi apropiate de cele normale pentru această perioadă.” [2]
-> „Mediile valorilor termice vor fi apropiate de cele specifice acestei săptămâni, pe întreg teritoriul României.” [1]
 
-### Mai multă ploaie în sud și est
+### În sud și est va ploua mai mult
 tip: text
-În prima săptămână plouă mai mult decât de obicei în sud și în est, și pe alocuri în vest și în centru. Doar în colțul de nord-vest al țării va ploua mai puțin. În a doua săptămână, ploile mai bogate se mută în vest și nord-vest.
+În prima săptămână din noiembrie plouă mai mult decât de obicei în sud și în est, și pe alocuri în vest și în centru. Doar în nord-vest va ploua mai puțin.
 > „Regimul pluviometric va fi excedentar în regiunile sudice și estice și local în cele vestice și centrale. În schimb, în extremitatea de nord-vest a țării, cantitățile de precipitații vor fi deficitare.” [1]
-> „Cantitățile de precipitații vor fi excedentare în regiunile vestice și nord-vestice, iar în restul țării se vor situa în jurul celor normale.” [1]
 
-### Weekend cu cod galben de ploi
+### Weekend cu cod galben de ploi în cinci județe
 tip: cronologie
-- Vineri, ora 12: ploi și vânt în mare parte din țară, ninsori la munte
-- Sâmbătă, ora 5: începe codul galben de ploi în cinci județe
-- Duminică, ora 10: se încheie avertizările
-Codul galben e în zona de deal și de munte din Gorj, Vâlcea, Argeș, Dâmbovița și Prahova, unde se pot strânge 25–40 de litri de apă pe metru pătrat.
-> „ANM au emis o informare meteorologică valabilă începând de vineri, 30 octombrie, ora 12, până duminică, 1 noiembrie, ora 10, pentru ploi moderate cantitativ, intensificări ale vântului și ninsori și strat de zăpadă la altitudini în general de peste 1500 m.” [3]
+- Sâmbătă, ora 5: începe codul galben
+- Duminică, ora 10: se încheie
+Plouă mult în zona de deal și de munte din Gorj, Vâlcea, Argeș, Dâmbovița și Prahova.
 > „Potrivit meteorologilor, în intervalul 31 octombrie, ora 5:00 - 1 noiembrie, ora 10:00, în zona deluroasă și montană a județelor Gorj, Vâlcea, Argeș, Dâmbovița și Prahova va ploua și se vor acumula cantități de apă de 25 - 40 l/mp și izolat de peste 45 - 50 l/mp.” [2]
 
-### Zăpadă în Carpații Meridionali
+### La munte ninge din plin
 tip: cifră
 - 15–25 cm
-de zăpadă se pot depune până duminică dimineață, mai ales peste 1.500 de metri altitudine.
+de zăpadă se pot depune până duminică dimineață în Carpații Meridionali, mai ales peste 1.500 de metri.
 > „În același timp, în Carpații Meridionali, la altitudini în general de peste 1.500 de metri, vor predomina ninsorile și se va depune strat de zăpadă de 15 – 25 cm.” [3]
 > „Administrația Națională de Meteorologie (ANM) a emis, vineri, o atenționare Cod galben de ploi în cinci județe, dar și de ninsori în Carpații Meridionali, valabilă până duminică dimineața.” [2]
 
-### Ce arată estimarea și ce nu
-tip: text
-Estimarea pe patru săptămâni vine de la Centrul European pentru Prognoze pe Medie Durată (ECMWF). Arată, săptămână cu săptămână, cât de departe vor fi temperaturile și ploile de media anilor 2006–2025. Fenomenele extreme care țin puțin nu intră în ea.
-> „Estimările meteorologice pentru patru săptămâni sunt realizate de către ECMWF - Centrul European pentru Prognoze pe Medie Durată. Este estimată media săptămânală a abaterilor temperaturii aerului și a cantităților de precipitații față de media perioadei 2006-2025.” [1]
-> „Fenomenele extreme cu o durată scurtă de manifestare nu sunt incluse.” [1]
+### În București, sâmbătă e mai frig decât de obicei
+tip: cifră
+- 11–12 grade
+va fi cel mult sâmbătă în Capitală, cu cer închis și ploaie din când în când.
+> „Și sâmbătă, vremea se va menține închisă și temporar va ploua (cantități de apă în general de 10…15 l/mp). Vântul va sufla slab și moderat. Temperatura maximă, mai mică decât în mod obișnuit la această dată, va fi de 11…12 grade, iar cea minimă de 8…10 grade.” [3]
 
 ## Surse
 

@@ -21,7 +21,7 @@ export type PageFile = {
 
 const SECTIONS = ['Carduri', 'Surse'];
 /** The kinds of card the site draws (pages/README.md). */
-export const KINDS = ['cifră', 'comparație', 'parte', 'clasament', 'evoluție', 'cronologie', 'voci', 'text'];
+export const KINDS = ['cifră', 'comparație', 'parte', 'clasament', 'evoluție', 'cronologie', 'voci', 'listă', 'text'];
 const QUOTE = /^\s*> „(.*)” \[(\d+)\]\s*$/;
 
 function parseCards(md: string): Card[] {
