@@ -14,14 +14,16 @@ image:
 quiz: somaj-septembrie
 ---
 
-- Potrivit INS, rata șomajului, ajustată sezonier, a fost de 6,3% în septembrie 2026, față de 6,4% în august. Numărul șomerilor între 15 și 74 de ani a fost estimat la 517.100, cu 6.300 mai puțini decât în august.
+- **6,3%** a fost rata șomajului în septembrie 2026, după INS, față de 6,4% în august. Cifra e ajustată sezonier.
   > „Potrivit datelor furnizate de INS, rata șomajului ajustată sezonier a fost de 6,3% în septembrie 2026, comparativ cu 6,4% în august.” [1]
   > „Numărul șomerilor cu vârste între 15 și 74 de ani a fost estimat la 517.100 de persoane, cu 6.300 mai puține decât în luna precedentă.” [2]
-- Față de septembrie 2025, când erau estimați 490.900 de șomeri și rata șomajului era de 6%, numărul lor a crescut cu 26.200.
+- **+26.200** de șomeri într-un an: 517.100 în septembrie, față de 490.900 în septembrie 2025. Față de august, sunt cu 6.300 mai puțini.
+  > „Potrivit datelor furnizate de INS, rata șomajului ajustată sezonier a fost de 6,3% în septembrie 2026, comparativ cu 6,4% în august.” [1]
+  > „Numărul șomerilor cu vârste între 15 și 74 de ani a fost estimat la 517.100 de persoane, cu 6.300 mai puține decât în luna precedentă.” [2]
   > „în creștere față de aceeași perioadă a anului precedent (490.900 șomeri în luna septembrie 2025).” [3]
   > „Se înregistrează, astfel, o diferență de 26.200 în interval de un an.” [3]
   > „Și rata șomajului este mai ridicată decât în urmă cu un an, când indicatorul se situa la 6%, ceea ce reprezintă o creștere anuală de 0,3 puncte procentuale.” [1]
-- Rata șomajului a fost de 6,5% la femei și de 6,2% la bărbați, față de 5,8% și 6,1% în septembrie 2025. La adulții între 25 și 74 de ani a fost de 5,1% în septembrie, iar la tinerii între 15 și 24 de ani, ultima cifră a INS este 30,8%, pentru aprilie–iunie 2026.
+- **30,8%** e ultima rată a șomajului la tinerii între 15 și 24 de ani, pentru aprilie–iunie 2026. La adulții între 25 și 74 de ani a fost de 5,1% în septembrie. La femei, 6,5%, iar la bărbați, 6,2%.
   > „valorile fiind 6,5% în cazul persoanelor de sex feminin și 6,2% în cazul persoanelor de sex masculin” [3]
   > „În raport cu septembrie 2025, când rata șomajului era de 5,8% pentru femei și de 6,1% pentru bărbați, datele indică o creștere mai pronunțată a șomajului în rândul populației feminine.” [1]
   > „Pentru persoanele adulte (25-74 ani), rata șomajului a fost estimată la 5,1% pentru luna septembrie 2026” [3]

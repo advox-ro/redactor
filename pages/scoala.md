@@ -15,6 +15,6 @@ sources: [2, 3, 5, 14, 15]
 quiz: scoala
 ---
 
-- La PISA 2025, 38,5% dintre elevii români de 15 ani sunt sub nivelul 2 la citire, matematică și științe. În 2022 erau 33,2%, iar media OCDE este 19,7%.
-- 15,5% dintre tinerii de 18–24 de ani au părăsit devreme școala în 2025, cea mai mare rată din UE. La sate rata este 23,7%.
-- Statul a cheltuit pentru educație 2,97% din PIB în 2023, cea mai mică pondere din UE (media: 4,66%).
+- **38,5%** dintre elevii de 15 ani sunt sub nivelul 2 la citire, matematică și științe, la PISA 2025. În 2022 erau 33,2%, iar media OCDE e 19,7%.
+- **15,5%** dintre tinerii de 18–24 de ani au lăsat școala devreme în 2025, cea mai mare rată din UE. La sate, 23,7%.
+- **2,97%** din PIB a cheltuit statul pe educație în 2023, cea mai mică pondere din UE. Media UE: 4,66%.

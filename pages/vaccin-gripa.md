@@ -14,9 +14,9 @@ image:
 quiz: vaccin-gripa
 ---
 
-- Ministerul Sănătății spune că 370.000 de doze sunt în depozite și pot fi comandate de farmacii. O nouă livrare, de circa 500.000 de doze, e așteptată la jumătatea lui noiembrie.
-- Până pe 18 octombrie se vaccinaseră 400.259 de persoane, aproape toate în grupele care primesc vaccinul compensat.
-- Ministerul recomandă vaccinarea mai ales celor peste 65 de ani, copiilor, bolnavilor cronici, femeilor însărcinate și personalului medical.
+- **370.000** de doze sunt în depozite și pot fi comandate de farmacii, spune Ministerul Sănătății. O nouă livrare, de circa 500.000 de doze, e așteptată la jumătatea lui noiembrie.
+- Până pe 18 octombrie se vaccinaseră 400.259 de persoane, **aproape toate** în grupele care primesc vaccinul compensat.
+- Vaccinarea e recomandată mai ales **celor peste 65 de ani**, copiilor, bolnavilor cronici, femeilor însărcinate și personalului medical.
 
 ## Surse
 

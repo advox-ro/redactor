@@ -34,6 +34,7 @@ quiz: la-doctor                     # optional: its questions, quizzes/la-doctor
 ---
 
 - Two or three facts, one per item, a sentence or two each.
+- **5,3527 lei** was the euro's highest price, on 6 October.
 ````
 
 
@@ -72,3 +73,4 @@ stat: { value: "20%", label: "din curentul țării vine de la Cernavodă", quote
 - **Photos with a free licence only,** from Wikimedia Commons or similar, with author and licence shown on the page. Press photos are not used. A photo that shows the subject and not the event is marked `illustrative`.
 - **Local pages name their counties.** A story about some counties only (a weather warning, a closed road, a county hospital) lists them in `counties`, and only people from there see it. A page for people abroad only is `counties: [DSP]` and needs at least 3 questions they can answer. A story that matters to the whole country stays without `counties`, even if it happened in one place.
 - The body follows the wiki's style: plain sentences, no slogans, no questions to the reader.
+- **Each fact is a card** on the site, read on a phone at a glance. Write it for that, the way that suits it: a figure in bold at its start becomes the card's large figure, and a few words in bold are highlighted. A fact that reads best as a plain sentence stays one.

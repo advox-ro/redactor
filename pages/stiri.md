@@ -9,6 +9,6 @@ sources: [10, 11, 12, 13, 14]
 quiz: stiri
 ---
 
-- 23% dintre români spun că au în general încredere în știri (Digital News Report 2026), locul 43 din 48 de țări. Televiziunea rămâne principala sursă pentru 58%.
-- În indexul RSF 2026, România a urcat pe locul 49 din 180, de pe 55.
-- Partidele au cheltuit în 2025 circa 117 milioane de lei din subvenții publice pe „presă și propagandă”, 48% din subvențiile cheltuite.
+- **23%** dintre români spun că au în general încredere în știri (Digital News Report 2026), locul 43 din 48 de țări. Pentru 58%, televiziunea rămâne principala sursă.
+- **Locul 49** din 180 ocupă România în indexul RSF 2026 al libertății presei, după ce a urcat de pe 55.
+- **117 milioane de lei** din subvenții publice au cheltuit partidele în 2025 pe „presă și propagandă”, circa: 48% din subvențiile cheltuite.

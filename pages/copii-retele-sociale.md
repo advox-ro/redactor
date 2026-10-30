@@ -14,16 +14,16 @@ image:
 quiz: copii-retele-sociale
 ---
 
-- Comisia Europeană cere statelor să amâne cu 12 luni legile noi despre copiii pe rețelele sociale, până vin reguli comune pentru toată UE. Austria, care voia o interdicție sub 14 ani, protestează: își va aplica legea după cele 12 luni.
+- Comisia Europeană cere statelor să amâne cu **12 luni** legile noi despre copiii pe rețelele sociale, până vin reguli comune pentru toată UE. Austria, care voia o interdicție sub 14 ani, protestează: își va aplica legea după cele 12 luni.
   > „Comisia a decis să amâne cu 12 luni orice proiect de lege național care se suprapune cu viitoarele norme armonizate” [1]
   > „Austria intenționa să interzică accesul copiilor sub 14 ani la rețelele sociale, însă propunerea nu a primit aprobarea Bruxelles-ului.” [2]
   > „Este inacceptabil ca Bruxelles-ul să împiedice statele membre să adopte legi naționale fără a prezenta o soluție europeană completă proprie” [1]
   > „interdicția privind rețelele sociale poate fi pusă în aplicare imediat după expirarea perioadei de suspendare a UE” [1]
-- Comisia propune ca sub 13 ani copiii să nu aibă conturi proprii, iar între 13 și 15 ani să aibă acces limitat. De la 15 ani, și-ar putea face singuri conturi.
+- **Sub 13 ani**, fără conturi proprii, propune Comisia. Între 13 și 15 ani, acces limitat. De la 15 ani, copiii și-ar putea face singuri conturi.
   > „Luna trecută, Comisia Europeană a propus interzicerea accesului la rețelele sociale pentru copiii sub 13 ani și permiterea unui acces limitat, sub supraveghere, până la vârsta de 15 ani.” [2]
   > „Pentru copiii cu vârsta sub 13 ani, accesul ar urma să fie posibil prin conturi create de părinți și aflate sub controlul acestora.” [3]
   > „După împlinirea vârstei de 15 ani, adolescenții ar putea să își creeze și să își gestioneze propriile conturi.” [3]
-- Propunerea trebuie aprobată de Parlamentul European și de cele 27 de state. Comisia spune că legi diferite în fiecare țară ar face regulile imposibil de aplicat.
+- Propunerea trebuie aprobată de Parlamentul European și de cele **27 de state**. Comisia spune că legi diferite în fiecare țară ar face regulile imposibil de aplicat.
   > „trebuie încă aprobat, în aceiași termeni, de Parlamentul European și de cele 27 de state membre.” [3]
   > „ajungeți să aveți grupe de vârstă diferite, legi diferite în diferite state membre", iar reglementările devin "imposibil de aplicat", a explicat purtătorul de cuvânt Thomas Regnier” [3]
 

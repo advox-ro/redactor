@@ -15,6 +15,6 @@ sources: [1, 3, 12]
 quiz: la-doctor
 ---
 
-- La 31 decembrie 2025, 1.055 de localități aveau deficit de medici de familie. În 175 dintre ele nu exista deloc medicină de familie.
-- Plățile din buzunar au fost circa 22% din cheltuielile de sănătate în 2024, față de 15% în UE. Aproape 60% din ele merg pe medicamente.
-- România cheltuie pentru sănătate 6,2% din PIB, cel mai puțin din UE (media: 10,2%).
+- **175** de localități nu aveau deloc medicină de familie la 31 decembrie 2025. În total, 1.055 de localități aveau prea puțini medici de familie.
+- **22%**, circa, din cheltuielile de sănătate au fost plătite în 2024 direct din buzunar. În UE, 15%. Aproape 60% din aceste plăți merg pe medicamente.
+- **6,2%** din PIB cheltuie România pentru sănătate, cel mai puțin din UE. Media UE e 10,2%.

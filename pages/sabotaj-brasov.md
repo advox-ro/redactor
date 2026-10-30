@@ -13,9 +13,9 @@ image:
 quiz: sabotaj-brasov
 ---
 
-- Incendiul a avut loc pe 14 septembrie, la Carfil, o filială a Romarm, compania de armament. Serviciul de informații (SRI) și procurorii DIICOT spun că l-au pus la cale serviciile secrete ruse, prin trei străini care locuiesc în UE.
-- Pe 27 octombrie, Ministerul Afacerilor Externe l-a convocat pe ambasadorul Rusiei și a transmis un protest ferm.
-- Ambasada Rusiei respinge acuzațiile și spune că nu au fost prezentate dovezi.
+- Pe 14 septembrie a luat foc Carfil, o filială a Romarm, compania de armament. Serviciul de informații (SRI) și procurorii DIICOT spun că incendiul a fost pus la cale de **serviciile secrete ruse**, prin trei străini care locuiesc în UE.
+- Pe 27 octombrie, Ministerul Afacerilor Externe l-a convocat pe ambasadorul Rusiei și a transmis un **protest ferm**.
+- Ambasada Rusiei **respinge acuzațiile** și spune că nu au fost prezentate dovezi.
 
 ## Surse
 

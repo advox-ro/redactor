@@ -13,13 +13,15 @@ image:
 quiz: frig-noiembrie
 ---
 
-- Potrivit estimărilor publicate de ANM pentru 2–30 noiembrie, prima săptămână va fi mai rece decât de obicei în toate regiunile, iar în sud, în est și în unele zone din vest și centru va ploua mai mult decât de obicei. În următoarele trei săptămâni, temperaturile ar urma să fie apropiate de cele normale.
+- Prima săptămână din noiembrie va fi **mai rece decât de obicei** în toate regiunile, arată estimările ANM pentru 2–30 noiembrie. În sud, în est și în unele zone din vest și centru va ploua mai mult decât de obicei.
   > „Temperaturile vor fi mai scăzute decât cele obișnuite pentru această perioadă în prima săptămână din noiembrie, în toate regiunile țării, în timp ce precipitațiile vor fi excedentare în sud și est, dar și în unele zone din vest și centru, potrivit estimărilor meteorologice pentru intervalul 2-30 noiembrie, publicate vineri de Administrația Națională de Meteorologie (ANM).” [2]
   > „În următoarele trei săptămâni, temperaturile vor fi apropiate de cele normale.” [1]
-- Estimările pe patru săptămâni sunt realizate de Centrul European pentru Prognoze pe Medie Durată (ECMWF), ca abateri săptămânale față de media anilor 2006–2025, și nu includ fenomenele extreme de scurtă durată.
+- În următoarele trei săptămâni, temperaturile ar urma să fie **apropiate de cele normale**. Estimările vin de la Centrul European pentru Prognoze pe Medie Durată (ECMWF) și nu includ fenomenele extreme de scurtă durată.
+  > „Temperaturile vor fi mai scăzute decât cele obișnuite pentru această perioadă în prima săptămână din noiembrie, în toate regiunile țării, în timp ce precipitațiile vor fi excedentare în sud și est, dar și în unele zone din vest și centru, potrivit estimărilor meteorologice pentru intervalul 2-30 noiembrie, publicate vineri de Administrația Națională de Meteorologie (ANM).” [2]
+  > „În următoarele trei săptămâni, temperaturile vor fi apropiate de cele normale.” [1]
   > „Estimările meteorologice pentru patru săptămâni sunt realizate de către ECMWF - Centrul European pentru Prognoze pe Medie Durată. Este estimată media săptămânală a abaterilor temperaturii aerului și a cantităților de precipitații față de media perioadei 2006-2025.” [1]
   > „Fenomenele extreme cu o durată scurtă de manifestare nu sunt incluse.” [1]
-- De sâmbătă, 31 octombrie, ora 5, până duminică, 1 noiembrie, ora 10, zona de deal și de munte din Gorj, Vâlcea, Argeș, Dâmbovița și Prahova e sub cod galben de ploi, cu 25–40 de litri pe metru pătrat și, izolat, peste 45–50. În Carpații Meridionali, la altitudini în general de peste 1.500 de metri, va ninge și se va depune un strat de zăpadă de 15–25 de centimetri.
+- **15–25 cm** de zăpadă în Carpații Meridionali, la altitudini în general de peste 1.500 de metri, de sâmbătă dimineață până duminică. În zona de deal și de munte din Gorj, Vâlcea, Argeș, Dâmbovița și Prahova e cod galben de ploi, cu 25–40 de litri pe metru pătrat.
   > „Potrivit meteorologilor, în intervalul 31 octombrie, ora 5:00 – 1 noiembrie, ora 10:00, în zona deluroasă și montană a județelor Gorj, Vâlcea, Argeș, Dâmbovița și Prahova va ploua și se vor acumula cantități de apă de 25 – 40 l/mp și izolat de peste 45 – 50 l/mp.” [3]
   > „În același timp, în Carpații Meridionali, la altitudini în general de peste 1.500 de metri, vor predomina ninsorile și se va depune strat de zăpadă de 15 – 25 cm.” [3]
 

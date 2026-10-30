@@ -13,15 +13,15 @@ image:
 quiz: cernavoda-oprita
 ---
 
-- Reactoarele sunt oprite din vară, pentru că Dunărea a scăzut prea mult ca să le răcească. Nuclearelectrica spune că nu e niciun risc nuclear.
+- Reactoarele sunt oprite din vară, pentru că Dunărea a scăzut prea mult ca să le mai răcească. Nuclearelectrica spune că nu e **niciun risc nuclear**.
   > „a fost oprită controlat în vară, din cauza nivelului foarte scăzut al debitului Dunării, care asigură apa necesară răcirii sistemelor centralei.” [1]
   > „Centrala Nucleară de la Cernavodă utilizează apa din sistemul Dunăre–Canalul Dunăre–Marea Neagră în procesele de răcire necesare funcționării instalațiilor.” [2]
   > „această situație nu prezintă niciun risc pentru securitatea nucleară” [3]
-- Pe 29 octombrie, starea de alertă în energie a fost prelungită cu 30 de zile. Ministrul Energiei spune că un reactor ar putea reporni în jurul datei de 15 noiembrie, dar Nuclearelectrica, că încă nu sunt îndeplinite condițiile.
+- **30 de zile** în plus pentru starea de alertă în energie, prelungită pe 29 octombrie. Ministrul Energiei spune că un reactor ar putea reporni în jurul datei de 15 noiembrie, dar Nuclearelectrica, că încă nu sunt îndeplinite condițiile.
   > „Comitetul Național pentru Situații de Urgență (CNSU) a prelungit cu 30 de zile, de la 29 octombrie, starea de alertă în energie, pentru că reactoarele de la Cernavodă nu pot fi repornite în noiembrie” [4]
   > „că, pe baza prognozelor actuale, unul dintre reactoarele nucleare ale Centralei de la Cernavodă va putea fi repornit în jurul datei de 15 noiembrie.” [1]
   > „deși există premise, prognozele curente nu indică îndeplinirea tuturor criteriilor care să permită luarea deciziei de repornire a cel puțin uneia dintre unități” [3]
-- Transelectrica, compania care administrează rețeaua de curent, trebuie să evite o pană mare, la nevoie și prin reducerea consumului. Curentul cumpărat pentru ziua următoare a costat 323 de euro pe MWh, printre cele mai mari din Europa.
+- **323 de euro** pe MWh a costat curentul cumpărat pentru ziua următoare, printre cele mai mari prețuri din Europa. Transelectrica, compania care administrează rețeaua, trebuie să evite o pană mare, la nevoie și prin reducerea consumului.
   > „Operatorul are obligația să dispună toate măsurile necesare pentru evitarea unei pene majore de curent. Transelectrica va solicita creșterea producției interne din toate sursele, va asigura importurile necesare din țările vecine și, la nevoie, va ordona reducerea consumului.” [5]
   > „Ieri, România era printre cele mai scumpe piețe spot europene, cu o medie de 323 euro/MWh, iar azi nivelul continuă să se mențină la un nivel extrem de ridicat, de 258 euro/MWh.” [4]
 

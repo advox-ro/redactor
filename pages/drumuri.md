@@ -15,6 +15,6 @@ sources: [1, 2, 6, 7, 8, 9, 10, 11]
 quiz: drumuri
 ---
 
-- La sfârșitul lui septembrie 2026, România avea circa 1.476 km de autostrăzi și drumuri expres. În primele nouă luni din 2026 s-au adăugat circa 58 km, deși ținta era 250.
-- Doar 38% din căile ferate sunt electrificate (UE: circa 57%), iar numărul de călători a scăzut la 64,4 milioane în 2025.
-- În 2025, pe drumurile din România au murit circa 68 de oameni la un milion de locuitori. E a doua cea mai mare rată din UE, unde media e 43.
+- **1.476 km** de autostrăzi și drumuri expres avea România, circa, la sfârșitul lui septembrie 2026. În primele nouă luni ale anului s-au adăugat circa 58 km, deși ținta era 250.
+- **38%** din căile ferate sunt electrificate, față de circa 57% în UE. Călătorii cu trenul au scăzut la 64,4 milioane în 2025.
+- **68 de oameni** la un milion de locuitori au murit, circa, pe drumurile din România în 2025: a doua cea mai mare rată din UE, unde media e 43.

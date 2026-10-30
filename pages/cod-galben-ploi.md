@@ -15,8 +15,8 @@ image:
 quiz: cod-galben-ploi
 ---
 
-- Avertizarea ANM, administrația națională de meteorologie, ține de marți, 27 octombrie, ora 10, până miercuri, 28 octombrie, ora 12. Privește București, Ilfov, Tulcea, Constanța, Călărași, Ialomița, Giurgiu și Teleorman.
-- Sunt așteptate în general 20–30 l/mp, iar izolat peste 40 l/mp. Călărași și Ialomița au și o avertizare de vânt puternic.
+- Cod galben de ploi de marți, 27 octombrie, ora 10, până miercuri, 28 octombrie, ora 12, în **București, Ilfov, Tulcea, Constanța, Călărași, Ialomița, Giurgiu și Teleorman**. Avertizarea e dată de ANM, administrația națională de meteorologie.
+- **20–30 l/mp** de ploaie în general, iar izolat peste 40 l/mp. Călărași și Ialomița au și o avertizare de vânt puternic.
 
 ## Surse
 

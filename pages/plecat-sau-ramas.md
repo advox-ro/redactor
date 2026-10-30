@@ -9,6 +9,6 @@ sources: [3, 5, 6, 7]
 quiz: plecat-sau-ramas
 ---
 
-- Circa 3,1 milioane de cetățeni români trăiesc legal în alte state ale UE, cea mai mare diasporă din UE. Estimările totale variază între 4,5 și 9–10 milioane, după definiție.
-- Remitențele au fost de circa 6,7 miliarde de euro în 2024, aproape 2% din PIB.
-- În 2025 s-au născut 145.700 de copii, cel mai mic număr din 1930 încoace.
+- **4,5–10 milioane** de români trăiesc în străinătate, după cum îi numeri. Legal, în alte state ale UE, sunt circa 3,1 milioane, cea mai mare diasporă din UE.
+- **6,7 miliarde de euro** au trimis acasă, în 2024, românii care lucrează în străinătate, circa. Aproape 2% din PIB.
+- **145.700** de copii s-au născut în 2025, cei mai puțini din 1930 încoace.

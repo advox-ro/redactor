@@ -9,5 +9,5 @@ sources: [1, 7, 8, 9, 21, 22, 23]
 quiz: cum-iti-merge
 ---
 
-- Economia stagnează, iar prețurile cresc. Inflația a ajuns la 10,4% în iunie 2026, iar salariul real este sub nivelul de acum un an.
-- Încrederea în instituții este foarte scăzută: 11,9% în Parlament, 18,4% în Guvern, 23% în presă.
+- **10,4%** a fost inflația în iunie 2026. Economia stagnează, iar salariul real este sub nivelul de acum un an.
+- **11,9%** dintre români au încredere în Parlament. În Guvern, 18,4%, iar în presă, 23%.

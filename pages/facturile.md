@@ -9,6 +9,6 @@ sources: [1, 2, 3, 4]
 quiz: facturile
 ---
 
-- Plafonarea s-a încheiat la 1 iulie 2025. Între a doua jumătate a lui 2024 și cea a lui 2025, prețul curentului pentru casnici a crescut cu 58,6%, cel mai mult din UE.
-- În 2025, 11,9% dintre români spuneau că nu își pot încălzi adecvat locuința (UE: 8,8%).
-- Voucherul de 50 de lei pe lună a ajuns la circa 710.000 de beneficiari, din circa 2,1 milioane de gospodării estimate ca eligibile.
+- Plafonarea prețurilor s-a încheiat la 1 iulie 2025. Între a doua jumătate a lui 2024 și cea a lui 2025, curentul pentru casnici s-a scumpit cu **58,6%**, cel mai mult din UE.
+- **11,9%** dintre români spuneau în 2025 că nu își pot încălzi cum trebuie locuința. În UE, 8,8%.
+- **710.000** de beneficiari, circa, primesc voucherul de 50 de lei pe lună, din circa 2,1 milioane de gospodării estimate ca eligibile.

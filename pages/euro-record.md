@@ -16,8 +16,8 @@ image:
 quiz: euro-record
 ---
 
-- Cursul BNR a urcat pe 27 octombrie la 5,3487 lei, la 0,004 lei de maximul istoric de 5,3527 lei din 6 octombrie.
-- Dobânda de politică monetară a BNR este 6,50% din august 2024.
+- **5,3527 lei** e maximul istoric al euro, din 6 octombrie. Pe 27 octombrie, cursul BNR a urcat la 5,3487 lei, la doar 0,004 lei de el.
+- **6,50%** e dobânda de politică monetară a BNR, încă din august 2024.
 
 ## Surse
 
