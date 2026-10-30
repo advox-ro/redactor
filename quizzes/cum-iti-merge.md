@@ -1,0 +1,6 @@
+- romania-pe-scurt-001
+- romania-pe-scurt-002
+- romania-pe-scurt-004
+- romania-pe-scurt-003
+- romania-pe-scurt-005
+- romania-pe-scurt-012

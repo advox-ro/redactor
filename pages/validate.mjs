@@ -7,6 +7,7 @@ import { basename, dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildPool } from '../scripts/pool.mjs';
 import { parsePage, published } from '../src/pagefile.ts';
+import { parseQuiz } from '../src/quizfile.ts';
 
 const root = dirname(fileURLToPath(import.meta.url));
 const redactor = join(root, '..');
@@ -35,6 +36,7 @@ const err = (f, msg) => (errors++, console.log(`✗ ${f}: ${msg}`));
 const warn = (f, msg) => (warnings++, console.log(`! ${f}: ${msg}`));
 
 const sets = [];
+const quizOf = new Map(); // quiz id -> the page that names it
 for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))) {
   let page;
   try {
@@ -43,14 +45,32 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
     err(f, e.message);
     continue;
   }
-  // As the site reads it: the front matter with its questions and its articles (news).
-  const { data: d, facts: body } = published(page);
+  // Its quiz, if it names one: a file in quizzes/, the quiz of this page only.
+  const hasQuiz = page.data.quiz !== undefined;
+  let questions = [];
+  if (hasQuiz) {
+    const id = String(page.data.quiz);
+    const file = join(redactor, 'quizzes', `${id}.md`);
+    if (!/^[a-z0-9-]+$/.test(id) || !existsSync(file)) err(f, `quiz: no file quizzes/${id}.md`);
+    else if (quizOf.has(id)) err(f, `quiz ${id} is already the quiz of ${quizOf.get(id)}`);
+    else {
+      quizOf.set(id, f);
+      try {
+        questions = parseQuiz(readFileSync(file, 'utf8'));
+      } catch (e) {
+        err(`quizzes/${id}.md`, e.message);
+      }
+    }
+  }
+  // As the site reads it: the front matter with its quiz's questions and its articles (news).
+  const { data: d, facts: body } = published(page, questions);
   sets.push({ f, slug: f.slice(0, -3), ...d, body });
-  for (const k of ['news', 'questions']) if (page.data[k] !== undefined) err(f, `${k} belongs in the body (pages/README.md), not the front matter`);
+  if (page.data.news !== undefined) err(f, 'news belongs in the body, as Surse (pages/README.md), not the front matter');
+  if (page.data.questions !== undefined) err(f, 'questions belong in its quiz, quizzes/<id>.md, not the front matter');
   const cited = [...page.facts.flatMap((x) => x.quotes.map((q) => q.source)), ...(page.data.stat?.quote ? [page.data.stat.source] : [])];
   for (const n of cited) if (!page.sources.some((s) => s.n === n)) err(f, `a quote cites [${n}], which is not in Surse`);
 
-  for (const k of ['title', 'summary', 'tags', 'questions']) if (d[k] === undefined) err(f, `missing ${k}`);
+  for (const k of ['title', 'summary', 'tags']) if (d[k] === undefined) err(f, `missing ${k}`);
   const news = d.date !== undefined;
   if (!news && typeof d.order !== 'number') err(f, 'a page without a date needs an order');
   if (news && Number.isNaN(Date.parse(d.date))) err(f, `date "${d.date}" is not a date`);
@@ -92,7 +112,7 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
   } else if (!news && !d.wiki) err(f, 'a page without a date needs a wiki page');
 
   const qs = d.questions ?? [];
-  if (qs.length < 4 || qs.length > 8) err(f, `${qs.length} questions (4–8)`);
+  if (hasQuiz && (qs.length < 4 || qs.length > 8)) err(f, `${qs.length} questions in its quiz (4–8)`);
   const groups = new Map(), own = new Set();
   let home = 0, abroad = 0;
   for (const q of qs) {
@@ -136,9 +156,13 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
   }
   // Who sees the page: residents, unless it is for the diaspora only.
   const dspOnly = d.counties?.length === 1 && d.counties[0] === 'DSP';
-  if (dspOnly && abroad < 3) err(f, `only ${abroad} questions for the diaspora (at least 3)`);
-  if (!dspOnly && home < 3) err(f, `only ${home} questions for residents (at least 3)`);
+  if (hasQuiz && dspOnly && abroad < 3) err(f, `only ${abroad} questions for the diaspora (at least 3)`);
+  if (hasQuiz && !dspOnly && home < 3) err(f, `only ${home} questions for residents (at least 3)`);
 }
+
+// A quiz no page names is shown nowhere.
+for (const q of readdirSync(join(redactor, 'quizzes')).filter((q) => /^[a-z][a-z0-9-]*\.md$/.test(q)))
+  if (!quizOf.has(q.slice(0, -3))) err(`quizzes/${q}`, 'no page names this quiz (quiz: <id> in its front matter)');
 
 // Duplicates across pages.
 const owner = new Map();

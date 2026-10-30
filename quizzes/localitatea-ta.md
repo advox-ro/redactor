@@ -1,0 +1,7 @@
+- regiuni-001
+- regiuni-002
+- regiuni-010
+- regiuni-005
+- regiuni-009
+- regiuni-008
+- regiuni-006

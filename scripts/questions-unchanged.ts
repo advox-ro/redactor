@@ -1,13 +1,13 @@
 // Usage: npm run questions-unchanged [-- base, default origin/main]
-// The answers people gave are stored by question id (a pool question's own, or <slug>-<id> for a
-// page's own question) and by option letter, so a question already published keeps what it asks:
+// The answers people gave are stored by question id (a pool question's own, or <quiz id>-<id> for a
+// quiz's own question) and by option letter, so a question already published keeps what it asks:
 // its type, text, options (in their order), scale, budget and "doesn't apply" answer stay as they
 // are, and it isn't removed. New questions, and the other fields (tier, outlook, wiki, …), can
-// change. Compares the question pool and the pages in the working tree with those in base. Run by
+// change. Compares the question pool and the quizzes in the working tree with those in base. Run by
 // the check job on every pull request (check.yml).
 import { execFileSync } from 'node:child_process';
 import { existsSync, readFileSync } from 'node:fs';
-import { parsePage } from '../src/pagefile';
+import { parseQuiz } from '../src/quizfile';
 
 const base = process.argv[2] ?? 'origin/main';
 const MEANING = ['type', 'text', 'options', 'scale', 'budget', 'na'];
@@ -16,8 +16,8 @@ const files = (dir: string, ext: RegExp) => git('ls-tree', '--name-only', base, 
 
 type Q = Record<string, unknown>;
 const pool = (text: string) => new Map<string, Q>(text.split('\n').filter((l) => l.trim()).map((l) => JSON.parse(l)).map((q: Q) => [q.id as string, q]));
-const page = (text: string, slug: string) =>
-  new Map<string, Q>(parsePage(text).questions.filter((q): q is Q => typeof q === 'object').map((q) => [`${slug}-${q.id}`, q]));
+const quiz = (text: string, id: string) =>
+  new Map<string, Q>(parseQuiz(text).filter((q): q is Q => typeof q === 'object').map((q) => [`${id}-${q.id}`, q]));
 
 const problems: string[] = [];
 function compare(before: Map<string, Q>, after: Map<string, Q>) {
@@ -28,11 +28,11 @@ function compare(before: Map<string, Q>, after: Map<string, Q>) {
   }
 }
 for (const f of files('questions', /\.jsonl$/)) compare(pool(git('show', `${base}:${f}`)), existsSync(f) ? pool(readFileSync(f, 'utf8')) : new Map());
-// A page removed takes its questions out of the feed, not out of the answers: only pages still
+// A quiz removed takes its questions out of the feed, not out of the answers: only quizzes still
 // here are compared.
-for (const f of files('pages', /^pages\/[a-z][a-z0-9-]*\.md$/).filter(existsSync)) {
-  const slug = f.slice('pages/'.length, -3);
-  compare(page(git('show', `${base}:${f}`), slug), page(readFileSync(f, 'utf8'), slug));
+for (const f of files('quizzes', /^quizzes\/[a-z][a-z0-9-]*\.md$/).filter(existsSync)) {
+  const id = f.slice('quizzes/'.length, -3);
+  compare(quiz(git('show', `${base}:${f}`), id), quiz(readFileSync(f, 'utf8'), id));
 }
 if (problems.length) {
   console.error(`A question already published must keep what it asks (scripts/questions-unchanged.ts); write a new question instead:\n${problems.join('\n')}`);

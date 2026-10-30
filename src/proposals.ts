@@ -2,7 +2,8 @@
 // reachable only for reading, so it sends its changes here and the Worker commits them to a branch
 // and opens the pull request, with GITHUB_TOKEN (a token of the advox-ro account for this
 // repository only). Two kinds, and nothing else, never on main:
-//   page      branch page/<slug>: the page's own two files (pages/<slug>.md and its photo)
+//   page      branch page/<slug>: the page's own files (pages/<slug>.md, its photo and its quiz,
+//             quizzes/<slug>.md)
 //   content   branch content/<slug>: wiki pages (wiki/<name>.md) and question pool files
 //             (questions/<name>.jsonl); the READMEs and QUIZ.md stay out of reach
 // The checks on GitHub then merge it or say why not (.github/workflows/check.yml).
@@ -51,7 +52,7 @@ export type Proposal = { kind?: 'page' | 'content'; slug: string; title: string;
 const KINDS = {
   page: {
     branch: (slug: string) => `page/${slug}`,
-    allows: (path: string, slug: string) => [`pages/${slug}.md`, `pages/photos/${slug}.jpg`].includes(path),
+    allows: (path: string, slug: string) => [`pages/${slug}.md`, `pages/photos/${slug}.jpg`, `quizzes/${slug}.md`].includes(path),
     // The page's title; a "Pagină nouă:", "Quiz nou:" or "Quiz:" the editor already wrote isn't doubled.
     title: (t: string) => `Pagină nouă: ${t.replace(/^((pagină nouă|quiz( nou)?):\s*)+/i, '')}`,
   },

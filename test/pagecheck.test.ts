@@ -1,6 +1,7 @@
 import { expect, test } from 'vitest';
 import { checkPage } from '../src/pagecheck';
-import { parseQuestions, parsePage } from '../src/pagefile';
+import { parsePage } from '../src/pagefile';
+import { parseQuiz } from '../src/quizfile';
 
 const A = 'https://www.mediafax.ro/a';
 const B = 'https://economedia.ro/b';
@@ -17,15 +18,6 @@ stat: { value: "20%", label: din curentul țării vine de la Cernavodă, quote: 
 ---
 
 ${facts}
-
-## Întrebări
-
-### Da?
-
-| id | a |
-|---|---|
-| type | yesno |
-| measures | opinion |
 
 ## Surse
 
@@ -67,17 +59,17 @@ test('an article nothing rests on, and a quote citing no article, are caught', (
   expect(p).toContain(`[3] ${C} is in Surse but nothing rests on it`);
 });
 
-test('the layout: facts with quotes, the questions, sources as in the wiki', () => {
+test('the layout: facts with quotes, sources as in the wiki, the questions in the quiz', () => {
   const q = page(FACTS);
   expect(q.facts.map((f) => f.quotes.length)).toEqual([1, 1]);
-  expect(q.questions).toEqual([{ id: 'a', type: 'yesno', measures: 'opinion', text: 'Da?' }]);
+  expect(() => parsePage('---\ntitle: x\nquiz: x\n---\n\n- Un fapt.\n\n## Întrebări\n\n- sanatate-001\n')).toThrow('unknown section');
   expect(q.sources[1]).toEqual({ n: 2, title: 'B', outlet: 'Economedia', url: B });
   expect(() => parsePage('---\ntitle: x\n---\n\nnot a fact\n')).toThrow('not a fact');
 });
 
-test('questions in Markdown: pool ids, then the page\'s own, with their table of fields and numbered options', () => {
+test('questions in Markdown: pool ids, then the quiz\'s own, with their table of fields and numbered options', () => {
   expect(
-    parseQuestions(`- sanatate-001
+    parseQuiz(`- sanatate-001
 
 ### Cât de îngrijorat(ă) ești?
 
@@ -103,7 +95,7 @@ test('questions in Markdown: pool ids, then the page\'s own, with their table of
     { text: 'Cât de îngrijorat(ă) ești?', id: 'factura', type: 'scale', scale: { minLabel: 'Deloc', maxLabel: 'Foarte' }, outlook: { 1: 1, 2: 0.5, 5: -1 }, na: 'Nu plătesc eu' },
     { text: 'Cu ce te încălzești?', id: 'incalzire', type: 'multi', maxSelect: 2, options: [{ id: 'a', label: 'Gaz (centrală)' }, { id: 'b', label: 'Lemne' }] },
   ]);
-  expect(() => parseQuestions('### X?\n\n| colour | red |\n')).toThrow('colour is not a field');
-  expect(() => parseQuestions('### X?\n\n| id | a |\n|---|---|\n\n- sanatate-001\n')).toThrow('not a field');
-  expect(() => parseQuestions('### X?\n\n| id | a |\n\n1. Da\n3. Nu\n')).toThrow('option 3 is not number 2');
+  expect(() => parseQuiz('### X?\n\n| colour | red |\n')).toThrow('colour is not a field');
+  expect(() => parseQuiz('### X?\n\n| id | a |\n|---|---|\n\n- sanatate-001\n')).toThrow('not a field');
+  expect(() => parseQuiz('### X?\n\n| id | a |\n\n1. Da\n3. Nu\n')).toThrow('option 3 is not number 2');
 });

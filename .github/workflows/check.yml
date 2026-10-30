@@ -1,7 +1,7 @@
 # Every pull request is checked: the code, the question pool, the wiki and the pages. The editor's
 # pull requests (EDITOR.md) publish themselves when everything passes: they are merged and deployed.
 # There are two kinds:
-#   page/<slug>      only the page's files in pages/ (the page and its photo); every new or
+#   page/<slug>      only a page's files (the page and its photo in pages/, its quiz in quizzes/); every new or
 #                    changed news page is also checked against its articles, by the quotes under
 #                    its facts (check-page)
 #   content/<slug>   only wiki pages and question pool files
@@ -57,7 +57,7 @@ jobs:
           # The editor's two kinds of pull request, with nothing removed, publish themselves.
           if [ -s removed.txt ] || [ ! -s changed.txt ]; then exit 0; fi
           if [ "${GITHUB_HEAD_REF#page/}" != "$GITHUB_HEAD_REF" ] \
-            && ! grep -qvE '^pages/([a-z0-9-]+\.md|photos/[a-z0-9-]+\.jpg)$' changed.txt; then
+            && ! grep -qvE '^(pages/([a-z0-9-]+\.md|photos/[a-z0-9-]+\.jpg)|quizzes/[a-z0-9-]+\.md)$' changed.txt; then
             echo "page=true" >> "$GITHUB_OUTPUT"; echo "publish=true" >> "$GITHUB_OUTPUT"
           fi
           if [ "${GITHUB_HEAD_REF#content/}" != "$GITHUB_HEAD_REF" ] \

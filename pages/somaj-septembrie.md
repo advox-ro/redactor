@@ -11,6 +11,7 @@ image:
   license: CC BY-SA 3.0
   url: https://commons.wikimedia.org/wiki/File:Institutul_Na%C8%9Bional_de_Statistic%C4%83.jpg
   illustrative: true
+quiz: somaj-septembrie
 ---
 
 - Potrivit INS, rata șomajului, ajustată sezonier, a fost de 6,3% în septembrie 2026, față de 6,4% în august. Numărul șomerilor între 15 și 74 de ani a fost estimat la 517.100, cu 6.300 mai puțini decât în august.
@@ -26,27 +27,6 @@ image:
   > „Pentru persoanele adulte (25-74 ani), rata șomajului a fost estimată la 5,1% pentru luna septembrie 2026” [3]
   > „INS menționează că reține în continuare atenția nivelul ridicat, de 30,8%, al ratei șomajului în rândul tinerilor (15-24 ani), înregistrat în perioada aprilie – iunie 2026.” [3]
   > „Pentru lunile iulie, august și septembrie 2026, INS nu a prezentat încă valori privind șomajul persoanelor cu vârste între 15 și 24 de ani.” [1]
-
-## Întrebări
-
-- demografie-munca-diaspora-048
-- demografie-munca-diaspora-040
-- demografie-munca-diaspora-038
-
-### În ultimele 12 luni, și-a pierdut cineva din gospodăria ta locul de muncă fără să vrea?
-
-| id | loc-de-munca-pierdut |
-|---|---|
-| type | single |
-| measures | experience |
-| where | romania |
-| na | Nimeni din gospodărie nu a lucrat în ultimele 12 luni |
-| outlook | a: -1, b: -1, c: -1, d: 1 |
-
-1. Da, doar eu
-2. Da, doar altcineva din gospodărie
-3. Da, și eu, și altcineva din gospodărie
-4. Nu, nimeni
 
 ## Surse
 

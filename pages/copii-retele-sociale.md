@@ -11,6 +11,7 @@ image:
   license: CC0
   url: https://commons.wikimedia.org/wiki/File:Mobile-phone-426559_1920.jpg
   illustrative: true
+quiz: copii-retele-sociale
 ---
 
 - Comisia Europeană cere statelor să amâne cu 12 luni legile noi despre copiii pe rețelele sociale, până vin reguli comune pentru toată UE. Austria, care voia o interdicție sub 14 ani, protestează: își va aplica legea după cele 12 luni.
@@ -25,60 +26,6 @@ image:
 - Propunerea trebuie aprobată de Parlamentul European și de cele 27 de state. Comisia spune că legi diferite în fiecare țară ar face regulile imposibil de aplicat.
   > „trebuie încă aprobat, în aceiași termeni, de Parlamentul European și de cele 27 de state membre.” [3]
   > „ajungeți să aveți grupe de vârstă diferite, legi diferite în diferite state membre", iar reglementările devin "imposibil de aplicat", a explicat purtătorul de cuvânt Thomas Regnier” [3]
-
-## Întrebări
-
-### De la ce vârstă ar trebui să aibă voie copiii să-și facă singuri un cont pe rețelele sociale?
-
-| id | varsta |
-|---|---|
-| type | single |
-| measures | opinion |
-
-1. Sub 13 ani
-2. De la 13 ani
-3. De la 14 ani
-4. De la 15 ani
-5. De la 16 ani
-6. De la 18 ani
-7. Nu ar trebui o limită prin lege
-8. Nu știu
-
-### Cine ar trebui să stabilească de la ce vârstă pot copiii să folosească rețelele sociale?
-
-| id | cine-decide |
-|---|---|
-| type | single |
-| measures | opinion |
-
-1. Părinții, pentru copiii lor
-2. Fiecare țară, prin legea ei
-3. Uniunea Europeană, la fel pentru toate țările
-4. Rețelele sociale, prin regulile lor
-5. Altcineva
-6. Nu știu
-
-### Are vreunul dintre copiii tăi sub 15 ani un cont al lui pe o rețea socială?
-
-| id | cont-copil |
-|---|---|
-| type | single |
-| measures | experience |
-| na | Nu am copii sub 15 ani |
-
-1. Da
-2. Nu
-3. Nu știu
-
-### Cât de îngrijorat(ă) ești de timpul petrecut de copiii tăi sub 18 ani pe rețelele sociale?
-
-| id | ingrijorare |
-|---|---|
-| type | scale |
-| measures | opinion |
-| na | Nu am copii sub 18 ani care folosesc rețele sociale |
-| scale | Deloc îngrijorat(ă) … Foarte îngrijorat(ă) |
-| outlook | 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1 |
 
 ## Surse
 

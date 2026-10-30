@@ -6,16 +6,8 @@ order: 1
 wiki: romania-pe-scurt
 stat: { value: "19,04 mil.", label: "de oameni locuiau în România la 1 ianuarie 2026" }
 sources: [1, 7, 8, 9, 21, 22, 23]
+quiz: cum-iti-merge
 ---
 
 - Economia stagnează, iar prețurile cresc. Inflația a ajuns la 10,4% în iunie 2026, iar salariul real este sub nivelul de acum un an.
 - Încrederea în instituții este foarte scăzută: 11,9% în Parlament, 18,4% în Guvern, 23% în presă.
-
-## Întrebări
-
-- romania-pe-scurt-001
-- romania-pe-scurt-002
-- romania-pe-scurt-004
-- romania-pe-scurt-003
-- romania-pe-scurt-005
-- romania-pe-scurt-012

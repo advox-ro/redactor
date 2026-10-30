@@ -10,6 +10,7 @@ image:
   license: CC0
   url: https://commons.wikimedia.org/wiki/File:Sear%C4%83_ploioas%C4%83_la_One%C8%99ti.jpg
   illustrative: true
+quiz: frig-noiembrie
 ---
 
 - Potrivit estimărilor publicate de ANM pentru 2–30 noiembrie, prima săptămână va fi mai rece decât de obicei în toate regiunile, iar în sud, în est și în unele zone din vest și centru va ploua mai mult decât de obicei. În următoarele trei săptămâni, temperaturile ar urma să fie apropiate de cele normale.
@@ -21,61 +22,6 @@ image:
 - De sâmbătă, 31 octombrie, ora 5, până duminică, 1 noiembrie, ora 10, zona de deal și de munte din Gorj, Vâlcea, Argeș, Dâmbovița și Prahova e sub cod galben de ploi, cu 25–40 de litri pe metru pătrat și, izolat, peste 45–50. În Carpații Meridionali, la altitudini în general de peste 1.500 de metri, va ninge și se va depune un strat de zăpadă de 15–25 de centimetri.
   > „Potrivit meteorologilor, în intervalul 31 octombrie, ora 5:00 – 1 noiembrie, ora 10:00, în zona deluroasă și montană a județelor Gorj, Vâlcea, Argeș, Dâmbovița și Prahova va ploua și se vor acumula cantități de apă de 25 – 40 l/mp și izolat de peste 45 – 50 l/mp.” [3]
   > „În același timp, în Carpații Meridionali, la altitudini în general de peste 1.500 de metri, vor predomina ninsorile și se va depune strat de zăpadă de 15 – 25 cm.” [3]
-
-## Întrebări
-
-### Când a pornit încălzirea în locuința ta în această toamnă?
-
-| id | pornire-incalzire |
-|---|---|
-| type | single |
-| measures | experience |
-| where | romania |
-| na | Nu am încălzire în locuință |
-
-1. Înainte de octombrie
-2. În prima jumătate a lui octombrie
-3. În a doua jumătate a lui octombrie
-4. Încă nu a pornit
-
-### În această toamnă, cât de des a fost prea frig în locuința ta?
-
-| id | frig-in-casa |
-|---|---|
-| type | single |
-| measures | experience |
-| where | romania |
-| outlook | a: 1, b: 0.5, c: -0.5, d: -1 |
-
-1. Niciodată
-2. Rar
-3. Uneori
-4. Aproape în fiecare zi
-
-### Ce ai făcut în această toamnă pentru încălzirea locuinței tale? Alege tot ce se potrivește.
-
-| id | pregatire-incalzire |
-|---|---|
-| type | multi |
-| measures | experience |
-| where | romania |
-| na | Nu mă ocup eu de încălzirea locuinței |
-
-1. Am verificat instalația de încălzire
-2. Mi-am făcut provizii pentru încălzire (lemne, peleți)
-3. Am izolat ferestrele (garnituri, folie)
-4. Altceva
-5. Nimic
-
-### Câtă încredere ai în prognozele de vreme făcute cu o lună înainte?
-
-| id | incredere-prognoze |
-|---|---|
-| type | scale |
-| measures | trust |
-| scale | Deloc … Foarte multă |
-| na | Nu urmăresc prognozele pe termen lung |
-| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
 ## Surse
 
