@@ -42,9 +42,10 @@ Fluxurile sunt în [`src/sources.ts`](src/sources.ts), verificate unul câte unu
 |---|---|
 | `quizzes/`, `wiki/`, `questions/` | Conținutul publicat, regulile și verificarea lui |
 | `src/quizfile.ts`, `scripts/content.ts`, `scripts/pool.mjs`, `scripts/citations.mjs`, `scripts/private-sections.mjs`, `src/content.ts` | Cum ajunge conținutul în Worker |
-| `src/index.ts` | Programul rulărilor, entrypoint-ul `Content` pentru site și adresele, toate cu `REDACTOR_TOKEN`: `GET /candidates`, `POST /decisions`, `GET /status`, `POST /run/<job>`, `/proposals` |
+| `src/index.ts` | Programul rulărilor, entrypoint-ul `Content` pentru site și adresele, toate cu `REDACTOR_TOKEN`: `GET /candidates`, `POST /decisions`, `GET /status`, `POST /run/<job>`, `/proposals`, `GET /commons` |
 | `src/ingest.ts`, `src/feeds.ts`, `src/counties.ts`, `src/sources.ts` | Fluxurile, subiectele, județele din titluri |
 | `src/candidates.ts` | Candidații zilei și deciziile editorului |
+| `src/commons.ts` | Fotografiile de pe Wikimedia Commons, căutate și descărcate pentru editor |
 | `src/proposals.ts`, `scripts/propose.mjs`, `scripts/await-pr.mjs` | Pull request-urile editorului, deschise de Worker în numele contului advox-ro |
 | `src/quizcheck.ts`, `src/facts.ts`, `scripts/check-quiz.ts` | Verificarea unui quiz față de articolele lui |
 | `EDITOR.md` | Instrucțiunile editorului |

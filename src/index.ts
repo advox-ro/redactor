@@ -10,12 +10,14 @@
 //   GET  /status       counts, failing feeds, the last runs and decisions
 //   POST /run/<job>    run ingest or cleanup by hand
 //   /proposals         the editor's quiz pull requests, opened here as advox-ro (proposals.ts)
+//   GET  /commons      photos from Wikimedia Commons, fetched for the editor (commons.ts)
 // The site reads the published content through the Content entrypoint, over a service binding: a
 // private connection between the two Workers, with no public address.
 import { WorkerEntrypoint } from 'cloudflare:workers';
 import { candidates, decide, type Decision } from './candidates';
 import { photo, POOL, QUIZZES, WIKI, type Pool, type Quiz, type WikiPage } from './content';
 import type { Env } from './env';
+import { commonsFile, searchCommons } from './commons';
 import { ingest } from './ingest';
 import { closeProposal, openProposals, propose, proposal, ProposalError, type Proposal } from './proposals';
 
@@ -98,6 +100,8 @@ export default {
       if (route === 'GET /status') return Response.json(await status(env));
       const job = url.pathname.match(/^\/run\/([a-z]+)$/)?.[1];
       if (request.method === 'POST' && job && JOBS[job]) return Response.json(await run(env, job));
+      if (route === 'GET /commons') return Response.json(await searchCommons(url.searchParams.get('q') ?? ''));
+      if (route === 'GET /commons/file') return await commonsFile(url.searchParams.get('url') ?? '');
       if (route === 'GET /proposals') return Response.json(await openProposals(env));
       if (route === 'POST /proposals') return Response.json(await propose(env, (await request.json()) as Proposal));
       const [, n, close] = url.pathname.match(/^\/proposals\/(\d+)(\/close)?$/) ?? [];
