@@ -2,8 +2,9 @@
 //   the facts       a list, one fact per item; under a news quiz's fact, the sentences of the
 //                   articles it rests on, word for word: `  > „…” [n]`, n from the Surse list
 //   ## Întrebări    the questions, in order: pool ids as a list (`- sanatate-001`), then the quiz's
-//                   own questions, each a `### ` heading with its text, and under it a list of its
-//                   fields (`- type: single`) and options (`- a) …`), as parseQuestions reads them
+//                   own questions, each a `### ` heading with its text, and under it a table of its
+//                   fields (`| type | single |`) and its options as a numbered list (`1. …`), as
+//                   parseQuestions reads them
 //   ## Surse        a news quiz's articles, as in the wiki: `n. Title — Outlet. https://…`
 // The build (scripts/content.ts), the validator (quizzes/validate.mjs) and the fact check
 // (quizcheck.ts) all read quizzes through parseQuiz.
@@ -54,7 +55,7 @@ export function parseQuiz(md: string): QuizFile {
   return { data, facts, questions, sources };
 }
 
-// A question's fields, as written after "- name: ", and how each is read.
+// A question's fields, as written in its table (`| name | value |`), and how each is read.
 const FIELDS: Record<string, (v: string) => unknown> = {
   id: String,
   type: String,
@@ -91,22 +92,27 @@ export function parseQuestions(text: string): QuizFile['questions'] {
       out.push((q = { text: heading[1].trim() }));
       continue;
     }
-    const item = line.match(/^- (.+)$/)?.[1];
-    if (!item) throw new Error(`not a question, a field or an option: ${line}`);
     if (!q) {
-      if (!/^[a-z0-9-]+$/.test(item)) throw new Error(`not a pool question id (pool ids come before the quiz's own questions): ${item}`);
-      out.push(item);
+      const id = line.match(/^- ([a-z0-9-]+)$/)?.[1];
+      if (!id) throw new Error(`not a pool question id (pool ids come before the quiz's own questions): ${line}`);
+      out.push(id);
       continue;
     }
-    const option = item.match(/^([a-z0-9]+)\) (.+)$/);
+    // An option: its number is its place, and the answers store it as a letter (1 → a, 2 → b, …).
+    const option = line.match(/^(\d+)\. (.+)$/);
     if (option) {
-      (q.options ??= []).push({ id: option[1], label: option[2] });
+      const options = (q.options ??= []);
+      if (Number(option[1]) !== options.length + 1) throw new Error(`"${q.text}": option ${option[1]} is not number ${options.length + 1}`);
+      options.push({ id: String.fromCharCode(96 + Number(option[1])), label: option[2].trim() });
       continue;
     }
-    const field = item.match(/^([a-zA-Z]+): (.+)$/);
-    if (!field || !FIELDS[field[1]]) throw new Error(`"${q.text}": not a field (${Object.keys(FIELDS).join(', ')}) or an option (a) …): ${item}`);
-    if (field[1] in q) throw new Error(`"${q.text}": ${field[1]} twice`);
-    q[field[1]] = FIELDS[field[1]](field[2]);
+    const cells = line.match(/^\|(.*)\|$/)?.[1].split('|').map((c) => c.trim());
+    if (!cells || cells.length !== 2) throw new Error(`"${q.text}": not a field (| name | value |) or an option (1. …): ${line}`);
+    if (cells.every((c) => /^:?-+:?$/.test(c))) continue; // the line under the table's first row
+    const [name, value] = cells;
+    if (!FIELDS[name]) throw new Error(`"${q.text}": ${name} is not a field (${Object.keys(FIELDS).join(', ')})`);
+    if (name in q) throw new Error(`"${q.text}": ${name} twice`);
+    q[name] = FIELDS[name](value);
   }
   return out;
 }

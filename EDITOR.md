@@ -36,7 +36,7 @@ Un subiect merită un quiz când schimbă ceva în viața cititorului sau în di
   ```sh
   TZ=Europe/Bucharest git log origin/main --since=midnight --diff-filter=A --name-only --format= -- 'quizzes/[a-z]*.md'
   ```
-- **Un subiect deja întrebat nu se întreabă din nou.** Caută în `quizzes/` cuvintele-cheie ale subiectului (de exemplu `grep -ril "cernavodă" quizzes/`) și citește quizurile din știri din ultimele două săptămâni. Dacă unul e despre același subiect, renunță; o dezvoltare nouă a aceleiași știri actualizează quizul acela, nu face unul nou.
+- **Un subiect deja întrebat nu se întreabă din nou.** Caută în `quizzes/` cuvintele-cheie ale subiectului (de exemplu `grep -ril "cernavodă" quizzes/`) și citește quizurile din știri din ultimele două săptămâni. Dacă unul e despre același subiect, renunță; o dezvoltare nouă a aceleiași știri actualizează quizul acela, nu face unul nou. Întrebările lui publicate rămân cum sunt (text, variante, ordinea lor), pentru că răspunsurile date sunt păstrate după ele; poți schimba faptele și adăuga întrebări noi.
 - **Național sau local.** Un subiect care contează pentru toată țara e național, chiar dacă s-a întâmplat într-un singur loc. Local înseamnă că îi privește doar pe oamenii din câteva județe (o avertizare meteo, un drum închis, un spital județean); atunci quizul are `counties`.
 
 ## 4. Quizul
@@ -81,7 +81,7 @@ Citind articolele, vezi uneori că wiki-ul a rămas în urmă: o cifră nouă de
    ```sh
    npm run content
    node questions/validate.mjs
-   node scripts/pool-unchanged.mjs
+   npm run questions-unchanged
    npm run validate
    ```
 4. **A doua lectură**, ca la quiz: un subagent care nu ți-a văzut notițele citește schimbările cu sursele în față și caută fapte pe care sursele nu le susțin, formulări care iau parte și întrebări care încalcă `QUIZ.md`.

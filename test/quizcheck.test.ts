@@ -22,9 +22,10 @@ ${facts}
 
 ### Da?
 
-- id: a
-- type: yesno
-- measures: opinion
+| id | a |
+|---|---|
+| type | yesno |
+| measures | opinion |
 
 ## Surse
 
@@ -74,31 +75,35 @@ test('the layout: facts with quotes, the questions, sources as in the wiki', () 
   expect(() => parseQuiz('---\ntitle: x\n---\n\nnot a fact\n')).toThrow('not a fact');
 });
 
-test('questions in Markdown: pool ids, then the quiz\'s own, with their fields and options', () => {
+test('questions in Markdown: pool ids, then the quiz\'s own, with their table of fields and numbered options', () => {
   expect(
     parseQuestions(`- sanatate-001
 
 ### Cât de îngrijorat(ă) ești?
 
-- id: factura
-- type: scale
-- scale: Deloc … Foarte
-- outlook: 1: 1, 2: 0.5, 5: -1
-- na: Nu plătesc eu
+| id | factura |
+|---|---|
+| type | scale |
+| scale | Deloc … Foarte |
+| outlook | 1: 1, 2: 0.5, 5: -1 |
+| na | Nu plătesc eu |
 
 ### Cu ce te încălzești?
 
-- id: incalzire
-- type: multi
-- maxSelect: 2
-- a) Gaz (centrală)
-- b) Lemne
+| id | incalzire |
+|---|---|
+| type | multi |
+| maxSelect | 2 |
+
+1. Gaz (centrală)
+2. Lemne
 `),
   ).toEqual([
     'sanatate-001',
     { text: 'Cât de îngrijorat(ă) ești?', id: 'factura', type: 'scale', scale: { minLabel: 'Deloc', maxLabel: 'Foarte' }, outlook: { 1: 1, 2: 0.5, 5: -1 }, na: 'Nu plătesc eu' },
     { text: 'Cu ce te încălzești?', id: 'incalzire', type: 'multi', maxSelect: 2, options: [{ id: 'a', label: 'Gaz (centrală)' }, { id: 'b', label: 'Lemne' }] },
   ]);
-  expect(() => parseQuestions('### X?\n\n- colour: red\n')).toThrow('not a field');
-  expect(() => parseQuestions('### X?\n\n- id: a\n\n- sanatate-001\n')).toThrow('not a field');
+  expect(() => parseQuestions('### X?\n\n| colour | red |\n')).toThrow('colour is not a field');
+  expect(() => parseQuestions('### X?\n\n| id | a |\n|---|---|\n\n- sanatate-001\n')).toThrow('not a field');
+  expect(() => parseQuestions('### X?\n\n| id | a |\n\n1. Da\n3. Nu\n')).toThrow('option 3 is not number 2');
 });

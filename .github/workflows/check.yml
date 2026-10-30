@@ -4,8 +4,7 @@
 #   quiz/<slug>      only the quiz's files in quizzes/ (the quiz and its photo); every new or
 #                    changed news quiz is also checked against its articles, by the quotes under
 #                    its facts (check-quiz)
-#   content/<slug>   only wiki pages and question pool files; a question already in the pool must
-#                    keep what it asks (scripts/pool-unchanged.mjs)
+#   content/<slug>   only wiki pages and question pool files
 # When a check fails, the reason goes in a comment on the pull request, where the editor reads it
 # and fixes it.
 name: Check
@@ -74,9 +73,9 @@ jobs:
             npm run -s check-quiz -- "$f" 2>&1 | tee -a check.log
           done
 
-      - name: Check that existing questions keep what they ask
-        if: steps.files.outputs.content == 'true'
-        run: node scripts/pool-unchanged.mjs origin/main 2>&1 | tee -a check.log
+      # Every pull request: a question already published, in the pool or in a quiz, keeps what it asks.
+      - name: Check that published questions keep what they ask
+        run: npm run -s questions-unchanged -- origin/main 2>&1 | tee -a check.log
 
       - name: Publish
         if: steps.files.outputs.publish == 'true'
