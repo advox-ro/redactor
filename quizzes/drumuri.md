@@ -16,7 +16,7 @@ sources: [1, 2, 6, 7, 8, 9, 10, 11]
 
 - La sfârșitul lui septembrie 2026, România avea circa 1.476 km de autostrăzi și drumuri expres. În primele nouă luni din 2026 s-au adăugat circa 58 km, deși ținta era 250.
 - Doar 38% din căile ferate sunt electrificate (UE: circa 57%), iar numărul de călători a scăzut la 64,4 milioane în 2025.
-- În 2025, România a avut circa 68 de morți pe drumuri la un milion de locuitori, a doua cea mai mare rată din UE (media: 43).
+- În 2025, pe drumurile din România au murit circa 68 de oameni la un milion de locuitori. E a doua cea mai mare rată din UE, unde media e 43.
 
 ## Întrebări
 

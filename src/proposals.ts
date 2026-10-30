@@ -52,7 +52,8 @@ const KINDS = {
   quiz: {
     branch: (slug: string) => `quiz/${slug}`,
     allows: (path: string, slug: string) => [`quizzes/${slug}.md`, `quizzes/photos/${slug}.jpg`].includes(path),
-    title: (t: string) => `Quiz nou: ${t}`,
+    // The quiz's title; a "Quiz nou:" or "Quiz:" the editor already wrote isn't doubled.
+    title: (t: string) => `Quiz nou: ${t.replace(/^(quiz( nou)?:\s*)+/i, '')}`,
   },
   content: {
     branch: (slug: string) => `content/${slug}`,

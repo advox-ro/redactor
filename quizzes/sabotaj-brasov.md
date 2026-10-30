@@ -12,7 +12,7 @@ image:
   illustrative: true
 ---
 
-- Incendiul a avut loc pe 14 septembrie, pe platforma Carfil, o filială Romarm. SRI și DIICOT spun că rețeaua era coordonată direct de serviciile de informații ruse și au documentat activitatea a trei cetățeni străini, doi belaruși și un ucrainean, care locuiesc în state din UE.
+- Incendiul a avut loc pe 14 septembrie, la Carfil, o filială a Romarm, compania de armament. Serviciul de informații (SRI) și procurorii DIICOT spun că l-au pus la cale serviciile secrete ruse, prin trei străini care locuiesc în UE.
 - Pe 27 octombrie, Ministerul Afacerilor Externe l-a convocat pe ambasadorul Rusiei și a transmis un protest ferm.
 - Ambasada Rusiei respinge acuzațiile și spune că nu au fost prezentate dovezi.
 

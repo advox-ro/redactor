@@ -71,6 +71,15 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
   if (judging) err(f, `stat: "${judging[0]}" judges the subject; the key figure gives its size (README, A neutral key figure)`);
   if (d.stat?.value?.length > 10) err(f, `stat value "${d.stat.value}" over 10 characters`);
   if (!body) err(f, 'no body (the facts)');
+  // Plain language (README, Rules): short sentences, short facts, few words in all.
+  let factWords = 0;
+  for (const [i, fact] of quiz.facts.entries()) {
+    const sentences = fact.text.split(/(?<=[.!?;])\s+(?=[\p{Lu}„])/u);
+    if (sentences.length > 2) err(f, `fact ${i + 1}: ${sentences.length} sentences (at most 2)`);
+    for (const s of sentences) if (s.split(/\s+/).length > 25) err(f, `fact ${i + 1}: a sentence of ${s.split(/\s+/).length} words (at most 25): "${s.slice(0, 60)}…"`);
+    factWords += fact.text.split(/\s+/).length;
+  }
+  if (factWords > 100) err(f, `${factWords} words of facts (at most 100)`);
 
   if (d.image) {
     for (const k of ['src', 'alt', 'credit', 'license', 'url']) if (!d.image[k]) err(f, `image needs ${k}`);

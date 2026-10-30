@@ -14,7 +14,7 @@ image:
   illustrative: true
 ---
 
-- Avertizarea ANM e valabilă de marți, 27 octombrie, de la ora 10, până miercuri, 28 octombrie, la ora 12, pentru București, Ilfov, Tulcea, Constanța, Călărași, Ialomița, Giurgiu și Teleorman.
+- Avertizarea ANM, administrația națională de meteorologie, ține de marți, 27 octombrie, ora 10, până miercuri, 28 octombrie, ora 12. Privește București, Ilfov, Tulcea, Constanța, Călărași, Ialomița, Giurgiu și Teleorman.
 - Sunt așteptate în general 20–30 l/mp, iar izolat peste 40 l/mp. Călărași și Ialomița au și o avertizare de vânt puternic.
 
 ## Întrebări

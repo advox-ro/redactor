@@ -14,21 +14,14 @@ image:
   illustrative: true
 ---
 
-- Majoritatea celor 2.200 de angajați ai combinatului siderurgic Liberty Galați intră în șomaj tehnic în noiembrie; măsura îi privește și pe angajații Liberty Tubular Products. Conducerea invocă dificultăți severe, inclusiv cu furnizarea de energie și cu transportul angajaților. O parte dintre oameni rămân la pază și la întreținerea instalațiilor; câți, încă nu s-a stabilit.
+- Majoritatea celor 2.200 de angajați ai combinatului Liberty Galați intră în șomaj tehnic în noiembrie. O parte dintre ei rămân la pază și la întreținerea instalațiilor.
   > „Majoritatea celor 2.200 de angajați ai combinatului siderurgic Liberty Galați vor intra în șomaj tehnic de la 1 noiembrie” [1]
-  > „Angajații au fost informați joi dimineață că activitatea va fi întreruptă temporar pe parcursul lunii noiembrie” [1]
-  > „Măsura se aplică și pentru salariații de la Liberty Tubular Products S.A.” [1]
-  > „pe fondul dificultăților severe prin care trecem, inclusiv cele legate de furnizarea de energie și de transportul salariaților” [1]
   > „Cei care se vor mai prezenta la lucru vor asigura paza obiectivului sau unele activități esențiale pentru conservarea unităților de producție.” [2]
-  > „a declarat pentru News.ro un reprezentant al Liberty Galați, care a precizat că numărul exact al persoanelor vizate nu a fost încă stabilit.” [1]
-- Angajații nu și-au mai primit salariile din luna mai și au anunțat un protest pentru vineri, 30 octombrie, în fața Prefecturii Galați. La începutul lui octombrie existau speranțe ca laminoarele să repornească după 15 octombrie, iar circa 1.000 de angajați să revină la lucru.
+- Oamenii nu și-au mai primit salariile din mai și protestează vineri, 30 octombrie, în fața Prefecturii Galați. La început de octombrie se spera ca circa 1.000 de oameni să revină la lucru.
   > „În paralel, angajații pregătesc un nou protest pentru vineri, 30 octombrie, pe platoul din fața Prefecturii Galați.” [2]
   > „Oamenii vor să știe ce se întâmplă cu combinatul și ce soartă vor avea salariații, neplătiți din luna mai.” [2]
-  > „La începutul lunii octombrie, existau speranțe că o parte dintre activitățile combinatului Liberty Galați ar putea fi reluate după data de 15 octombrie. Planurile vizau repornirea laminoarelor” [3]
   > „circa 1.000 de angajați din totalul de aproximativ 2.000 ar fi putut reveni la lucru în cazul repornirii instalațiilor.” [3]
-- Într-o scrisoare deschisă din 8 octombrie, adresată Guvernului, administratorilor concordatari și creditorilor, 27 de directori și șefi de departament ai combinatului spun că nu pot plăti salariile și energia, pentru că vânzarea unor stocuri vechi de materii prime este blocată. Potrivit lor, o deconectare de la curent ar duce în câteva ore la colapsul tuturor sistemelor, iar realimentarea cu energie ar putea dura până la 50 de zile.
-  > „Avertismentul apare într-o scrisoare deschisă datată 8 octombrie 2026 și semnată de 27 de directori și șefi de departament ai combinatului” [4]
-  > „Documentul este adresat Guvernului, Comitetului interministerial pentru protejarea intereselor statului la Liberty Galați, administratorilor concordatari, creditorilor” [4]
+- Conducerea spune că nu poate plăti salariile și curentul, pentru că vânzarea unor stocuri vechi de materii prime e blocată. Fără curent, sistemele combinatului s-ar opri în câteva ore, iar repornirea ar putea dura până la 50 de zile.
   > „Conducerea spune că nu poate face plăți salariale și către furnizori, în condițiile în care vânzarea unor stocuri vechi de materii prime este blocată, și nu poate plăti resursele energetice” [4]
   > „o eventuală deconectare a platformei de la energia electrică ar duce, în doar câteva ore, la colapsul tuturor sistemelor combinatului” [4]
   > „Re-energizarea platformei siderurgice ar fi un proces extrem de complex, care nu a mai fost realizat niciodată și care ar putea dura până la 50 de zile” [4]

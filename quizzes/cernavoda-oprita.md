@@ -1,6 +1,6 @@
 ---
 title: Cernavodă rămâne oprită
-summary: Reactoarele de la Cernavodă rămân oprite și în noiembrie. Cum îți încălzești casa și cât te îngrijorează factura.
+summary: Reactoarele de la Cernavodă rămân oprite și în noiembrie. Cum îți încălzești casa și ce aștepți de la factura la curent.
 tags: [energie, facturi]
 date: 2026-10-29
 stat: { value: "20%", label: "din curentul produs în țară vine, de obicei, de la Cernavodă", quote: "În mod normal, cele două reactoare de la Cernavodă asigură 20% din producția de energie, cantitate pe care România este acum nevoită să o importe de la vecinii săi.", source: 4 }
@@ -12,18 +12,15 @@ image:
   url: https://commons.wikimedia.org/wiki/File:Cernavoda_Nuclear_Power_Plant_of_Romania_in_December_2024_on_an_IAEA_IPPAS_mission_to_advise_on_facility_security_-_1.jpg
 ---
 
-- Unitatea 1 a fost oprită pe 28 iulie, iar unitatea 2 pe 13 august, pentru că Dunărea scăzuse prea mult pentru apa de răcire. Nuclearelectrica spune că situația nu prezintă niciun risc pentru securitatea nucleară.
-  > „Reactorul 1 a fost oprit controlat la 28 iulie, iar Reactorul 2 a fost oprit la 13 august.” [1]
+- Reactoarele sunt oprite din vară, pentru că Dunărea a scăzut prea mult ca să le răcească. Nuclearelectrica spune că nu e niciun risc nuclear.
   > „a fost oprită controlat în vară, din cauza nivelului foarte scăzut al debitului Dunării, care asigură apa necesară răcirii sistemelor centralei.” [1]
   > „Centrala Nucleară de la Cernavodă utilizează apa din sistemul Dunăre–Canalul Dunăre–Marea Neagră în procesele de răcire necesare funcționării instalațiilor.” [2]
   > „această situație nu prezintă niciun risc pentru securitatea nucleară” [3]
-- Pe 29 octombrie, Comitetul Național pentru Situații de Urgență a prelungit cu 30 de zile starea de alertă în energie, a treia prelungire de la finalul lui iulie, pentru că reactoarele nu pot fi repornite în noiembrie. Ministrul Energiei a spus că, pe baza prognozelor actuale, un reactor ar putea reporni în jurul datei de 15 noiembrie; Nuclearelectrica a transmis joi seară că prognozele nu îndeplinesc încă toate criteriile pentru repornire.
+- Pe 29 octombrie, starea de alertă în energie a fost prelungită cu 30 de zile. Ministrul Energiei spune că un reactor ar putea reporni în jurul datei de 15 noiembrie, dar Nuclearelectrica, că încă nu sunt îndeplinite condițiile.
   > „Comitetul Național pentru Situații de Urgență (CNSU) a prelungit cu 30 de zile, de la 29 octombrie, starea de alertă în energie, pentru că reactoarele de la Cernavodă nu pot fi repornite în noiembrie” [4]
   > „că, pe baza prognozelor actuale, unul dintre reactoarele nucleare ale Centralei de la Cernavodă va putea fi repornit în jurul datei de 15 noiembrie.” [1]
-  > „Este a treia prelungire a stării de alertă declarate la finalul lui iulie.” [4]
   > „deși există premise, prognozele curente nu indică îndeplinirea tuturor criteriilor care să permită luarea deciziei de repornire a cel puțin uneia dintre unități” [3]
-  > „a transmis joi seară conducerea Nuclearelectrica (SNN)” [3]
-- Hotărârea le cere celor de la Transelectrica să ia toate măsurile pentru a evita o pană majoră de curent: mai multă producție în țară, importuri din țările vecine și, la nevoie, reducerea consumului. Pe piața spot, România a fost printre cele mai scumpe piețe din Europa, cu o medie de 323 de euro pe MWh, apoi de 258 de euro pe MWh.
+- Transelectrica, compania care administrează rețeaua de curent, trebuie să evite o pană mare, la nevoie și prin reducerea consumului. Curentul cumpărat pentru ziua următoare a costat 323 de euro pe MWh, printre cele mai mari din Europa.
   > „Operatorul are obligația să dispună toate măsurile necesare pentru evitarea unei pene majore de curent. Transelectrica va solicita creșterea producției interne din toate sursele, va asigura importurile necesare din țările vecine și, la nevoie, va ordona reducerea consumului.” [5]
   > „Ieri, România era printre cele mai scumpe piețe spot europene, cu o medie de 323 euro/MWh, iar azi nivelul continuă să se mențină la un nivel extrem de ridicat, de 258 euro/MWh.” [4]
 
