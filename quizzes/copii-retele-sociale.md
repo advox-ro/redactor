@@ -1,0 +1,92 @@
+---
+title: Copiii pe rețelele sociale
+summary: Comisia Europeană îngheață un an legile naționale noi despre copii pe rețelele sociale. Ce vârstă e potrivită și cine ar trebui să decidă.
+tags: [copii, media]
+date: 2026-10-29
+stat: { value: "12 luni", label: "îngheață Comisia Europeană legile naționale noi despre copii pe rețelele sociale", quote: "Comisia a decis să amâne cu 12 luni orice proiect de lege național care se suprapune cu viitoarele norme armonizate", source: 1 }
+image:
+  src: /quizzes/copii-retele-sociale.jpg
+  alt: Ilustrație cu pictogramele unor aplicații de rețele sociale pe ecrane de telefon
+  credit: Geralt
+  license: CC0
+  url: https://commons.wikimedia.org/wiki/File:Mobile-phone-426559_1920.jpg
+  illustrative: true
+---
+
+- Comisia Europeană a decis să amâne cu 12 luni orice lege națională nouă care se suprapune cu viitoarele reguli comune ale UE despre accesul copiilor la rețelele sociale. Prima vizată e Austria, care voia să interzică rețelele copiilor sub 14 ani; guvernul austriac spune că e inacceptabil ca Bruxelles-ul să împiedice legile naționale fără o soluție europeană completă și că își va aplica legea imediat după suspendare. Grecia, care și-a adoptat deja legea, o va putea probabil păstra.
+  > „Comisia a decis să amâne cu 12 luni orice proiect de lege național care se suprapune cu viitoarele norme armonizate” [1]
+  > „Austria intenționa să interzică accesul copiilor sub 14 ani la rețelele sociale, însă propunerea nu a primit aprobarea Bruxelles-ului.” [2]
+  > „Însă Austria, prima țară căreia i s-a cerut joi să-și suspende legislația, a criticat vehement această solicitare.” [1]
+  > „Este inacceptabil ca Bruxelles-ul să împiedice statele membre să adopte legi naționale fără a prezenta o soluție europeană completă proprie” [1]
+  > „interdicția privind rețelele sociale poate fi pusă în aplicare imediat după expirarea perioadei de suspendare a UE” [1]
+  > „Grecia a adoptat deja propria lege pentru copiii sub 15 ani și va putea probabil să o mențină” [1]
+- Propunerea Comisiei din septembrie pune limite după vârstă. Pentru copiii sub 13 ani, două televiziuni scriu că accesul ar fi interzis (Știrile ProTV: „în majoritatea cazurilor”), iar DC News, că ar fi posibil prin conturi create și controlate de părinți. Între 13 și 15 ani ar exista acces limitat, sub supravegherea părinților, iar de la 15 ani, conturi proprii.
+  > „Luna trecută, Comisia Europeană a propus interzicerea accesului la rețelele sociale pentru copiii sub 13 ani și permiterea unui acces limitat, sub supraveghere, până la vârsta de 15 ani.” [2]
+  > „Propunerea Comisiei ar interzice accesul la rețelele sociale pentru minorii sub 13 ani în majoritatea cazurilor și ar restricționa sever accesul pentru adolescenții sub 15 ani.” [1]
+  > „Pentru copiii cu vârsta sub 13 ani, accesul ar urma să fie posibil prin conturi create de părinți și aflate sub controlul acestora.” [3]
+  > „În cazul copiilor cu vârste între 13 și 15 ani, sunt propuse conturi de tip introductiv.” [3]
+  > „După împlinirea vârstei de 15 ani, adolescenții ar putea să își creeze și să își gestioneze propriile conturi.” [3]
+- Propunerea trebuie aprobată de Parlamentul European și de cele 27 de state membre. Comisia spune că „toți copiii din UE merită același nivel de siguranță online” și că legi diferite de la o țară la alta ar face regulile „imposibil de aplicat”.
+  > „trebuie încă aprobat, în aceiași termeni, de Parlamentul European și de cele 27 de state membre.” [3]
+  > „ajungeți să aveți grupe de vârstă diferite, legi diferite în diferite state membre", iar reglementările devin "imposibil de aplicat", a explicat purtătorul de cuvânt Thomas Regnier” [3]
+  > „Toți copiii din UE merită același nivel de siguranță online” [3]
+
+## Întrebări
+
+### De la ce vârstă ar trebui să aibă voie copiii să-și facă singuri un cont pe rețelele sociale?
+
+| id | varsta |
+|---|---|
+| type | single |
+| measures | opinion |
+
+1. Sub 13 ani
+2. De la 13 ani
+3. De la 14 ani
+4. De la 15 ani
+5. De la 16 ani
+6. De la 18 ani
+7. Nu ar trebui o limită prin lege
+8. Nu știu
+
+### Cine ar trebui să stabilească de la ce vârstă pot copiii să folosească rețelele sociale?
+
+| id | cine-decide |
+|---|---|
+| type | single |
+| measures | opinion |
+
+1. Părinții, pentru copiii lor
+2. Fiecare țară, prin legea ei
+3. Uniunea Europeană, la fel pentru toate țările
+4. Rețelele sociale, prin regulile lor
+5. Altcineva
+6. Nu știu
+
+### Are vreunul dintre copiii tăi sub 15 ani un cont al lui pe o rețea socială?
+
+| id | cont-copil |
+|---|---|
+| type | single |
+| measures | experience |
+| na | Nu am copii sub 15 ani |
+
+1. Da
+2. Nu
+3. Nu știu
+
+### Cât de îngrijorat(ă) ești de timpul petrecut de copiii tăi sub 18 ani pe rețelele sociale?
+
+| id | ingrijorare |
+|---|---|
+| type | scale |
+| measures | opinion |
+| na | Nu am copii sub 18 ani care folosesc rețele sociale |
+| scale | Deloc îngrijorat(ă) … Foarte îngrijorat(ă) |
+| outlook | 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1 |
+
+## Surse
+
+1. Comisia Europeană cere statelor membre să suspende legile naționale care restricționează accesul minorilor la rețelele sociale — Știrile ProTV. https://stirileprotv.ro/stiri/international/comisia-europeana-cere-statelor-membre-sa-suspende-legile-nationale-care-restrictioneaza-accesul-minorilor-la-retelele-sociale.html
+2. UE blochează timp de un an noi legi naționale privind interzicerea accesului copiilor la rețelele sociale. Motivul deciziei — Digi24. https://www.digi24.ro/stiri/externe/ue/ue-blocheaza-timp-de-un-an-noi-legi-nationale-privind-interzicerea-accesului-copiilor-la-retelele-sociale-motivul-deciziei-4014253
+3. Interzicerea accesului minorilor la rețelele de socializare, amânată de UE. Motivul deciziei: Reglementările devin "imposibil de aplicat" — DC News. https://www.dcnews.ro/interzicerea-accesului-minorilor-la-retelele-de-socializare-amanata-de-ue-motivul-deciziei-reglementarile-devin-imposibil-de-aplicat_1092648.html
