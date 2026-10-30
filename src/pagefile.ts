@@ -50,12 +50,15 @@ export function parsePage(md: string): PageFile {
   return { data, facts, sources };
 }
 
-/** The page as the site reads it: the front matter with its quiz's questions (none without a quiz)
- *  and its articles (news), and the facts alone, without their quotes, as Markdown. */
+/** The page as the site reads it: the front matter with its quiz's questions (none without a quiz),
+ *  its articles (news) and its facts with their sources' numbers, and the facts alone, without their
+ *  quotes, as Markdown. */
 export function published(q: PageFile, questions: Question[] = []): { data: Record<string, any>; facts: string } {
   const { quote, source, ...stat } = q.data.stat ?? {};
   const data: Record<string, any> = { ...q.data, questions };
   if (q.data.stat) data.stat = stat;
   if (q.sources.length) data.news = q.sources.map(({ outlet, title, url }) => ({ outlet, title, url }));
+  // Each fact on its own, with the numbers (in Surse) of the articles its quotes come from: a card each.
+  data.facts = q.facts.map((f) => ({ text: f.text, sources: [...new Set(f.quotes.map((x) => x.source))] }));
   return { data, facts: q.facts.map((f) => `- ${f.text}`).join('\n') };
 }
