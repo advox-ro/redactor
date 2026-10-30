@@ -1,0 +1,109 @@
+// The editor's pull requests, opened by the Worker as advox-ro. The editor runs where GitHub is
+// reachable only for reading, so it sends a quiz here and the Worker commits it to a branch
+// quiz/<slug> and opens the pull request, with GITHUB_TOKEN (a token of the advox-ro account for
+// this repository only). It can touch nothing else: only quiz/ branches, only the quiz's own three
+// files (quizzes/<slug>.md, its photo, its evidence), never main. The checks on GitHub then merge
+// it or say why not (.github/workflows/check.yml).
+//   GET  /proposals              the open quiz pull requests
+//   POST /proposals              { slug, title, body, message?, files: { path: base64 } }: commit the
+//                                files to quiz/<slug> (from main, or on top of the branch when it
+//                                exists) and open its pull request if none is open
+//   GET  /proposals/<n>          its state (open, merged, closed) and the checks' failure comments
+//   POST /proposals/<n>/close    { reason }: comment the reason, close it, delete its branch
+import type { Env } from './env';
+
+const REPO = 'advox-ro/redactor';
+const AUTHOR = { name: 'advox-ro', email: '349334465+advox-ro@users.noreply.github.com' };
+const SLUG = /^[a-z0-9]+(-[a-z0-9]+)*$/;
+// The comment the check job posts when a check fails (check.yml).
+const FAILED = 'Verificările nu au trecut';
+
+export class ProposalError extends Error {}
+
+async function gh<T>(env: Env, method: string, path: string, body?: unknown): Promise<T> {
+  if (!env.GITHUB_TOKEN) throw new Error('GITHUB_TOKEN is not set');
+  const r = await fetch(`https://api.github.com/repos/${REPO}${path}`, {
+    method,
+    headers: {
+      Authorization: `Bearer ${env.GITHUB_TOKEN}`,
+      Accept: 'application/vnd.github+json',
+      'User-Agent': 'redactor',
+      ...(body !== undefined && { 'Content-Type': 'application/json' }),
+    },
+    body: body === undefined ? undefined : JSON.stringify(body),
+  });
+  if (!r.ok) throw new Error(`GitHub ${method} ${path}: ${r.status} ${(await r.text()).slice(0, 300)}`);
+  return (r.status === 204 ? null : await r.json()) as T;
+}
+
+type Pull = { number: number; html_url: string; title: string; state: string; merged_at: string | null; head: { ref: string } };
+const brief = (p: Pull) => ({ number: p.number, branch: p.head.ref, title: p.title, url: p.html_url });
+
+export async function openProposals(env: Env) {
+  const pulls = await gh<Pull[]>(env, 'GET', '/pulls?state=open&per_page=100');
+  return pulls.filter((p) => p.head.ref.startsWith('quiz/')).map(brief);
+}
+
+export type Proposal = { slug: string; title: string; body: string; message?: string; files: Record<string, string> };
+
+export async function propose(env: Env, p: Proposal) {
+  if (!SLUG.test(p.slug ?? '')) throw new ProposalError('slug: lowercase letters, digits and hyphens');
+  if (!p.title || !p.body) throw new ProposalError('title and body are required');
+  const allowed = [`quizzes/${p.slug}.md`, `quizzes/photos/${p.slug}.jpg`, `quizzes/evidence/${p.slug}.json`];
+  const paths = Object.keys(p.files ?? {});
+  if (!paths.length) throw new ProposalError('files: none given');
+  const stray = paths.filter((f) => !allowed.includes(f));
+  if (stray.length) throw new ProposalError(`files: only ${allowed.join(', ')}; not ${stray.join(', ')}`);
+
+  const branch = `quiz/${p.slug}`;
+  const existing = await gh<{ object: { sha: string } }>(env, 'GET', `/git/ref/heads/${branch}`).catch(() => null);
+  const parent = existing?.object.sha ?? (await gh<{ object: { sha: string } }>(env, 'GET', '/git/ref/heads/main')).object.sha;
+  const base = await gh<{ tree: { sha: string } }>(env, 'GET', `/git/commits/${parent}`);
+  const tree = await Promise.all(
+    paths.map(async (path) => {
+      const blob = await gh<{ sha: string }>(env, 'POST', '/git/blobs', { content: p.files[path], encoding: 'base64' });
+      return { path, mode: '100644', type: 'blob', sha: blob.sha };
+    }),
+  );
+  const newTree = await gh<{ sha: string }>(env, 'POST', '/git/trees', { base_tree: base.tree.sha, tree });
+  const date = new Date().toISOString(); // UTC
+  const commit = await gh<{ sha: string }>(env, 'POST', '/git/commits', {
+    message: p.message || `Quiz nou: ${p.title}`,
+    tree: newTree.sha,
+    parents: [parent],
+    author: { ...AUTHOR, date },
+    committer: { ...AUTHOR, date },
+  });
+  if (existing) await gh(env, 'PATCH', `/git/refs/heads/${branch}`, { sha: commit.sha });
+  else await gh(env, 'POST', '/git/refs', { ref: `refs/heads/${branch}`, sha: commit.sha });
+
+  const [open] = await gh<Pull[]>(env, 'GET', `/pulls?state=open&head=advox-ro:${branch}`);
+  const pull = open ?? (await gh<Pull>(env, 'POST', '/pulls', { title: `Quiz nou: ${p.title}`, head: branch, base: 'main', body: p.body }));
+  return { ...brief(pull), commit: commit.sha };
+}
+
+async function quizPull(env: Env, n: number) {
+  const pull = await gh<Pull>(env, 'GET', `/pulls/${n}`);
+  if (!pull.head.ref.startsWith('quiz/')) throw new ProposalError(`#${n} is not a quiz pull request`);
+  return pull;
+}
+
+export async function proposal(env: Env, n: number) {
+  const pull = await quizPull(env, n);
+  const comments = await gh<{ body: string; created_at: string }[]>(env, 'GET', `/issues/${n}/comments?per_page=100`);
+  return {
+    ...brief(pull),
+    state: pull.merged_at ? 'merged' : pull.state,
+    failures: comments.filter((c) => c.body.startsWith(FAILED)).map((c) => ({ at: c.created_at, body: c.body })),
+  };
+}
+
+export async function closeProposal(env: Env, n: number, reason: string) {
+  if (!reason) throw new ProposalError('reason is required');
+  const pull = await quizPull(env, n);
+  if (pull.state !== 'open') throw new ProposalError(`#${n} is already ${pull.merged_at ? 'merged' : 'closed'}`);
+  await gh(env, 'POST', `/issues/${n}/comments`, { body: reason });
+  await gh(env, 'PATCH', `/pulls/${n}`, { state: 'closed' });
+  await gh(env, 'DELETE', `/git/refs/heads/${pull.head.ref}`).catch(() => null);
+  return { number: n, state: 'closed' };
+}

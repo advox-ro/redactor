@@ -29,7 +29,7 @@ node questions/validate.mjs       # fondul de întrebări, după questions/READM
 - **Subiecte.** Fiecare articol primește un vector (embedding, modelul bge-m3) din titlu și primele rânduri. Un articol intră într-un subiect deschis dacă e destul de apropiat de el (`JOIN` în `src/ingest.ts`), altfel începe unul nou. Un subiect rămâne deschis 72 de ore de la ultimul articol. Un articol preluat aproape identic de la altă publicație nu se numără ca a doua sursă.
 - **Candidații.** `GET /candidates` dă subiectele din ultima zi care ar putea deveni un quiz, ordonate după ce poate măsura codul: câte tipuri de publicații scriu despre subiect și dacă subiectul crește. Pentru fiecare: articolele și județele (`src/candidates.ts`). Judecata (ce fel de știre e, câți oameni atinge, dacă se pot pune întrebări fără vinovați și fără partide, dacă advox.ro a mai întrebat despre el) e a editorului, care citește quizurile, fondul de întrebări și wiki-ul direct din repository.
 - **Verificarea quizului.** Un quiz din știri vine cu dovezile lui, `quizzes/evidence/<slug>.json`: pentru fiecare fapt, propozițiile din articole pe care se sprijină. Editorul trebuie să treacă `npm run check-quiz` înainte să deschidă pull request-ul, iar GitHub o rulează din nou pe pull request (`.github/workflows/check.yml`). Comanda descarcă fiecare articol citat și verifică faptul că propoziția pe care se sprijină fiecare fapt apare în articol cuvânt cu cuvânt, că fiecare număr din fapte, rezumat și cifra-cheie se află în propozițiile citate, că faptele vin de la cel puțin două publicații și, la un quiz pentru toată țara, de la două tipuri de publicații (`src/quizcheck.ts`). Apoi trebuie să treacă și `npm run validate`.
-- **Publicarea.** Un pull request pe o ramură `quiz/` care schimbă doar fișiere din `quizzes/` (quizul, fotografia, dovezile) se unește singur când toate verificările trec, apoi deploy-ul îl publică. Unul care nu trece rămâne deschis, cu motivul în log. Orice altă schimbare în repository se unește de mână.
+- **Publicarea.** Editorul lucrează într-un mediu din care GitHub se poate doar citi, așa că trimite quizul redactorului (`POST /proposals`, cu `scripts/propose.mjs`). Worker-ul îl pune pe ramura `quiz/<slug>` și deschide pull request-ul în numele contului advox-ro, cu secretul `GITHUB_TOKEN`; poate atinge doar ramuri `quiz/` și doar cele trei fișiere ale quizului (`src/proposals.ts`). Un pull request pe o ramură `quiz/` care schimbă doar fișiere din `quizzes/` (quizul, fotografia, dovezile) se unește singur când toate verificările trec, apoi deploy-ul îl publică. Unul care nu trece rămâne deschis, cu motivul în log. Orice altă schimbare în repository se unește de mână.
 - **Deciziile.** Editorul trimite înapoi ce a decis despre fiecare candidat citit, cu motivul (`POST /decisions`). Un subiect cu o decizie nu mai e oferit.
 
 ## Sursele
@@ -42,9 +42,10 @@ Fluxurile sunt în [`src/sources.ts`](src/sources.ts), verificate unul câte unu
 |---|---|
 | `quizzes/`, `wiki/`, `questions/` | Conținutul publicat, regulile și verificarea lui |
 | `scripts/content.ts`, `scripts/pool.mjs`, `scripts/citations.mjs`, `scripts/private-sections.mjs`, `src/content.ts` | Cum ajunge conținutul în Worker |
-| `src/index.ts` | Programul rulărilor, entrypoint-ul `Content` pentru site și adresele, toate cu `REDACTOR_TOKEN`: `GET /candidates`, `POST /decisions`, `GET /status`, `POST /run/<job>` |
+| `src/index.ts` | Programul rulărilor, entrypoint-ul `Content` pentru site și adresele, toate cu `REDACTOR_TOKEN`: `GET /candidates`, `POST /decisions`, `GET /status`, `POST /run/<job>`, `/proposals` |
 | `src/ingest.ts`, `src/feeds.ts`, `src/counties.ts`, `src/sources.ts` | Fluxurile, subiectele, județele din titluri |
 | `src/candidates.ts` | Candidații zilei și deciziile editorului |
+| `src/proposals.ts`, `scripts/propose.mjs`, `scripts/await-pr.mjs` | Pull request-urile editorului, deschise de Worker în numele contului advox-ro |
 | `src/quizcheck.ts`, `src/facts.ts`, `scripts/check-quiz.ts` | Verificarea unui quiz față de articolele lui |
 | `EDITOR.md` | Instrucțiunile editorului |
 | `migrations/` | Tabelele bazei de date (Cloudflare D1, în Uniunea Europeană) |
@@ -58,4 +59,4 @@ npm test                 # testele
 npm run dev              # Worker-ul local, cu rulările programate
 ```
 
-Singurul secret al Worker-ului e `REDACTOR_TOKEN`, pus cu `npx wrangler secret put`; local stă în `.dev.vars`. Fiecare push pe `main` verifică și publică ([`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)); are nevoie de secretele `CLOUDFLARE_API_TOKEN` și `CLOUDFLARE_ACCOUNT_ID` în repository.
+Secretele Worker-ului, puse cu `npx wrangler secret put`: `REDACTOR_TOKEN`, cerut de toate adresele, și `GITHUB_TOKEN`, un token al contului advox-ro doar pentru acest repository, cu drept de scriere pe conținut și pe pull request-uri; local stau în `.dev.vars`. Fiecare push pe `main` verifică și publică ([`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)); are nevoie de secretele `CLOUDFLARE_API_TOKEN` și `CLOUDFLARE_ACCOUNT_ID` în repository.

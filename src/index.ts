@@ -9,6 +9,7 @@
 //   POST /decisions    what the editor decided about them
 //   GET  /status       counts, failing feeds, the last runs and decisions
 //   POST /run/<job>    run ingest or cleanup by hand
+//   /proposals         the editor's quiz pull requests, opened here as advox-ro (proposals.ts)
 // The site reads the published content through the Content entrypoint, over a service binding: a
 // private connection between the two Workers, with no public address.
 import { WorkerEntrypoint } from 'cloudflare:workers';
@@ -16,6 +17,7 @@ import { candidates, decide, type Decision } from './candidates';
 import { photo, POOL, QUIZZES, WIKI, type Pool, type Quiz, type WikiPage } from './content';
 import type { Env } from './env';
 import { ingest } from './ingest';
+import { closeProposal, openProposals, propose, proposal, ProposalError, type Proposal } from './proposals';
 
 const DAY = 86_400_000;
 
@@ -96,8 +98,14 @@ export default {
       if (route === 'GET /status') return Response.json(await status(env));
       const job = url.pathname.match(/^\/run\/([a-z]+)$/)?.[1];
       if (request.method === 'POST' && job && JOBS[job]) return Response.json(await run(env, job));
+      if (route === 'GET /proposals') return Response.json(await openProposals(env));
+      if (route === 'POST /proposals') return Response.json(await propose(env, (await request.json()) as Proposal));
+      const [, n, close] = url.pathname.match(/^\/proposals\/(\d+)(\/close)?$/) ?? [];
+      if (n && !close && request.method === 'GET') return Response.json(await proposal(env, Number(n)));
+      if (n && close && request.method === 'POST') return Response.json(await closeProposal(env, Number(n), ((await request.json()) as { reason: string }).reason));
       return new Response('not found\n', { status: 404 });
     } catch (e) {
+      if (e instanceof ProposalError) return Response.json({ error: e.message }, { status: 400 });
       return Response.json({ error: String(e) }, { status: 500 });
     }
   },
