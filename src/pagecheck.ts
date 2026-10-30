@@ -1,11 +1,11 @@
-// The checks a news quiz must pass before the editor may propose it (scripts/check-quiz.ts runs
-// them). Each fact in the quiz's body comes with the sentences of the articles it rests on, and the
-// key figure may come with its own (src/quizfile.ts describes the layout). Every quote must be in
+// The checks a news page must pass before the editor may propose it (scripts/check-page.ts runs
+// them). Each fact in the page's body comes with the sentences of the articles it rests on, and the
+// key figure may come with its own (src/pagefile.ts describes the layout). Every quote must be in
 // its article word for word, every number must be in the quotes it rests on (the summary's and the
-// key figure's, in any quote of the quiz), every article in Surse must back something, and the
-// facts must come from two outlets; a quiz for the whole country, from two kinds of outlets.
+// key figure's, in any quote of the page), every article in Surse must back something, and the
+// facts must come from two outlets; a page for the whole country, from two kinds of outlets.
 import { loose, numbers } from './facts';
-import type { QuizFile, Quote } from './quizfile';
+import type { PageFile, Quote } from './pagefile';
 import { BUCKET_OF, FEEDS } from './sources';
 
 const host = (u: string) => {
@@ -22,19 +22,19 @@ export function kindOf(outlet: string, url: string): string {
   return BUCKET_OF[outlet] ?? KIND_BY_HOST.get(host(url)) ?? `other:${host(url)}`;
 }
 
-/** Every quote in the quiz: under its facts, and the key figure's. */
-export function quotesOf(q: QuizFile): Quote[] {
+/** Every quote in the page: under its facts, and the key figure's. */
+export function quotesOf(q: PageFile): Quote[] {
   const stat = q.data.stat?.quote ? [{ quote: q.data.stat.quote, source: q.data.stat.source }] : [];
   return [...q.facts.flatMap((f) => f.quotes), ...stat];
 }
 
-/** Problems with the quiz; empty when it passes. texts: each article's text by address, as
+/** Problems with the page; empty when it passes. texts: each article's text by address, as
  *  fetched (null when it couldn't be read). */
-export function checkQuiz(q: QuizFile, texts: Map<string, string | null>): string[] {
+export function checkPage(q: PageFile, texts: Map<string, string | null>): string[] {
   const p: string[] = [];
   const d = q.data;
   const byN = new Map(q.sources.map((s) => [s.n, s]));
-  if (!d.date) p.push('a news quiz needs its date');
+  if (!d.date) p.push('a news page needs its date');
 
   const all = quotesOf(q);
   for (const x of all) {
@@ -62,6 +62,6 @@ export function checkQuiz(q: QuizFile, texts: Map<string, string | null>): strin
   const backing = q.sources.filter((s) => q.facts.some((f) => f.quotes.some((x) => x.source === s.n)));
   if (new Set(backing.map((s) => s.outlet)).size < 2) p.push('the facts rest on one outlet; two are needed');
   if (!d.counties?.length && new Set(backing.map((s) => kindOf(s.outlet, s.url))).size < 2)
-    p.push('a quiz for the whole country needs its facts from two kinds of outlets (sources.ts)');
+    p.push('a page for the whole country needs its facts from two kinds of outlets (sources.ts)');
   return p;
 }

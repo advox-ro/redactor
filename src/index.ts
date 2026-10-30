@@ -1,21 +1,21 @@
-// redactor: publishes advox.ro's content (the quizzes, the wiki and the question pool), reads the
+// redactor: publishes advox.ro's content (the pages, the wiki and the question pool), reads the
 // Romanian press and groups articles into stories, for the editor (EDITOR.md), which chooses the
-// stories and proposes the quizzes. The editor reads the content from the repository itself.
+// stories and proposes the pages. The editor reads the content from the repository itself.
 // Scheduled jobs (UTC, wrangler.jsonc):
 //   every 30 minutes   ingest: read the feeds, place new articles in stories (ingest.ts)
 //   02:00              clean up
 // Addresses, all with the REDACTOR_TOKEN as a bearer token:
-//   GET  /candidates   the last day's stories that could become a quiz (candidates.ts)
+//   GET  /candidates   the last day's stories that could become a page (candidates.ts)
 //   POST /decisions    what the editor decided about them
 //   GET  /status       counts, failing feeds, the last runs and decisions
 //   POST /run/<job>    run ingest or cleanup by hand
-//   /proposals         the editor's quiz pull requests, opened here as advox-ro (proposals.ts)
+//   /proposals         the editor's page pull requests, opened here as advox-ro (proposals.ts)
 //   GET  /commons      photos from Wikimedia Commons, fetched for the editor (commons.ts)
 // The site reads the published content through the Content entrypoint, over a service binding: a
 // private connection between the two Workers, with no public address.
 import { WorkerEntrypoint } from 'cloudflare:workers';
 import { candidates, decide, type Decision } from './candidates';
-import { photo, POOL, QUIZZES, WIKI, type Pool, type Quiz, type WikiPage } from './content';
+import { photo, POOL, PAGES, WIKI, type Pool, type Page, type WikiPage } from './content';
 import type { Env } from './env';
 import { commonsFile, searchCommons } from './commons';
 import { ingest } from './ingest';
@@ -61,11 +61,15 @@ async function status(env: Env) {
 }
 
 export class Content extends WorkerEntrypoint<Env> {
-  /** Every published quiz. */
-  quizzes(): Quiz[] {
-    return QUIZZES;
+  /** Every published page. */
+  pages(): Page[] {
+    return PAGES;
   }
-  /** A quiz's photo, by its file name ("<slug>.jpg"), or null. */
+  /** The same, under its former name, while the site still calls it. */
+  quizzes(): Page[] {
+    return PAGES;
+  }
+  /** A page's photo, by its file name ("<slug>.jpg"), or null. */
   photo(file: string): Promise<Response | null> {
     return photo(this.env, file);
   }

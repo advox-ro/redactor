@@ -1,8 +1,8 @@
 // What the editor reads each morning (GET /candidates): the last day's stories that could become a
-// quiz, ranked by what code can measure, each with its articles. And where the editor records what
+// page, ranked by what code can measure, each with its articles. And where the editor records what
 // it decided (POST /decisions), so a story is offered once. The judgement (what kind of story it is,
 // how many people it touches, whether reader questions can be asked about it, whether advox.ro has
-// asked about it already) is the editor's: it reads quizzes/ itself.
+// asked about it already) is the editor's: it reads pages/ itself.
 import { CODES } from './counties';
 import type { Env } from './env';
 import { BUCKET_OF, isLocalOutlet } from './sources';

@@ -6,7 +6,7 @@ date: 2026-10-29
 counties: [GL]
 stat: { value: "2.200", label: "de angajați are combinatul, iar majoritatea intră în șomaj tehnic în noiembrie", quote: "Majoritatea celor 2.200 de angajați ai combinatului siderurgic Liberty Galați vor intra în șomaj tehnic de la 1 noiembrie, din cauza dificultăților cu care se confruntă compania", source: 1 }
 image:
-  src: /quizzes/somaj-tehnic-galati.jpg
+  src: /photos/somaj-tehnic-galati.jpg
   alt: Combinatul siderurgic de la Galați, văzut de departe
   credit: HelmiStoDromo
   license: CC BY-SA 3.0

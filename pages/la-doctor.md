@@ -5,7 +5,7 @@ tags: [sănătate, servicii publice]
 order: 2
 wiki: sanatate
 image:
-  src: /quizzes/la-doctor.jpg
+  src: /photos/la-doctor.jpg
   alt: Spitalul Colțea din București
   credit: Jorge Franganillo
   license: CC BY 2.0

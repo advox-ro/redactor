@@ -7,7 +7,7 @@ wiki: economie
 sources: [10, 11]
 stat: { value: "5,3487", label: "lei pentru un euro, cursul BNR din 27 octombrie" }
 image:
-  src: /quizzes/euro-record.jpg
+  src: /photos/euro-record.jpg
   alt: Un portofel negru, o bancnotă de 5 euro și câteva monede de 1 euro
   credit: Santeri Viinamäki
   license: CC BY-SA 4.0

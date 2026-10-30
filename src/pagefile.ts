@@ -1,19 +1,19 @@
-// A quiz file, quizzes/<slug>.md (quizzes/README.md): a short front matter, then the body.
-//   the facts       a list, one fact per item; under a news quiz's fact, the sentences of the
+// A page file, pages/<slug>.md (pages/README.md): a short front matter, then the body.
+//   the facts       a list, one fact per item; under a news page's fact, the sentences of the
 //                   articles it rests on, word for word: `  > „…” [n]`, n from the Surse list
-//   ## Întrebări    the questions, in order: pool ids as a list (`- sanatate-001`), then the quiz's
+//   ## Întrebări    the questions, in order: pool ids as a list (`- sanatate-001`), then the page's
 //                   own questions, each a `### ` heading with its text, and under it a table of its
 //                   fields (`| type | single |`) and its options as a numbered list (`1. …`), as
 //                   parseQuestions reads them
-//   ## Surse        a news quiz's articles, as in the wiki: `n. Title — Outlet. https://…`
-// The build (scripts/content.ts), the validator (quizzes/validate.mjs) and the fact check
-// (quizcheck.ts) all read quizzes through parseQuiz.
+//   ## Surse        a news page's articles, as in the wiki: `n. Title — Outlet. https://…`
+// The build (scripts/content.ts), the validator (pages/validate.mjs) and the fact check
+// (pagecheck.ts) all read pages through parsePage.
 import { parse } from 'yaml';
 
 export type Quote = { quote: string; source: number };
 export type Fact = { text: string; quotes: Quote[] };
 export type Source = { n: number; title: string; outlet: string; url: string };
-export type QuizFile = {
+export type PageFile = {
   data: Record<string, any>; // the front matter
   facts: Fact[];
   questions: (string | Record<string, any>)[];
@@ -23,7 +23,7 @@ export type QuizFile = {
 const SECTIONS = ['Întrebări', 'Surse'];
 
 /** Throws, with the line at fault, when the file doesn't follow the layout. */
-export function parseQuiz(md: string): QuizFile {
+export function parsePage(md: string): PageFile {
   const m = md.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
   if (!m) throw new Error('no front matter');
   const data = parse(m[1]) ?? {};
@@ -82,9 +82,9 @@ const FIELDS: Record<string, (v: string) => unknown> = {
     ),
 };
 
-/** The questions of a quiz, from its "## Întrebări" section: pool ids, then its own questions. */
-export function parseQuestions(text: string): QuizFile['questions'] {
-  const out: QuizFile['questions'] = [];
+/** The questions of a page, from its "## Întrebări" section: pool ids, then its own questions. */
+export function parseQuestions(text: string): PageFile['questions'] {
+  const out: PageFile['questions'] = [];
   let q: Record<string, any> | null = null;
   for (const line of text.split('\n').map((l) => l.trimEnd()).filter(Boolean)) {
     const heading = line.match(/^### (.+)$/);
@@ -94,7 +94,7 @@ export function parseQuestions(text: string): QuizFile['questions'] {
     }
     if (!q) {
       const id = line.match(/^- ([a-z0-9-]+)$/)?.[1];
-      if (!id) throw new Error(`not a pool question id (pool ids come before the quiz's own questions): ${line}`);
+      if (!id) throw new Error(`not a pool question id (pool ids come before the page's own questions): ${line}`);
       out.push(id);
       continue;
     }
@@ -117,9 +117,9 @@ export function parseQuestions(text: string): QuizFile['questions'] {
   return out;
 }
 
-/** The quiz as the site reads it: the front matter with its questions and its articles (news), and
+/** The page as the site reads it: the front matter with its questions and its articles (news), and
  *  the facts alone, without their quotes, as Markdown. */
-export function published(q: QuizFile): { data: Record<string, any>; facts: string } {
+export function published(q: PageFile): { data: Record<string, any>; facts: string } {
   const { quote, source, ...stat } = q.data.stat ?? {};
   const data: Record<string, any> = { ...q.data, questions: q.questions };
   if (q.data.stat) data.stat = stat;

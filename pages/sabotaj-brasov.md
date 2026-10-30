@@ -4,7 +4,7 @@ summary: SRI și DIICOT spun că incendiul de la fabrica de armament Carfil a fo
 tags: [securitate, încredere]
 date: 2026-10-27
 image:
-  src: /quizzes/sabotaj-brasov.jpg
+  src: /photos/sabotaj-brasov.jpg
   alt: Două autospeciale de pompieri pe un bulevard din București
   credit: apparmor_parser
   license: CC BY-SA 2.0

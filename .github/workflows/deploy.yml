@@ -38,7 +38,7 @@ jobs:
         run: npx vitest run
       - name: Check the question pool
         run: node questions/validate.mjs
-      - name: Check the quizzes
+      - name: Check the pages
         run: npm run validate
 
       - name: Apply database migrations

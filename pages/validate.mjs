@@ -1,21 +1,21 @@
-// Checks the quizzes against the rules in quizzes/README.md: the schema, the question pool, the wiki,
-// the news quizzes' press links, photos and own questions, and duplicates (a question in two quizzes,
-// two quizzes on the same thing). The question pool and the wiki are read from questions/ and wiki/.
-// Every quiz is read through src/quizfile.ts, as the build reads it. Usage: npm run validate (tsx)
+// Checks the pages against the rules in pages/README.md: the schema, the question pool, the wiki,
+// the news pages' press links, photos and own questions, and duplicates (a question in two pages,
+// two pages on the same thing). The question pool and the wiki are read from questions/ and wiki/.
+// Every page is read through src/pagefile.ts, as the build reads it. Usage: npm run validate (tsx)
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { basename, dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { buildPool } from '../scripts/pool.mjs';
-import { parseQuiz, published } from '../src/quizfile.ts';
+import { parsePage, published } from '../src/pagefile.ts';
 
 const root = dirname(fileURLToPath(import.meta.url));
 const redactor = join(root, '..');
 
 const MEASURES = ['experience', 'satisfaction', 'priority', 'trend', 'tradeoff', 'expectation', 'trust', 'opinion'];
 const FREE_LICENSE = /^(CC0|Public domain|CC BY(-SA)? \d\.\d)/;
-// County codes a local quiz may name (src/counties.ts), and DSP for the diaspora.
+// County codes a local page may name (src/counties.ts), and DSP for the diaspora.
 const COUNTIES = new Set([...readFileSync(join(redactor, 'src/counties.ts'), 'utf8').matchAll(/code: '([A-Z]+)'/g)].map((m) => m[1]));
-const NEWS_DAYS = 14; // a news quiz older than this is flagged for the archive
+const NEWS_DAYS = 14; // a news page older than this is flagged for the archive
 
 // The pool questions the site serves (id → where, group) and each wiki page's source numbers.
 const pool = new Map(Object.entries(buildPool(join(redactor, 'questions')).questions));
@@ -36,23 +36,23 @@ const warn = (f, msg) => (warnings++, console.log(`! ${f}: ${msg}`));
 
 const sets = [];
 for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))) {
-  let quiz;
+  let page;
   try {
-    quiz = parseQuiz(readFileSync(join(root, f), 'utf8'));
+    page = parsePage(readFileSync(join(root, f), 'utf8'));
   } catch (e) {
     err(f, e.message);
     continue;
   }
   // As the site reads it: the front matter with its questions and its articles (news).
-  const { data: d, facts: body } = published(quiz);
+  const { data: d, facts: body } = published(page);
   sets.push({ f, slug: f.slice(0, -3), ...d, body });
-  for (const k of ['news', 'questions']) if (quiz.data[k] !== undefined) err(f, `${k} belongs in the body (quizzes/README.md), not the front matter`);
-  const cited = [...quiz.facts.flatMap((x) => x.quotes.map((q) => q.source)), ...(quiz.data.stat?.quote ? [quiz.data.stat.source] : [])];
-  for (const n of cited) if (!quiz.sources.some((s) => s.n === n)) err(f, `a quote cites [${n}], which is not in Surse`);
+  for (const k of ['news', 'questions']) if (page.data[k] !== undefined) err(f, `${k} belongs in the body (pages/README.md), not the front matter`);
+  const cited = [...page.facts.flatMap((x) => x.quotes.map((q) => q.source)), ...(page.data.stat?.quote ? [page.data.stat.source] : [])];
+  for (const n of cited) if (!page.sources.some((s) => s.n === n)) err(f, `a quote cites [${n}], which is not in Surse`);
 
   for (const k of ['title', 'summary', 'tags', 'questions']) if (d[k] === undefined) err(f, `missing ${k}`);
   const news = d.date !== undefined;
-  if (!news && typeof d.order !== 'number') err(f, 'a quiz without a date needs an order');
+  if (!news && typeof d.order !== 'number') err(f, 'a page without a date needs an order');
   if (news && Number.isNaN(Date.parse(d.date))) err(f, `date "${d.date}" is not a date`);
   if (news && (Date.now() - Date.parse(d.date)) / 864e5 > NEWS_DAYS) warn(f, `news from ${d.date}, over ${NEWS_DAYS} days old`);
   if (d.title?.length > 32) err(f, `title over 32 characters`);
@@ -74,22 +74,22 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
 
   if (d.image) {
     for (const k of ['src', 'alt', 'credit', 'license', 'url']) if (!d.image[k]) err(f, `image needs ${k}`);
-    if (d.image.src && !/^\/quizzes\/[a-z0-9-]+\.jpg$/.test(d.image.src)) err(f, `image src "${d.image.src}" must be /quizzes/<file>.jpg`);
-    else if (d.image.src && !existsSync(join(root, 'photos', basename(d.image.src)))) err(f, `no file quizzes/photos/${basename(d.image.src)}`);
+    if (d.image.src && !/^\/photos\/[a-z0-9-]+\.jpg$/.test(d.image.src)) err(f, `image src "${d.image.src}" must be /photos/<file>.jpg`);
+    else if (d.image.src && !existsSync(join(root, 'photos', basename(d.image.src)))) err(f, `no file pages/photos/${basename(d.image.src)}`);
     if (d.image.license && !FREE_LICENSE.test(d.image.license)) err(f, `image licence "${d.image.license}" is not a free licence`);
-  } else if (news) err(f, 'a news quiz needs an image');
+  } else if (news) err(f, 'a news page needs an image');
 
   if (news) {
     const outlets = new Set((d.news ?? []).map((n) => n.outlet));
     for (const n of d.news ?? []) if (!n.outlet || !n.title || !/^https:\/\//.test(n.url ?? '')) err(f, `news item needs outlet, title and an https url`);
-    if (outlets.size < 2 && !(outlets.size === 1 && d.wiki && d.sources?.length)) err(f, 'a news quiz needs two outlets, or one and wiki sources');
+    if (outlets.size < 2 && !(outlets.size === 1 && d.wiki && d.sources?.length)) err(f, 'a news page needs two outlets, or one and wiki sources');
   }
 
   if (d.wiki) {
     const sources = wikiSources(d.wiki);
     if (!sources) err(f, `no wiki page wiki/${d.wiki}.md`);
     else for (const n of d.sources ?? []) if (!sources.has(n)) err(f, `source ${n} not in the Surse list of wiki/${d.wiki}.md`);
-  } else if (!news && !d.wiki) err(f, 'a quiz without a date needs a wiki page');
+  } else if (!news && !d.wiki) err(f, 'a page without a date needs a wiki page');
 
   const qs = d.questions ?? [];
   if (qs.length < 4 || qs.length > 8) err(f, `${qs.length} questions (4–8)`);
@@ -134,13 +134,13 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
     if (p.where !== 'diaspora') home++;
     if (p.where !== 'romania') abroad++;
   }
-  // Who sees the quiz: residents, unless it is for the diaspora only.
+  // Who sees the page: residents, unless it is for the diaspora only.
   const dspOnly = d.counties?.length === 1 && d.counties[0] === 'DSP';
   if (dspOnly && abroad < 3) err(f, `only ${abroad} questions for the diaspora (at least 3)`);
   if (!dspOnly && home < 3) err(f, `only ${home} questions for residents (at least 3)`);
 }
 
-// Duplicates across quizzes.
+// Duplicates across pages.
 const owner = new Map();
 for (const s of sets)
   for (const id of (s.questions ?? []).filter((q) => typeof q === 'string')) {
@@ -166,5 +166,5 @@ for (let i = 0; i < sets.length; i++)
     if (a.stat?.label && a.stat.label === b.stat?.label) err(b.f, `same key figure as ${a.f}`);
   }
 
-console.log(`${sets.length} quizzes (${sets.filter((s) => s.date).length} from the news), ${owner.size} pool questions: ${errors} errors, ${warnings} warnings`);
+console.log(`${sets.length} pages (${sets.filter((s) => s.date).length} from the news), ${owner.size} pool questions: ${errors} errors, ${warnings} warnings`);
 process.exit(errors ? 1 : 0);

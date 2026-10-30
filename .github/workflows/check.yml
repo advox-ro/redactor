@@ -1,9 +1,9 @@
-# Every pull request is checked: the code, the question pool, the wiki and the quizzes. The editor's
+# Every pull request is checked: the code, the question pool, the wiki and the pages. The editor's
 # pull requests (EDITOR.md) publish themselves when everything passes: they are merged and deployed.
 # There are two kinds:
-#   quiz/<slug>      only the quiz's files in quizzes/ (the quiz and its photo); every new or
-#                    changed news quiz is also checked against its articles, by the quotes under
-#                    its facts (check-quiz)
+#   page/<slug>      only the page's files in pages/ (the page and its photo); every new or
+#                    changed news page is also checked against its articles, by the quotes under
+#                    its facts (check-page)
 #   content/<slug>   only wiki pages and question pool files
 # When a check fails, the reason goes in a comment on the pull request, where the editor reads it
 # and fixes it.
@@ -45,7 +45,7 @@ jobs:
         run: npx vitest run 2>&1 | tee -a check.log
       - name: Check the question pool
         run: node questions/validate.mjs 2>&1 | tee -a check.log
-      - name: Check the quizzes
+      - name: Check the pages
         run: npm run validate 2>&1 | tee -a check.log
 
       - name: Which files the pull request changes
@@ -56,24 +56,24 @@ jobs:
           cat changed.txt removed.txt
           # The editor's two kinds of pull request, with nothing removed, publish themselves.
           if [ -s removed.txt ] || [ ! -s changed.txt ]; then exit 0; fi
-          if [ "${GITHUB_HEAD_REF#quiz/}" != "$GITHUB_HEAD_REF" ] \
-            && ! grep -qvE '^quizzes/([a-z0-9-]+\.md|photos/[a-z0-9-]+\.jpg)$' changed.txt; then
-            echo "quiz=true" >> "$GITHUB_OUTPUT"; echo "publish=true" >> "$GITHUB_OUTPUT"
+          if [ "${GITHUB_HEAD_REF#page/}" != "$GITHUB_HEAD_REF" ] \
+            && ! grep -qvE '^pages/([a-z0-9-]+\.md|photos/[a-z0-9-]+\.jpg)$' changed.txt; then
+            echo "page=true" >> "$GITHUB_OUTPUT"; echo "publish=true" >> "$GITHUB_OUTPUT"
           fi
           if [ "${GITHUB_HEAD_REF#content/}" != "$GITHUB_HEAD_REF" ] \
             && ! grep -qvE '^(wiki/[a-z][a-z0-9-]*\.md|questions/[a-z][a-z0-9-]*\.jsonl)$' changed.txt; then
             echo "content=true" >> "$GITHUB_OUTPUT"; echo "publish=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Check each news quiz against its articles
-        if: steps.files.outputs.quiz == 'true'
+      - name: Check each news page against its articles
+        if: steps.files.outputs.page == 'true'
         run: |
-          for f in $(grep -E '^quizzes/[a-z0-9-]+\.md$' changed.txt); do
+          for f in $(grep -E '^pages/[a-z0-9-]+\.md$' changed.txt); do
             grep -q '^date:' "$f" || continue
-            npm run -s check-quiz -- "$f" 2>&1 | tee -a check.log
+            npm run -s check-page -- "$f" 2>&1 | tee -a check.log
           done
 
-      # Every pull request: a question already published, in the pool or in a quiz, keeps what it asks.
+      # Every pull request: a question already published, in the pool or in a page, keeps what it asks.
       - name: Check that published questions keep what they ask
         run: npm run -s questions-unchanged -- origin/main 2>&1 | tee -a check.log
 

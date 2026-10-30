@@ -5,7 +5,7 @@ tags: [educație, copii]
 order: 4
 wiki: educatie
 image:
-  src: /quizzes/scoala.jpg
+  src: /photos/scoala.jpg
   alt: Clădirea Liceului Teoretic „Mihail Kogălniceanu” din Vaslui
   credit: Ntbizib
   license: CC BY-SA 4.0

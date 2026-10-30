@@ -5,7 +5,7 @@ tags: [copii, media]
 date: 2026-10-29
 stat: { value: "12 luni", label: "îngheață Comisia Europeană legile naționale noi despre copii pe rețelele sociale", quote: "Comisia a decis să amâne cu 12 luni orice proiect de lege național care se suprapune cu viitoarele norme armonizate", source: 1 }
 image:
-  src: /quizzes/copii-retele-sociale.jpg
+  src: /photos/copii-retele-sociale.jpg
   alt: Ilustrație cu pictogramele unor aplicații de rețele sociale pe ecrane de telefon
   credit: Geralt
   license: CC0

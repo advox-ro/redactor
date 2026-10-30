@@ -5,7 +5,7 @@ tags: [muncă, bani]
 date: 2026-10-30
 stat: { value: "517.100", label: "de șomeri, între 15 și 74 de ani, estimați de INS în septembrie 2026", quote: "Numărul șomerilor cu vârste între 15 și 74 de ani a fost estimat la 517.100 de persoane, cu 6.300 mai puține decât în luna precedentă.", source: 2 }
 image:
-  src: /quizzes/somaj-septembrie.jpg
+  src: /photos/somaj-septembrie.jpg
   alt: Sediul Institutului Național de Statistică din București
   credit: Dan Mihai Pitea
   license: CC BY-SA 3.0

@@ -1,6 +1,6 @@
 // Checking a fact against its source: the sentence it comes from must be in the article, word for
-// word, and every number in the fact must be in that sentence. Used by the quiz check
-// (scripts/check-quiz.ts), which the editor runs before proposing a quiz.
+// word, and every number in the fact must be in that sentence. Used by the page check
+// (scripts/check-page.ts), which the editor runs before proposing a page.
 import { plain } from './feeds';
 
 const UA = 'Mozilla/5.0 (compatible; redactor; +https://advox.ro)';

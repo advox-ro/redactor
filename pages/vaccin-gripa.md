@@ -5,7 +5,7 @@ tags: [sănătate]
 date: 2026-10-27
 stat: { value: "400.259", label: "de oameni se vaccinaseră antigripal până pe 18 octombrie" }
 image:
-  src: /quizzes/vaccin-gripa.jpg
+  src: /photos/vaccin-gripa.jpg
   alt: O seringă cu vaccin antigripal, în momentul injecției
   credit: Daniel Paquet
   license: CC BY 2.0

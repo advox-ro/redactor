@@ -2,7 +2,7 @@
 // reachable only for reading, so it sends its changes here and the Worker commits them to a branch
 // and opens the pull request, with GITHUB_TOKEN (a token of the advox-ro account for this
 // repository only). Two kinds, and nothing else, never on main:
-//   quiz      branch quiz/<slug>: the quiz's own two files (quizzes/<slug>.md and its photo)
+//   page      branch page/<slug>: the page's own two files (pages/<slug>.md and its photo)
 //   content   branch content/<slug>: wiki pages (wiki/<name>.md) and question pool files
 //             (questions/<name>.jsonl); the READMEs and QUIZ.md stay out of reach
 // The checks on GitHub then merge it or say why not (.github/workflows/check.yml).
@@ -46,14 +46,14 @@ export async function openProposals(env: Env) {
   return pulls.filter((p) => OURS(p.head.ref)).map(brief);
 }
 
-export type Proposal = { kind?: 'quiz' | 'content'; slug: string; title: string; body: string; message?: string; files: Record<string, string> };
+export type Proposal = { kind?: 'page' | 'content'; slug: string; title: string; body: string; message?: string; files: Record<string, string> };
 
 const KINDS = {
-  quiz: {
-    branch: (slug: string) => `quiz/${slug}`,
-    allows: (path: string, slug: string) => [`quizzes/${slug}.md`, `quizzes/photos/${slug}.jpg`].includes(path),
-    // The quiz's title; a "Quiz nou:" or "Quiz:" the editor already wrote isn't doubled.
-    title: (t: string) => `Quiz nou: ${t.replace(/^(quiz( nou)?:\s*)+/i, '')}`,
+  page: {
+    branch: (slug: string) => `page/${slug}`,
+    allows: (path: string, slug: string) => [`pages/${slug}.md`, `pages/photos/${slug}.jpg`].includes(path),
+    // The page's title; a "Pagină nouă:", "Quiz nou:" or "Quiz:" the editor already wrote isn't doubled.
+    title: (t: string) => `Pagină nouă: ${t.replace(/^((pagină nouă|quiz( nou)?):\s*)+/i, '')}`,
   },
   content: {
     branch: (slug: string) => `content/${slug}`,
@@ -61,17 +61,17 @@ const KINDS = {
     title: (t: string) => t,
   },
 };
-const OURS = (ref: string) => ref.startsWith('quiz/') || ref.startsWith('content/');
+const OURS = (ref: string) => ref.startsWith('page/') || ref.startsWith('content/');
 
 export async function propose(env: Env, p: Proposal) {
-  const kind = KINDS[p.kind ?? 'quiz'];
-  if (!kind) throw new ProposalError('kind: quiz or content');
+  const kind = KINDS[p.kind ?? 'page'];
+  if (!kind) throw new ProposalError('kind: page or content');
   if (!SLUG.test(p.slug ?? '')) throw new ProposalError('slug: lowercase letters, digits and hyphens');
   if (!p.title || !p.body) throw new ProposalError('title and body are required');
   const paths = Object.keys(p.files ?? {});
   if (!paths.length) throw new ProposalError('files: none given');
   const stray = paths.filter((f) => !kind.allows(f, p.slug));
-  if (stray.length) throw new ProposalError(`files not allowed for a ${p.kind ?? 'quiz'} proposal: ${stray.join(', ')}`);
+  if (stray.length) throw new ProposalError(`files not allowed for a ${p.kind ?? 'page'} proposal: ${stray.join(', ')}`);
 
   const branch = kind.branch(p.slug);
   const existing = await gh<{ object: { sha: string } }>(env, 'GET', `/git/ref/heads/${branch}`).catch(() => null);
@@ -100,14 +100,14 @@ export async function propose(env: Env, p: Proposal) {
   return { ...brief(pull), commit: commit.sha };
 }
 
-async function quizPull(env: Env, n: number) {
+async function pagePull(env: Env, n: number) {
   const pull = await gh<Pull>(env, 'GET', `/pulls/${n}`);
   if (!OURS(pull.head.ref)) throw new ProposalError(`#${n} is not one of the editor's pull requests`);
   return pull;
 }
 
 export async function proposal(env: Env, n: number) {
-  const pull = await quizPull(env, n);
+  const pull = await pagePull(env, n);
   const comments = await gh<{ body: string; created_at: string }[]>(env, 'GET', `/issues/${n}/comments?per_page=100`);
   return {
     ...brief(pull),
@@ -118,7 +118,7 @@ export async function proposal(env: Env, n: number) {
 
 export async function closeProposal(env: Env, n: number, reason: string) {
   if (!reason) throw new ProposalError('reason is required');
-  const pull = await quizPull(env, n);
+  const pull = await pagePull(env, n);
   if (pull.state !== 'open') throw new ProposalError(`#${n} is already ${pull.merged_at ? 'merged' : 'closed'}`);
   await gh(env, 'POST', `/issues/${n}/comments`, { body: reason });
   await gh(env, 'PATCH', `/pulls/${n}`, { state: 'closed' });

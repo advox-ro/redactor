@@ -4,7 +4,7 @@ summary: ANM estimează că prima săptămână din noiembrie va fi mai rece dec
 tags: [vreme]
 date: 2026-10-30
 image:
-  src: /quizzes/frig-noiembrie.jpg
+  src: /photos/frig-noiembrie.jpg
   alt: Seară ploioasă într-un cartier de blocuri din Onești
   credit: Oneșteanu
   license: CC0

@@ -1,5 +1,5 @@
 // The feeds redactor reads, all checked by hand. kind groups outlets by what they are, not by
-// what they think: a quiz from the news needs its facts from two outlets, and a national quiz from
+// what they think: a page from the news needs its facts from two outlets, and a national page from
 // two kinds of outlets. A local outlet gives its county as a first guess for its articles.
 export type Kind = 'public' | 'agency' | 'tv' | 'press' | 'business' | 'investigative' | 'specialist' | 'local';
 export type Feed = { id: string; outlet: string; url: string; kind: Kind; county?: string };

@@ -5,7 +5,7 @@ tags: [transport, județ]
 order: 10
 wiki: infrastructura
 image:
-  src: /quizzes/drumuri.jpg
+  src: /photos/drumuri.jpg
   alt: Stația de metrou Râul Doamnei, linia M5, București
   credit: Miehs
   license: CC BY-SA 4.0

@@ -6,7 +6,7 @@ date: 2026-10-27
 counties: [B, IF, TL, CT, CL, IL, GR, TR]
 stat: { value: "40 l/mp", label: "de ploaie pot cădea izolat, potrivit ANM" }
 image:
-  src: /quizzes/cod-galben-ploi.jpg
+  src: /photos/cod-galben-ploi.jpg
   alt: O stradă de sat acoperită de apă după o ploaie puternică
   credit: István Szőllősi
   license: CC BY 3.0

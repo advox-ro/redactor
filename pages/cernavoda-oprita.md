@@ -5,7 +5,7 @@ tags: [energie, facturi]
 date: 2026-10-29
 stat: { value: "20%", label: "din curentul produs în țară vine, de obicei, de la Cernavodă", quote: "În mod normal, cele două reactoare de la Cernavodă asigură 20% din producția de energie, cantitate pe care România este acum nevoită să o importe de la vecinii săi.", source: 4 }
 image:
-  src: /quizzes/cernavoda-oprita.jpg
+  src: /photos/cernavoda-oprita.jpg
   alt: Clădirile reactoarelor de la Centrala Nucleară Cernavodă, în decembrie 2024
   credit: IAEA Imagebank
   license: CC BY 2.0

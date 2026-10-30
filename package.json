@@ -7,9 +7,9 @@
     "test": "vitest run",
     "check": "tsc -p .",
     "deploy": "wrangler deploy",
-    "check-quiz": "tsx scripts/check-quiz.ts",
+    "check-page": "tsx scripts/check-page.ts",
     "content": "tsx scripts/content.ts",
-    "validate": "tsx quizzes/validate.mjs",
+    "validate": "tsx pages/validate.mjs",
     "questions-unchanged": "tsx scripts/questions-unchanged.ts"
   },
   "dependencies": {
