@@ -2,10 +2,9 @@
 //   node scripts/propose.mjs <slug> <title> <body.md> [--message <commit message>]
 //   node scripts/propose.mjs --content <slug> <title> <body.md> <file>… [--message <commit message>]
 // Sends the editor's changes to the redactor, which commits them as advox-ro and opens the pull
-// request (src/proposals.ts). A quiz: quizzes/<slug>.md, quizzes/photos/<slug>.jpg and
-// quizzes/evidence/<slug>.json (those that exist), on the branch quiz/<slug>. With --content: the
-// wiki pages and question pool files named, on the branch content/<slug>. Run it again to push a
-// fix to the same pull request. Prints the pull request's number and address. Reads REDACTOR_TOKEN.
+// request (src/proposals.ts). A quiz: quizzes/<slug>.md and quizzes/photos/<slug>.jpg (those that
+// exist), on the branch quiz/<slug>. With --content: the wiki pages and question pool files named,
+// on the branch content/<slug>. Run it again to push a fix to the same pull request. Prints the pull request's number and address. Reads REDACTOR_TOKEN.
 // For the editor (EDITOR.md).
 import { existsSync, readFileSync } from 'node:fs';
 
@@ -22,7 +21,7 @@ if (!slug || !title || !bodyFile || !token || (kind === 'content') !== named.len
   console.error('usage: REDACTOR_TOKEN=… node scripts/propose.mjs [--content] <slug> <title> <body.md> [file…] [--message <message>]');
   process.exit(2);
 }
-const paths = kind === 'quiz' ? [`quizzes/${slug}.md`, `quizzes/photos/${slug}.jpg`, `quizzes/evidence/${slug}.json`].filter((p) => existsSync(p)) : named;
+const paths = kind === 'quiz' ? [`quizzes/${slug}.md`, `quizzes/photos/${slug}.jpg`].filter((p) => existsSync(p)) : named;
 const files = Object.fromEntries(paths.map((p) => [p, readFileSync(p).toString('base64')]));
 const r = await fetch('https://redactor.advox.ro/proposals', {
   method: 'POST',

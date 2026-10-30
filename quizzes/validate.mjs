@@ -1,20 +1,15 @@
 // Checks the quizzes against the rules in quizzes/README.md: the schema, the question pool, the wiki,
 // the news quizzes' press links, photos and own questions, and duplicates (a question in two quizzes,
 // two quizzes on the same thing). The question pool and the wiki are read from questions/ and wiki/.
-// Usage: npm run validate
+// Every quiz is read through src/quizfile.ts, as the build reads it. Usage: npm run validate (tsx)
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 import { basename, dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
-import YAML from 'yaml';
 import { buildPool } from '../scripts/pool.mjs';
+import { parseQuiz, published } from '../src/quizfile.ts';
 
 const root = dirname(fileURLToPath(import.meta.url));
 const redactor = join(root, '..');
-
-function frontMatter(md) {
-  const m = md.match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
-  return m && { data: YAML.parse(m[1]), body: m[2].trim() };
-}
 
 const MEASURES = ['experience', 'satisfaction', 'priority', 'trend', 'tradeoff', 'expectation', 'trust', 'opinion'];
 const FREE_LICENSE = /^(CC0|Public domain|CC BY(-SA)? \d\.\d)/;
@@ -41,10 +36,19 @@ const warn = (f, msg) => (warnings++, console.log(`! ${f}: ${msg}`));
 
 const sets = [];
 for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))) {
-  const parsed = frontMatter(readFileSync(join(root, f), 'utf8'));
-  if (!parsed) { err(f, 'no front matter'); continue; }
-  const { data: d, body } = parsed;
+  let quiz;
+  try {
+    quiz = parseQuiz(readFileSync(join(root, f), 'utf8'));
+  } catch (e) {
+    err(f, e.message);
+    continue;
+  }
+  // As the site reads it: the front matter with its questions and its articles (news).
+  const { data: d, facts: body } = published(quiz);
   sets.push({ f, slug: f.slice(0, -3), ...d, body });
+  for (const k of ['news', 'questions']) if (quiz.data[k] !== undefined) err(f, `${k} belongs in the body (quizzes/README.md), not the front matter`);
+  const cited = [...quiz.facts.flatMap((x) => x.quotes.map((q) => q.source)), ...(quiz.data.stat?.quote ? [quiz.data.stat.source] : [])];
+  for (const n of cited) if (!quiz.sources.some((s) => s.n === n)) err(f, `a quote cites [${n}], which is not in Surse`);
 
   for (const k of ['title', 'summary', 'tags', 'questions']) if (d[k] === undefined) err(f, `missing ${k}`);
   const news = d.date !== undefined;

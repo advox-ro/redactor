@@ -1,5 +1,6 @@
 import { expect, test } from 'vitest';
-import { checkQuiz, type Evidence } from '../src/quizcheck';
+import { checkQuiz } from '../src/quizcheck';
+import { parseQuiz } from '../src/quizfile';
 
 const A = 'https://www.mediafax.ro/a';
 const B = 'https://economedia.ro/b';
@@ -7,51 +8,64 @@ const texts = new Map([
   [A, 'Unitatea 1 a fost oprită pe 28 iulie, iar unitatea 2 pe 13 august, pentru că Dunărea scăzuse prea mult.'],
   [B, 'Ministrul a spus că un reactor ar putea reporni în jurul datei de 15 noiembrie. Cernavodă produce de obicei 20% din curentul țării.'],
 ]);
-const md = (body: string, extra = '') => `---
+const quiz = (facts: string, surse = `1. A — Mediafax. ${A}\n2. B — Economedia. ${B}`) =>
+  parseQuiz(`---
 title: Iarna fără Cernavodă
 summary: Ambele reactoare stau oprite din vară.
 date: 2026-10-27
-stat: { value: "20%", label: din curentul țării vine de la Cernavodă }
-${extra}news:
-  - { outlet: Mediafax, title: A, url: "${A}" }
-  - { outlet: Economedia, title: B, url: "${B}" }
+stat: { value: "20%", label: din curentul țării vine de la Cernavodă, quote: "Cernavodă produce de obicei 20% din curentul țării", source: 2 }
 ---
 
-${body}`;
-const good = md('- Unitatea 1 a fost oprită pe 28 iulie, iar unitatea 2 pe 13 august.\n- Un reactor ar putea reporni în jurul datei de 15 noiembrie.\n');
-const ev: Evidence = {
-  facts: [[{ url: A, quote: 'Unitatea 1 a fost oprită pe 28 iulie, iar unitatea 2 pe 13 august' }], [{ url: B, quote: 'un reactor ar putea reporni în jurul datei de 15 noiembrie' }]],
-  stat: [{ url: B, quote: 'Cernavodă produce de obicei 20% din curentul țării' }],
-};
+${facts}
+
+## Întrebări
+
+- { id: a, type: yesno, measures: opinion, text: "Da?" }
+
+## Surse
+
+${surse}
+`);
+const FACTS = `- Unitatea 1 a fost oprită pe 28 iulie, iar unitatea 2 pe 13 august.
+  > „Unitatea 1 a fost oprită pe 28 iulie, iar unitatea 2 pe 13 august” [1]
+- Un reactor ar putea reporni în jurul datei de 15 noiembrie.
+  > „un reactor ar putea reporni în jurul datei de 15 noiembrie” [2]`;
 
 test('a quiz whose facts are in its articles passes', () => {
-  expect(checkQuiz(good, ev, texts)).toEqual([]);
+  expect(checkQuiz(quiz(FACTS), texts)).toEqual([]);
 });
 
 test('a number the quotes do not hold is caught', () => {
-  const bad = good.replace('28 iulie', '29 iulie');
-  expect(checkQuiz(bad, ev, texts)).toContain('fact 1: the number 29 is not in its quotes');
+  expect(checkQuiz(quiz(FACTS.replace('- Unitatea 1 a fost oprită pe 28', '- Unitatea 1 a fost oprită pe 29')), texts)).toContain('fact 1: the number 29 is not in its quotes');
 });
 
 test('a quote that is not in the article is caught', () => {
-  const e = { ...ev, facts: [[{ url: A, quote: 'Unitatea 1 a fost oprită definitiv pe 28 iulie' }], ev.facts[1]] };
-  expect(checkQuiz(good, e, texts)).toContain(`not in ${A}, word for word: "Unitatea 1 a fost oprită definitiv pe 28 iulie"`);
+  const q = quiz(FACTS.replace('„Unitatea 1 a fost oprită pe', '„Unitatea 1 a fost oprită definitiv pe'));
+  expect(checkQuiz(q, texts)).toContain(`not in [1] ${A}, word for word: "Unitatea 1 a fost oprită definitiv pe 28 iulie, iar unitatea 2 pe 13 august"`);
 });
 
 test('an article that could not be read fails the quiz', () => {
-  expect(checkQuiz(good, ev, new Map([[A, null], [B, texts.get(B)!]]))).toContain(`couldn't read ${A}: use an article that can be read`);
+  expect(checkQuiz(quiz(FACTS), new Map([[A, null], [B, texts.get(B)!]]))).toContain(`couldn't read ${A}: use an article that can be read`);
 });
 
 test('one outlet is not enough, and a national quiz needs two kinds of outlets', () => {
-  const one = good.replace('outlet: Economedia', 'outlet: Mediafax').replace(B, 'https://www.mediafax.ro/c');
-  const e = { facts: [ev.facts[0], [{ url: 'https://www.mediafax.ro/c', quote: ev.facts[1][0].quote }]] };
-  const t = new Map([[A, texts.get(A)!], ['https://www.mediafax.ro/c', texts.get(B)!]]);
-  const p = checkQuiz(one, e, t);
+  const C = 'https://www.mediafax.ro/c';
+  const p = checkQuiz(quiz(FACTS, `1. A — Mediafax. ${A}\n2. B — Mediafax. ${C}`), new Map([[A, texts.get(A)!], [C, texts.get(B)!]]));
   expect(p).toContain('the facts rest on one outlet; two are needed');
   expect(p).toContain('a quiz for the whole country needs its facts from two kinds of outlets (sources.ts)');
 });
 
-test('the news list and the evidence must match', () => {
-  const e = { ...ev, facts: [ev.facts[0], [{ url: A, quote: 'pentru că Dunărea scăzuse prea mult' }]] };
-  expect(checkQuiz(md('- Unitatea 1 a fost oprită pe 28 iulie, iar unitatea 2 pe 13 august.\n- Dunărea scăzuse prea mult.\n'), e, texts)).toContain(`${B} is in the news list but no fact rests on it`);
+test('an article nothing rests on, and a quote citing no article, are caught', () => {
+  const C = 'https://www.digi24.ro/c';
+  const p = checkQuiz(quiz(FACTS.replace('[2]', '[4]'), `1. A — Mediafax. ${A}\n2. B — Economedia. ${B}\n3. C — Digi24. ${C}`), texts);
+  expect(p).toContain('[4] is not in Surse: "un reactor ar putea reporni în jurul datei de 15 noiembrie"');
+  expect(p).toContain(`[3] ${C} is in Surse but nothing rests on it`);
+});
+
+test('the layout: facts with quotes, one question per line, sources as in the wiki', () => {
+  const q = quiz(FACTS);
+  expect(q.facts.map((f) => f.quotes.length)).toEqual([1, 1]);
+  expect(q.questions).toEqual([{ id: 'a', type: 'yesno', measures: 'opinion', text: 'Da?' }]);
+  expect(q.sources[1]).toEqual({ n: 2, title: 'B', outlet: 'Economedia', url: B });
+  expect(() => parseQuiz('---\ntitle: x\n---\n\nnot a fact\n')).toThrow('not a fact');
 });

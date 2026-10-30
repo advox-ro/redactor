@@ -2,7 +2,7 @@
 // reachable only for reading, so it sends its changes here and the Worker commits them to a branch
 // and opens the pull request, with GITHUB_TOKEN (a token of the advox-ro account for this
 // repository only). Two kinds, and nothing else, never on main:
-//   quiz      branch quiz/<slug>: the quiz's own three files (quizzes/<slug>.md, its photo, its evidence)
+//   quiz      branch quiz/<slug>: the quiz's own two files (quizzes/<slug>.md and its photo)
 //   content   branch content/<slug>: wiki pages (wiki/<name>.md) and question pool files
 //             (questions/<name>.jsonl); the READMEs and QUIZ.md stay out of reach
 // The checks on GitHub then merge it or say why not (.github/workflows/check.yml).
@@ -51,7 +51,7 @@ export type Proposal = { kind?: 'quiz' | 'content'; slug: string; title: string;
 const KINDS = {
   quiz: {
     branch: (slug: string) => `quiz/${slug}`,
-    allows: (path: string, slug: string) => [`quizzes/${slug}.md`, `quizzes/photos/${slug}.jpg`, `quizzes/evidence/${slug}.json`].includes(path),
+    allows: (path: string, slug: string) => [`quizzes/${slug}.md`, `quizzes/photos/${slug}.jpg`].includes(path),
     title: (t: string) => `Quiz nou: ${t}`,
   },
   content: {

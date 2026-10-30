@@ -9,7 +9,7 @@
     "deploy": "wrangler deploy",
     "check-quiz": "tsx scripts/check-quiz.ts",
     "content": "tsx scripts/content.ts",
-    "validate": "node quizzes/validate.mjs"
+    "validate": "tsx quizzes/validate.mjs"
   },
   "dependencies": {
     "fast-xml-parser": "^5.11.2",

@@ -9,6 +9,7 @@ import { parse } from 'yaml';
 import citations from './citations.mjs';
 import { buildPool } from './pool.mjs';
 import privateSections from './private-sections.mjs';
+import { parseQuiz, published } from '../src/quizfile';
 
 const front = (file: string) => {
   const m = readFileSync(file, 'utf8').match(/^---\n([\s\S]*?)\n---\n([\s\S]*)$/);
@@ -18,12 +19,13 @@ const front = (file: string) => {
 // Lowercase names only: README.md is each folder's index on GitHub, not content.
 const pages = (dir: string) => readdirSync(dir).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f));
 
-// A quiz's facts: plain Markdown, through the same processor as the wiki, without its plugins.
+// A quiz as the site reads it (src/quizfile.ts): its data, and its facts, without their quotes, as
+// HTML, through the same Markdown processor as the wiki, without its plugins.
 const plain = await createSatteriMarkdownProcessor({ syntaxHighlight: false });
 const quizzes = [];
 for (const f of pages('quizzes')) {
-  const { data, body } = front(`quizzes/${f}`);
-  quizzes.push({ slug: f.slice(0, -3), data, html: (await plain.render(body.trim())).code });
+  const { data, facts } = published(parseQuiz(readFileSync(`quizzes/${f}`, 'utf8')));
+  quizzes.push({ slug: f.slice(0, -3), data, html: (await plain.render(facts)).code });
 }
 
 // The wiki goes through the same Markdown processor, with the same plugins, as the site's own pages
