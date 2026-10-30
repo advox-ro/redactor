@@ -3,7 +3,7 @@
 # There are two kinds:
 #   page/<slug>      only a page's files (the page and its photo in pages/, its quiz in quizzes/); every new or
 #                    changed news page is also checked against its articles, by the quotes under
-#                    its facts (check-page)
+#                    its cards (check-page)
 #   content/<slug>   only wiki pages and question pool files
 # When a check fails, the reason goes in a comment on the pull request, where the editor reads it
 # and fixes it.

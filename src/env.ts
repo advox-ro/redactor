@@ -5,6 +5,7 @@ export interface Env {
   DB: D1Database;
   AI: Ai;
   ASSETS: Fetcher;
+  BROWSER: Fetcher;
   REDACTOR_TOKEN?: string;
   GITHUB_TOKEN?: string;
 }

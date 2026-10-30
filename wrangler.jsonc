@@ -18,6 +18,8 @@
 		{ "binding": "DB", "database_name": "redactor", "database_id": "f76a670d-7db1-43a6-8d3f-c61f536381c3", "migrations_dir": "migrations" }
 	],
 	"ai": { "binding": "AI" },
+	// A headless browser, to photograph the editor's pages before they are merged (src/preview.ts).
+	"browser": { "binding": "BROWSER" },
 	// Times in UTC (src/index.ts says what each one runs).
 	"triggers": {
 		"crons": ["*/30 * * * *", "0 2 * * *"]

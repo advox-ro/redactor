@@ -13,6 +13,7 @@
     "questions-unchanged": "tsx scripts/questions-unchanged.ts"
   },
   "dependencies": {
+    "@cloudflare/puppeteer": "^1.4.0",
     "fast-xml-parser": "^5.11.2",
     "yaml": "^2.9.1"
   },

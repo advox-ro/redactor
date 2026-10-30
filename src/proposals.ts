@@ -8,9 +8,10 @@
 //             (questions/<name>.jsonl); the READMEs and QUIZ.md stay out of reach
 // The checks on GitHub then merge it or say why not (.github/workflows/check.yml).
 //   GET  /proposals              the editor's open pull requests
-//   POST /proposals              { kind?, slug, title, body, message?, files: { path: base64 } }:
+//   POST /proposals              { kind?, slug, title, body, message?, draft?, files: { path: base64 } }:
 //                                commit the files to the branch (from main, or on top of it when it
-//                                exists) and open its pull request if none is open
+//                                exists) and open its pull request if none is open; with draft, only
+//                                commit them, to look at the page first (GET /preview/<slug>, preview.ts)
 //   GET  /proposals/<n>          its state (open, merged, closed) and the checks' failure comments
 //   POST /proposals/<n>/close    { reason }: comment the reason, close it, delete its branch
 import type { Env } from './env';
@@ -39,6 +40,17 @@ async function gh<T>(env: Env, method: string, path: string, body?: unknown): Pr
   return (r.status === 204 ? null : await r.json()) as T;
 }
 
+/** A file's bytes on a branch of the repository, or null when it isn't there. */
+export async function fileAt(env: Env, path: string, ref: string): Promise<ArrayBuffer | null> {
+  if (!env.GITHUB_TOKEN) throw new Error('GITHUB_TOKEN is not set');
+  const r = await fetch(`https://api.github.com/repos/${REPO}/contents/${path}?ref=${encodeURIComponent(ref)}`, {
+    headers: { Authorization: `Bearer ${env.GITHUB_TOKEN}`, Accept: 'application/vnd.github.raw', 'User-Agent': 'redactor' },
+  });
+  if (r.status === 404) return null;
+  if (!r.ok) throw new Error(`GitHub GET ${path}@${ref}: ${r.status}`);
+  return r.arrayBuffer();
+}
+
 type Pull = { number: number; html_url: string; title: string; state: string; merged_at: string | null; head: { ref: string } };
 const brief = (p: Pull) => ({ number: p.number, branch: p.head.ref, title: p.title, url: p.html_url });
 
@@ -47,7 +59,7 @@ export async function openProposals(env: Env) {
   return pulls.filter((p) => OURS(p.head.ref)).map(brief);
 }
 
-export type Proposal = { kind?: 'page' | 'content'; slug: string; title: string; body: string; message?: string; files: Record<string, string> };
+export type Proposal = { kind?: 'page' | 'content'; slug: string; title: string; body: string; message?: string; draft?: boolean; files: Record<string, string> };
 
 const KINDS = {
   page: {
@@ -62,7 +74,7 @@ const KINDS = {
     title: (t: string) => t,
   },
 };
-const OURS = (ref: string) => ref.startsWith('page/') || ref.startsWith('content/');
+export const OURS = (ref: string) => ref.startsWith('page/') || ref.startsWith('content/');
 
 export async function propose(env: Env, p: Proposal) {
   const kind = KINDS[p.kind ?? 'page'];
@@ -96,6 +108,7 @@ export async function propose(env: Env, p: Proposal) {
   if (existing) await gh(env, 'PATCH', `/git/refs/heads/${branch}`, { sha: commit.sha });
   else await gh(env, 'POST', '/git/refs', { ref: `refs/heads/${branch}`, sha: commit.sha });
 
+  if (p.draft) return { branch, commit: commit.sha };
   const [open] = await gh<Pull[]>(env, 'GET', `/pulls?state=open&head=advox-ro:${branch}`);
   const pull = open ?? (await gh<Pull>(env, 'POST', '/pulls', { title: kind.title(p.title), head: branch, base: 'main', body: p.body }));
   return { ...brief(pull), commit: commit.sha };

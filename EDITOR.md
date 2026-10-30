@@ -58,7 +58,12 @@ Pentru fiecare subiect ales:
    npm run validate
    ```
    Prima descarcă fiecare articol și caută fiecare citat, cuvânt cu cuvânt, și fiecare număr din carduri, rezumat și cifra-cheie în citatele lui. Corectează pagina până trec, fără să schimbi ce spun articolele.
-6. **O a doua lectură.** Cere unui subagent care nu ți-a văzut notițele să citească pagina și quizul ei cu `questions/QUIZ.md`, `pages/README.md` și `quizzes/README.md` în față și să caute: reguli încălcate, fapte pe care articolele nu le susțin, întrebări care sugerează un răspuns sau la care unii cititori nu pot răspunde sincer, fraze greu de urmărit pentru cineva care nu urmărește știrile, o cifră-cheie care judecă în loc să arate cât de mare e subiectul, un card al cărui desen înșală (o comparație pe care sursa n-o face, o cifră calculată de tine, o scară aleasă ca să pară mai rău sau mai bine), și cum l-ar ataca drept părtinitor un susținător și un critic al guvernului. Corectează ce are dreptate. Dacă rămâne o problemă reală, renunță la subiect.
+6. **Cum arată.** Uită-te la carduri așa cum le vor vedea oamenii:
+   ```sh
+   node scripts/preview.mjs <slug>
+   ```
+   Scriptul pune pagina pe ramura ei fără să deschidă pull request-ul și salvează o imagine cu toate cardurile, pe telefon (`--wide`: pe laptop); deschide imaginea. Caută ce se citește greu sau arată ciudat: un titlu rupt urât, un desen care nu spune nimic, cifre înghesuite, un card prea plin. Corectează pagina și rulează din nou până arată bine.
+7. **O a doua lectură.** Cere unui subagent care nu ți-a văzut notițele să citească pagina și quizul ei cu `questions/QUIZ.md`, `pages/README.md` și `quizzes/README.md` în față și să caute: reguli încălcate, fapte pe care articolele nu le susțin, întrebări care sugerează un răspuns sau la care unii cititori nu pot răspunde sincer, fraze greu de urmărit pentru cineva care nu urmărește știrile, o cifră-cheie care judecă în loc să arate cât de mare e subiectul, un card al cărui desen înșală (o comparație pe care sursa n-o face, o cifră calculată de tine, o scară aleasă ca să pară mai rău sau mai bine), și cum l-ar ataca drept părtinitor un susținător și un critic al guvernului. Corectează ce are dreptate. Dacă rămâne o problemă reală, renunță la subiect.
 
 ## 5. Publicarea
 

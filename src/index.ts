@@ -10,6 +10,7 @@
 //   GET  /status       counts, failing feeds, the last runs and decisions
 //   POST /run/<job>    run ingest or cleanup by hand
 //   /proposals         the editor's page pull requests, opened here as advox-ro (proposals.ts)
+//   GET  /preview/<slug>  a picture of the cards of the page on page/<slug>, as the site draws them (preview.ts)
 //   GET  /commons      photos from Wikimedia Commons, fetched for the editor (commons.ts)
 // The site reads the published content through the Content entrypoint, over a service binding: a
 // private connection between the two Workers, with no public address.
@@ -19,6 +20,7 @@ import { photo, POOL, PAGES, WIKI, type Pool, type Page, type WikiPage } from '.
 import type { Env } from './env';
 import { commonsFile, searchCommons } from './commons';
 import { ingest } from './ingest';
+import { draft, draftPhoto, previewShot } from './preview';
 import { closeProposal, openProposals, propose, proposal, ProposalError, type Proposal } from './proposals';
 
 const DAY = 86_400_000;
@@ -81,6 +83,14 @@ export class Content extends WorkerEntrypoint<Env> {
   pool(): Pool {
     return POOL;
   }
+  /** A page on one of the editor's branches, before it is merged, or null (preview.ts). */
+  draft(branch: string) {
+    return draft(this.env, branch);
+  }
+  /** That page's photo, or null. */
+  draftPhoto(branch: string) {
+    return draftPhoto(this.env, branch);
+  }
 }
 
 export default {
@@ -104,6 +114,8 @@ export default {
       if (route === 'GET /commons/file') return await commonsFile(url.searchParams.get('url') ?? '');
       if (route === 'GET /proposals') return Response.json(await openProposals(env));
       if (route === 'POST /proposals') return Response.json(await propose(env, (await request.json()) as Proposal));
+      const shot = url.pathname.match(/^\/preview\/([a-z0-9-]+)$/)?.[1];
+      if (shot && request.method === 'GET') return await previewShot(env, shot, Math.min(1600, Math.max(320, Number(url.searchParams.get('width')) || 390)));
       const [, n, close] = url.pathname.match(/^\/proposals\/(\d+)(\/close)?$/) ?? [];
       if (n && !close && request.method === 'GET') return Response.json(await proposal(env, Number(n)));
       if (n && close && request.method === 'POST') return Response.json(await closeProposal(env, Number(n), ((await request.json()) as { reason: string }).reason));
