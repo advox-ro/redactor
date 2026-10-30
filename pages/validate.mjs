@@ -67,7 +67,7 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
   sets.push({ f, slug: f.slice(0, -3), ...d, body });
   if (page.data.news !== undefined) err(f, 'news belongs in the body, as Surse (pages/README.md), not the front matter');
   if (page.data.questions !== undefined) err(f, 'questions belong in its quiz, quizzes/<id>.md, not the front matter');
-  const cited = [...page.facts.flatMap((x) => x.quotes.map((q) => q.source)), ...(page.data.stat?.quote ? [page.data.stat.source] : [])];
+  const cited = [...[...page.facts, ...page.cards].flatMap((x) => x.quotes.map((q) => q.source)), ...(page.data.stat?.quote ? [page.data.stat.source] : [])];
   for (const n of cited) if (!page.sources.some((s) => s.n === n)) err(f, `a quote cites [${n}], which is not in Surse`);
 
   for (const k of ['title', 'summary', 'tags']) if (d[k] === undefined) err(f, `missing ${k}`);
