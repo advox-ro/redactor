@@ -65,10 +65,6 @@ export class Content extends WorkerEntrypoint<Env> {
   pages(): Page[] {
     return PAGES;
   }
-  /** The same, under its former name, while the site still calls it. */
-  quizzes(): Page[] {
-    return PAGES;
-  }
   /** A page's photo, by its file name ("<slug>.jpg"), or null. */
   photo(file: string): Promise<Response | null> {
     return photo(this.env, file);
