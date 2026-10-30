@@ -1,6 +1,6 @@
 ---
 title: Șomajul în septembrie
-summary: INS estimează 517.100 de șomeri în septembrie, la o rată de 6,3%. Cât de sigur e locul tău de muncă și cât de ușor găsești de lucru.
+summary: INS estimează 517.100 de șomeri în septembrie, la o rată de 6,3%. Cum stai cu munca, față de acum un an.
 tags: [muncă, bani]
 date: 2026-10-30
 stat: { value: "517.100", label: "de șomeri, între 15 și 74 de ani, estimați de INS în septembrie 2026", quote: "Numărul șomerilor cu vârste între 15 și 74 de ani a fost estimat la 517.100 de persoane, cu 6.300 mai puține decât în luna precedentă.", source: 2 }
@@ -29,10 +29,9 @@ image:
 
 ## Întrebări
 
-- demografie-munca-diaspora-008
 - demografie-munca-diaspora-048
-- demografie-munca-diaspora-049
 - demografie-munca-diaspora-040
+- demografie-munca-diaspora-038
 
 ### În ultimele 12 luni, și-a pierdut cineva din gospodăria ta locul de muncă fără să vrea?
 
