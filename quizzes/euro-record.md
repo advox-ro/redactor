@@ -20,10 +20,47 @@ image:
 
 ## Întrebări
 
-- { id: credit, type: single, measures: experience, where: romania, text: Plătești acum în euro un credit sau o chirie?, options: [ { id: a, label: "Da, un credit" }, { id: b, label: "Da, o chirie" }, { id: c, label: "Da, amândouă" }, { id: d, label: Nu } ] }
-- { id: simtit, type: scale, outlook: { "1": 1, "2": 0.5, "3": 0, "4": -0.5, "5": -1 }, measures: experience, where: romania, text: "Cât de mult ai simțit, în ultimele trei luni, creșterea cursului euro în cheltuielile tale?", scale: { minLabel: Deloc, maxLabel: Foarte mult } }
-- { id: economii, type: single, measures: experience, text: "Dacă ai bani puși deoparte, în ce monedă îi ții acum?", options: [ { id: a, label: În lei }, { id: b, label: În euro }, { id: c, label: "Parte în lei, parte în euro" }, { id: d, label: Într-o altă monedă } ], na: Nu am bani puși deoparte }
-- { id: peste-sase-luni, type: single, outlook: { a: -1, b: 0, c: 1, d: 0 }, measures: expectation, text: "Cum crezi că va fi cursul euro peste șase luni, față de acum?", options: [ { id: a, label: Mai mare }, { id: b, label: La fel }, { id: c, label: Mai mic }, { id: d, label: Nu știu } ] }
+### Plătești acum în euro un credit sau o chirie?
+
+- id: credit
+- type: single
+- measures: experience
+- where: romania
+- a) Da, un credit
+- b) Da, o chirie
+- c) Da, amândouă
+- d) Nu
+
+### Cât de mult ai simțit, în ultimele trei luni, creșterea cursului euro în cheltuielile tale?
+
+- id: simtit
+- type: scale
+- measures: experience
+- where: romania
+- scale: Deloc … Foarte mult
+- outlook: 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1
+
+### Dacă ai bani puși deoparte, în ce monedă îi ții acum?
+
+- id: economii
+- type: single
+- measures: experience
+- na: Nu am bani puși deoparte
+- a) În lei
+- b) În euro
+- c) Parte în lei, parte în euro
+- d) Într-o altă monedă
+
+### Cum crezi că va fi cursul euro peste șase luni, față de acum?
+
+- id: peste-sase-luni
+- type: single
+- measures: expectation
+- outlook: a: -1, b: 0, c: 1, d: 0
+- a) Mai mare
+- b) La fel
+- c) Mai mic
+- d) Nu știu
 
 ## Surse
 

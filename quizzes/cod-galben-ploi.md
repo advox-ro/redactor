@@ -19,10 +19,48 @@ image:
 
 ## Întrebări
 
-- { id: strazi, type: scale, outlook: { "1": -1, "2": -0.5, "3": 0, "4": 0.5, "5": 1 }, measures: satisfaction, where: romania, text: "Când plouă mult, cât de bine se scurge apa de pe străzile din localitatea ta?", scale: { minLabel: Foarte prost, maxLabel: Foarte bine } }
-- { id: apa-in-casa, type: single, outlook: { a: -1, b: -0.5, c: 1 }, measures: experience, where: romania, text: "Ți-a intrat vreodată apa în casă, în pivniță sau în curte din cauza ploilor?", options: [ { id: a, label: "Da, în ultimele 12 luni" }, { id: b, label: "Da, mai demult" }, { id: c, label: Niciodată } ] }
-- { id: avertizari, type: multi, measures: experience, where: romania, maxSelect: 3, text: De unde afli de obicei de avertizările de vreme rea? Alege cel mult trei., options: [ { id: a, label: Din mesajele RO-ALERT pe telefon }, { id: b, label: De la televizor sau radio }, { id: c, label: De pe site-ul sau aplicația ANM }, { id: d, label: De pe rețelele sociale }, { id: e, label: De la cei din jur }, { id: f, label: Nu urmăresc avertizările } ] }
-- { id: pregatit, type: scale, outlook: { "1": -1, "2": -0.5, "3": 0, "4": 0.5, "5": 1 }, measures: expectation, where: romania, text: Cât de pregătit(ă) te simți pentru o inundație în zona în care locuiești?, scale: { minLabel: Deloc pregătit(ă), maxLabel: Foarte pregătit(ă) } }
+### Când plouă mult, cât de bine se scurge apa de pe străzile din localitatea ta?
+
+- id: strazi
+- type: scale
+- measures: satisfaction
+- where: romania
+- scale: Foarte prost … Foarte bine
+- outlook: 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1
+
+### Ți-a intrat vreodată apa în casă, în pivniță sau în curte din cauza ploilor?
+
+- id: apa-in-casa
+- type: single
+- measures: experience
+- where: romania
+- outlook: a: -1, b: -0.5, c: 1
+- a) Da, în ultimele 12 luni
+- b) Da, mai demult
+- c) Niciodată
+
+### De unde afli de obicei de avertizările de vreme rea? Alege cel mult trei.
+
+- id: avertizari
+- type: multi
+- measures: experience
+- where: romania
+- maxSelect: 3
+- a) Din mesajele RO-ALERT pe telefon
+- b) De la televizor sau radio
+- c) De pe site-ul sau aplicația ANM
+- d) De pe rețelele sociale
+- e) De la cei din jur
+- f) Nu urmăresc avertizările
+
+### Cât de pregătit(ă) te simți pentru o inundație în zona în care locuiești?
+
+- id: pregatit
+- type: scale
+- measures: expectation
+- where: romania
+- scale: Deloc pregătit(ă) … Foarte pregătit(ă)
+- outlook: 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1
 
 ## Surse
 

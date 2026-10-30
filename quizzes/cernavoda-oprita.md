@@ -29,10 +29,49 @@ image:
 
 ## Întrebări
 
-- { id: incalzire, type: single, measures: experience, where: romania, text: Cu ce îți încălzești în principal locuința în această iarnă?, options: [ { id: a, label: Centrală proprie pe gaz }, { id: b, label: Termoficare (căldură de la rețeaua orașului) }, { id: c, label: Lemne }, { id: d, label: "Aparate electrice (calorifer electric, aer condiționat)" }, { id: e, label: Altfel } ] }
-- { id: factura, type: scale, outlook: { "1": 1, "2": 0.5, "3": 0, "4": -0.5, "5": -1 }, measures: expectation, where: romania, text: Cât de îngrijorat(ă) ești că factura ta la curent va crește în această iarnă?, scale: { minLabel: Deloc îngrijorat(ă), maxLabel: Foarte îngrijorat(ă) }, na: Nu plătesc eu factura la curent }
-- { id: intreruperi, type: scale, outlook: { "1": -1, "2": -0.5, "3": 0, "4": 0.5, "5": 1 }, measures: trust, where: romania, text: Câtă încredere ai că în această iarnă nu vor fi întreruperi de curent în zona ta?, scale: { minLabel: Deloc, maxLabel: Foarte multă } }
-- { id: consum, type: multi, measures: experience, where: romania, maxSelect: 3, text: Ce faci în această toamnă ca să consumi mai puțin curent? Alege cel mult trei., options: [ { id: a, label: Sting aparatele pe care nu le folosesc }, { id: b, label: "Folosesc mai rar aparatele mari (mașina de spălat, cuptorul)" }, { id: c, label: Am schimbat becurile cu LED-uri }, { id: d, label: Încălzesc mai puțin cu aparate electrice }, { id: e, label: Nimic diferit față de anul trecut } ] }
+### Cu ce îți încălzești în principal locuința în această iarnă?
+
+- id: incalzire
+- type: single
+- measures: experience
+- where: romania
+- a) Centrală proprie pe gaz
+- b) Termoficare (căldură de la rețeaua orașului)
+- c) Lemne
+- d) Aparate electrice (calorifer electric, aer condiționat)
+- e) Altfel
+
+### Cât de îngrijorat(ă) ești că factura ta la curent va crește în această iarnă?
+
+- id: factura
+- type: scale
+- measures: expectation
+- where: romania
+- scale: Deloc îngrijorat(ă) … Foarte îngrijorat(ă)
+- na: Nu plătesc eu factura la curent
+- outlook: 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1
+
+### Câtă încredere ai că în această iarnă nu vor fi întreruperi de curent în zona ta?
+
+- id: intreruperi
+- type: scale
+- measures: trust
+- where: romania
+- scale: Deloc … Foarte multă
+- outlook: 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1
+
+### Ce faci în această toamnă ca să consumi mai puțin curent? Alege cel mult trei.
+
+- id: consum
+- type: multi
+- measures: experience
+- where: romania
+- maxSelect: 3
+- a) Sting aparatele pe care nu le folosesc
+- b) Folosesc mai rar aparatele mari (mașina de spălat, cuptorul)
+- c) Am schimbat becurile cu LED-uri
+- d) Încălzesc mai puțin cu aparate electrice
+- e) Nimic diferit față de anul trecut
 
 ## Surse
 

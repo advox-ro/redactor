@@ -40,7 +40,29 @@ image:                              # optional (required with a date): the cover
 - sanatate-003
 ````
 
-The questions are a list, one per line, 4–8, asked in this order: a pool id, or (a news quiz) a question of its own, written in YAML on one line in the pool's schema (`questions/README.md`). Its `id` is kebab-case and unique in the quiz; answers are stored as `<slug>-<id>`.
+4–8 questions, asked in this order: first the pool's, as a list of ids, then the quiz's own (a news quiz), each under its own heading:
+
+```markdown
+### Cât de îngrijorat(ă) ești că factura ta la curent va crește în această iarnă?
+
+- id: factura
+- type: scale
+- measures: expectation
+- where: romania
+- scale: Deloc îngrijorat(ă) … Foarte îngrijorat(ă)
+- na: Nu plătesc eu factura la curent
+- outlook: 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1
+
+### Cu ce îți încălzești în principal locuința în această iarnă?
+
+- id: incalzire
+- type: single
+- measures: experience
+- a) Centrală proprie pe gaz
+- b) Altfel
+```
+
+The heading is the question's text. Under it, its fields from the pool's schema (`questions/README.md`), one per line: `id`, `type`, `measures`, `where`, `maxSelect`, `group`, `ageRanges`, `na`, `scale` (lowest … highest) and `outlook` (choice: value, …), then its options, `- a) …`, whose letters are the ids the answers are stored by. The `id` is kebab-case and unique in the quiz; answers are stored as `<slug>-<id>`. `src/quizfile.ts` turns them into the data the site reads, at every build.
 
 A quiz from the news adds a `date` (the day of the news), its own questions, the quotes each fact rests on and its articles:
 
@@ -55,7 +77,13 @@ stat: { value: "20%", label: "din curentul țării vine de la Cernavodă", quote
 
 ## Întrebări
 
-- { id: incalzire, type: single, measures: experience, text: Cu ce îți încălzești locuința?, options: [ { id: a, label: Centrală pe gaz }, { id: b, label: Altfel } ] }
+### Cu ce îți încălzești în principal locuința în această iarnă?
+
+- id: incalzire
+- type: single
+- measures: experience
+- a) Centrală proprie pe gaz
+- b) Altfel
 
 ## Surse
 

@@ -18,10 +18,40 @@ image:
 
 ## Întrebări
 
-- { id: ingrijorare, type: scale, outlook: { "1": 1, "2": 0.5, "3": 0, "4": -0.5, "5": -1 }, measures: expectation, text: Cât de îngrijorat(ă) ești că în România ar putea avea loc alte acte de sabotaj în următorul an?, scale: { minLabel: Deloc îngrijorat(ă), maxLabel: Foarte îngrijorat(ă) } }
-- { id: servicii, type: scale, outlook: { "1": -1, "2": -0.5, "3": 0, "4": 0.5, "5": 1 }, measures: trust, text: Câtă încredere ai că serviciile de informații ale României pot preveni actele de sabotaj?, scale: { minLabel: Deloc, maxLabel: Foarte multă } }
-- { id: crezi, type: scale, outlook: { "1": -1, "2": -0.5, "3": 0, "4": 0.5, "5": 1 }, measures: trust, text: "Când autoritățile române spun că o altă țară se află în spatele unui atac, cât de mult le crezi?", scale: { minLabel: Deloc, maxLabel: Complet } }
-- { id: raspuns, type: single, measures: tradeoff, text: Ce ar trebui să facă România în primul rând după un astfel de atac?, options: [ { id: a, label: Să păzească mai bine fabricile și infrastructura importantă }, { id: b, label: Să facă publice dovezile }, { id: c, label: Să ceară sprijinul aliaților din NATO și UE }, { id: d, label: Să expulzeze diplomați ai țării responsabile }, { id: e, label: Nu știu } ] }
+### Cât de îngrijorat(ă) ești că în România ar putea avea loc alte acte de sabotaj în următorul an?
+
+- id: ingrijorare
+- type: scale
+- measures: expectation
+- scale: Deloc îngrijorat(ă) … Foarte îngrijorat(ă)
+- outlook: 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1
+
+### Câtă încredere ai că serviciile de informații ale României pot preveni actele de sabotaj?
+
+- id: servicii
+- type: scale
+- measures: trust
+- scale: Deloc … Foarte multă
+- outlook: 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1
+
+### Când autoritățile române spun că o altă țară se află în spatele unui atac, cât de mult le crezi?
+
+- id: crezi
+- type: scale
+- measures: trust
+- scale: Deloc … Complet
+- outlook: 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1
+
+### Ce ar trebui să facă România în primul rând după un astfel de atac?
+
+- id: raspuns
+- type: single
+- measures: tradeoff
+- a) Să păzească mai bine fabricile și infrastructura importantă
+- b) Să facă publice dovezile
+- c) Să ceară sprijinul aliaților din NATO și UE
+- d) Să expulzeze diplomați ai țării responsabile
+- e) Nu știu
 
 ## Surse
 

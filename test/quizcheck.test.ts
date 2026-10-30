@@ -1,6 +1,6 @@
 import { expect, test } from 'vitest';
 import { checkQuiz } from '../src/quizcheck';
-import { parseQuiz } from '../src/quizfile';
+import { parseQuestions, parseQuiz } from '../src/quizfile';
 
 const A = 'https://www.mediafax.ro/a';
 const B = 'https://economedia.ro/b';
@@ -20,7 +20,11 @@ ${facts}
 
 ## Întrebări
 
-- { id: a, type: yesno, measures: opinion, text: "Da?" }
+### Da?
+
+- id: a
+- type: yesno
+- measures: opinion
 
 ## Surse
 
@@ -62,10 +66,39 @@ test('an article nothing rests on, and a quote citing no article, are caught', (
   expect(p).toContain(`[3] ${C} is in Surse but nothing rests on it`);
 });
 
-test('the layout: facts with quotes, one question per line, sources as in the wiki', () => {
+test('the layout: facts with quotes, the questions, sources as in the wiki', () => {
   const q = quiz(FACTS);
   expect(q.facts.map((f) => f.quotes.length)).toEqual([1, 1]);
   expect(q.questions).toEqual([{ id: 'a', type: 'yesno', measures: 'opinion', text: 'Da?' }]);
   expect(q.sources[1]).toEqual({ n: 2, title: 'B', outlet: 'Economedia', url: B });
   expect(() => parseQuiz('---\ntitle: x\n---\n\nnot a fact\n')).toThrow('not a fact');
+});
+
+test('questions in Markdown: pool ids, then the quiz\'s own, with their fields and options', () => {
+  expect(
+    parseQuestions(`- sanatate-001
+
+### Cât de îngrijorat(ă) ești?
+
+- id: factura
+- type: scale
+- scale: Deloc … Foarte
+- outlook: 1: 1, 2: 0.5, 5: -1
+- na: Nu plătesc eu
+
+### Cu ce te încălzești?
+
+- id: incalzire
+- type: multi
+- maxSelect: 2
+- a) Gaz (centrală)
+- b) Lemne
+`),
+  ).toEqual([
+    'sanatate-001',
+    { text: 'Cât de îngrijorat(ă) ești?', id: 'factura', type: 'scale', scale: { minLabel: 'Deloc', maxLabel: 'Foarte' }, outlook: { 1: 1, 2: 0.5, 5: -1 }, na: 'Nu plătesc eu' },
+    { text: 'Cu ce te încălzești?', id: 'incalzire', type: 'multi', maxSelect: 2, options: [{ id: 'a', label: 'Gaz (centrală)' }, { id: 'b', label: 'Lemne' }] },
+  ]);
+  expect(() => parseQuestions('### X?\n\n- colour: red\n')).toThrow('not a field');
+  expect(() => parseQuestions('### X?\n\n- id: a\n\n- sanatate-001\n')).toThrow('not a field');
 });
