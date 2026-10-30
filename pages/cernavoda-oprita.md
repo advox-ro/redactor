@@ -13,17 +13,55 @@ image:
 quiz: cernavoda-oprita
 ---
 
-- Reactoarele sunt oprite din vară, pentru că Dunărea a scăzut prea mult ca să le mai răcească. Nuclearelectrica spune că nu e **niciun risc nuclear**.
-  > „a fost oprită controlat în vară, din cauza nivelului foarte scăzut al debitului Dunării, care asigură apa necesară răcirii sistemelor centralei.” [1]
-  > „Centrala Nucleară de la Cernavodă utilizează apa din sistemul Dunăre–Canalul Dunăre–Marea Neagră în procesele de răcire necesare funcționării instalațiilor.” [2]
-  > „această situație nu prezintă niciun risc pentru securitatea nucleară” [3]
-- **30 de zile** în plus pentru starea de alertă în energie, prelungită pe 29 octombrie. Ministrul Energiei spune că un reactor ar putea reporni în jurul datei de 15 noiembrie, dar Nuclearelectrica, că încă nu sunt îndeplinite condițiile.
-  > „Comitetul Național pentru Situații de Urgență (CNSU) a prelungit cu 30 de zile, de la 29 octombrie, starea de alertă în energie, pentru că reactoarele de la Cernavodă nu pot fi repornite în noiembrie” [4]
-  > „că, pe baza prognozelor actuale, unul dintre reactoarele nucleare ale Centralei de la Cernavodă va putea fi repornit în jurul datei de 15 noiembrie.” [1]
-  > „deși există premise, prognozele curente nu indică îndeplinirea tuturor criteriilor care să permită luarea deciziei de repornire a cel puțin uneia dintre unități” [3]
-- **323 de euro** pe MWh a costat curentul cumpărat pentru ziua următoare, printre cele mai mari prețuri din Europa. Transelectrica, compania care administrează rețeaua, trebuie să evite o pană mare, la nevoie și prin reducerea consumului.
-  > „Operatorul are obligația să dispună toate măsurile necesare pentru evitarea unei pene majore de curent. Transelectrica va solicita creșterea producției interne din toate sursele, va asigura importurile necesare din țările vecine și, la nevoie, va ordona reducerea consumului.” [5]
-  > „Ieri, România era printre cele mai scumpe piețe spot europene, cu o medie de 323 euro/MWh, iar azi nivelul continuă să se mențină la un nivel extrem de ridicat, de 258 euro/MWh.” [4]
+## Carduri
+
+### Oprite de la jumătatea verii
+tip: cronologie
+- 28 iulie: se oprește reactorul 1
+- 13 august: se oprește reactorul 2
+- 29 octombrie: alerta în energie, prelungită cu 30 de zile
+Dunărea a scăzut prea mult ca să mai răcească centrala. Nuclearelectrica, compania de stat care o conduce, spune că oprirea nu e un risc nuclear.
+> „Reactorul 1 a fost oprit controlat la 28 iulie, iar Reactorul 2 a fost oprit la 13 august.” [1]
+> „Comitetul Național pentru Situații de Urgență (CNSU) a prelungit cu 30 de zile, de la 29 octombrie, starea de alertă în energie, pentru că reactoarele de la Cernavodă nu pot fi repornite în noiembrie” [4]
+> „Situația afectează exclusiv producția de energie electrică” [2]
+
+### Dunărea are prea puțină apă
+tip: comparație
+- Prognoza: 1.550 m³/s
+- Necesar: 4.900 m³/s
+Atâta apă ar trebui să curgă pe Dunăre pe secundă, față de cât arată prognoza pentru săptămâna următoare. La Cernavodă, apa a crescut cu aproximativ 10 cm, dar rămâne sub pragul de repornire.
+> „Specialiștii au afirmat că va ajunge săptămâna viitoare la 1.550m³/s, dar este insuficient, ținând cont de faptul că ar trebui să fie de 4.900m³/s.” [1]
+> „a fost înregistrată o creștere a nivelului apei măsurat în bazinul de aspirație al pompelor CNE Cernavodă, de aproximativ 10 centimetri, ca urmare a creșterii nivelului Dunării.” [3]
+> „nivelul apei în bazinul de aspirație al centralei rămâne, în continuare, sub pragul considerat necesar pentru repornirea uneia sau a ambelor unități.” [3]
+
+### Când repornește
+tip: voci
+- Ministrul Energiei: un reactor ar putea reporni în jurul datei de 15 noiembrie
+- Nuclearelectrica: încă nu sunt îndeplinite toate condițiile
+- Hotărârea de urgență: nicio repornire în noiembrie
+Hotărârea e a Comitetului Național pentru Situații de Urgență, care se bazează pe prognoza Institutului Național de Hidrologie.
+> „pe baza prognozelor actuale, unul dintre reactoarele nucleare ale Centralei de la Cernavodă va putea fi repornit în jurul datei de 15 noiembrie.” [1]
+> „La momentul actual, deși există premise, prognozele curente nu indică îndeplinirea tuturor criteriilor care să permită luarea deciziei de repornire a cel puțin uneia dintre unități” [3]
+> „Prognoza Institutului Național de Hidrologie indică o redresare lentă și insuficientă pentru prima jumătate a lunii noiembrie. Din acest motiv, repunerea în funcțiune a unităților 1 și 2 ale centralei rămâne imposibilă pe tot parcursul lunii noiembrie 2026.” [5]
+
+### Golul din rețea
+tip: cifră
+- 1.300 MW
+lipsesc din producția țării cât timp ambele reactoare sunt oprite. Restul centralelor sau importurile trebuie să-i țină locul.
+> „Oprirea simultană a acestora înseamnă că Sistemul Energetic Național trebuie să compenseze absența unei capacități de producție de aproximativ 1.300 MW.” [2]
+> „Oprirea simultană a ambelor unități elimină temporar această contribuție și obligă sistemul energetic să acopere necesarul prin alte centrale, prin importuri sau printr-o combinație a acestora.” [2]
+
+### Curent scump pe bursă
+tip: evoluție
+- Prima zi: 323 €/MWh
+- A doua zi: 258 €/MWh
+Prețul mediu al curentului cumpărat pe bursă pentru ziua următoare, în două zile la rând. A scăzut, dar a rămas foarte mare: România era printre cele mai scumpe piețe din Europa.
+> „Ieri, România era printre cele mai scumpe piețe spot europene, cu o medie de 323 euro/MWh, iar azi nivelul continuă să se mențină la un nivel extrem de ridicat, de 258 euro/MWh.” [4]
+
+### Consumul poate fi redus
+tip: text
+Transelectrica, compania care administrează rețeaua de curent, trebuie să evite o pană mare. Poate cere mai multă producție din țară, poate aduce curent din țările vecine și, la nevoie, poate dispune reducerea consumului.
+> „Operatorul are obligația să dispună toate măsurile necesare pentru evitarea unei pene majore de curent. Transelectrica va solicita creșterea producției interne din toate sursele, va asigura importurile necesare din țările vecine și, la nevoie, va ordona reducerea consumului.” [5]
 
 ## Surse
 

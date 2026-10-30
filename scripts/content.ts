@@ -1,6 +1,6 @@
 // Builds the published content into the Worker. Wrangler runs it before every deploy and dev
 // session (wrangler.jsonc, "build"), so deploying publishes. It writes to src/generated/:
-//   pages.json    pages/*.md, each page's front matter and its quiz's questions as data, its facts as HTML
+//   pages.json    pages/*.md, each page's front matter and its quiz's questions as data, its cards' text as HTML
 //   wiki.json     wiki/*.md as the site shows them: front matter, HTML, headings and sources
 //   quiz.json     the question pool, questions/*.jsonl, as the site's older quiz reads it (pool.mjs)
 import { mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
@@ -21,15 +21,15 @@ const front = (file: string) => {
 const markdownFiles = (dir: string) => readdirSync(dir).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f));
 
 // A page as the site reads it (src/pagefile.ts): its data, with the questions of the quiz it names
-// (quizzes/<id>.md, src/quizfile.ts), and its facts, without their quotes, as HTML, through the same
+// (quizzes/<id>.md, src/quizfile.ts), and its cards' titles and sentences, without their quotes, as HTML, through the same
 // Markdown processor as the wiki, without its plugins.
 const plain = await createSatteriMarkdownProcessor({ syntaxHighlight: false });
 const pages = [];
 for (const f of markdownFiles('pages')) {
   const page = parsePage(readFileSync(`pages/${f}`, 'utf8'));
   const quiz = page.data.quiz && parseQuiz(readFileSync(`quizzes/${page.data.quiz}.md`, 'utf8'));
-  const { data, facts } = published(page, quiz || []);
-  pages.push({ slug: f.slice(0, -3), data, html: (await plain.render(facts)).code });
+  const { data, body } = published(page, quiz || []);
+  pages.push({ slug: f.slice(0, -3), data, html: (await plain.render(body)).code });
 }
 
 // The wiki goes through the same Markdown processor, with the same plugins, as the site's own pages

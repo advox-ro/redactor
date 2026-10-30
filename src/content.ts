@@ -6,7 +6,7 @@ import builtWiki from './generated/wiki.json';
 import builtPool from './generated/quiz.json';
 import type { Env } from './env';
 
-/** A page as written in pages/<slug>.md: data is its front matter (pages/README.md), html its facts. */
+/** A page as written in pages/<slug>.md: data is its front matter (pages/README.md), html its cards' titles and sentences. */
 export type Page = { slug: string; data: Record<string, unknown>; html: string };
 
 /** A wiki page, wiki/<slug>.md, as the site shows it: its front matter (updated as YYYY-MM-DD), its

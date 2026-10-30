@@ -15,8 +15,47 @@ image:
 quiz: cod-galben-ploi
 ---
 
-- Cod galben de ploi de marți, 27 octombrie, ora 10, până miercuri, 28 octombrie, ora 12, în **București, Ilfov, Tulcea, Constanța, Călărași, Ialomița, Giurgiu și Teleorman**. Avertizarea e dată de ANM, administrația națională de meteorologie.
-- **20–30 l/mp** de ploaie în general, iar izolat peste 40 l/mp. Călărași și Ialomița au și o avertizare de vânt puternic.
+## Carduri
+
+### Două avertizări, de marți până miercuri
+tip: cronologie
+- Marți, ora 10: începe codul galben de ploi
+- Marți, ora 16: începe codul galben de vânt
+- Miercuri, ora 12: se încheie cel de ploi
+- Miercuri, ora 15: se încheie cel de vânt
+Avertizările sunt date de ANM, Administrația Națională de Meteorologie, pentru 27 și 28 octombrie.
+> „Prima atenționare Cod galben este valabilă de marți, 27 octombrie, ora 10:00, până miercuri, 28 octombrie, ora 12:00.” [1]
+> „O a doua atenționare Cod galben intră în vigoare marți, la ora 16:00, și va rămâne valabilă până miercuri, 28 octombrie, la ora 15:00.” [1]
+
+### Unde plouă cel mai mult
+tip: text
+În București și în județele Ilfov, Tulcea, Constanța, Călărași, Ialomița, Giurgiu și Teleorman. În Ialomița și Călărași e cod galben și pentru vânt.
+> „Atenționarea este valabilă din 27 octombrie, ora 10, până în 28 octombrie, ora 12, în județele Tulcea, Constanța, Călărași, Ialomița, Giurgiu, Teleorman și Ilfov, precum și în Capitală.” [2]
+> „Județele Ialomița și Călărași se regăsesc astfel atât sub atenționarea privind ploile însemnate cantitativ, cât și sub cea referitoare la intensificările vântului.” [1]
+
+### Cât poate ploua
+tip: cifră
+- 20–30 l/mp
+de apă pot cădea în zona cu cod galben, în ploi scurte sau adunate una după alta. Pe alocuri, peste 40 de litri pe metru pătrat.
+> „În intervale scurte de timp și prin acumulare, cantitățile de apă vor ajunge la 20-30 de litri pe metru pătrat, iar izolat vor depăși 40 de litri pe metru pătrat.” [2]
+
+### Rafale puternice în sud-est
+tip: cifră
+- 50–70 km/h
+pot atinge rafalele de vânt în Buzău, Brăila, Ialomița și Călărași. În Dobrogea, estul Munteniei și sudul Moldovei, vântul bate în general cu 40–50 km/h.
+> „Aceasta vizează județele Buzău, Brăila, Ialomița și Călărași, unde sunt prognozate intensificări ale vântului. Rafalele vor atinge viteze de 50-70 km/h.” [1]
+> „Temporar vor fi intensificări ale vântului în sudul și centrul Moldovei, jumătatea de est a Munteniei și în Dobrogea, cu rafale în general de 40-50 km/h și de peste 60-80 km/h pe crestele montane.” [3]
+
+### Ninge la munte
+tip: cifră
+- 3–5 cm
+de zăpadă nouă se pot depune peste 1.700 de metri, mai ales în Carpații Meridionali, unde plouă cu lapoviță și ninge.
+> „Pe parcursul zilei de marți (27 octombrie), la altitudini de peste 1.700 m, în special în Carpații Meridionali, vor mai fi precipitații sub formă de lapoviță și ninsoare și va continua să se depună strat de zăpadă în general de 3-5 cm.” [3]
+
+### Răcoare în București
+tip: text
+Cer noros și ploaie din când în când. Maximele ajung la 11–12 grade marți și la 13–14 grade miercuri.
+> „În București, cerul va fi noros și va ploua temporar. Temperaturile maxime vor ajunge la 11-12 grade marți și la 13-14 grade miercuri.” [2]
 
 ## Surse
 

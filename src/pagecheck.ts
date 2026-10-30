@@ -1,9 +1,9 @@
 // The checks a news page must pass before the editor may propose it (scripts/check-page.ts runs
-// them). Each fact in the page's body comes with the sentences of the articles it rests on, and the
+// them). Each card of the page comes with the sentences of the articles it rests on, and the
 // key figure may come with its own (src/pagefile.ts describes the layout). Every quote must be in
 // its article word for word, every number must be in the quotes it rests on (the summary's and the
 // key figure's, in any quote of the page), every article in Surse must back something, and the
-// facts must come from two outlets; a page for the whole country, from two kinds of outlets.
+// cards must rest on two outlets; a page for the whole country, on two kinds of outlets.
 import { loose, numbers } from './facts';
 import type { PageFile, Quote } from './pagefile';
 import { BUCKET_OF, FEEDS } from './sources';
@@ -22,10 +22,10 @@ export function kindOf(outlet: string, url: string): string {
   return BUCKET_OF[outlet] ?? KIND_BY_HOST.get(host(url)) ?? `other:${host(url)}`;
 }
 
-/** Every quote in the page: under its facts, and the key figure's. */
+/** Every quote in the page: under its cards, and the key figure's. */
 export function quotesOf(q: PageFile): Quote[] {
   const stat = q.data.stat?.quote ? [{ quote: q.data.stat.quote, source: q.data.stat.source }] : [];
-  return [...q.facts.flatMap((f) => f.quotes), ...q.cards.flatMap((c) => c.quotes), ...stat];
+  return [...q.cards.flatMap((c) => c.quotes), ...stat];
 }
 
 /** Problems with the page; empty when it passes. texts: each article's text by address, as
@@ -48,11 +48,6 @@ export function checkPage(q: PageFile, texts: Map<string, string | null>): strin
     else if (x.quote.length < 20 || !loose(text).includes(loose(x.quote))) p.push(`not in [${s.n}] ${s.url}, word for word: "${x.quote}"`);
   }
 
-  q.facts.forEach((f, i) => {
-    if (!f.quotes.length) p.push(`fact ${i + 1} has no quotes: "${f.text}"`);
-    const ok = new Set(f.quotes.flatMap((x) => numbers(x.quote)));
-    for (const n of numbers(f.text)) if (!ok.has(n)) p.push(`fact ${i + 1}: the number ${n} is not in its quotes`);
-  });
   q.cards.forEach((c) => {
     if (!c.quotes.length && c.kind !== 'text') p.push(`card "${c.title}" has no quotes`);
     const ok = new Set(c.quotes.flatMap((x) => numbers(x.quote)));
@@ -65,9 +60,9 @@ export function checkPage(q: PageFile, texts: Map<string, string | null>): strin
 
   const used = new Set(all.map((x) => x.source));
   for (const s of q.sources) if (!used.has(s.n)) p.push(`[${s.n}] ${s.url} is in Surse but nothing rests on it`);
-  const backing = q.sources.filter((s) => [...q.facts, ...q.cards].some((f) => f.quotes.some((x) => x.source === s.n)));
-  if (new Set(backing.map((s) => s.outlet)).size < 2) p.push('the facts rest on one outlet; two are needed');
+  const backing = q.sources.filter((s) => q.cards.some((c) => c.quotes.some((x) => x.source === s.n)));
+  if (new Set(backing.map((s) => s.outlet)).size < 2) p.push('the cards rest on one outlet; two are needed');
   if (!d.counties?.length && new Set(backing.map((s) => kindOf(s.outlet, s.url))).size < 2)
-    p.push('a page for the whole country needs its facts from two kinds of outlets (sources.ts)');
+    p.push('a page for the whole country needs its cards to rest on two kinds of outlets (sources.ts)');
   return p;
 }

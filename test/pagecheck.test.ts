@@ -9,7 +9,7 @@ const texts = new Map([
   [A, 'Unitatea 1 a fost oprită pe 28 iulie, iar unitatea 2 pe 13 august, pentru că Dunărea scăzuse prea mult.'],
   [B, 'Ministrul a spus că un reactor ar putea reporni în jurul datei de 15 noiembrie. Cernavodă produce de obicei 20% din curentul țării.'],
 ]);
-const page = (facts: string, surse = `1. A — Mediafax. ${A}\n2. B — Economedia. ${B}`) =>
+const page = (cards: string, surse = `1. A — Mediafax. ${A}\n2. B — Economedia. ${B}`) =>
   parsePage(`---
 title: Iarna fără Cernavodă
 summary: Ambele reactoare stau oprite din vară.
@@ -17,54 +17,63 @@ date: 2026-10-27
 stat: { value: "20%", label: din curentul țării vine de la Cernavodă, quote: "Cernavodă produce de obicei 20% din curentul țării", source: 2 }
 ---
 
-${facts}
+## Carduri
+
+${cards}
 
 ## Surse
 
 ${surse}
 `);
-const FACTS = `- Unitatea 1 a fost oprită pe 28 iulie, iar unitatea 2 pe 13 august.
-  > „Unitatea 1 a fost oprită pe 28 iulie, iar unitatea 2 pe 13 august” [1]
-- Un reactor ar putea reporni în jurul datei de 15 noiembrie.
-  > „un reactor ar putea reporni în jurul datei de 15 noiembrie” [2]`;
+const CARDS = `### Oprite din vară
+tip: cronologie
+- 28 iulie: unitatea 1
+- 13 august: unitatea 2
+Dunărea scăzuse prea mult.
+> „Unitatea 1 a fost oprită pe 28 iulie, iar unitatea 2 pe 13 august” [1]
 
-test('a page whose facts are in its articles passes', () => {
-  expect(checkPage(page(FACTS), texts)).toEqual([]);
+### Când repornește
+tip: text
+Un reactor ar putea reporni în jurul datei de 15 noiembrie.
+> „un reactor ar putea reporni în jurul datei de 15 noiembrie” [2]`;
+
+test('a page whose cards are in its articles passes', () => {
+  expect(checkPage(page(CARDS), texts)).toEqual([]);
 });
 
 test('a number the quotes do not hold is caught', () => {
-  expect(checkPage(page(FACTS.replace('- Unitatea 1 a fost oprită pe 28', '- Unitatea 1 a fost oprită pe 29')), texts)).toContain('fact 1: the number 29 is not in its quotes');
+  expect(checkPage(page(CARDS.replace('- 28 iulie', '- 29 iulie')), texts)).toContain('card "Oprite din vară": the number 29 is not in its quotes');
 });
 
 test('a quote that is not in the article is caught', () => {
-  const q = page(FACTS.replace('„Unitatea 1 a fost oprită pe', '„Unitatea 1 a fost oprită definitiv pe'));
+  const q = page(CARDS.replace('„Unitatea 1 a fost oprită pe', '„Unitatea 1 a fost oprită definitiv pe'));
   expect(checkPage(q, texts)).toContain(`not in [1] ${A}, word for word: "Unitatea 1 a fost oprită definitiv pe 28 iulie, iar unitatea 2 pe 13 august"`);
 });
 
 test('an article that could not be read fails the page', () => {
-  expect(checkPage(page(FACTS), new Map([[A, null], [B, texts.get(B)!]]))).toContain(`couldn't read ${A}: use an article that can be read`);
+  expect(checkPage(page(CARDS), new Map([[A, null], [B, texts.get(B)!]]))).toContain(`couldn't read ${A}: use an article that can be read`);
 });
 
 test('one outlet is not enough, and a national page needs two kinds of outlets', () => {
   const C = 'https://www.mediafax.ro/c';
-  const p = checkPage(page(FACTS, `1. A — Mediafax. ${A}\n2. B — Mediafax. ${C}`), new Map([[A, texts.get(A)!], [C, texts.get(B)!]]));
-  expect(p).toContain('the facts rest on one outlet; two are needed');
-  expect(p).toContain('a page for the whole country needs its facts from two kinds of outlets (sources.ts)');
+  const p = checkPage(page(CARDS, `1. A — Mediafax. ${A}\n2. B — Mediafax. ${C}`), new Map([[A, texts.get(A)!], [C, texts.get(B)!]]));
+  expect(p).toContain('the cards rest on one outlet; two are needed');
+  expect(p).toContain('a page for the whole country needs its cards to rest on two kinds of outlets (sources.ts)');
 });
 
 test('an article nothing rests on, and a quote citing no article, are caught', () => {
   const C = 'https://www.digi24.ro/c';
-  const p = checkPage(page(FACTS.replace('[2]', '[4]'), `1. A — Mediafax. ${A}\n2. B — Economedia. ${B}\n3. C — Digi24. ${C}`), texts);
+  const p = checkPage(page(CARDS.replace('[2]', '[4]'), `1. A — Mediafax. ${A}\n2. B — Economedia. ${B}\n3. C — Digi24. ${C}`), texts);
   expect(p).toContain('[4] is not in Surse: "un reactor ar putea reporni în jurul datei de 15 noiembrie"');
   expect(p).toContain(`[3] ${C} is in Surse but nothing rests on it`);
 });
 
-test('the layout: facts with quotes, sources as in the wiki, the questions in the quiz', () => {
-  const q = page(FACTS);
-  expect(q.facts.map((f) => f.quotes.length)).toEqual([1, 1]);
-  expect(() => parsePage('---\ntitle: x\nquiz: x\n---\n\n- Un fapt.\n\n## Întrebări\n\n- sanatate-001\n')).toThrow('unknown section');
+test('the layout: cards with quotes, sources as in the wiki, the questions in the quiz', () => {
+  const q = page(CARDS);
+  expect(q.cards.map((c) => [c.kind, c.rows.length, c.quotes.length])).toEqual([['cronologie', 2, 1], ['text', 0, 1]]);
+  expect(() => parsePage('---\ntitle: x\nquiz: x\n---\n\n## Întrebări\n\n- sanatate-001\n')).toThrow('unknown section');
   expect(q.sources[1]).toEqual({ n: 2, title: 'B', outlet: 'Economedia', url: B });
-  expect(() => parsePage('---\ntitle: x\n---\n\nnot a fact\n')).toThrow('not a fact');
+  expect(() => parsePage('---\ntitle: x\n---\n\nnot a card\n')).toThrow('text before the first section');
 });
 
 test('questions in Markdown: pool ids, then the quiz\'s own, with their table of fields and numbered options', () => {

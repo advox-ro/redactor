@@ -63,11 +63,11 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
     }
   }
   // As the site reads it: the front matter with its quiz's questions and its articles (news).
-  const { data: d, facts: body } = published(page, questions);
+  const { data: d, body } = published(page, questions);
   sets.push({ f, slug: f.slice(0, -3), ...d, body });
   if (page.data.news !== undefined) err(f, 'news belongs in the body, as Surse (pages/README.md), not the front matter');
   if (page.data.questions !== undefined) err(f, 'questions belong in its quiz, quizzes/<id>.md, not the front matter');
-  const cited = [...[...page.facts, ...page.cards].flatMap((x) => x.quotes.map((q) => q.source)), ...(page.data.stat?.quote ? [page.data.stat.source] : [])];
+  const cited = [...page.cards.flatMap((x) => x.quotes.map((q) => q.source)), ...(page.data.stat?.quote ? [page.data.stat.source] : [])];
   for (const n of cited) if (!page.sources.some((s) => s.n === n)) err(f, `a quote cites [${n}], which is not in Surse`);
 
   for (const k of ['title', 'summary', 'tags']) if (d[k] === undefined) err(f, `missing ${k}`);
@@ -90,7 +90,31 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
   const judging = `${d.stat?.label ?? ''}`.match(/(?<!\p{L})(prea|doar|numai|abia|record\p{L}*|criz\p{L}*|alarm\p{L}*|grav[ăe]?|dramatic\p{L}*|cel mai|cea mai|cei mai|cele mai|(spun|cred|consideră|declară) că|încredere)(?!\p{L})|\(UE|UE:/iu);
   if (judging) err(f, `stat: "${judging[0]}" judges the subject; the key figure gives its size (README, A neutral key figure)`);
   if (d.stat?.value?.length > 10) err(f, `stat value "${d.stat.value}" over 10 characters`);
-  if (!body) err(f, 'no body (the facts)');
+  if (!body) err(f, 'no cards (## Carduri)');
+  // Each card's data, as its kind is drawn (README, Cards): otherwise the site has nothing to draw.
+  for (const c of page.cards) {
+    const at = `card "${c.title}"`;
+    const unit = (v) => v.replace(/[\d.,\s]+/g, ' ').trim();
+    const rows = c.rows;
+    const labelled = rows.every((r) => r.label);
+    const numeric = rows.every((r) => /\d/.test(r.value));
+    if (!c.text) err(f, `${at}: no sentence`);
+    if (c.kind === 'cifră' && (rows.length !== 1 || !numeric)) err(f, `${at}: a figure is one item, - <value>`);
+    if (c.kind === 'comparație' || c.kind === 'evoluție') {
+      if (rows.length < 2 || !labelled || !numeric) err(f, `${at}: needs two or more items, - <label>: <value>`);
+      else if (new Set(rows.map((r) => unit(r.value))).size > 1) err(f, `${at}: values in different units (${rows.map((r) => r.value).join(', ')}); one unit, so they can be drawn together`);
+    }
+    if (c.kind === 'parte') {
+      const v = rows[0]?.value ?? '';
+      const of = v.match(/^(\d+) din (\d+)$/);
+      const pct = v.match(/^(\d+(?:,\d+)?)%$/);
+      if (rows.length !== 1 || !(of ? Number(of[2]) <= 10 && Number(of[1]) <= Number(of[2]) : pct && Number(pct[1].replace(',', '.')) <= 100))
+        err(f, `${at}: a share is one item, - <n>% or - <a> din <b> (b up to 10)`);
+    }
+    if (c.kind === 'clasament' && !/^\d+ din \d+$/.test(rows[0]?.value ?? '')) err(f, `${at}: a ranking starts with - <label>: <place> din <how many>`);
+    if ((c.kind === 'cronologie' || c.kind === 'voci') && (rows.length < 2 || !labelled)) err(f, `${at}: needs two or more items, - <label>: <text>`);
+    if (c.kind === 'text' && rows.length) err(f, `${at}: a text card has no items`);
+  }
 
   if (d.image) {
     for (const k of ['src', 'alt', 'credit', 'license', 'url']) if (!d.image[k]) err(f, `image needs ${k}`);
