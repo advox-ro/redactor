@@ -76,6 +76,27 @@ test('the layout: cards with quotes, sources as in the wiki, the questions in th
   expect(() => parsePage('---\ntitle: x\n---\n\nnot a card\n')).toThrow('text before the first section');
 });
 
+test('the article: paragraphs with their quotes, subheadings, the places of cards, every number in its quotes', () => {
+  const ARTICLE = `${CARDS}
+
+## Articol
+
+Reactoarele stau oprite. Primul s-a oprit pe 28 iulie,
+al doilea pe 13 august.
+> „Unitatea 1 a fost oprită pe 28 iulie, iar unitatea 2 pe 13 august” [1]
+
+[card: Oprite din vară]
+
+### Ce urmează
+
+Un reactor ar putea reporni pe 16 noiembrie.
+> „un reactor ar putea reporni în jurul datei de 15 noiembrie” [2]`;
+  const q = page(ARTICLE);
+  expect(q.article.map((b) => [b.kind, b.quotes.length])).toEqual([['text', 1], ['card', 0], ['heading', 0], ['text', 1]]);
+  expect(q.article[0].text).toBe('Reactoarele stau oprite. Primul s-a oprit pe 28 iulie, al doilea pe 13 august.');
+  expect(checkPage(q, texts)).toEqual(['article, paragraph 4: the number 16 is not in its quotes']);
+});
+
 test('questions in Markdown: pool ids, then the quiz\'s own, with their table of fields and numbered options', () => {
   expect(
     parseQuiz(`- sanatate-001

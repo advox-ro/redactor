@@ -11,7 +11,7 @@ npm run validate
 
 ## Layout
 
-A page's file holds, in this order, a short front matter, its cards and, for a news page, its articles. Its questions are a quiz of their own, `quizzes/<id>.md` ([`quizzes/README.md`](../quizzes/README.md)), which the page names with `quiz:`; the build joins the two. `src/pagefile.ts` reads the page, for the build, the validator and the fact check alike.
+A page's file holds, in this order, a short front matter, its cards, its article and, for a news page, the articles it comes from. Its questions are a quiz of their own, `quizzes/<id>.md` ([`quizzes/README.md`](../quizzes/README.md)), which the page names with `quiz:`; the build joins the two. `src/pagefile.ts` reads the page, for the build, the validator and the fact check alike.
 
 ````markdown
 ---
@@ -72,6 +72,7 @@ Dunărea a scăzut prea mult ca să le mai răcească.
 ````
 
 - Under each card, the sentences of the articles it rests on, word for word, each with its number in Surse. They stay in the file; the site shows the cards without them.
+- Under each paragraph of the article, likewise, the sentences it rests on.
 - `stat` may carry the sentence its number comes from (`quote`, `source`).
 - Surse is written as in the wiki, `n. Title — Outlet. https://…`, and is the list of articles the site shows under the page.
 
@@ -95,6 +96,22 @@ The site shows a page as a row of cards, swiped one by one on a phone: the cover
 
 `npm run validate` checks that each card has what its kind needs: values of a comparison or a line in one unit, a share up to 100%, a ranking as a place out of a total.
 
+## Article
+
+The cards are what the feed shows, a story in a few swipes. The page's own address shows the article: the same subject, told in full, for someone who wants to understand it. It is written on its own, after the cards, in `## Articol`: paragraphs, `### Subheadings` where the story turns, and a line `[card: <a card's title>]` where that card's drawing helps the text. On a news page each paragraph carries its quotes under it, `> „…” [n]`, as the cards do; every number in it is in them.
+
+````markdown
+## Articol
+
+Reactoarele de la Cernavodă stau oprite din vară, pentru că Dunărea are prea puțină apă.
+> „…” [1]
+
+[card: Dunărea duce încă prea puțină apă]
+
+### Ce urmează
+…
+````
+
 ## Rules
 
 - **A page is one thing from someone's life** (going to the doctor, the bills, the commute), not a whole wiki domain. Its quiz may take questions from several domains when they belong together.
@@ -108,4 +125,5 @@ The site shows a page as a row of cards, swiped one by one on a phone: the cover
 - **Local pages name their counties.** A story about some counties only (a weather warning, a closed road, a county hospital) lists them in `counties`, and only people from there see it. A page for people abroad only is `counties: [DSP]` and needs at least 3 questions they can answer. A story that matters to the whole country stays without `counties`, even if it happened in one place.
 - The body follows the wiki's style: plain sentences, no slogans, no questions to the reader.
 - **Cards a reader understands.** Start from what someone who hears of the story wants to know (what happened, does it touch me, what can I do, how big is it, what comes next) and answer that, card by card, with as many cards as the story needs. Each card says one thing. Its title states that thing, as you'd tell it to a friend; its drawing holds the one figure or comparison that shows it; its sentence says what it means, in everyday words, without bringing in more figures. Leave out what doesn't help a reader understand. A technical figure or term earns its place only with a sentence that makes it concrete. When the articles say too little to explain the story, the wiki's background can fill in.
+- **An article that explains.** Tell the reader what happened, why, what it means for them, what each side says and what comes next, with the background a reader needs (the wiki can give it). More than the cards say, in the same everyday words: short paragraphs, terms explained, no slogans, no questions to the reader. Place a card's drawing where it shows what the paragraph says.
 - **No figure that isn't in the sources.** Every figure on a card is in the articles or the wiki, for the same thing and period. Saying it in everyday words is fine when it says the same; a new figure (a difference, a total, a value per person) the sources don't give is not. Compare only what the source compares, in the same unit; the side that looks better and the one that looks worse both stay in.

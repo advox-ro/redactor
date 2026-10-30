@@ -31,9 +31,10 @@ export function loose(s: string): string {
     .trim();
 }
 
-/** The numbers in a text, written the same way: "1.055", "20%", "15 noiembrie" → ["1055", "20", "15"]. */
+/** The numbers in a text, written the same way: "1.055", "20%", "15 noiembrie" → ["1055", "20", "15"].
+ *  Digits in a name ("Digi24", "G4Media") are not numbers. */
 export function numbers(s: string): string[] {
-  return [...s.matchAll(/\d[\d.,]*\d|\d/g)].map((m) => m[0].replace(/\.(?=\d{3}(\D|$))/g, '').replace(/,/g, '.').replace(/\.0+$/, ''));
+  return [...s.matchAll(/(?<![\p{L}\d])(?:\d[\d.,]*\d|\d)/gu)].map((m) => m[0].replace(/\.(?=\d{3}(\D|$))/g, '').replace(/,/g, '.').replace(/\.0+$/, ''));
 }
 
 /** A claim stands when its quote is in the article and every number it states is in the quote. */

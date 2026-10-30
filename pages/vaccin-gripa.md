@@ -60,6 +60,42 @@ tip: cifră
 de oameni se vaccinaseră până pe 18 octombrie. Aproape toți au primit vaccinul compensat.
 > „Până la data de 18 octombrie 2026, în Registrul Electronic Național de Vaccinări (RENV) au fost înregistrate 400.259 de vaccinări antigripale. Dintre acestea, 393.552 au fost efectuate în rândul persoanelor care beneficiază de vaccinare compensată, iar 3.069 în farmaciile comunitare autorizate.” [3]
 
+## Articol
+
+Sezonul gripei a început, iar Ministerul Sănătății spune că vaccin există. În depozite sunt 370.000 de doze, pe care farmaciile le pot comanda, iar la jumătatea lui noiembrie mai vin circa 500.000.
+> „Un număr de 370.000 de doze de vaccin antigripal sunt disponibile în depozitele din țară și pot fi comandate de farmacii pentru a ajunge la populație, anunță marți Ministerul Sănătății, citând date de la Agenția Națională a Medicamentului.” [1]
+> „La jumătatea lunii noiembrie este estimată o nouă livrare, de aproximativ 500.000 de doze, pentru continuarea campaniei de vaccinare antigripală.” [3]
+
+[card: Doze sunt, și mai vin]
+
+### Pentru cine contează cel mai mult
+
+Vaccinul previne gripa și complicațiile ei, care îi lovesc mai ales pe cei vulnerabili. De aceea medicii recomandă vaccinul mai ales celor de peste 65 de ani, copiilor, celor cu boli cronice, femeilor însărcinate și celor care lucrează în spitale și cabinete. Ministerul îl numește una dintre cele mai importante măsuri de prevenire a gripei.
+> „Vaccinarea antigripală este una dintre cele mai importante măsuri de prevenire a gripei și a complicațiilor asociate acesteia, în special în cazul persoanelor vulnerabile.” [1]
+> „Medicii recomandă vaccinarea, în special, persoanelor cu vârsta de peste 65 de ani, copiilor, persoanelor cu boli cronice, femeilor gravide și personalului medico-sanitar.” [2]
+
+[card: Cui îi recomandă medicii vaccinul]
+
+### Cât costă
+
+Pentru mulți, vaccinul e compensat: statul plătește tot prețul de referință sau jumătate din el. Tot prețul îl acoperă pentru cei între 19 și 64 de ani cu boli cronice sau alte riscuri, pentru cei cu imunitatea slăbită și pentru cei între 45 și 64 de ani fără boli cronice. Ceilalți primesc jumătate și plătesc restul. Prețul de referință e stabilit de stat, așa că, dacă vaccinul din farmacie costă mai mult, se poate plăti o diferență chiar și la compensarea întreagă.
+> „Vaccinul antigripal se acordă cu compensare 100% sau 50%, în funcție de categoria în care se încadrează pacientul.” [2]
+> „persoanele între 19 și 64 de ani care au anumite boli cronice sau condiții de risc, printre care - boli cardiovasculare cronice, boli respiratorii cronice, boli renale cronice, boli hepatice cronice, boli neurologice cronice, boli metabolice, boli oncologice, boli autoimune, malformații congenitale, obezitate, asplenie,” [2]
+> „persoanele cu vârsta între 45 și 64 de ani care nu au boli cronice.” [2]
+> „Important de menționat: „100% compensat” înseamnă 100% din prețul de referință, nu neapărat din orice preț al vaccinului disponibil în farmacie. În cazul compensării de 50%, pacientul suportă diferența prevăzută de mecanismul de compensare.” [2]
+
+[card: Cât plătești pe vaccin]
+
+### Ce vaccin găsești
+
+În România sunt aprobate patru vaccinuri: Vaxigrip, Influvac, Fluenz și Efluelda. Fluenz, pentru copii și adolescenți, și Efluelda, pentru cei de peste 60 de ani, sunt destule. Din Vaxigrip și Influvac, cele care se fac cu seringa, primele stocuri s-au terminat în mare parte.
+> „Ministerul reamintește că în România sunt autorizate patru vaccinuri antigripale: Vaxigrip, Influvac, Fluenz și Efluelda. Potrivit ANMDMR, Fluenz, destinat copiilor și adolescenților, și Efluelda, destinat persoanelor cu vârsta de peste 60 de ani, sunt disponibile în stocuri suficiente în farmacii și la distribuitori. În cazul vaccinurilor injectabile Vaxigrip și Influvac, primele stocuri au fost consumate în mare parte.” [1]
+
+### Câți s-au vaccinat
+
+Până pe 18 octombrie se vaccinaseră 400.259 de oameni. Aproape toți, 393.552, sunt din grupele care primesc vaccinul compensat. Doar 3.069 de vaccinări s-au făcut în farmacii.
+> „Până la data de 18 octombrie 2026, în Registrul Electronic Național de Vaccinări (RENV) au fost înregistrate 400.259 de vaccinări antigripale. Dintre acestea, 393.552 au fost efectuate în rândul persoanelor care beneficiază de vaccinare compensată, iar 3.069 în farmaciile comunitare autorizate.” [3]
+
 ## Surse
 
 1. Ministerul Sănătății anunță că 370.000 de doze de vaccin antigripal sunt disponibile în depozite — Digi24. https://www.digi24.ro/stiri/actualitate/sanatate/ministerul-sanatatii-anunta-ca-370-000-de-doze-de-vaccin-antigripal-sunt-disponibile-in-depozite-si-pot-fi-comandate-de-farmacii-4010777

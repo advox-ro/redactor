@@ -25,7 +25,7 @@ export function kindOf(outlet: string, url: string): string {
 /** Every quote in the page: under its cards, and the key figure's. */
 export function quotesOf(q: PageFile): Quote[] {
   const stat = q.data.stat?.quote ? [{ quote: q.data.stat.quote, source: q.data.stat.source }] : [];
-  return [...q.cards.flatMap((c) => c.quotes), ...stat];
+  return [...q.cards.flatMap((c) => c.quotes), ...q.article.flatMap((b) => b.quotes), ...stat];
 }
 
 /** Problems with the page; empty when it passes. texts: each article's text by address, as
@@ -54,13 +54,20 @@ export function checkPage(q: PageFile, texts: Map<string, string | null>): strin
     const said = [c.title, c.text, ...c.rows.flatMap((r) => [r.label ?? '', r.value])].join(' ');
     for (const n of numbers(said)) if (!ok.has(n)) p.push(`card "${c.title}": the number ${n} is not in its quotes`);
   });
+  q.article.forEach((b, i) => {
+    if (b.kind !== 'text') return;
+    if (!b.quotes.length) p.push(`article, paragraph ${i + 1} has no quotes: "${b.text.slice(0, 60)}…"`);
+    const ok = new Set(b.quotes.flatMap((x) => numbers(x.quote)));
+    for (const n of numbers(b.text)) if (!ok.has(n)) p.push(`article, paragraph ${i + 1}: the number ${n} is not in its quotes`);
+  });
   const anywhere = new Set(all.flatMap((x) => numbers(x.quote)));
+  for (const b of q.article.filter((b) => b.kind === 'heading')) for (const n of numbers(b.text)) if (!anywhere.has(n)) p.push(`article heading "${b.text}": the number ${n} is not in any quote`);
   for (const n of numbers(d.summary ?? '')) if (!anywhere.has(n)) p.push(`summary: the number ${n} is not in any quote`);
   for (const n of numbers(d.stat ? `${d.stat.value} ${d.stat.label}` : '')) if (!anywhere.has(n)) p.push(`key figure: the number ${n} is not in any quote`);
 
   const used = new Set(all.map((x) => x.source));
   for (const s of q.sources) if (!used.has(s.n)) p.push(`[${s.n}] ${s.url} is in Surse but nothing rests on it`);
-  const backing = q.sources.filter((s) => q.cards.some((c) => c.quotes.some((x) => x.source === s.n)));
+  const backing = q.sources.filter((s) => [...q.cards, ...q.article].some((c) => c.quotes.some((x) => x.source === s.n)));
   if (new Set(backing.map((s) => s.outlet)).size < 2) p.push('the cards rest on one outlet; two are needed');
   if (!d.counties?.length && new Set(backing.map((s) => kindOf(s.outlet, s.url))).size < 2)
     p.push('a page for the whole country needs its cards to rest on two kinds of outlets (sources.ts)');

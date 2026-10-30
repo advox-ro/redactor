@@ -3,6 +3,9 @@
 //   ## Carduri      the cards the site shows: for each, `### Title`,
 //                   `tip: <kind>`, its data as `- label: value` items, a sentence or two, and on a
 //                   news page the quotes it rests on, `> „…” [n]` (pages/README.md)
+//   ## Articol       the page read as an article: paragraphs, `### Subheadings` and `[card: Title]`
+//                   lines where a card's drawing goes; on a news page each paragraph with the
+//                   quotes it rests on under it, `> „…” [n]` (pages/README.md)
 //   ## Surse        a news page's articles, as in the wiki: `n. Title — Outlet. https://…`
 // The build (scripts/content.ts), the validator (pages/validate.mjs) and the page check
 // (pagecheck.ts) all read pages through parsePage.
@@ -13,16 +16,41 @@ export type Quote = { quote: string; source: number };
 export type Source = { n: number; title: string; outlet: string; url: string };
 export type Row = { label?: string; value: string };
 export type Card = { title: string; kind: string; rows: Row[]; text: string; quotes: Quote[] };
+/** A part of the article: a paragraph (with the quotes under it), a subheading, or a card's place. */
+export type Block = { kind: 'text' | 'heading' | 'card'; text: string; quotes: Quote[] };
 export type PageFile = {
   data: Record<string, any>; // the front matter
   cards: Card[];
+  article: Block[];
   sources: Source[];
 };
 
-const SECTIONS = ['Carduri', 'Surse'];
+const SECTIONS = ['Carduri', 'Articol', 'Surse'];
 /** The kinds of card the site draws (pages/README.md). */
 export const KINDS = ['cifră', 'comparație', 'parte', 'clasament', 'evoluție', 'cronologie', 'voci', 'listă', 'text'];
 const QUOTE = /^\s*> „(.*)” \[(\d+)\]\s*$/;
+
+function parseArticle(md: string): Block[] {
+  const blocks: Block[] = [];
+  let open: Block | null = null; // the paragraph being written, until a blank line
+  for (const line of md.split('\n')) {
+    const t = line.trim();
+    const card = t.match(/^\[card: (.+)\]$/);
+    if (!t) open = null;
+    else if (t.startsWith('>')) {
+      const q = line.match(QUOTE);
+      const last = blocks.at(-1);
+      if (!q || last?.kind !== 'text') throw new Error(`article: not a quote under a paragraph (> „…” [n]): ${t}`);
+      last.quotes.push({ quote: q[1], source: Number(q[2]) });
+      open = null;
+    } else if (t.startsWith('### ') || card) {
+      blocks.push({ kind: card ? 'card' : 'heading', text: card ? card[1].trim() : t.slice(4).trim(), quotes: [] });
+      open = null;
+    } else if (open) open.text += ` ${t}`;
+    else blocks.push((open = { kind: 'text', text: t, quotes: [] }));
+  }
+  return blocks;
+}
 
 function parseCards(md: string): Card[] {
   const cards: Card[] = [];
@@ -73,17 +101,19 @@ export function parsePage(md: string): PageFile {
     if (!s) throw new Error(`not a source (n. Title — Outlet. https://…): ${l}`);
     return { n: Number(s[1]), title: s[2], outlet: s[3], url: s[4] };
   });
-  return { data, cards: parseCards(sections.get('Carduri') ?? ''), sources };
+  return { data, cards: parseCards(sections.get('Carduri') ?? ''), article: parseArticle(sections.get('Articol') ?? ''), sources };
 }
 
 /** The page as the site reads it: the front matter with its quiz's questions (none without a quiz),
- *  its articles (news) and its cards with the numbers of the articles they rest on, without their
- *  quotes; and the cards as plain Markdown text, their titles and sentences. */
+ *  its articles (news), its cards and its article's parts, each with the numbers of the articles it
+ *  rests on, without the quotes; and the cards as plain Markdown text, their titles and sentences. */
 export function published(q: PageFile, questions: Question[] = []): { data: Record<string, any>; body: string } {
   const { quote, source, ...stat } = q.data.stat ?? {};
   const data: Record<string, any> = { ...q.data, questions };
   if (q.data.stat) data.stat = stat;
   if (q.sources.length) data.news = q.sources.map(({ outlet, title, url }) => ({ outlet, title, url }));
-  data.cards = q.cards.map(({ quotes, ...c }) => ({ ...c, sources: [...new Set(quotes.map((x) => x.source))] }));
+  const numbers = (quotes: Quote[]) => [...new Set(quotes.map((x) => x.source))];
+  data.cards = q.cards.map(({ quotes, ...c }) => ({ ...c, sources: numbers(quotes) }));
+  data.article = q.article.map(({ quotes, ...b }) => ({ ...b, sources: numbers(quotes) }));
   return { data, body: q.cards.map((c) => `- **${c.title}.** ${c.text}`).join('\n') };
 }
