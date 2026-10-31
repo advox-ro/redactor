@@ -23,7 +23,7 @@ De miercuri seara, 28 octombrie, sensul de mers dinspre Sebeș spre Turda al aut
 > „Lucrările de intervenție se desfășoară în zona kilometrului 66+350, unde au apărut degradări ale sistemului rutier în urma unei noi surpări.” [2]
 > „Compania Națională de Administrare a Infrastructurii Rutiere a fost criticată pentru restricțiile de circulație de pe A10 Sebeș - Turda, mai exact pentru că a fost aleasă varianta ca traficul să fie deviat prin sate, pe Drumul Național 1.” [1]
 
-### Până la sfârșitul anului, poate și mai mult
+### Închis până la final de an
 tip: text
 Filiala din Cluj a companiei care administrează drumurile spune că restricțiile țin până la sfârșitul anului și se pot prelungi. Cât durează depinde și de vreme.
 > „Au anunțat că restricțiile de circulație sunt valabile până la „31.12.2026, cu posibilitatea prelungirii” .” [1]
@@ -77,7 +77,7 @@ Mașinile care merg spre Turda sunt trimise pe Drumul Național 1, care trece pr
 
 [card: Spre Turda, pe DN1]
 
-[card: Până la sfârșitul anului, poate și mai mult]
+[card: Închis până la final de an]
 
 ### Ce propun criticii
 
