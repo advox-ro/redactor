@@ -14,4 +14,4 @@
 
 1. Da
 2. Nu, dar m-am gândit să o fac
-3. Nu
+3. Nu, nu m-am gândit la asta

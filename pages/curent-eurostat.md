@@ -1,6 +1,6 @@
 ---
 title: Curentul s-a scumpit cu 51,6%
-summary: Potrivit Eurostat, în ianuarie–iunie 2026, curentul pentru case a costat cu 51,6% mai mult decât cu un an înainte. Cum simți tu facturile.
+summary: Potrivit Eurostat, curentul pentru case a costat în ianuarie–iunie 2026 cu 51,6% mai mult decât un an înainte, când era plafonat.
 tags: [energie, bani]
 date: 2026-10-30
 image:
@@ -24,12 +24,14 @@ s-a scumpit curentul pentru case în primele șase luni din 2026, față de acee
 > „Prețurile energiei electrice pentru gospodării au crescut semnificativ, în primele șase luni din acest an, în România (51,6% față de prima jumătate a anului 2025), Irlanda (19,8%) și Finlanda (18,4%). În schimb, unele țări au înregistrat scăderi accentuate, în special Danemarca (31,7%) și Luxemburgul (24,1%)” [3]
 > „Prețurile energiei electrice pentru gospodăriile din România au crescut cu 51,6% în prima jumătate din 2026, comparativ cu aceeași perioadă din 2025.” [1]
 
-### Comparația e cu luni cu preț plafonat
+### Anul trecut, prețul era încă plafonat
 tip: cronologie
-- Până la 1 iulie 2025: prețul e plafonat de stat
-- Prima jumătate din 2026: curentul, cu 51,6% mai scump decât cu un an înainte
-Statul a ținut prețul curentului jos patru ani. De la 1 iulie 2025, prețul îl face piața. Eurostat compară primele luni fără plafon cu ultimele luni cu plafon.
+- Ianuarie–iunie 2025: preț plafonat de stat
+- 1 iulie 2025: plafonul se încheie
+- Ianuarie–iunie 2026: cu 51,6% mai scump
+Statul a pus o limită prețului curentului timp de patru ani. De la 1 iulie 2025, prețul îl face piața. Un an mai târziu, era tot peste 1 leu pe kWh.
 > „După patru ani de prețuri plafonate de stat, la 1 iulie 2025 piața de electricitate a fost complet liberalizată.” [4]
+> „La un an de la acel moment, prețurile se mențin peste 1 leu pe kWh.” [4]
 > „Prețurile energiei electrice pentru gospodăriile din România au crescut cu 51,6% în prima jumătate din 2026, comparativ cu aceeași perioadă din 2025.” [1]
 
 ### Cel mai scump, la puterea de cumpărare
@@ -37,24 +39,30 @@ tip: comparație
 - România: 46,9 PPS
 - Polonia: 41,1 PPS
 - Cehia: 34,3 PPS
-costă 100 kWh de curent. PPS e o unitate a Eurostat care ține cont de cât pot cumpăra oamenii cu banii lor în fiecare țară. Așa socotit, curentul e cel mai scump în România.
+- Malta: 13,8 PPS
+costă 100 kWh de curent (kilowați-oră, unitatea de pe factură). PPS e o unitate a Eurostat care ține cont de cât pot cumpăra oamenii cu banii lor în fiecare țară. Așa socotit, curentul e cel mai scump în România și cel mai ieftin în Malta.
 > „România se află pe primul loc în UE și atunci când prețul electricității este exprimat în standardul puterii de cumpărare, un indicator care permite compararea costurilor ținând cont de diferențele dintre economiile statelor membre.” [1]
 > „Valoarea înregistrată în România a fost de 46,9 unități PPS pentru 100 kWh. Urmează Polonia, cu 41,1 unități, și Cehia, cu 34,3.” [1]
+> „Cele mai mici niveluri ajustate la puterea de cumpărare au fost raportate în Malta, cu 13,8 unități PPS pentru 100 kWh, Ungaria, cu 14,7, și Luxemburg, cu 15,5.” [1]
 
-### Gazele: +9,3%, dar tot printre cele mai ieftine
+### La gaze, prețul a rămas printre cele mai mici
 tip: comparație
+- Ungaria: 0,03 euro/kWh
+- Croația: 0,05 euro/kWh
 - România: 0,06 euro/kWh
-- Media UE: 0,11 euro/kWh
-au plătit în medie gospodăriile pentru gaze în prima jumătate din 2026. Și la gaze, România a avut cea mai mare scumpire din UE, dar prețul a rămas printre cele mai mici.
-> „În primul semestru din 2026, gazele s-au scumpit cu 9,3% față de perioada similară din 2025.” [1]
+- Suedia: 0,22 euro/kWh
+au plătit în medie gospodăriile pentru gaze în prima jumătate din 2026. Și la gaze, România a avut cea mai mare scumpire din UE.
 > „Deși a avut cea mai mare creștere procentuală, România a rămas printre statele cu cele mai mici prețuri nominale ale gazelor. Gospodăriile au plătit în medie 0,06 euro pe kWh, același nivel fiind raportat în Slovacia.” [1]
-> „La nivelul Uniunii Europene, prețul mediu al gazelor pentru gospodării a coborât în primele șase luni din 2026 la 0,11 euro pe kWh.” [1]
+> „Prețuri mai mici au fost înregistrate în Ungaria, de 0,03 euro pe kWh, și Croația, de 0,05 euro pe kWh.” [1]
+> „La polul opus, Suedia a avut cel mai ridicat preț, de 0,22 euro pe kWh.” [1]
+> „În primul semestru din 2026, gazele s-au scumpit cu 9,3% față de perioada similară din 2025.” [1]
 
-### Furnizorul se poate schimba gratuit
+### Cum se schimbă furnizorul
 tip: text
-Dacă prețul nu îți convine, poți trece oricând la alt furnizor de curent, fără plată și fără să aștepți sfârșitul contractului. Cererea se face pe platforma ANRE, autoritatea care reglementează energia, sau pe site-ul noului furnizor.
+Furnizorul de curent se poate schimba oricând, gratuit, fără să aștepți sfârșitul contractului. Cererea se face pe platforma ANRE, autoritatea care reglementează energia, sau pe site-ul noului furnizor. Dacă contractul include și alte servicii, de exemplu rate la un aparat, pot exista penalități.
 > „În cazul în care nu suntem mulțumiți de preț, putem oricând să ne schimbăm furnizorul de electricitate, gratis, fără a aștepta finalizarea perioadei de contract.” [4]
 > „Trebuie doar să completăm cererea de transfer, fie pe platforma ANRE, fie pe site-urile furnizorilor de energie electrică unde vrem să ne portăm, iar noul furnizor se ocupă să ne preia de la vechea companie.” [4]
+> „ANRE reglementează doar furnizarea de energie electrică, nu și aceste servicii complementare, prin urmare contractele de acest fel pot conține penalități pentru denunțarea unilaterală înainte de termen.” [4]
 
 ## Articol
 
@@ -72,24 +80,28 @@ Procentele sunt calculate în moneda fiecărei țări, în lei pentru România. 
 
 ### Cu ce se compară
 
-Patru ani, statul a plafonat prețul curentului, adică l-a ținut sub o limită. La 1 iulie 2025, plafonarea s-a încheiat și prețul a început să fie făcut de piață. Pentru casele care consumă puțin, facturile s-au dublat față de vechiul plafon de 0,68 lei pe kWh, unitatea după care se plătește curentul.
+Patru ani, statul a plafonat prețul curentului, adică l-a ținut sub o limită: 0,68 lei pe kWh (kilowatt-oră, unitatea după care se plătește curentul). La 1 iulie 2025, plafonarea s-a încheiat și prețul a început să fie făcut de piață. La casele care consumă puțin, facturile s-au dublat, scrie HotNews. Un an mai târziu, prețul era tot peste 1 leu pe kWh.
 > „După patru ani de prețuri plafonate de stat, la 1 iulie 2025 piața de electricitate a fost complet liberalizată.” [4]
 > „Pentru utilizatorii casnici cu consum mic, noile prețuri au fost un șoc, întrucât facturile s-au dublat față de plafonul de 0,68 lei/kWh.” [4]
+> „La un an de la acel moment, prețurile se mențin peste 1 leu pe kWh.” [4]
 
-Datele Eurostat compară primele șase luni din 2026 cu primele șase luni din 2025, când prețul era încă plafonat.
+Datele Eurostat compară primele șase luni din 2026, fără plafon, cu primele șase luni din 2025, când prețul era încă plafonat.
 > „Prețurile energiei electrice pentru gospodăriile din România au crescut cu 51,6% în prima jumătate din 2026, comparativ cu aceeași perioadă din 2025.” [1]
 > „După patru ani de prețuri plafonate de stat, la 1 iulie 2025 piața de electricitate a fost complet liberalizată.” [4]
 
-[card: Comparația e cu luni cu preț plafonat]
+[card: Anul trecut, prețul era încă plafonat]
 
 ### În restul Uniunii
 
-În medie, în UE, curentul pentru case s-a ieftinit cu 2,2% față de a doua jumătate a lui 2025: de la 0,29 la 0,28 euro pe kWh. Prețurile au rămas însă mult peste cele de dinainte de criza energetică din 2022. Taxele și celelalte contribuții au ajuns la 28,4% din factură, de la 28,9%.
+În medie, în UE, curentul pentru case s-a ieftinit. Față de prima jumătate a lui 2025, aceeași comparație ca pentru România, Observator scrie că prețurile medii sunt în scădere, iar Radio România Actualități că au scăzut cu 1,6%.
+> „La nivelul UE, prețurile medii în primul semestru din 2026 sunt în scădere, raportat la primul semestru din 2025.” [3]
+> „În același timp, prețul mediu la nivelul Uniunii a scăzut cu 1,6%.” [2]
+
+Față de a doua jumătate a lui 2025, prețul mediu din UE a scăzut cu 2,2%: de la 0,29 la 0,28 euro pe kWh. Prețurile au rămas însă mult peste cele de dinainte de criza energetică din 2022.
 > „În prima jumătate din 2026, prețul mediu al electricității pentru gospodăriile din UE a scăzut cu 2,2% față de semestrul al doilea din 2025, ajungând la 0,28 euro pe kilowatt-oră, de la 0,29 euro pe kWh.” [1]
 > „Chiar și după această scădere, prețurile au rămas mult peste nivelurile înregistrate înaintea crizei energetice din 2022, arată Eurostat.” [1]
-> „Ponderea taxelor și a celorlalte contribuții în factura finală s-a redus cu 0,5 puncte procentuale, de la 28,9% în semestrul al doilea din 2025 la 28,4% în primele șase luni din 2026.” [1]
 
-În euro, cel mai mult a costat curentul în Irlanda, 0,39 euro pe kWh, iar cel mai puțin în Ungaria, 0,11 euro pe kWh.
+În euro, cel mai mult a costat curentul în Irlanda, 0,39 euro pe kWh, iar cel mai puțin în Ungaria, 0,11 euro pe kWh. Pentru România, articolele nu dau prețul în euro.
 > „Irlanda a avut cel mai ridicat preț nominal al electricității pentru gospodării, de 0,39 euro pe kWh.” [1]
 > „Cele mai mici prețuri au fost înregistrate în Ungaria, cu 0,11 euro pe kWh, și în Malta și Bulgaria, cu câte 0,13 euro pe kWh.” [1]
 
@@ -109,24 +121,25 @@ La gaze, România a avut tot cea mai mare scumpire din UE: 9,3%. Urmează Croaț
 > „Prețurile s-au redus cu 10,2 % față de semestrul al doilea al anului 2025 și cu 3,5 % față de primul semestru al anului 2025.” [3]
 > „La nivelul Uniunii Europene, prețul mediu al gazelor pentru gospodării a coborât în primele șase luni din 2026 la 0,11 euro pe kWh.” [1]
 
-Chiar și după scumpire, gazele din România au rămas printre cele mai ieftine din UE. Gospodăriile au plătit în medie 0,06 euro pe kWh. Mai puțin s-a plătit doar în Ungaria și în Croația.
+În euro, gazele din România au rămas printre cele mai ieftine din UE: gospodăriile au plătit în medie 0,06 euro pe kWh. Mai puțin s-a plătit doar în Ungaria și în Croația, iar cel mai mult în Suedia, 0,22 euro. Pentru gaze, articolele nu dau valoarea României la puterea de cumpărare.
 > „Deși a avut cea mai mare creștere procentuală, România a rămas printre statele cu cele mai mici prețuri nominale ale gazelor. Gospodăriile au plătit în medie 0,06 euro pe kWh, același nivel fiind raportat în Slovacia.” [1]
 > „Prețuri mai mici au fost înregistrate în Ungaria, de 0,03 euro pe kWh, și Croația, de 0,05 euro pe kWh.” [1]
+> „La polul opus, Suedia a avut cel mai ridicat preț, de 0,22 euro pe kWh.” [1]
 
-[card: Gazele: +9,3%, dar tot printre cele mai ieftine]
+[card: La gaze, prețul a rămas printre cele mai mici]
 
-### Ce poți face
+### Schimbarea furnizorului
 
 Oricine își poate schimba furnizorul de curent, gratuit și fără să aștepte sfârșitul contractului. Cererea se face pe platforma ANRE, Autoritatea Națională de Reglementare în Energie, sau pe site-ul noului furnizor, iar acesta se ocupă de mutare. Pe platforma ANRE, cererea durează 10–15 minute, iar mutarea se face în 24 de ore.
 > „În cazul în care nu suntem mulțumiți de preț, putem oricând să ne schimbăm furnizorul de electricitate, gratis, fără a aștepta finalizarea perioadei de contract.” [4]
 > „Trebuie doar să completăm cererea de transfer, fie pe platforma ANRE, fie pe site-urile furnizorilor de energie electrică unde vrem să ne portăm, iar noul furnizor se ocupă să ne preia de la vechea companie.” [4]
 > „Cererea poate fi completată în 10-15 minute, iar portarea se face în 24 de ore dacă folosim platforma pusă la dispoziție de ANRE, unde găsim și un video care ne arată cum să procedăm.” [4]
 
-Atenție la contractele care includ și alte servicii, de exemplu rate pentru un aparat de aer condiționat. ANRE se ocupă doar de furnizarea curentului, așa că aceste contracte pot avea penalități dacă renunți înainte de termen.
+Contractele care includ și alte servicii, de exemplu rate pentru un aparat de aer condiționat, pot avea penalități dacă renunți înainte de termen. ANRE se ocupă doar de furnizarea curentului, nu și de aceste servicii.
 > „Dacă în contractul pe care l-am semnat cu furnizorul avem și alte servicii incluse, de exemplu rate sau service pentru aparatul de aer condiționat, în acest caz trebuie să vedem dacă nu avem anumite condiții pentru renunțarea la contract înainte de termen.” [4]
 > „ANRE reglementează doar furnizarea de energie electrică, nu și aceste servicii complementare, prin urmare contractele de acest fel pot conține penalități pentru denunțarea unilaterală înainte de termen.” [4]
 
-[card: Furnizorul se poate schimba gratuit]
+[card: Cum se schimbă furnizorul]
 
 ## Surse
 
