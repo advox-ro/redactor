@@ -1,9 +1,9 @@
 ---
 title: Taxa pe colete se schimbă
 summary: De la 1 noiembrie dispare taxa de 25 de lei pe coletele mici din afara UE și vine o taxă europeană de 2 euro. Cum comanzi tu online.
-tags: [bani, prețuri]
+tags: [bani, economie]
 date: 2026-10-30
-stat: { value: "6 miliarde", label: "de colete mici, aproape, au intrat în Uniunea Europeană în 2025", quote: "Aproape 6 miliarde de colete de mici dimensiuni au intrat în Uniunea Europeană în 2025, iar aproximativ 93% dintre acestea proveneau din China.", source: 4 }
+stat: { value: "~6 mld.", label: "de colete mici au intrat în Uniunea Europeană în 2025", quote: "Aproape 6 miliarde de colete de mici dimensiuni au intrat în Uniunea Europeană în 2025, iar aproximativ 93% dintre acestea proveneau din China.", source: 4 }
 image:
   src: /photos/taxa-colete.jpg
   alt: Etichetă cu declarație vamală pe un colet mic trimis din afara Uniunii Europene
@@ -21,8 +21,9 @@ tip: cronologie
 - 1 ianuarie 2026: începe taxa de 25 de lei pe colet
 - 31 octombrie 2026: ultima zi în care se plătește
 - 1 noiembrie 2026: taxa nu se mai plătește
-Taxa era pentru coletele mai ieftine de 150 de euro, trimise din afara Uniunii Europene (UE). Guvernul a scos-o vineri.
+Taxa era pentru coletele mai ieftine de 150 de euro, trimise din afara Uniunii Europene (UE). Guvernul a hotărât s-o scoată.
 > „Începând cu 1 ianuarie 2026, România a introdus o taxă fixă de 25 de lei pentru fiecare colet provenind din afara Uniunii Europene, cu valoare declarată sub 150 de euro.” [3]
+> „Este decizia Guvernului pentru coletele cu valoare sub 150 de euro, expediate din afara Uniunii Europene.” [5]
 > „Pentru coletele predate destinatarilor până la 31 octombrie 2026 inclusiv, regulile privind stabilirea, colectarea, declararea și virarea taxei, păstrarea evidențelor, controlul și sancțiunile rămân aplicabile.” [2]
 > „Pentru coletele predate destinatarilor începând cu data de 1 noiembrie 2026 taxa logistică de 25 de RON nu se va aplica.” [3]
 
@@ -49,7 +50,7 @@ Taxele europene le plătesc platformele sau vânzătorii. Ei le pot trece însă
 > „Legislația europeană specifică faptul că platformele, vânzătorii sau intermediarii acestora sunt cei care trebuie să plătească aceste taxe, chiar dacă acestea pot fi percepute consumatorilor atunci când aceștia își plătesc comanda.” [2]
 > „Deși nu este concepută ca o taxă plătită direct de cumpărător, costul suplimentar ar putea fi reflectat în prețurile produselor sau în condițiile de livrare, în funcție de politica fiecărei platforme și a fiecărui comerciant, potrivit AFP .” [4]
 
-### Ți s-a luat taxa veche după 1 noiembrie? Banii se întorc
+### Taxa veche luată după 1 noiembrie se dă înapoi
 tip: cifră
 - 30 de zile
 are poșta sau firma de curierat să dea înapoi taxa de 25 de lei luată pentru un colet primit din 1 noiembrie.
@@ -119,11 +120,11 @@ Dacă cineva încasează totuși taxa de 25 de lei pentru un colet primit de la 
 > „Pentru coletele predate destinatarilor începând cu data de 1 noiembrie 2026 taxa logistică de 25 de RON nu se va aplica.” [3]
 > „Pentru coletele predate începând cu 1 noiembrie 2026, taxa nu se datorează, iar sumele încasate cu acest titlu de furnizorii de servicii poștale nu se virează la bugetul de stat și se restituie plătitorilor în termen de 30 de zile de la data predării coletului” [2]
 
-[card: Ți s-a luat taxa veche după 1 noiembrie? Banii se întorc]
+[card: Taxa veche luată după 1 noiembrie se dă înapoi]
 
 ### Coletele își schimbă drumul
 
-Aproape 6 miliarde de colete mici au intrat în UE în 2025, iar aproximativ 93% veneau din China. După taxa de 3 euro, coletele trimise direct cumpărătorilor au scăzut cu peste 60% în primele trei luni. Produsele nu au dispărut: unii comercianți aduc marfa în cantități mari, o țin în depozite din UE și o trimit de acolo. Doar în iulie–septembrie au intrat în UE peste 555 de milioane de colete.
+Aproape 6 miliarde de colete mici au intrat în UE în 2025, iar aproximativ 93% veneau din China. După taxa de 3 euro, coletele trimise direct cumpărătorilor au scăzut cu peste 60% în primele trei luni, potrivit corespondentului Știrile ProTV. Produsele nu au dispărut: unii comercianți aduc marfa în cantități mari, o țin în depozite din UE și o trimit de acolo. Doar în iulie–septembrie au intrat în UE peste 555 de milioane de colete.
 > „Aproape 6 miliarde de colete de mici dimensiuni au intrat în Uniunea Europeană în 2025, iar aproximativ 93% dintre acestea proveneau din China.” [4]
 > „Numărul coletelor trimise direct către consumatori a scăzut cu peste 60% în primele trei luni de la introducerea taxei de 3 euro. Dar produsele nu au dispărut. Unii comercianți au găsit o altă variantă: aduc marfa în cantități mari, o depozitează în Uniunea Europeană, apoi o distribuie către cumpărători. De altfel, numai în perioada iulie-septembrie au intrat în UE peste 555 de milioane de colete.” [5]
 
