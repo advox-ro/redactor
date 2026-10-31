@@ -47,6 +47,13 @@ Angajații se adună pe 30 octombrie în fața Prefecturii Galați. Vor să afle
 > „Oamenii vor să știe ce se întâmplă cu combinatul și ce soartă vor avea salariații, neplătiți din luna mai.” [2]
 > „Protestatarii vor să afle dacă unitatea siderurgică va putea reveni la funcționarea normală și ce se va întâmpla cu locurile lor de muncă.” [3]
 
+### Combinatul nu mai are contract de curent
+tip: text
+Contractul cu furnizorul Electrica nu a mai fost prelungit, din cauza datoriilor, spune un reprezentant al companiei. Combinatul cumpără curent zi de zi, pe bursă, și ar putea fi deconectat în câteva zile.
+> „Combinatul siderurgic Liberty Galați riscă să fie deconectat de la rețeaua de energie electrică, după ce contractul de furnizare încheiat cu Electrica nu a mai fost prelungit din cauza datoriilor neachitate.” [5]
+> „Un reprezentant al Liberty Galați, familiarizat cu situația, a declarat că deconectarea este iminentă și ar putea avea loc în următoarele zile.” [5]
+> „Reprezentantul combinatului a explicat că, în prezent, societatea nu mai are un contract de furnizare a energiei electrice și se bazează pe achizițiile de pe Piața pentru Ziua Următoare (PZU), soluție care îi mai permite să rămână conectată pentru o perioadă limitată.” [5]
+
 ### Fără curent, combinatul s-ar putea strica
 tip: cifră
 - 50 de zile
@@ -97,7 +104,27 @@ La începutul lui octombrie existau speranțe ca o parte din combinat să reporn
 > „În acel moment, erau menționate contracte pentru aproximativ 23.000 de tone de produse, iar circa 1.000 de angajați din totalul de aproximativ 2.000 ar fi putut reveni la lucru în cazul repornirii instalațiilor.” [3]
 > „Noile informații privind intrarea majorității salariaților în șomaj tehnic indică însă persistența problemelor cu care se confruntă combinatul.” [3]
 
+### Fără contract de curent
+
+La sfârșitul lui octombrie, un reprezentant al combinatului a spus că combinatul nu mai are contract pentru curent. Contractul cu furnizorul Electrica, anunțat în februarie, a fost făcut pe șase luni și prelungit apoi cu o lună. O nouă prelungire nu mai e posibilă, spune el, din cauza datoriilor pe care compania nu le poate plăti. Combinatul cumpără curent de pe Piața pentru Ziua Următoare, o bursă unde curentul se cumpără cu o zi înainte. Asta îl mai ține conectat câteva zile, spune reprezentantul.
+> „Un reprezentant al Liberty Galați, familiarizat cu situația, a declarat că deconectarea este iminentă și ar putea avea loc în următoarele zile.” [5]
+> „De data asta nici nu mai avem contract, măcar, suntem pe PZU. Astfel, mai putem rămâne conectați câteva zile” [5]
+> „Contractul cu Electrica, anunțat în luna februarie, a fost încheiat inițial pentru o perioadă de șase luni, ulterior fiind prelungit cu o lună.” [5]
+> „Potrivit reprezentantului Liberty Galați, o nouă prelungire nu mai este posibilă din cauza restanțelor financiare pe care compania nu le poate achita în actualul context economic.” [5]
+> „Reprezentantul combinatului a explicat că, în prezent, societatea nu mai are un contract de furnizare a energiei electrice și se bazează pe achizițiile de pe Piața pentru Ziua Următoare (PZU), soluție care îi mai permite să rămână conectată pentru o perioadă limitată.” [5]
+
+Electrica nu a răspuns la întrebările presei. Prefectul județului Galați, reprezentantul Guvernului în județ, spune că a anunțat Guvernul că o întrerupere a curentului ar aduce riscuri sociale și chiar tehnologice.
+> „News.ro a solicitat puncte de vedere de la Electrica și CITR privind contractul de furnizare și riscul deconectării, însă nu a primit răspunsuri până la publicarea informațiilor.” [5]
+> „Prefectul județului Galați, George Toderașc, a declarat pentru News.ro că Executivul a fost informat despre riscul întreruperii alimentării cu energie electrică.” [5]
+> „Am comunicat Executivului riscul întreruperii energetice, ea vine cu anumite riscuri sociale și chiar tehnologice” [5]
+
+[card: Combinatul nu mai are contract de curent]
+
 ### Ce s-ar întâmpla fără curent
+
+Conducerea spune că fără curent s-ar opri și secția de țevi sudate, singura care merge acum la capacitate întreagă, cu comenzi pentru următoarele două-trei luni.
+> „O eventuală întrerupere a alimentării cu energie electrică ar afecta inclusiv secția de țevi sudate, singura unitate de producție a combinatului care funcționează în prezent la întreaga capacitate, potrivit conducerii Liberty Galați.” [5]
+> „Reprezentanții companiei susțin că secția are producția contractată integral pentru următoarele două-trei luni, însă o oprire ar putea afecta relațiile comerciale cu actualii și viitorii clienți.” [5]
 
 Cel mai grav risc descris de directori este ca platforma să fie deconectată de la rețeaua de electricitate. În câteva ore, toate sistemele combinatului s-ar prăbuși, cu riscuri pentru angajați, pentru mediu și chiar pentru sistemul energetic al țării. Repornirea ar fi foarte complicată, nu s-a mai făcut niciodată și ar putea dura până la 50 de zile.
 > „Membrii conducerii executive a combinatului siderurgic Liberty Galați, cel mai mare din România, avertizează că situația financiară a companiei a devenit "disperată" și că o eventuală deconectare a platformei de la energia electrică ar duce, în doar câteva ore, la colapsul tuturor sistemelor combinatului, cu riscuri pentru angajați, pentru mediu și chiar pentru sistemul energetic național.” [4]
@@ -124,3 +151,4 @@ Vineri, 30 octombrie, angajații se adună în fața Prefecturii Galați. Oameni
 2. Angajații de la Liberty Galați, trimiși în șomaj tehnic de la 1 noiembrie. Muncitorii pregătesc un protest — Observator. https://observatornews.ro/economic/angajatii-de-la-liberty-galati-trimisi-in-somaj-tehnic-de-la-1-noiembrie-muncitorii-pregatesc-un-protest-670711.html
 3. Alertă la Liberty Galați! Mii de angajați intră în șomaj tehnic de la 1 noiembrie — Realitatea. https://www.realitatea.net/stiri/social/alerta-la-liberty-galati-mii-de-angajati-intra-in-somaj-tehnic-de-la-1-noiembrie-muncitorii-ies-in-strada-wdstzb
 4. Conducerea executivă a combinatului Liberty Galați trage un semnal de alarmă — Ziarul Financiar. https://www.zf.ro/business-construct/conducerea-executiva-a-combinatului-liberty-galati-trage-un-semnal-de-alarma-mii-de-angajati-sunt-neplatiti-de-peste-cinci-luni-si-vor-intra-in-somaj-in-noiembrie-23270561
+5. Liberty Galați riscă să rămână fără energie electrică. Reprezentant combinat: Deconectarea ar putea avea loc în câteva zile — Realitatea. https://www.realitatea.net/stiri/economie/liberty-galati-risca-sa-ramana-fara-energie-electrica-reprezentant-combinat-deconectarea-ar-putea-avea-loc-in-cateva-zile-zbny8w
