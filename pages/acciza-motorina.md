@@ -26,9 +26,9 @@ Acciza e o taxă pe care statul o pune pe carburanți și pe care o plătești l
 
 ### Fără prelungire, litrul s-ar fi scumpit
 tip: comparație
-- Cu acciza redusă: 10,90 lei
+- Prețul mediu în octombrie: 10,90 lei
 - Fără reducere: 11,75 lei
-Atât ar fi costat în medie un litru de motorină, după calculul Guvernului, dacă restul pieței rămânea la fel.
+Cât costa în medie un litru de motorină și cât ar fi costat fără reducere, după calculul Guvernului, dacă restul pieței rămânea la fel.
 > „Potrivit calculelor prezentate de Executiv, în lipsa prelungirii, prețul motorinei ar fi crescut de la 10,90 lei la 11,75 lei pe litru, ceea ce ar fi însemnat aproximativ 42 de lei în plus pentru un plin de 50 de litri.” [5]
 
 ### Un plin ar fi costat mai mult
@@ -41,7 +41,7 @@ ar fi plătit în plus, fără reducere, cine pune 50 de litri de motorină în 
 tip: listă
 - Acciza la motorina standard, redusă cu până la 25%
 - O limită la adaosul comercial al firmelor
-- Urmărirea exporturilor de țiței și carburanți
+- Urmărirea exporturilor de petrol și carburanți
 Adaosul comercial e partea pe care firma o pune peste costurile ei. Limita lui rămâne media din 2025, crescută o singură dată cu inflația.
 > „Printre acestea se află mecanismul de reducere temporară a accizei la motorina standard, limitarea adaosului comercial practicat de operatorii economici și monitorizarea exporturilor și a livrărilor intracomunitare de țiței și produse petroliere.” [4]
 > „Reducerea accizei la motorina standard este de până la 25%, iar nivelul acesteia se ajustează periodic, în funcție de evoluția prețurilor de pe piață.” [4]

@@ -9,7 +9,7 @@
 1. Motorină
 2. Benzină
 3. GPL
-4. Electricitate
+4. Curent electric
 5. Altceva
 6. Nu știu
 
