@@ -14,7 +14,7 @@
 
 1. Da, pentru mai mult de o lună
 2. Da, pentru cel mult o lună
-3. Niciodată
+3. Nu
 4. Nu știu
 
 ### Când apa de la robinet nu e bună de băut, ce ar trebui să primească oamenii în primul rând?
