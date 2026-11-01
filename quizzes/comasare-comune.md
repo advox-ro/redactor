@@ -18,13 +18,15 @@
 | type | single |
 | measures | priority |
 | where | romania |
+| na | Locuiesc într-un oraș mare |
 
 1. Să pot rezolva actele aproape de casă
 2. Să plătesc impozite locale mai mici
 3. Să vină mai mulți bani pentru investiții în localitate
 4. Să rămână numele localității mele
-5. Altceva
-6. Nu știu
+5. Să nu se unească deloc
+6. Altceva
+7. Nu știu
 
 ### Dacă s-ar organiza un referendum pentru unirea localității tale cu una vecină, cum ai vota?
 
@@ -33,19 +35,27 @@
 | type | single |
 | measures | opinion |
 | where | romania |
+| na | Locuiesc într-un oraș mare |
 
 1. Pentru unire
 2. Împotriva unirii
 3. Nu aș merge la vot
 4. Nu știu
 
-### Cât de mult crezi că unirea comunelor mici cu cele vecine ar îmbunătăți serviciile primăriei pentru oamenii de acolo?
+### Cum crezi că s-ar schimba serviciile primăriei pentru oamenii din comunele mici care se unesc cu altele?
 
 | id | efect-servicii |
 |---|---|
-| type | scale |
+| type | single |
 | measures | expectation |
-| scale | Deloc … Foarte mult |
+| outlook | a: 1, b: 0.5, c: 0, d: -0.5, e: -1, f: 0 |
+
+1. Mult mai bune
+2. Puțin mai bune
+3. La fel
+4. Puțin mai proaste
+5. Mult mai proaste
+6. Nu știu
 
 ### Ce ar trebui să se întâmple cu o comună mică ai cărei locuitori votează împotriva unirii cu o localitate vecină?
 
@@ -55,5 +65,5 @@
 | measures | tradeoff |
 
 1. Să rămână cum e, cu primăria ei
-2. Să fie unită oricum, dacă nu se poate susține din banii ei
+2. Să fie unită oricum
 3. Nu știu
