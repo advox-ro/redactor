@@ -34,6 +34,13 @@ Statul a pus o limită prețului curentului timp de patru ani. De la 1 iulie 202
 > „La un an de la acel moment, prețurile se mențin peste 1 leu pe kWh.” [4]
 > „Prețurile energiei electrice pentru gospodăriile din România au crescut cu 51,6% în prima jumătate din 2026, comparativ cu aceeași perioadă din 2025.” [1]
 
+### Ministrul estimează facturi cu 10–22% mai mari
+tip: text
+Asta estimează ministrul Energiei, Dumitru Chisăliță, față de aceeași perioadă de anul trecut. Se uită la ofertele pe care furnizorii le pun pe site-ul ANRE, autoritatea care reglementează energia. La gaze, spune el, facturile caselor n-ar trebui să crească la același consum, pentru că până la 31 martie 2027 statul stabilește prețul gazului românesc.
+> „Ministrul Energiei, Dumitru Chisăliță, a declarat, într-un interviu acordat Digi24 difuzat sâmbătă, că estimează o creștere a facturilor la energie electrică, în perioada următoare, cu valori cuprinse între 10% și 22%, comparativ cu aceeași perioadă a anului trecut” [5]
+> „Acesta spune că, în condițiile menținerii plafonării prețului la gazele naturale, facturile consumatorior casnici pentru această utilitate ar trebui să fie la nivelul anului trecut.” [6]
+> „Dacă vorbim din perspectiva consumatorului casnic, adică ceea ce suntem fiecare dintre noi, trebuie să spunem că pentru gaze naturale, în momentul de față, avem o legislație care stabilește ca până în 31 martie 2027, există un preț administrativ care, la gazul natural produs în România, este vândut către companiile furnizoare.” [5]
+
 ### Cel mai scump, la puterea de cumpărare
 tip: comparație
 - România: 46,9 PPS
@@ -128,6 +135,20 @@ La gaze, România a avut tot cea mai mare scumpire din UE: 9,3%. Urmează Croaț
 
 [card: La gaze, prețul a rămas printre cele mai mici]
 
+### Ce estimează ministrul
+
+Sâmbătă, ministrul Energiei, Dumitru Chisăliță, a spus la Digi24 că facturile la curent ale caselor ar putea fi, în lunile următoare, cu 10% până la 22% mai mari decât acum un an. Estimarea vine din ofertele pe care furnizorii le pun pe site-ul ANRE, Autoritatea Națională de Reglementare în Energie, și care, spune el, probabil devin prețuri în multe contracte. Cât crește fiecare factură depinde de furnizor și de contract.
+> „Ministrul Energiei, Dumitru Chisăliță, a declarat, într-un interviu acordat Digi24 difuzat sâmbătă, că estimează o creștere a facturilor la energie electrică, în perioada următoare, cu valori cuprinse între 10% și 22%, comparativ cu aceeași perioadă a anului trecut” [5]
+> „Concret, în baza tarifelor publicate pe portalul ANRE, ministrului indică majorări ale facturilor cuprinse între 10% și 22%, în funcție de furnizor și de contractul fiecărui consumator.” [5]
+> „Ofertele care sunt făcute de diverși furnizori se plasează pe această platformă, a Autorității Naționale de Reglementare în Energie, iar, în momentul de față, aceste oferte sunt mai mari, ceea ce înseamnă că, probabil, multe contracte individual încheiate între furnizori și consumatori au aceste oferte pe care le vedem noi, ele devin și prețuri în contract.” [5]
+
+La gaze, până la 31 martie 2027 gazul produs în România se vinde furnizorilor la un preț stabilit de stat. De aceea, spune ministrul, facturile caselor la gaze n-ar trebui să fie mai mari decât anul trecut, la același consum. Pentru clienții care nu sunt case, de exemplu firmele, prețul gazelor a crescut mult, spune ministrul, iar cei fără contract cu preț fix ar putea plăti mai mult.
+> „Dacă vorbim din perspectiva consumatorului casnic, adică ceea ce suntem fiecare dintre noi, trebuie să spunem că pentru gaze naturale, în momentul de față, avem o legislație care stabilește ca până în 31 martie 2027, există un preț administrativ care, la gazul natural produs în România, este vândut către companiile furnizoare.” [5]
+> „În ceea ce privește facturile pentru consumatorii casnici la gaze naturale, ministrul Energiei amintește că prețul la gaz este în continuare plafonat, arătând că facturile nu ar trebui să fie mai mari decât anul trecut, în condițiile aceluiași nivel al consumului.” [6]
+> „În ceea ce privește consumatorii de gaze naturale non-casnici, aici există o creștere semnificativă a prețului la gaze naturale și, ca atare, pentru cei care nu au încheiat contracte – în general, contractele sunt valabile un an de zile pe un preț care, la un moment dat s-a stabilit la momentul încheierii contractului – aici ar putea să existe creșteri de preț.” [5]
+
+[card: Ministrul estimează facturi cu 10–22% mai mari]
+
 ### Schimbarea furnizorului
 
 Oricine își poate schimba furnizorul de curent, gratuit și fără să aștepte sfârșitul contractului. Cererea se face pe platforma ANRE, Autoritatea Națională de Reglementare în Energie, sau pe site-ul noului furnizor, iar acesta se ocupă de mutare. Pe platforma ANRE, cererea durează 10–15 minute, iar mutarea se face în 24 de ore.
@@ -147,3 +168,5 @@ Contractele care includ și alte servicii, de exemplu rate pentru un aparat de a
 2. Prețurile la electricitate pentru consum casnic au crescut cu circa 52% în jumătate de an — Radio România Actualități. https://www.romania-actualitati.ro/stiri/romania/preturile-la-electricitate-pentru-consum-casnic-au-crescut-cu-circa-52-in-jumatate-de-an-id236645.html
 3. România, fruntașă în UE la scumpirea energiei electrice și a gazelor. Cu cât au crescut prețurile față de 2025 — Observator. https://observatornews.ro/economic/romania-fruntasa-in-ue-la-scumpirea-energiei-electrice-si-a-gazelor-cu-cat-au-crescut-preturile-fata-de-2025-670820.html
 4. Prețul energiei electrice pentru casnici, la un an de la liberalizare — HotNews. https://hotnews.ro/?p=2308334
+5. Ministrul Energiei estimează scumpiri de până la 22% la facturile de electricitate. Ce se întâmplă cu prețul gazelor — HotNews. https://hotnews.ro/ministrul-energiei-estimeaza-scumpiri-de-pana-la-22-la-facturile-de-electricitate-ce-se-intampla-cu-pretul-gazelor-2391492
+6. Cu cât vor crește facturile românilor la curent si gaze? Răspunsul ministrului Energiei — Observator. https://observatornews.ro/economic/cu-cat-vor-creste-facturile-romanilor-la-curent-si-gaze-raspunsul-ministrului-energiei-670880.html
