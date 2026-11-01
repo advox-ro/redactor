@@ -4,38 +4,41 @@
 |---|---|
 | type | single |
 | measures | experience |
+| where | romania |
 | na | Locuința mea nu are balcon |
 
-1. Da, l-am închis eu sau un proprietar dinainte
-2. Da, a fost închis când s-a reabilitat blocul
-3. Nu
-4. Nu știu
+1. Da, l-am închis eu
+2. Da, l-a închis alt proprietar
+3. Da, a fost închis când s-a reabilitat blocul
+4. Da, era închis de când s-a construit blocul
+5. Da, dar nu știu cine l-a închis
+6. Nu
 
-### Ai autorizație pentru închiderea balconului?
+### Există autorizație de construire pentru închiderea balconului tău?
 
 | id | autorizatie |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Balconul meu nu e închis |
+| na | Nu am balcon închis |
 
 1. Da
 2. Nu
 3. Nu știu
 
-### Cât de îngrijorat(ă) ești că ai putea plăti o amendă sau un impozit mai mare pentru balconul închis?
+### Cât de îngrijorat(ă) ești că vei plăti bani în plus pentru balconul închis în următorii doi ani?
 
-| id | ingrijorare-amenda |
+| id | ingrijorare-bani-balcon |
 |---|---|
 | type | scale |
 | measures | expectation |
 | where | romania |
 | scale | Deloc îngrijorat(ă) … Foarte îngrijorat(ă) |
-| na | Balconul meu nu e închis |
+| na | Nu am balcon închis |
 | outlook | 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1 |
 
-### Dacă ar trebui să faci actele pentru o lucrare la locuință, cât de ușor crezi că ți-ar fi la primăria ta?
+### Dacă ar trebui să obții o autorizație pentru o lucrare la locuință, cât de ușor crezi că ți-ar fi la primăria ta?
 
 | id | acte-primarie |
 |---|---|
@@ -52,8 +55,11 @@
 | type | single |
 | measures | opinion |
 
-1. Să le legalizeze fără plată
-2. Să le legalizeze cu o taxă mică
-3. Să ceară proiect de la arhitect și aprobarea primăriei
-4. Să dea amenzi celor care nu fac actele
-5. Nu știu
+1. Să le lase așa, fără acte
+2. Să le legalizeze fără plată și fără proiect
+3. Să le legalizeze cu o taxă mică, fără proiect
+4. Să ceară proiect și aprobare, fără amenzi
+5. Să ceară proiect și aprobare, cu amendă pentru cine nu le face
+6. Să ceară desființarea lor
+7. Altceva
+8. Nu știu
