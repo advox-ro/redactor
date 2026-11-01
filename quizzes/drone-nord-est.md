@@ -1,8 +1,8 @@
-- securitate-media-015
 - securitate-media-014
-- securitate-media-022
+- securitate-media-017
+- securitate-media-018
 
-### Ce ai făcut sâmbătă, 31 octombrie, când ai primit mesajul RO-Alert despre drone?
+### Ce ai făcut mai întâi sâmbătă, 31 octombrie, când ai primit mesajul RO-Alert despre drone?
 
 | id | ce-ai-facut |
 |---|---|
@@ -11,13 +11,13 @@
 | where | romania |
 | na | Nu am primit mesajul |
 
-1. M-am dus într-un beci sau într-un adăpost
-2. Am rămas în casă, departe de geamuri
-3. Am căutat mai multe informații
-4. Nu am făcut nimic special
+1. M-am dus într-un beci, subsol sau adăpost
+2. Am intrat sau am rămas într-o clădire, departe de geamuri
+3. Am căutat informații
+4. Mi-am continuat ce făceam
 5. Altceva
 
-### Cât de îngrijorat(ă) ești că o dronă ar putea cădea în zona în care locuiești?
+### Cât de îngrijorat(ă) ești că o dronă ar putea cădea în localitatea ta în următoarele 12 luni?
 
 | id | ingrijorare-drona |
 |---|---|
