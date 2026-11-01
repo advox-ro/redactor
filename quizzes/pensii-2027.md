@@ -1,4 +1,4 @@
-### Dacă primești pensie, cât de bine îți ajunge pentru cheltuielile de fiecare lună?
+### Cât de bine îți ajunge pensia pentru cheltuielile de fiecare lună?
 
 | id | ajunge-pensia |
 |---|---|
@@ -9,7 +9,7 @@
 | na | Nu primesc pensie |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### Pensionarii cu pensii de până la 3.000 de lei primesc în decembrie un ajutor de 300–500 de lei. Pe ce ai folosi în primul rând acești bani?
+### Pensionarii cu pensii de până la 3.000 de lei primesc în decembrie un ajutor de 300–500 de lei. Pe ce vei folosi în primul rând acești bani?
 
 | id | ajutor-decembrie |
 |---|---|
@@ -22,10 +22,12 @@
 2. Facturi
 3. Medicamente
 4. Cadouri de sărbători
-5. I-aș pune deoparte
-6. Altceva
+5. Rate la bănci
+6. Îi pun deoparte
+7. Altceva
+8. Nu știu încă
 
-### În ultimele 12 luni, ai ajutat cu bani un părinte sau o rudă care e la pensie?
+### În ultimele 12 luni, ai ajutat cu bani o rudă care e la pensie (de exemplu, un părinte)?
 
 | id | ajutor-rude |
 |---|---|
@@ -37,7 +39,7 @@
 2. Da, din când în când
 3. Nu
 
-### Cât de sigur(ă) ești că pensiile vor crește de la 1 ianuarie 2027?
+### Cât de sigur(ă) ești că pensiile vor crește de la 1 ianuarie 2027 cât prevede legea?
 
 | id | sigur-crestere |
 |---|---|
@@ -46,7 +48,7 @@
 | scale | Deloc sigur(ă) … Foarte sigur(ă) |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### Când statul hotărăște cât cresc pensiile, ce ar trebui să cântărească mai mult?
+### Când se hotărăște cât cresc pensiile, ce ar trebui să cântărească cel mai mult?
 
 | id | ce-conteaza |
 |---|---|
@@ -55,5 +57,7 @@
 
 1. Cât s-au scumpit prețurile
 2. Câți bani are statul la buget
-3. Amândouă la fel
-4. Nu știu
+3. Cât au crescut salariile
+4. Toate la fel
+5. Altceva
+6. Nu știu

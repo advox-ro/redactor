@@ -1,6 +1,6 @@
 ---
 title: Pensiile în 2027
-summary: Ministrul Muncii spune că pensiile vor crește de la 1 ianuarie 2027, după formula din lege. În decembrie vine un ajutor de 300–500 de lei.
+summary: Ministrul Muncii spune că pensiile vor crește în 2027, după formula din lege. Pensiile mici primesc în decembrie 300–500 de lei.
 tags: [bani]
 date: 2026-10-31
 image:
@@ -17,30 +17,32 @@ quiz: pensii-2027
 
 ### Pensiile vor crește, spune ministrul
 tip: text
-Ministrul Muncii, Florin Manole, spune că pensiile vor fi mărite de la 1 ianuarie 2027, după formula din legea pensiilor. Nu vede nici înghețare, nici o creștere în mai multe tranșe.
-> „Pensiile se vor indexa, se vor majora anul viitor”, a afirmat ministrul, subliniind că Ministerul Muncii va susține respectarea drepturilor pensionarilor și aplicarea legislației în vigoare.” [1]
+Ministrul Muncii, Florin Manole, spune că pensiile vor fi mărite în 2027, după formula din lege. Legea prevede creșterea la 1 ianuarie. Deocamdată, spune el, nu discută nici înghețare, nici o creștere în tranșe.
+> „Pensiile vor fi indexate în 2027, potrivit ministrului Muncii, Florin Manole, care susține aplicarea formulei prevăzute de lege.” [1]
 > „Florin Manole a respins posibilitatea înghețării pensiilor în 2027 și a precizat că, în acest moment, nu există un scenariu privind împărțirea majorării în două sau mai multe tranșe.” [1]
 > „Conform actualei legi a pensiilor, majorarea ar trebui să intre în vigoare la 1 ianuarie 2027.” [4]
 
 ### Cu cât ar crește
 tip: voci
-- Estimarea ministrului: 7,3%, neoficial și nefinal
-- Calculul Realitatea după formula din lege: 7,7%
-Procentul final nu e stabilit. Ministrul îl propune premierului și ministrului Finanțelor.
-> „Nu o ascund, ultima estimare pe care am avut-o, neoficială și cu siguranță nefinală, ca să nu înțeleagă nimeni nimic greșit, era de undeva la 7,3% și 9,6 miliarde impactul”, a spus Florin Manole.” [2]
-> „Calculul estimat pentru indexarea din 2027 este, astfel, de 7,3% + 0,4% = 7,7%.” [4]
+- G4Media, HotNews, Observator: ministrul citează o estimare de 7,3%, neoficială și nefinală
+- Realitatea: formula din lege ar da 7,7%
+Procentul final nu e stabilit. Ministrul îl va propune premierului și ministrului Finanțelor.
+> „O simulare preliminară indică o majorare de aproximativ 7,3%, cu un impact bugetar estimat la 9,6 miliarde de lei, însă cifrele nu sunt finale.” [1]
+> „Nu o ascund, ultima estimare pe care am avut-o, neoficială și cu siguranță nefinală, ca să nu înțeleagă nimeni nimic greșit, era de undeva la 7,3% și 9,6 miliarde impactul” [2]
+> „Ministrul Muncii, Florin Manole, a anunțat că intenția este aplicarea integrală a formulei de indexare prevăzute de lege, ceea ce ar însemna o creștere de aproximativ 7,7%.” [4]
+> „Ministrul Muncii a declarat sâmbătă seara, la Antena 3 CNN, că va înainta premierului și ministrului Finanțelor propunerea de indexare a pensiilor, în baza formulei legale.” [1]
 
 ### Ajutorul din decembrie
 tip: comparație
 - Pensie de până la 1.500 lei: 500 lei
 - Între 1.501 și 2.000 lei: 400 lei
 - Între 2.001 și 3.000 lei: 300 lei
-Banii vin odată cu pensia din decembrie. Sunt a doua jumătate din ajutorul stabilit la începutul anului.
+Banii vin odată cu pensia din decembrie, doar pentru pensiile de până la 3.000 de lei. Sunt a doua jumătate din ajutorul stabilit la începutul anului.
 > „– 500 de lei pentru pensionarii cu venituri de până la 1.500 de lei; – 400 de lei pentru cei cu pensii între 1.501 și 2.000 de lei; – 300 de lei pentru cei cu pensii între 2.001 și 3.000 de lei.” [1]
 > „În ceea ce privește sprijinul acordat pensionarilor în luna decembrie, Manole a precizat că banii vor fi virați odată cu pensia.” [1]
 > „Pensionarii cu venituri de până la 3.000 de lei vor primi în decembrie ajutoare cuprinse între 300 și 500 de lei.” [4]
 
-### Salariul minim se discută în noiembrie
+### Salariul minim și alocațiile, nedecise
 tip: text
 Guvernul, sindicatele și patronatele discută în noiembrie dacă salariul minim crește. Pentru alocațiile copiilor nu s-a luat nicio decizie.
 > „În privința salariului minim, o eventuală majorare urmează să fie discutată în noiembrie, în cadrul consultărilor dintre Guvern, sindicate și patronate, scrie Mediafax.” [3]
@@ -48,7 +50,7 @@ Guvernul, sindicatele și patronatele discută în noiembrie dacă salariul mini
 
 ## Articol
 
-Ministrul Muncii, Florin Manole, a spus sâmbătă seara, într-un interviu la televiziune, că pensiile vor fi mărite în 2027. El va propune premierului și ministrului Finanțelor o creștere calculată după formula din legea pensiilor. A spus că nu are pe masă o nouă înghețare și nici o creștere împărțită în două sau mai multe tranșe.
+Ministrul Muncii, Florin Manole, a spus sâmbătă seara, într-un interviu la televiziune, că pensiile vor fi mărite în 2027. El va propune premierului și ministrului Finanțelor o creștere calculată după formula din legea pensiilor. A spus că, deocamdată, nu are pe masă nici înghețarea pensiilor, nici o creștere împărțită în două sau mai multe tranșe.
 > „Ministrul Muncii a declarat sâmbătă seara, la Antena 3 CNN, că va înainta premierului și ministrului Finanțelor propunerea de indexare a pensiilor, în baza formulei legale.” [1]
 > „Florin Manole a respins posibilitatea înghețării pensiilor în 2027 și a precizat că, în acest moment, nu există un scenariu privind împărțirea majorării în două sau mai multe tranșe.” [1]
 > „Nu am avut nicio discuție și nu am nicio simulare despre două tranșe sau trei tranșe sau un mix de one-off cu… Nu. Deocamdată avem un singur scenariu, acela al respectării legii.” [2]
@@ -61,8 +63,11 @@ Legea pensiilor spune că, în fiecare ianuarie, pensiile cresc cu inflația med
 > „Articolul 84 stabilește că valoarea punctului de referință se majorează în fiecare lună ianuarie, în funcție de rata medie anuală a inflației, la care se adaugă jumătate din creșterea reală a câștigului salarial mediu brut.” [4]
 > „Pentru indexarea din 2027 sunt folosiți indicatorii definitivi aferenți anului 2025, comunicați în 2026 de Institutul Național de Statistică.” [4]
 
-Ministrul a spus că ultima estimare a Casei Naționale de Pensii, „neoficială și cu siguranță nefinală”, era o creștere de 7,3%, care ar costa bugetul 9,6 miliarde de lei. Realitatea a făcut calculul după formula din lege și a ajuns la 7,7%: inflația medie din 2025, de 7,3%, plus 0,4 puncte din creșterea salariilor.
-> „Nu o ascund, ultima estimare pe care am avut-o, neoficială și cu siguranță nefinală, ca să nu înțeleagă nimeni nimic greșit, era de undeva la 7,3% și 9,6 miliarde impactul”, a spus Florin Manole.” [2]
+Publicațiile nu dau același procent. Potrivit G4Media, HotNews și Observator, ministrul a citat o estimare „neoficială și cu siguranță nefinală” de 7,3%, care ar costa bugetul 9,6 miliarde de lei. Realitatea scrie că ministrul vrea aplicarea întregii formule, care ar da circa 7,7%: după calculul ei, inflația medie din 2025, tot de 7,3%, plus 0,4 puncte din creșterea salariilor. Realitatea adaugă că mărirea depinde de respectarea legii și de lipsa unei noi derogări (o excepție de la lege).
+> „O simulare preliminară indică o majorare de aproximativ 7,3%, cu un impact bugetar estimat la 9,6 miliarde de lei, însă cifrele nu sunt finale.” [1]
+> „Nu o ascund, ultima estimare pe care am avut-o, neoficială și cu siguranță nefinală, ca să nu înțeleagă nimeni nimic greșit, era de undeva la 7,3% și 9,6 miliarde impactul” [2]
+> „Ministrul Muncii, Florin Manole, a anunțat că intenția este aplicarea integrală a formulei de indexare prevăzute de lege, ceea ce ar însemna o creștere de aproximativ 7,7%.” [4]
+> „Procentul estimat este de aproximativ 7,7%, însă aplicarea acestuia depinde de respectarea prevederilor legale și de absența unei noi derogări.” [4]
 > „Procentul estimat pentru pensii în 2027 este calculat pornind de la inflația medie anuală din 2025, care a fost de 7,3%, și evoluția câștigului salarial mediu brut.” [4]
 > „Calculul estimat pentru indexarea din 2027 este, astfel, de 7,3% + 0,4% = 7,7%.” [4]
 
@@ -71,6 +76,10 @@ Ministrul a spus că ultima estimare a Casei Naționale de Pensii, „neoficial�
 Procentul final nu e stabilit. Ministerul Finanțelor pregătește bugetul pe 2027, pe care vrea să-l adopte înainte de începutul anului. Ministrul Finanțelor, Alexandru Nazare, spune că va fi un buget greu de făcut, pentru că se termină banii europeni din Planul Național de Redresare și Reziliență (PNRR).
 > „Autoritățile și-au propus ca documentul să fie adoptat înainte de începutul lui 2027, însă elaborarea acestuia este complicată de apropierea finalului Planului Național de Redresare și Reziliență (PNRR).” [4]
 > „Va fi un buget complicat de construit, pierdem 1,5 puncte procentuale din PIB PNRR și trebuie să acceptăm că pot fi și astfel de momente când trebuie să ne bazăm și pe noi înșine, nu neapărat pe fonduri europene.” [4]
+
+Nazare spune că bugetul trebuie să aibă bani pentru protecția celor vulnerabili și pentru investiții și că nu vrea să crească taxele. Premierul Luca Niculescu a spus și el că Guvernul nu vrea taxe mai mari sau noi în 2027.
+> „Ministrul Finanțelor, Alexandru Nazare, a explicat că bugetul trebuie să acopere atât măsurile de protecție destinate persoanelor vulnerabile, cât și investițiile necesare în economie.” [4]
+> „La rândul său, premierul Luca Niculescu a transmis că Guvernul nu intenționează să majoreze taxele și impozitele și nici să introducă unele noi în 2027.” [4]
 
 ### Ajutorul din decembrie
 
@@ -91,7 +100,7 @@ Pentru alocațiile copiilor nu s-a luat nicio decizie. Ministrul spune că nu ex
 > „Ministrul Muncii, Florin Manole, nu exclude menținerea alocațiilor pentru copii la nivelul actual, dar spune că nu a fost luată nicio decizie în acest sens.” [3]
 > „Oficialul susține că ajutoarele ar trebui direcționate cu prioritate către copiii și familiile aflate în situații sociale dificile.” [3]
 
-[card: Salariul minim se discută în noiembrie]
+[card: Salariul minim și alocațiile, nedecise]
 
 ## Surse
 
