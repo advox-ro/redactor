@@ -1,9 +1,10 @@
 ---
 title: Salariul minim, în discuție
-summary: Sindicatele cer ca salariul minim brut să crească la 5.000 de lei de la 1 ianuarie. Patronatele cer amânare. Decizia e a Guvernului.
+summary: Sindicatele cer ca salariul minim să crească de la 1 ianuarie, patronatele vor amânare, iar decizia o ia Guvernul.
 tags: [bani, muncă]
 date: 2026-11-02
-stat: { value: "720.000", label: "de angajați cu normă întreagă primesc salariul minim, după Blocul Național Sindical", quote: "În România, aproximativ 720.000 de angajați cu normă întreagă primesc salariul minim, potrivit Blocului Național Sindical.", source: 1 }
+wiki: demografie-munca-diaspora
+sources: [13]
 image:
   src: /photos/salariul-minim-2027.jpg
   alt: Palatul Victoria, sediul Guvernului, din București
@@ -20,23 +21,19 @@ quiz: salariul-minim-2027
 tip: comparație
 - Acum: 4.325 lei
 - Cerut de la 1 ianuarie: 5.000 lei
-Este salariul minim brut, adică înainte de taxe. Sindicatele vor ca el să crească de la începutul anului.
+Suma de 5.000 de lei e cererea Blocului Național Sindical (BNS), una dintre confederații. E salariul brut, adică înainte de taxe.
 > „Premierul Luca Niculescu se întâlnește luni, de la ora 16:00, la Palatul Victoria, cu reprezentanții sindicatelor, care cer ca salariul minim brut să crească de la actualul nivel de 4.325 de lei la 5.000 de lei, începând cu 1 ianuarie.” [1]
+> „Deși scrisoarea comună adresată premierului nu indică o sumă pentru salariul minim din 2027, Blocul Național Sindical a cerut încă din iulie majorarea acestuia la 5.000 de lei brut, începând cu 1 ianuarie.” [2]
 
-### Cât ar ajunge în mână
-tip: cifră
-- 282 lei
-în plus pe lună ar primi în mână un angajat plătit cu salariul minim, scrie Știri pe surse. Restul creșterii brute s-ar duce pe taxe.
-> „Creșterea cerută este de 675 de lei brut, ceea ce ar însemna, potrivit informațiilor prezentate, un plus de 282 de lei în mână pentru angajați.” [1]
-
-### Fiecare parte, altă cerere
+### Fiecare parte, altă poziție
 tip: voci
 - Sindicatele: salariul minim să crească de la 1 ianuarie
 - Patronatele: creșterea să fie amânată deocamdată
-- Ministrul Muncii: la începutul anului rămâne 4.325 de lei
-Sindicatele spun că angajații ar recupera o parte din ce au pierdut prin scumpiri. Patronatele spun că firmele nu mai pot duce costuri mai mari și că o creștere s-ar vedea în prețuri.
+- Ministrul Muncii, pe 24 octombrie: la început de an rămâne 4.325 de lei, o creștere se discută după noile date
+Sindicatele spun că angajații ar recupera o parte din ce au pierdut prin scumpiri. Patronatele spun că firmele nu mai pot duce costuri mai mari și că o creștere ar putea ajunge în prețuri.
 > „În timp ce sindicatele cer majorarea salariului minim la 5.000 de lei brut de la 1 ianuarie, mediul de afaceri solicită ca o asemenea măsură să fie, pentru moment, amânată.” [1]
 > „Ministrul Muncii, Florin Manole, a declarat pe 24 octombrie, la Alba Iulia, că salariul minim brut va rămâne la 4.325 de lei la începutul anului viitor.” [2]
+> „O eventuală majorare urmează să fie discutată după primirea datelor economice necesare aplicării mecanismului legal de calcul.” [2]
 > „Sindicatele susțin că prin această majorare salariații ar putea recupera o parte din puterea de cumpărare pierdută.” [1]
 > „Reprezentanții patronatelor avertizează că firmele nu mai pot suporta noi creșteri de costuri și că o majorare a salariului minim ar putea avea efecte inclusiv asupra prețurilor plătite de consumatori.” [1]
 
@@ -44,8 +41,8 @@ Sindicatele spun că angajații ar recupera o parte din ce au pierdut prin scump
 tip: cronologie
 - Săptămâna trecută: premierul s-a întâlnit cu patronatele
 - Luni: premierul se întâlnește cu sindicatele
-- Probabil a doua jumătate a lunii: decizia
-Decizia e așteptată după a doua rectificare a bugetului, adică după ce Guvernul schimbă din nou bugetul pe anul acesta.
+- Posibil în a doua jumătate a lunii: decizia
+După Știri pe surse, decizia e așteptată după a doua rectificare a bugetului, adică după ce Guvernul schimbă din nou bugetul pe anul acesta.
 > „Discuțiile vin după ce, săptămâna trecută, premierul a avut o întâlnire și cu reprezentanții patronatelor.” [1]
 > „Premierul Luca Niculescu se întâlnește luni, de la ora 16:00, la Palatul Victoria, cu reprezentanții celor cinci mari confederații sindicale.” [2]
 > „O decizie privind salariul minim este așteptată după cea de-a doua rectificare bugetară, posibil în a doua jumătate a lunii.” [1]
@@ -62,6 +59,10 @@ Confederațiile sunt Blocul Național Sindical (BNS), Cartel ALFA, CNSLR-Frăți
 > „Potrivit comunicatului publicat de BNS , sindicaliștii vor să prezinte premierului propriile propuneri pentru programul de guvernare și să fie consultați înaintea adoptării măsurilor care afectează salariații.” [2]
 > „Pe lângă majorarea salariului minim, sindicatele cer și noi negocieri privind legea salarizării.” [5]
 
+La aceeași oră, premierul fusese chemat în Camera Deputaților să explice deficitul bugetului și starea finanțelor statului. Guvernul a anunțat că premierul nu va merge, pentru că are întâlniri cu sindicatele.
+> „Întâlnirea cu sindicaliștii este programată la aceeași oră la care Luca Niculescu fusese invitat în Camera Deputaților, la solicitarea AUR , pentru a da explicații despre deficitul bugetar și situația finanțelor publice.” [2]
+> „Premierul nu va participa la dezbaterea parlamentară, Guvernul anunțând că acesta are programate întâlniri cu reprezentanții sindicatelor.” [2]
+
 ### Ce cer sindicatele
 
 Salariul minim brut, adică suma dinainte de taxe, este acum de 4.325 de lei. Publicațiile scriu că sindicatele cer să crească la 5.000 de lei de la 1 ianuarie, cu 675 de lei brut. Spotmedia precizează că scrisoarea comună trimisă premierului nu dă o sumă și că cererea de 5.000 de lei vine de la BNS, care o face încă din iulie.
@@ -72,10 +73,10 @@ Salariul minim brut, adică suma dinainte de taxe, este acum de 4.325 de lei. Pu
 
 [card: Ce cer sindicatele]
 
-După Știri pe surse, cei 675 de lei brut ar însemna 282 de lei în plus în mână, pe lună. Diferența se duce pe taxe și contribuții.
+Știri pe surse scrie că cei 675 de lei brut ar însemna 282 de lei în plus în mână, după informațiile prezentate de sindicate.
 > „Creșterea cerută este de 675 de lei brut, ceea ce ar însemna, potrivit informațiilor prezentate, un plus de 282 de lei în mână pentru angajați.” [1]
 
-Sindicatele spun că o creștere i-ar ajuta pe angajați să recupereze o parte din puterea de cumpărare, adică din ce pot cumpăra cu banii lor după scumpiri. BNS spune că mărirea de la 1 iulie 2026 nu a acoperit ce s-a pierdut în ultimul an și jumătate. În iulie, BNS estima că cei plătiți cu salariul minim pierduseră peste 13% din puterea de cumpărare.
+Sindicatele spun că o creștere i-ar ajuta pe angajați să recupereze o parte din puterea de cumpărare, adică din ce pot cumpăra cu banii lor după scumpiri. Salariul minim a fost înghețat la începutul lui 2026 și a crescut la 1 iulie 2026. BNS spune că mărirea de la 1 iulie 2026 nu a acoperit ce s-a pierdut în ultimul an și jumătate. În iulie, BNS estima că cei plătiți cu salariul minim pierduseră peste 13% din puterea de cumpărare.
 > „Sindicatele susțin că prin această majorare salariații ar putea recupera o parte din puterea de cumpărare pierdută.” [1]
 > „Confederația susține că majorarea aplicată la 1 iulie 2026 nu a compensat pierderea puterii de cumpărare din ultimul an și jumătate.” [2]
 > „BNS estima la începutul lunii iulie că angajații plătiți cu salariul minim pierduseră peste 13% din puterea de cumpărare, potrivit News.ro.” [2]
@@ -91,15 +92,15 @@ Patronatele, adică organizațiile firmelor, s-au întâlnit cu premierul săpt�
 > „Reprezentanții patronatelor avertizează că firmele nu mai pot suporta noi creșteri de costuri și că o majorare a salariului minim ar putea avea efecte inclusiv asupra prețurilor plătite de consumatori.” [1]
 > „Dragoș Petrescu, reprezentant al Confederației Patronale Concordia, a declarat: „Orice creștere de salariu se duce în preț, or, în final, tot clienții noștri, respectiv românii, au de suferit”.” [1]
 
-[card: Fiecare parte, altă cerere]
+[card: Fiecare parte, altă poziție]
 
-Ministrul Muncii, Florin Manole, a spus pe 24 octombrie că salariul minim brut rămâne la 4.325 de lei la începutul anului viitor. O eventuală creștere va fi discutată, spune el, după ce sosesc datele economice de care e nevoie pentru calculul prevăzut de lege.
+Ministrul Muncii, Florin Manole, a spus pe 24 octombrie că salariul minim brut rămâne la 4.325 de lei la începutul anului viitor. O eventuală creștere va fi discutată, spune el, după ce vin datele economice de care e nevoie.
 > „Ministrul Muncii, Florin Manole, a declarat pe 24 octombrie, la Alba Iulia, că salariul minim brut va rămâne la 4.325 de lei la începutul anului viitor.” [2]
 > „O eventuală majorare urmează să fie discutată după primirea datelor economice necesare aplicării mecanismului legal de calcul.” [2]
 
 ### Ce urmează
 
-Ministrul Finanțelor, Alexandru Nazare, spune că ministerul lui va arăta câți bani are statul pentru o creștere, iar decizia va fi luată în Guvern. Știri pe surse scrie că decizia e așteptată după a doua rectificare a bugetului din acest an, posibil în a doua jumătate a lunii. O rectificare înseamnă că Guvernul schimbă bugetul în timpul anului.
+Ministrul Finanțelor, Alexandru Nazare, spune că ministerul lui va arăta cât își permite bugetul statului, iar decizia „va fi politică și se va lua în Guvern”. Știri pe surse scrie că decizia e așteptată după a doua rectificare a bugetului din acest an, posibil în a doua jumătate a lunii. O rectificare înseamnă că Guvernul schimbă bugetul în timpul anului.
 > „„Rolul Ministerului de Finanțe este să propună parametrii credibili pentru aceste decizii, să precizeze în clar care-i spațiul fiscal disponibil, iar mai departe decizia va fi politică și se va lua în Guvern”, a spus Nazare.” [1]
 > „O decizie privind salariul minim este așteptată după cea de-a doua rectificare bugetară, posibil în a doua jumătate a lunii.” [1]
 

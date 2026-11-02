@@ -1,7 +1,7 @@
 - demografie-munca-diaspora-052
 - social-035
 
-### Ce variantă ți se pare mai bună pentru salariul minim din 2027?
+### Ce variantă ai prefera pentru salariul minim din 2027?
 
 | id | varianta-2027 |
 |---|---|
@@ -35,7 +35,7 @@
 
 1. A sindicatelor
 2. A patronatelor
-3. A Guvernului
-4. A specialiștilor în economie
+3. A specialiștilor în economie
+4. Toate la fel de mult
 5. Altcineva
 6. Nu știu
