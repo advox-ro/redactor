@@ -1,4 +1,4 @@
-- social-044
+- social-045
 
 ### După recalcularea pensiilor din 2024, ai verificat dacă pensia ta a fost calculată corect?
 
@@ -8,10 +8,10 @@
 | measures | experience |
 | na | Nu primesc pensie |
 
-1. Da, și mi s-a părut corectă
+1. Da, și e corectă
 2. Da, și cred că e greșită
-3. Nu, dar vreau să verific
-4. Nu, nu cred că e nevoie
+3. Am încercat, dar nu am aflat
+4. Nu
 5. Nu știu cum să verific
 
 ### Cât de mult ai încredere că Casa de Pensii calculează corect pensiile?
@@ -38,12 +38,13 @@
 | id | ce-ai-face |
 |---|---|
 | type | single |
-| measures | experience |
+| measures | opinion |
+| where | romania |
+| na | Nu primesc pensie |
 
 1. M-aș duce la Casa de Pensii din județ
 2. Aș suna la Casa de Pensii
 3. Aș cere ajutorul unui avocat
-4. Aș aștepta să corecteze ei greșeala
-5. Nu aș face nimic
-6. Altceva
-7. Nu știu
+4. Aș aștepta să corecteze Casa de Pensii greșeala
+5. Altceva
+6. Nu știu

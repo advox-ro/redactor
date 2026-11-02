@@ -1,5 +1,5 @@
 ---
-title: Pensiile calculate greșit
+title: Greșelile de la recalculare
 summary: Ministrul Muncii promite corectarea greșelilor de la recalcularea pensiilor, cu bani plătiți retroactiv. Estimarea auditorilor e contestată.
 tags: [bani, servicii publice]
 date: 2026-11-02
@@ -18,15 +18,17 @@ quiz: pensii-recalculate
 ### Ce au estimat auditorii
 tip: cifră
 - 2,2 milioane
-de pensii au fost recalculate greșit, după un raport al Curții de Conturi din septembrie. E o estimare, nu rezultatul verificării fiecărui dosar.
+de pensii ar fi fost recalculate greșit, estimează Curtea de Conturi, instituția care verifică cheltuielile statului. Nu e rezultatul verificării fiecărui dosar.
 > „Anunțul apare după un raport al Curții de Conturi din luna septembrie, care a constatat că 2,2 milioane de pensii au fost recalculate în mod eronat.” [1]
 > „Casa Națională de Pensii Publice (CNPP) preciza, în luna septembrie, în legătură cu informațiile că aproximativ 2,2 milioane de pensii ar fi fost calculate greșit, că auditorii Curții de Conturi care au întocmit raportul au făcut estimări prin extrapolare statistică.” [2]
 
-### Cifra e contestată
+### Estimarea și răspunsurile
 tip: voci
+- Curtea de Conturi: 2,2 milioane de pensii recalculate greșit, estimare pe un eșantion
 - Casa de Pensii: o estimare nu arată că fiecare dosar e greșit
 - Ministrul Muncii: nu e vorba de milioane de pensii, dar sunt greșeli
-Auditorii au verificat o parte din dosare și au extins rezultatul la toate. Casa de Pensii spune că o greșeală se poate afla doar verificând fiecare dosar în parte.
+Auditorii au verificat o parte din dosare și au estimat, pornind de la ea, câte ar fi greșite în total. Casa de Pensii spune că o greșeală se poate afla doar verificând fiecare dosar în parte.
+> „Casa Națională de Pensii Publice (CNPP) preciza, în luna septembrie, în legătură cu informațiile că aproximativ 2,2 milioane de pensii ar fi fost calculate greșit, că auditorii Curții de Conturi care au întocmit raportul au făcut estimări prin extrapolare statistică.” [2]
 > „O valoare estimată prin extrapolare statistică nu înseamnă că toate dosarele la care aceasta se referă au fost verificate individual și constatate ca fiind calculate greșit.” [2]
 > „Noi, în primul rând, trebuie să căutăm toate greșelile și le vom căuta și să le corectăm, dar trebuie să le și spunem pensionarilor că nu este vorba de milioane de pensii greșite, nici în plus, nici în minus. Sunt sigur că sunt niște greșeli acolo” [3]
 > „Metodologia a fost că s-a evaluat un eșantion și s-au găsit niște probleme, după care s-a făcut o extrapolare.” [1]
@@ -36,29 +38,33 @@ Auditorii au verificat o parte din dosare și au extins rezultatul la toate. Cas
 tip: listă
 - Greșelile vor fi căutate și corectate
 - Banii datorați vor fi plătiți retroactiv
-Retroactiv înseamnă că primești și banii pentru lunile din urmă în care pensia a fost mai mică decât trebuia.
+Dacă pensia ta a fost calculată greșit, retroactiv înseamnă că primești și banii pentru lunile din urmă în care pensia a fost mai mică decât trebuia.
 > „Pensiile calculate greșit vor fi corectate și oamenii își vor primi banii retroactiv, a declarat ministrul muncii, Florin Manole, într-un interviu pentru Antena 3 CNN.” [2]
 > „Banii vor fi acordați retroactiv pentru fiecare dosar afectat de disfuncționalitățile sistemului informatic de la Casa Națională de Pensii Publice (CNPP).” [3]
 
-### Ce urmează
+### Cum s-a ajuns aici
 tip: cronologie
+- Toamna 2024: recalcularea pensiilor
 - Septembrie: raportul Curții de Conturi
-- Acum: o nouă șefă la Casa de Pensii
+- Sfârșit de octombrie: o nouă șefă la Casa de Pensii
 - Până la mijlocul acestei săptămâni: explicații publice
 Ministrul i-a cerut noii președinte a Casei de Pensii să explice public care e situația reală.
+> „Scandalul pensiilor recalculate eronat în toamna anului 2024 a intrat pe agenda noului cabinet condus de Luca Niculescu.” [3]
 > „Anunțul apare după un raport al Curții de Conturi din luna septembrie, care a constatat că 2,2 milioane de pensii au fost recalculate în mod eronat.” [1]
 > „Noua președintă, care este și foarte profesionistă, a fost numită ieri, până la mijlocul săptămânii viitoare trebuie să explice public clar care este situația reală.” [2]
 
 ## Articol
 
-În toamna lui 2024, Casa Națională de Pensii Publice (CNPP), instituția care stabilește și plătește pensiile, a recalculat pensiile după noua lege. În septembrie anul acesta, Curtea de Conturi, instituția care verifică cum sunt cheltuiți banii publici, a publicat un raport despre această recalculare.
+În toamna lui 2024, Casa Națională de Pensii Publice (CNPP), instituția care stabilește și plătește pensiile, a recalculat pensiile. În septembrie anul acesta, Curtea de Conturi, instituția care verifică cum sunt cheltuiți banii publici, a publicat un raport despre această recalculare.
 > „Scandalul pensiilor recalculate eronat în toamna anului 2024 a intrat pe agenda noului cabinet condus de Luca Niculescu.” [3]
 > „Anunțul apare după un raport al Curții de Conturi din luna septembrie, care a constatat că 2,2 milioane de pensii au fost recalculate în mod eronat.” [1]
 
 ### Ce a găsit Curtea de Conturi
 
-Raportul spune că 2,2 milioane de pensii au fost recalculate greșit. Cotidianul scrie că este vorba de dosare recalculate cu un punctaj mai mic, adică cu o pensie mai mică. Auditorii au mai găsit că unele persoane decedate au primit în continuare bani și că s-au dat pensii de urmaș unor oameni care nu mai îndeplineau condițiile din lege.
+Raportul estimează că 2,2 milioane de pensii au fost recalculate greșit. Cotidianul scrie că este vorba de dosare recalculate cu un punctaj mai mic, adică cu o pensie mai mică decât ar fi trebuit să fie. Auditorii au mai găsit că unele persoane decedate au primit în continuare bani și că s-au dat pensii de urmaș unor oameni care nu mai îndeplineau condițiile din lege. Cotidianul mai scrie că raportul a găsit, în Casa de Pensii, sporuri la salarii date în afara legii, și că greșelile au venit din problemele sistemului informatic al Casei.
 > „Un raport al Curții de Conturi, prezentat în luna septembrie a acestui an, a estimat o cifră de 2,2 milioane de dosare recalculate cu un punctaj mai mic.” [3]
+> „De asemenea, raportul a semnalat nereguli salariale interne la nivelul CNPP, inclusiv sporuri de confidențialitate acordate în afara legii.” [3]
+> „Banii vor fi acordați retroactiv pentru fiecare dosar afectat de disfuncționalitățile sistemului informatic de la Casa Națională de Pensii Publice (CNPP).” [3]
 > „Persoane decedate au continuat să își primească banii, iar pensia de urmaș a fost acordată, deși beneficiarii nu mai îndeplineau condițiile legale.” [1]
 
 [card: Ce au estimat auditorii]
@@ -71,16 +77,16 @@ Cifra nu vine din verificarea fiecărui dosar. Auditorii au verificat un eșanti
 > „Existența și cuantumul unei eventuale diferențe pot fi stabilite numai prin verificarea individuală a dosarului și a documentelor care au stat la baza stabilirii sau recalculării pensiei” [2]
 > „Aceștia mai spuneau că vor verifica punctual situațiile semnalate și le vor corecta acolo unde va fi nevoie.” [2]
 
-Ministrul Muncii, Florin Manole, a spus sâmbătă, într-un interviu la televiziune, că a fost „o majoră greșeală de comunicare”. El spune că nu e vorba de milioane de pensii greșite, nici în plus, nici în minus, dar că e sigur că există unele greșeli, de două feluri.
+Ministrul Muncii, Florin Manole, a spus sâmbătă, într-un interviu la televiziune, că a fost „o majoră greșeală de comunicare”. El spune că nu e vorba de milioane de pensii greșite, nici în plus, nici în minus, dar că e sigur că există unele greșeli. Spune că au fost semnalate două feluri de greșeli, fără să spună care.
 > „A fost o majoră greșeală de comunicare și faptul de a fi fost superficial l-a făcut pe președintele Casei de Pensii nu doar să plece, dar și să transmită mesajul ăsta greșit în rândul pensionarilor.” [4]
 > „Noi, în primul rând, trebuie să căutăm toate greșelile și le vom căuta și să le corectăm, dar trebuie să le și spunem pensionarilor că nu este vorba de milioane de pensii greșite, nici în plus, nici în minus, că au fost două categorii de greșeli semnalate” [4]
 > „Sunt sigur că sunt niște greșeli acolo.” [4]
 
-[card: Cifra e contestată]
+[card: Estimarea și răspunsurile]
 
 ### Ce se schimbă pentru pensionari
 
-Ministrul promite că greșelile vor fi căutate și corectate. Cei care au primit mai puțin decât trebuia își vor primi diferența și pentru lunile din urmă, adică retroactiv.
+Ministrul promite că greșelile vor fi căutate și corectate. El spune că cei care au primit mai puțin decât trebuia își vor primi diferența și pentru lunile din urmă, adică retroactiv. Nu a dat o dată pentru corecturi și nu a spus ce se întâmplă cu pensiile calculate prea mari. Articolele nu spun încă cum își poate verifica cineva pensia.
 > „Pensiile calculate greșit vor fi corectate și oamenii își vor primi banii retroactiv, a declarat ministrul muncii, Florin Manole, într-un interviu pentru Antena 3 CNN.” [2]
 > „Banii vor fi acordați retroactiv pentru fiecare dosar afectat de disfuncționalitățile sistemului informatic de la Casa Națională de Pensii Publice (CNPP).” [3]
 
@@ -88,12 +94,14 @@ Ministrul promite că greșelile vor fi căutate și corectate. Cei care au prim
 
 ### Ce urmează
 
-Fostul președinte al Casei de Pensii a plecat. Noua președintă a fost numită de curând. Ministrul spune că ea trebuie să explice public, până la mijlocul acestei săptămâni, care e situația reală, pentru că pensionarii sunt îngrijorați pentru veniturile lor.
+Ministrul pune problema pe seama fostei conduceri a Casei de Pensii. Fostul președinte, care plecase, contestase la rândul lui cifrele din raport și ceruse date concrete în locul estimărilor. Noua președintă a fost numită de curând. Ministrul spune că ea trebuie să explice public, până la mijlocul acestei săptămâni, care e situația reală, pentru că pensionarii sunt îngrijorați pentru veniturile lor.
 > „Premierul Luca Niculescu a oficializat înlocuirea acestuia.” [3]
+> „A fost o majoră greșeală de comunicare și faptul de a fi fost superficial l-a făcut pe președintele Casei de Pensii nu doar să plece, dar și să transmită mesajul ăsta greșit în rândul pensionarilor.” [4]
+> „Fostul președinte, Nicolae Giugea, a contestat inițial cifrele prezentate în raport și a cerut date concrete în locul extrapolărilor.” [3]
 > „Noua președintă, care este și foarte profesionistă, a fost numită ieri, până la mijlocul săptămânii viitoare trebuie să explice public clar care este situația reală.” [2]
 > „I-am și spus asta, am avut această discuție și se va pregăti și va avea o ieșire publică care să clarifice pentru că, într-adevăr, pensionarii sunt alertați și e dreptul lor să se îngrijoreze că e vorba despre veniturile lor” [2]
 
-[card: Ce urmează]
+[card: Cum s-a ajuns aici]
 
 ## Surse
 
