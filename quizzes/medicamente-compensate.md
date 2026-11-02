@@ -1,4 +1,4 @@
-### În ultimele 12 luni, ai luat de la farmacie medicamente compensate sau gratuite, pe rețetă?
+### În ultimele 12 luni, ai luat de la farmacie, pentru tine, medicamente compensate pe rețetă?
 
 | id | iei-compensate |
 |---|---|
@@ -7,12 +7,12 @@
 | where | romania |
 
 1. Da, în fiecare lună
-2. Da, de câteva ori
+2. Da, de mai multe ori, dar nu lunar
 3. Da, o singură dată
 4. Niciodată
 5. Nu știu
 
-### Cât de greu îți este să plătești partea ta din prețul medicamentelor compensate?
+### Când iei medicamente compensate, cât de greu îți este să plătești diferența de preț?
 
 | id | greu-plata |
 |---|---|
@@ -20,41 +20,28 @@
 | measures | experience |
 | where | romania |
 | scale | Foarte greu … Deloc greu |
-| na | Nu iau medicamente compensate |
+| na | Nu iau medicamente compensate sau le primesc gratuit |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### În ultimele 12 luni, ți s-a întâmplat să nu găsești la farmacie un medicament compensat care ți-a fost prescris?
+### Dacă ai avea nevoie de un tratament scump care nu e compensat, cât de greu ți-ar fi să-l plătești singur(ă)?
 
-| id | negasit |
+| id | tratament-scump |
 |---|---|
-| type | single |
-| measures | experience |
+| type | scale |
+| measures | expectation |
 | where | romania |
-| na | Nu am avut rețete compensate |
-| outlook | a: 1, b: -0.5, c: -1 |
+| scale | Foarte greu … Deloc greu |
+| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-1. Niciodată
-2. O dată
-3. De mai multe ori
-
-### La lista medicamentelor compensate, ce contează cel mai mult pentru tine?
+### Când statul alege ce medicamente compensează, ce ar trebui să conteze cel mai mult?
 
 | id | ce-conteaza |
 |---|---|
 | type | single |
 | measures | priority |
 
-1. Să intre repede medicamentele noi
-2. Să plătesc o parte cât mai mică din preț
-3. Să găsesc mereu medicamentele în farmacii
+1. Pacienții să plătească o parte cât mai mică din preț
+2. Să fie compensate mai ales tratamentele pentru boli grave
+3. Să intre repede pe listă medicamentele noi
 4. Altceva
 5. Nu știu
-
-### Cât de sigur(ă) ești că noile medicamente vor intra pe lista celor compensate până la sfârșitul anului?
-
-| id | sigur-lista |
-|---|---|
-| type | scale |
-| measures | expectation |
-| scale | Deloc sigur(ă) … Foarte sigur(ă) |
-| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
