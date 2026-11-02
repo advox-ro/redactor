@@ -40,9 +40,14 @@ async function gh<T>(env: Env, method: string, path: string, body?: unknown): Pr
   return (r.status === 204 ? null : await r.json()) as T;
 }
 
-/** A file's bytes on a branch of the repository, or null when it isn't there. */
+// A path fileAt may read: names in the repository's own folders, never "..", so a name taken from a
+// request or a branch can't reach another file or another GitHub address.
+const PATH = /^[a-z]+(\/[a-z0-9][a-z0-9-]*)+\.(md|jpg)$/;
+
+/** A file's bytes on a branch of the repository, or null when it isn't there or the path isn't one. */
 export async function fileAt(env: Env, path: string, ref: string): Promise<ArrayBuffer | null> {
   if (!env.GITHUB_TOKEN) throw new Error('GITHUB_TOKEN is not set');
+  if (!PATH.test(path)) return null;
   const r = await fetch(`https://api.github.com/repos/${REPO}/contents/${path}?ref=${encodeURIComponent(ref)}`, {
     headers: { Authorization: `Bearer ${env.GITHUB_TOKEN}`, Accept: 'application/vnd.github.raw', 'User-Agent': 'redactor' },
   });

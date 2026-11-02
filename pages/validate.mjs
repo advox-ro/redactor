@@ -124,6 +124,7 @@ for (const f of readdirSync(root).filter((f) => /^[a-z][a-z0-9-]*\.md$/.test(f))
     for (const k of ['src', 'alt', 'credit', 'license', 'url']) if (!d.image[k]) err(f, `image needs ${k}`);
     if (d.image.src && !/^\/photos\/[a-z0-9-]+\.jpg$/.test(d.image.src)) err(f, `image src "${d.image.src}" must be /photos/<file>.jpg`);
     else if (d.image.src && !existsSync(join(root, 'photos', basename(d.image.src)))) err(f, `no file pages/photos/${basename(d.image.src)}`);
+    if (d.image.url && !/^https:\/\/\S+$/.test(d.image.url)) err(f, `image url "${d.image.url}" must be an https address`);
     if (d.image.license && !FREE_LICENSE.test(d.image.license)) err(f, `image licence "${d.image.license}" is not a free licence`);
   } else if (news) err(f, 'a news page needs an image');
 

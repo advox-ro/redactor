@@ -29,7 +29,7 @@ export async function draft(env: Env, branch: string) {
 /** The page's photo on its branch, or null. */
 export async function draftPhoto(env: Env, branch: string): Promise<Response | null> {
   const slug = OURS(branch) && slugOf(branch);
-  if (!slug) return null;
+  if (!slug || !/^[a-z0-9-]+$/.test(slug)) return null;
   const jpg = await fileAt(env, `pages/photos/${slug}.jpg`, branch);
   return jpg && new Response(jpg, { headers: { 'Content-Type': 'image/jpeg' } });
 }
