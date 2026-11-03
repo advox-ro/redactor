@@ -23,7 +23,7 @@
 
 1. Da, de mai multe ori
 2. Da, o dată
-3. Niciodată
+3. Nu
 4. Nu știu
 
 ### Când cumperi produse din frigiderul unui magazin, cât de des verifici dacă sunt reci?
@@ -61,5 +61,6 @@
 1. Să oblige magazinele să-și protejeze aparatele legate la internet
 2. Să verifice mai des alimentele din magazine
 3. Să anunțe public magazinele atinse
-4. Altceva
-5. Nu știu
+4. Nimic în plus față de ce fac acum
+5. Altceva
+6. Nu știu
