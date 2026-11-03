@@ -1,4 +1,4 @@
-### În ultima lună, cât de des ai folosit un program de inteligență artificială, cum ar fi un chatbot?
+### În ultima lună, cât de des ai folosit un program de inteligență artificială care îți răspunde în scris la întrebări?
 
 | id | folosit-ia |
 |---|---|
@@ -7,9 +7,9 @@
 
 1. Niciodată
 2. O dată
-3. De câteva ori
-4. Săptămânal
-5. Zilnic
+3. De 2–3 ori
+4. În fiecare săptămână, dar nu zilnic
+5. În fiecare zi
 6. Nu știu ce este
 
 ### Cât de util ți se pare ca liceenii să învețe la școală despre inteligența artificială?
@@ -30,10 +30,11 @@
 1. Să verifice dacă un răspuns e corect
 2. Să își apere datele personale
 3. Să recunoască imaginile false
-4. Să nu copieze la teme
+4. Să spună când au folosit-o la teme
 5. Cum funcționează
-6. Cum să o folosească în viitoarea meserie
-7. Nu cred că școala ar trebui să predea asta
+6. Nu cred că școala ar trebui să predea asta
+7. Altceva
+8. Nu știu
 
 ### Cât de sigur(ă) ești că ai recunoaște o imagine falsă făcută cu inteligența artificială?
 
@@ -43,7 +44,7 @@
 | measures | opinion |
 | scale | Deloc sigur(ă) … Foarte sigur(ă) |
 
-### Dacă ai un copil la liceu sau aproape de liceu, ai vrea să aleagă acest opțional?
+### Dacă ai un copil la liceu sau în clasele a VII-a – a VIII-a, ai vrea să aleagă acest opțional?
 
 | id | copil-optional |
 |---|---|
