@@ -1,42 +1,32 @@
 - energie-mediu-agricultura-042
 - infrastructura-033
 
-### Cum te-au afectat ploile din ultimele două zile?
+### Cum te-au afectat ploile de luni și marți, 2–3 noiembrie?
 
 | id | afectat-ploi |
 |---|---|
 | type | multi |
 | measures | experience |
 | where | romania |
+| na | Nu m-au afectat |
 
-1. Nu m-au afectat
-2. Mi-a intrat apa în casă
-3. Mi-a intrat apa în curte
-4. A căzut un copac lângă casa mea
-5. Mi-a fost greu să ajung unde aveam treabă
-6. Altfel
+1. Mi-a intrat apa în casă sau în subsol
+2. Mi-a intrat apa în curte
+3. A căzut un copac lângă casa mea
+4. Mi-a fost greu să ajung unde aveam treabă
+5. Altfel
 
-### Cât de bine preia canalizarea din localitatea ta apa la o ploaie puternică?
-
-| id | canalizare-ploaie |
-|---|---|
-| type | scale |
-| measures | satisfaction |
-| where | romania |
-| scale | Foarte prost … Foarte bine |
-| na | Nu știu |
-| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
-
-### Când primești pe telefon un mesaj RO-Alert despre vreme rea, ce faci de obicei?
+### În ultimele 12 luni, când ai primit pe telefon un mesaj RO-Alert despre vreme rea, ce ai făcut de obicei?
 
 | id | ro-alert |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
+| na | Nu am primit un astfel de mesaj în ultimele 12 luni |
 
-1. Îl citesc și îmi schimb planurile
-2. Îl citesc, dar nu schimb nimic
-3. Nu îl citesc
-4. Am oprit aceste mesaje pe telefon
-5. Nu am primit niciodată un astfel de mesaj
+1. L-am citit și mi-am schimbat planurile
+2. L-am citit și uneori mi-am schimbat planurile
+3. L-am citit, dar nu am schimbat nimic
+4. Nu l-am citit
+5. Am oprit aceste mesaje pe telefon
