@@ -1,5 +1,5 @@
 ---
-title: Gazele după 31 martie
+title: Prețul gazelor după aprilie 2027
 summary: Ministrul Energiei vrea ca statul să stabilească prețul gazelor pentru case și după 1 aprilie 2027, când se termină schema de acum.
 tags: [energie, bani]
 date: 2026-11-03
@@ -15,7 +15,7 @@ quiz: gaze-dupa-aprilie
 
 ## Carduri
 
-### Prețul de acum ține până la 31 martie
+### Prețul de acum ține până la 31 martie 2027
 tip: cronologie
 - Martie 2026: schema e prelungită
 - 31 martie 2027: schema se termină
@@ -26,7 +26,7 @@ Până atunci, prețul gazelor pentru case rămâne stabilit de stat.
 
 ### Ministrul vrea o schemă și după 1 aprilie
 tip: text
-Ministrul Energiei, Dumitru Chisăliță, spune că va propune ca statul să stabilească în continuare prețul gazului pentru case. Vrea să evite scumpiri mari și o trecere bruscă la piață.
+Ministrul Energiei, Dumitru Chisăliță, spune că, cel mai probabil, va propune ca statul să stabilească în continuare prețul gazului pentru case. Vrea să evite scumpiri mari și o trecere bruscă la piață.
 > „Din acest punct de vedere, cel mai probabil, propunerea mea va fi de a continua o schemă și după data de 1 aprilie, pe gaze naturale, de așa natură încât, pe de o parte, să nu discutăm de niște creșteri mari de prețuri, pe de altă parte, trecerea către o nouă etapă să se facă într-un mod absolut normal și natural” [1]
 > „Ministrul a explicat că nu se ia în calcul o plafonare clasică a prețurilor, ci stabilirea unui „preț administrativ”, mecanism ce urmează să fie analizat și adaptat și pentru consumatorii non-casnici, în limitele legislației naționale și ale normelor europene de concurență.” [2]
 
@@ -34,7 +34,7 @@ Ministrul Energiei, Dumitru Chisăliță, spune că va propune ca statul să sta
 tip: listă
 - România scoate mai puțin gaz decât consumă
 - Piața are nevoie de 12 luni de pregătire
-- La sfârșitul iernii, cererea e mare și depozitele sunt aproape goale
+- La sfârșitul iernii, cererea e mare și în depozite e puțin gaz
 Ministrul crede că o trecere la piață chiar la ieșirea din iarnă ar aduce prețuri mari.
 > „Pentru că plecăm de la un simplu exemplu: cantitatea, de exemplu, de gaze naturale care este produsă în România este mai mică decât cantitatea consumată.” [2]
 > „Pentru a ajunge în piața liberalizată e nevoie de 12 luni.” [3]
@@ -43,20 +43,22 @@ Ministrul crede că o trecere la piață chiar la ieșirea din iarnă ar aduce p
 
 ### Ajutorul, mai țintit
 tip: text
-Pentru familiile care nu își pot plăti facturile, ministrul vrea ajutoare mai mari pentru cei care au cu adevărat nevoie, în locul sumelor mici date multor oameni. O nouă schemă e pregătită cu Ministerul Muncii.
+Pentru familiile care nu își pot plăti facturile, ministrul vrea ca ajutorul să ajungă țintit la cei care au cu adevărat nevoie, nu sume mici date multor oameni. O nouă schemă e pregătită cu Ministerul Muncii.
 > „Ideea este să mergem cumva țintiți, să ajutăm acei consumatori care au nevoie să fie ajutați și nu să mergem pe niște scheme prin care, practic, se dădeau puțini bani la foarte mulți și cumva lucrurile nu erau unele care să îi ajute într-adevăr.” [7]
 > „În colaborare cu Ministerul Muncii, autoritățile pregătesc o nouă schemă de sprijin aplicabilă chiar din această lună sau cel târziu până la finele anului.” [2]
 
-### Voucherul de la curent rămâne
+### Ajutorul la curent, prelungit la iarnă
 tip: cifră
 - 50 de lei
-pe lună primesc acum cei vulnerabili pentru factura la curent, până la 31 decembrie 2026. Premierul spune că ajutorul va fi prelungit pentru iarnă.
+pe lună primesc acum cei vulnerabili pentru factura la curent, nu la gaze, până la 31 decembrie 2026. Premierul promite că ajutorul va fi prelungit pentru iarnă.
 > „În prezent, există un tichet de energie de 50 de lei pe lună, destinat plății facturilor la electricitate. Programul a fost prelungit până la 31 decembrie 2026.” [3]
 > „Șeful Guvernului a anunțat marți la TVR 1 că mecanismul voucherelor pentru energia electrică destinat persoanelor vulnerabile va fi prelungit pentru perioada iernii.” [6]
 
-### Depozitele de gaze, aproape pline
-tip: text
-Premierul Luca Niculescu spune că depozitele sunt pline aproape 90% și că nu se teme pentru iarna aceasta. Ministrul Energiei spune că situația e una dintre cele mai grele din istoria energiei.
+### Iarna aceasta, două priviri
+tip: voci
+- Premierul: depozitele de gaze sunt pline aproape 90%, nu are emoții mari
+- Ministrul Energiei: situația e printre cele mai grele din istoria energiei
+Amândoi vorbesc despre iarna care începe acum, nu despre prețul de după aprilie.
 > „Rezervele de gaz ale României sunt, în clipa de față, aproape de 90%.” [5]
 > „În ceea ce privește securitatea aprovizionării cu energie și cu gaz în această iarnă, nu aș avea emoții prea mari” [5]
 > „Dacă e să mă refer la tot ce știu eu din istoria industriei energetice, este una dintre situațiile grele sau printre cele mai grele care au existat.” [2]
@@ -73,11 +75,15 @@ Gazele pe care le folosesc casele din România au acum un preț stabilit de stat
 > „Pentru gazele naturale, tarife rămân reglementate până în luna martie a anului viitor.” [5]
 > „Actuala plafonare a prețului la gaze pentru consumatorii casnici expiră la 31 martie 2027. Guvernul a prelungit schema în martie 2026, astfel că, în lipsa unei noi modificări legislative, de la 1 aprilie 2027 ar urma să intre în vigoare un nou regim de piață.” [3]
 
-[card: Prețul de acum ține până la 31 martie]
+[card: Prețul de acum ține până la 31 martie 2027]
+
+Legea de acum spune că piața gazelor se liberalizează complet, adică prețul îl face piața, la 1 aprilie 2027. Ca să fie amânată, e nevoie de o lege nouă. Șeful ENGIE România, unul dintre furnizorii de gaze, a avertizat recent că liberalizarea ar dubla factura caselor.
+> „În prezent, legislația în vigoare prevede că liberalizarea completă a pieței gazelor va avea loc la 1 aprilie 2027, iar pentru amânarea ei este nevoie de modificări legislative.” [4]
+> „O liberalizare a prețului la gaze ar însemna o dublare a facturii pentru consumatorii casnici, a atenționat însă recent Nicolas Richard, CEO ENGIE Romania, la Profit Energy.Forum.” [4]
 
 ### Ce propune ministrul
 
-Marți, într-un interviu pentru agenția Agerpres, ministrul Energiei, Dumitru Chisăliță, a spus că cel mai probabil va propune ca schema să continue și după 1 aprilie. Scopul, spune el, este să nu existe scumpiri mari și ca trecerea la piață să se facă treptat.
+Într-un interviu pentru agenția Agerpres, ministrul Energiei, Dumitru Chisăliță, a spus că cel mai probabil va propune ca schema să continue și după 1 aprilie. Scopul, spune el, este să nu existe scumpiri mari și ca trecerea la piață să se facă treptat.
 > „El a explicat, într-un interviu acordat Agerpres, că va analiza această schemă, astfel încât, până la sfârșitul anului, să existe un obiectiv concret legat de se va întâmpla mai departe.” [1]
 > „Din acest punct de vedere, cel mai probabil, propunerea mea va fi de a continua o schemă și după data de 1 aprilie, pe gaze naturale, de așa natură încât, pe de o parte, să nu discutăm de niște creșteri mari de prețuri, pe de altă parte, trecerea către o nouă etapă să se facă într-un mod absolut normal și natural” [1]
 
@@ -88,16 +94,13 @@ Ministrul spune că nu se gândește la o plafonare clasică, adică o limită p
 
 ### De ce nu direct piața
 
-Ministrul dă mai multe motive. România scoate din pământ mai puțin gaz decât consumă, așa că statul poate stabili prețul doar pentru gazul românesc, nu și pentru cel adus din alte țări.
+Ministrul dă mai multe motive. România scoate din pământ mai puțin gaz decât consumă, așa că statul poate interveni doar asupra gazului produs în țară, nu și asupra celui adus din alte țări.
 > „Pentru că plecăm de la un simplu exemplu: cantitatea, de exemplu, de gaze naturale care este produsă în România este mai mică decât cantitatea consumată. Asta înseamnă că, cel mult în cele mai bune condiții, putem să ne uităm la ce se produce în România, nu și la ce se importă.” [2]
 
 Apoi, spune el, piața are nevoie de 12 luni de pregătire. Februarie și martie sunt lunile cele mai grele: e cel mai frig, se consumă cel mai mult gaz și în depozite a rămas puțin. Dacă trecerea s-ar face atunci, prețurile ar putea fi mari.
 > „Pentru a ajunge în piața liberalizată e nevoie de 12 luni.” [3]
 > „El a explicat că februarie și martie este perioada cea mai delicată pentru România, pentru că atunci sunt cele mai scăzute temperaturi, este cererea cea mai mare de gaze, iar în depozite mai este o cantitate redusă de gaze care poate fi adusă în piață.” [4]
 > „Dacă noi pornim în iarnă să pregătim o liberalizare, probabilitatea să avem prețuri mari (la momentul liberalizării – n.r.) este foarte mare.” [4]
-
-Ministrul a comparat situația cu ce s-a întâmplat la curent. Într-o emisiune la televiziune, el a spus că, dacă schema va fi prelungită, iarna viitoare prețurile la gaze vor fi asemănătoare.
-> „Orice altă abordare ne-ar arunca în situația pe care am avut-o la electricitate. Dacă decizia de prelungire a plafonării se va lua, da, vom avea iarna viitoare prețuri asemănătoare la gaze” [3]
 
 [card: De ce spune că nu acum]
 
@@ -118,7 +121,7 @@ Acum, cei vulnerabili primesc un voucher, un tichet de 50 de lei pe lună pentru
 > „Șeful Guvernului a anunțat marți la TVR 1 că mecanismul voucherelor pentru energia electrică destinat persoanelor vulnerabile va fi prelungit pentru perioada iernii.” [6]
 > „Acum suntem pe cale să discutăm să vedem cât de mult ne putem duce cu aceste vouchere și avem discuții în fiecare zi atât cu ministrul Energiei, cât și cu ministrul Finanțelor” [5]
 
-[card: Voucherul de la curent rămâne]
+[card: Ajutorul la curent, prelungit la iarnă]
 
 ### Iarna aceasta
 
@@ -128,7 +131,7 @@ Premierul spune că depozitele de gaze ale țării sunt pline aproape 90% și c�
 > „Dacă e să mă refer la tot ce știu eu din istoria industriei energetice, este una dintre situațiile grele sau printre cele mai grele care au existat.” [2]
 > „Chisăliță a amintit că prelungirea situației de alertă pe piață a fost decisă tocmai pentru a permite activarea unor măsuri preventive, în condițiile în care producția internă de gaze nu acoperă în totalitate consumul de vârf.” [2]
 
-[card: Depozitele de gaze, aproape pline]
+[card: Iarna aceasta, două priviri]
 
 ### Ce urmează
 

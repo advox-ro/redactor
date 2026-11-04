@@ -8,7 +8,7 @@
 | measures | expectation |
 | where | romania |
 | scale | Deloc îngrijorat(ă) … Foarte îngrijorat(ă) |
-| na | Nu folosesc gaze în locuința mea |
+| na | Nu plătesc eu factura la gaze |
 | outlook | 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1 |
 
 ### Cine ar trebui să stabilească prețul gazelor pentru case după 31 martie 2027?
@@ -18,10 +18,11 @@
 | type | single |
 | measures | tradeoff |
 
-1. Statul, ca acum
-2. Piața, după încă un an de pregătire
-3. Piața, chiar de la 1 aprilie 2027
-4. Nu știu
+1. Statul, fără o dată de oprire
+2. Statul încă un an, apoi piața
+3. Piața, de la 1 aprilie 2027, cu ajutor pentru cei cu venituri mici
+4. Piața, de la 1 aprilie 2027, fără ajutor
+5. Nu știu
 
 ### Cum ar trebui să fie ajutorul de la stat pentru facturile la energie?
 
@@ -42,7 +43,7 @@
 | type | single |
 | measures | tradeoff |
 | where | romania |
-| na | Nu folosesc gaze în locuința mea |
+| na | Nu plătesc eu factura la gaze |
 
 1. Aș folosi mai puțin gaz
 2. Aș trece la altă sursă de încălzire
@@ -59,5 +60,5 @@
 | type | scale |
 | measures | trust |
 | where | romania |
-| scale | Deloc … Foarte multă |
+| scale | Deloc încredere … Foarte multă încredere |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
