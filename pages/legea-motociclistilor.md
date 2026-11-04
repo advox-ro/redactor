@@ -85,6 +85,7 @@ Când mașinile stau la semafor sau la o trecere peste calea ferată, motociclet
 [card: Pe lângă coloana oprită]
 
 La intersecțiile cu semafor și la trecerile cu barieră peste calea ferată se va marca pe asfalt, în fața coloanei de mașini, un spațiu de siguranță de 3 metri. Acolo pot aștepta motocicletele și mopedele, ca să nu rămână între mașini.
+> „De asemenea, trecerea unei motociclete sau a unui moped pe lângă un vehicul de pe același sens nu mai este considerată depășire, dacă nu se trece peste marcajul benzii, iar la intersecțiile semaforizate și la trecerile de cale ferată cu barieră sau semibarieră se marchează un spațiu de siguranță de 3 metri pentru motociclete și mopede.” [1]
 > „Aceste zone vor fi marcate în fața coloanelor de vehicule și le vor oferi celor care circulă pe două roți un loc în care să aștepte fără să rămână în mijlocul traficului.” [2]
 
 [card: Un loc de așteptare la semafor]
