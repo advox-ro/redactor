@@ -35,7 +35,7 @@ tip: comparație
 - Acum, copil sub 6 luni: 1.500 lei
 - Acum, copil peste 6 luni: 650 lei
 - Propunerea: 8.500 lei
-ar primi pe lună, pe lângă salariu, un părinte cu indemnizația cea mai mare care se întoarce mai devreme la muncă. Cu propunerea, fiecare părinte ar primi cât indemnizația lui de acasă, deci cei mai mulți mai puțin de 8.500 de lei.
+ar primi pe lună, pe lângă salariu, un părinte cu indemnizația cea mai mare care se întoarce mai devreme la muncă. Cu propunerea, fiecare părinte ar primi cât indemnizația lui de acasă, deci mai puțin dacă indemnizația lui e mai mică.
 > „De exemplu, un părinte care încasează azi indemnizația maximă de 8.500 de lei pentru creșterea copilului și se întoarce mai devreme la muncă, el primește salariu + stimulentul de inserție (1.500 de lei sau 650 de lei).” [1]
 > „Inițiativa depusă în Parlament spune că stimulentul de inserție va crește pentru acest părinte la 8.500 de lei pe lună.” [1]
 > „Acest stimulent lunar de inserție este în valoare de 1.500 lei dacă părintele se întoarce la serviciu înainte de împlinirea de către copil a vârstei de 6 luni (1 an în cazul copilului cu dizabilități) și în valoare de 650 de lei după ce copilul împlinește 6 luni (1 an în cazul copilului cu dizabilități).” [1]
