@@ -1,4 +1,5 @@
 - infrastructura-010
+- infrastructura-011
 
 ### În ultimele 12 luni, cât de des ai mers cu mașina pe drumurile care ocolesc orașul din zona ta?
 
@@ -10,12 +11,14 @@
 | na | Nu merg cu mașina |
 
 1. Zilnic
-2. Săptămânal
-3. Lunar
-4. Mai rar de o dată pe lună
-5. Niciodată
+2. De câteva ori pe săptămână
+3. O dată pe săptămână
+4. Lunar
+5. Mai rar de o dată pe lună
+6. Niciodată
+7. Nu e un astfel de drum în zona mea
 
-### Cum crezi că va fi traficul din zona ta în următorul an, după deschiderea porțiunilor noi de autostradă?
+### Cum crezi că va fi traficul în zona ta peste un an, față de acum?
 
 | id | trafic-autostrada-noua |
 |---|---|
@@ -37,16 +40,6 @@
 | measures | tradeoff |
 | where | romania |
 
-1. Să fie deschisă cu o legătură provizorie
-2. Să rămână închisă până e gata legătura definitivă
+1. Să fie deschisă mai devreme, cu o legătură provizorie care costă bani în plus
+2. Să rămână închisă până e gata legătura definitivă, chiar dacă durează luni
 3. Nu știu
-
-### Cât de multă încredere ai că porțiunile de autostradă în lucru din zona ta vor fi deschise la termenul anunțat?
-
-| id | termen-autostrada |
-|---|---|
-| type | scale |
-| measures | trust |
-| where | romania |
-| scale | Nicio încredere … Foarte multă încredere |
-| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |

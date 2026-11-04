@@ -1,5 +1,5 @@
 ---
-title: A0 Nord, deschisă spre A2
+title: Încă o bucată din centura A0
 summary: Se deschid 13 km din autostrada din jurul Capitalei, între Afumați și Glina. Cum circuli tu prin zonă și ce aștepți de la ea.
 tags: [transport, județ]
 date: 2026-11-03
@@ -19,7 +19,7 @@ quiz: a0-nord-afumati-glina
 ### Încă 13 km, de miercuri
 tip: cifră
 - 13 km
-Din 4 noiembrie, de la ora 14, se circulă pe o nouă porțiune din autostrada de centură a Bucureștiului (A0), între Afumați și Glina. Sunt două loturi, adică două bucăți construite de firme diferite.
+Din 4 noiembrie, de la ora 14, se circulă pe o nouă porțiune din autostrada de centură a Bucureștiului (A0), între Afumați și Glina. Porțiunea se termină la autostrada A2, lângă Glina și Cernica.
 > „Circulația pe tronsonul de 13 kilometri între Afumați și Glina din Autostrada Capitalei A0 Nord va fi deschisă miercuri, 4 noiembrie, de la ora 14.00, a anunțat ministrul Transporturilor, Ștefan Ovidiu Popa.” [3]
 > „Circulația pe loturile 3 și 4 ale A0 Nord va fi deschisă miercuri, anunță Cristian Pistol, directorul general al Companiei Naționale de Administrare a Infrastructurii Rutiere (CNAIR).” [2]
 
@@ -32,15 +32,16 @@ tip: text
 ### Mai rămâne o bucată
 tip: cifră
 - 17,5 km
-Atât mai e de deschis din inelul de aproximativ 100,8 km din jurul Bucureștiului: lotul 1 al A0 Nord. Termenul estimat e decembrie.
+Atât mai e de deschis din inelul de aproximativ 100,8 km din jurul Bucureștiului: lotul 1 al A0 Nord. Asociația Pro Infrastructură estimează că ar putea fi deschis în decembrie.
 > „Din cei aproximativ 100,8 kilometri ai întregului inel de autostradă din jurul Bucureștiului, vor mai rămâne de inaugurat doar 17,5 kilometri, aferenți lotului 1 al A0 Nord, pentru care termenul estimat de deschidere este luna decembrie.” [1]
 
 ### Mai târziu decât prevedea contractul
 tip: cronologie
 - Începutul lui februarie 2026: termenul din contract pentru lotul 3
-- 26 octombrie: deschiderea anunțată e amânată
+- 26 octombrie: deschiderea anunțată de un fost oficial al ministerului e amânată
 - 4 noiembrie: se deschide circulația
-Compania de drumuri a amânat deschiderea pentru că mai erau de montat parapete și de terminat scurgerea apei de ploaie. Asociația Pro Infrastructură socotește o întârziere de nouă luni.
+Compania de drumuri a amânat deschiderea pentru că mai erau de montat parapete și de terminat scurgerea apei de ploaie. Asociația Pro Infrastructură, care urmărește lucrările la drumuri, socotește o întârziere de nouă luni. Compania spune că a deschis doar după ce s-au terminat lucrările de siguranță.
+> „„Am dat în trafic cele două loturi doar după finalizarea tuturor lucrărilor de siguranță rutieră”, spune Pistol.” [2]
 > „Termenul contractual de finalizare era începutul lunii februarie 2026.” [1]
 > „În cele din urmă, în ziua de 26 octombrie 2026, Compania de Drumuri a anunțat că pe lotul 3 mai sunt lucrări de executat, iar circulația nu poate fi deschisă în condiții de siguranță.” [1]
 > „Circulația pe tronsonul de 13 kilometri între Afumați și Glina din Autostrada Capitalei A0 Nord va fi deschisă miercuri, 4 noiembrie, de la ora 14.00, a anunțat ministrul Transporturilor, Ștefan Ovidiu Popa.” [3]
@@ -49,14 +50,14 @@ Compania de drumuri a amânat deschiderea pentru că mai erau de montat parapete
 
 ### Fără legătură cu DN3
 tip: text
-Pe porțiunea nouă nu e nicio ieșire spre DN3, drumul spre Pantelimon. Legătura nu era în proiect și trebuie făcută printr-un contract separat. De aceea lotul 4, gata din vară, a stat nefolosit până acum.
+Pe porțiunea nouă nu e nicio ieșire spre DN3, drumul național care trece prin Pantelimon. Legătura nu era în proiect și trebuie făcută printr-un contract separat. De aceea lotul 4, gata din vară, a stat nefolosit până acum.
 > „Asociația atrage însă atenția că proiectul nu include un nod rutier cu DN3, o conexiune care nu a fost prevăzută în studiul de fezabilitate aprobat în 2010 și care va trebui realizată printr-un contract separat.” [1]
 > „Lotul 4 al A0 Nord, construit de UMB, era finalizat încă din vară, însă nu a putut fi deschis circulației în lipsa unei descărcări în DN3 care să permită utilizarea independentă a tronsonului.” [1]
 
 ### Cât a costat
 tip: cifră
 - 710 milioane lei
-Atât au costat cele două loturi, fără TVA. Banii au venit prin Programul Transport 2021–2027, din fonduri europene.
+Atât au costat cele două loturi, fără TVA. Banii vin prin Programul Transport 2021–2027; lotul 3 e plătit din fonduri europene nerambursabile.
 > „Construirea celor două loturi a costat 710 milioane lei (fără TVA), sumă asigurată prin Programul Transport (PT) 2021–2027.” [2]
 > „Contractul pentru lotul 3, între Afumați și Pantelimon, are o valoare de 397,99 milioane de lei, fără TVA, și este finanțat din fonduri europene nerambursabile, prin Programul Transport 2021–2027.” [1]
 
@@ -89,13 +90,20 @@ Pe porțiunea nouă nu există un nod rutier, adică o ieșire, spre DN3, drumul
 > „Asociația atrage însă atenția că proiectul nu include un nod rutier cu DN3, o conexiune care nu a fost prevăzută în studiul de fezabilitate aprobat în 2010 și care va trebui realizată printr-un contract separat.” [1]
 > „Lotul 4 al A0 Nord, construit de UMB, era finalizat încă din vară, însă nu a putut fi deschis circulației în lipsa unei descărcări în DN3 care să permită utilizarea independentă a tronsonului.” [1]
 
+Horațiu Cosma a criticat felul în care compania de drumuri a gândit legăturile provizorii, adică ieșirile temporare din autostradă, care ar fi permis deschiderea pe bucăți a unor porțiuni deja gata. Tot așa, pe lotul 1, unde o parte din lucrări erau terminate mai devreme, compania nu a acceptat o ieșire provizorie spre DN1, la Mogoșoaia, pentru că acolo e prevăzută o intersecție definitivă, în alt proiect.
+> „Acesta a criticat modul în care au fost proiectate descărcările provizorii și nodurile rutiere, care au împiedicat deschiderea etapizată a unor sectoare deja finalizate.” [1]
+> „În schimb, pe lotul 1 al A0 Nord, unde constructorul Retter a finalizat mai devreme o parte din lucrări, circulația nu a putut fi deschisă provizoriu pe tronsonul respectiv.” [1]
+> „Potrivit explicațiilor oferite anterior de Horațiu Cosma, CNAIR nu a acceptat o descărcare provizorie în DN1, la Mogoșoaia, în condițiile în care era prevăzută realizarea unei intersecții definitive în cadrul unui alt proiect de infrastructură.” [1]
+
 [card: Fără legătură cu DN3]
 
 ### O deschidere amânată
 
-Lotul 3 trebuia terminat, după contract, la începutul lui februarie 2026. Asociația Pro Infrastructură, care urmărește construcția de drumuri, spune că se deschide cu nouă luni întârziere. Un fost secretar de stat de la Ministerul Transporturilor anunțase deschiderea pentru 26 octombrie. În acea zi, compania de drumuri a spus că mai sunt lucrări și că nu se poate circula în siguranță: mai trebuiau montate parapete și terminată scurgerea apei de ploaie. Compania a spus că anunțul fostului secretar de stat nu a ținut cont de realitatea din teren, iar acesta a răspuns că lucrările erau pe ultimii metri.
+Lotul 3 trebuia terminat, după contract, la începutul lui februarie 2026. Asociația Pro Infrastructură, care urmărește construcția de drumuri, spune că se deschide cu nouă luni întârziere. Deschiderea a fost amânată de mai multe ori. Un fost secretar de stat de la Ministerul Transporturilor, Irinel Scrioșteanu, dăduse orientativ data de 20 octombrie, iar alt fost secretar de stat, Horațiu Cosma, anunțase 26 octombrie. În acea zi, compania de drumuri a spus că mai sunt lucrări și că nu se poate circula în siguranță: mai trebuiau montate parapete și terminată scurgerea apei de ploaie. Compania a spus că anunțul fostului secretar de stat nu a ținut cont de realitatea din teren, iar acesta a răspuns că lucrările erau pe ultimii metri.
 > „Termenul contractual de finalizare era începutul lunii februarie 2026.” [1]
 > „Potrivit Asociației Pro Infrastructură, cei 8,6 kilometri ai lotului 3 al A0 Nord vor fi deschiși cu o întârziere de nouă luni față de termenul contractual.” [1]
+> „Deschiderea acestei porțiuni a fost amânată de mai multe ori, ultima dată fiind în 26 octombrie.” [3]
+> „El dădea, orientativ, data de 20 octombrie ca indicativă.” [1]
 > „Ulterior, și fostul secretar de stat în Ministerul Transporturilor, Horațiu Cosma a anunțat că loturile 3 și 4 ale Autostrăzii A0 Nord se deschid tot în octombrie, însă el indica data de 26 octombrie.” [1]
 > „În cele din urmă, în ziua de 26 octombrie 2026, Compania de Drumuri a anunțat că pe lotul 3 mai sunt lucrări de executat, iar circulația nu poate fi deschisă în condiții de siguranță.” [1]
 > „Conducerea CNAIR a amânat deschiderea circulației pe cele două loturi, aducând drept argument că mai trebuie executate lucrări de montare a unor parapete de protecție, fiind necesară și finalizarea lucrărilor la sistemele de preluare a apelor pluviale.” [2]
@@ -105,19 +113,22 @@ Lotul 3 trebuia terminat, după contract, la începutul lui februarie 2026. Asoc
 Directorul companiei de drumuri spune că loturile au fost deschise doar după ce s-au terminat toate lucrările de siguranță rutieră.
 > „„Am dat în trafic cele două loturi doar după finalizarea tuturor lucrărilor de siguranță rutieră”, spune Pistol.” [2]
 
+Despre cauza întârzierii, Asociația Pro Infrastructură arată că a doua autorizație de construire, pentru restul de peste șase kilometri ai lotului 3, a fost emisă abia pe 6 august 2024. Horațiu Cosma spune că lucrările nu au avansat cum se aștepta și că a cerut companiei de drumuri să aplice penalitățile pentru întârziere.
+> „Potrivit Asociației Pro Infrastructură, a doua autorizație de construire, necesară pentru restul de peste șase kilometri ai lotului, a fost emisă abia la 6 august 2024.” [1]
+> „Lotul 3 trebuia să fie gata cu un an mai devreme. Lucrările nu au avansat la nivelul așteptărilor. Am solicitat CNAIR o analiză contractuală serioasă și aplicarea penalităților care se impun.” [3]
+
 [card: Mai târziu decât prevedea contractul]
 
 ### Cât a costat și ce urmează
 
-Cele două loturi au costat 710 milioane de lei fără TVA, bani asigurați prin Programul Transport 2021–2027. Doar contractul pentru lotul 3 are 397,99 milioane de lei fără TVA, din fonduri europene care nu trebuie returnate.
+Cele două loturi au costat 710 milioane de lei fără TVA, bani asigurați prin Programul Transport 2021–2027. Contractul pentru lotul 3, singur, valorează 397,99 milioane de lei fără TVA și e plătit din fonduri europene care nu trebuie returnate.
 > „Construirea celor două loturi a costat 710 milioane lei (fără TVA), sumă asigurată prin Programul Transport (PT) 2021–2027.” [2]
 > „Contractul pentru lotul 3, între Afumați și Pantelimon, are o valoare de 397,99 milioane de lei, fără TVA, și este finanțat din fonduri europene nerambursabile, prin Programul Transport 2021–2027.” [1]
 
 [card: Cât a costat]
 
-Din inelul de aproximativ 100,8 kilometri mai rămân de deschis 17,5 kilometri, pe lotul 1 al A0 Nord, care va lega DN1 de autostrada A1. Termenul estimat este decembrie. Acolo, deschiderea e îngreunată și de un proces privind exproprierea unei clădiri de care e nevoie pentru o intersecție.
+Din inelul de aproximativ 100,8 kilometri mai rămân de deschis 17,5 kilometri, pe lotul 1 al A0 Nord, care va lega DN1 de autostrada A1. Asociația Pro Infrastructură estimează că ar putea fi deschis în decembrie. Lucrările de acolo ar putea fi întârziate de un proces privind exproprierea unei clădiri de care e nevoie pentru o intersecție.
 > „Din cei aproximativ 100,8 kilometri ai întregului inel de autostradă din jurul Bucureștiului, vor mai rămâne de inaugurat doar 17,5 kilometri, aferenți lotului 1 al A0 Nord, pentru care termenul estimat de deschidere este luna decembrie.” [1]
-> „Lotul 1 (18 km), care să unească A0 de la DN1 zona Corbeanca până la continuarea spre A1, este construit de o asociere de constructori italieni și români Impresa Pizzarotti – Retter.” [3]
 > „Situația este complicată și de un litigiu privind exproprierea unei clădiri necesare amenajării intersecției, care ar putea întârzia lucrările.” [1]
 
 [card: Mai rămâne o bucată]
