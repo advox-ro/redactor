@@ -1,6 +1,6 @@
 ---
 title: Reguli noi pe două roți
-summary: Motocicletele și mopedele vor putea merge pe banda de autobuz și printre mașinile oprite la semafor. Ce crezi tu despre regulile noi.
+summary: Motocicletele și mopedele vor putea merge pe banda de autobuz, unde se permite, și pe lângă mașinile oprite la semafor.
 tags: [transport]
 date: 2026-11-03
 image:
@@ -21,8 +21,8 @@ tip: listă
 - Trecerea pe lângă mașinile oprite la semafor
 - Un loc de așteptare în fața mașinilor
 - Locuri de parcare pentru două roți
-- Cască omologată, prinsă corect
-Președintele a semnat marți legea care schimbă aceste reguli din Codul rutier pentru motociclete și mopede. Scopul ei, scrie în lege, e ca traficul să meargă mai ușor.
+- Precizări despre cască
+Președintele a promulgat marți legea care schimbă aceste reguli din Codul rutier pentru motociclete și mopede; trecerea pe lângă mașinile oprite e permisă și bicicletelor. Scopul scris în lege e ca traficul să meargă mai ușor.
 > „Președintele Nicușor Dan a promulgat, marți, Legea motocicliștilor, care prevede că banda destinată mijloacelor de transport în comun va putea fi utilizată de motociclete și mopede.” [1]
 > „Legea are ca obiect de reglementare modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002, în sensul stabilirii unor măsuri pentru fluidizarea traficului.” [1]
 > „Primăriile amenajează locuri de parcare dedicate motocicletelor și mopedelor în toate parcările publice cu cel puțin 6 locuri.” [1]
@@ -35,10 +35,10 @@ Motocicletele și mopedele vor putea merge pe banda pentru autobuze. Unde anume,
 > „Aceștia vor putea folosi benzile rezervate transportului public, însă numai acolo unde administratorul drumului va permite accesul.” [3]
 > „În trecut, Parlamentul a respins definitiv, prin vot final în Camera Deputaților, un proiect de lege care ar fi dat dreptul și autoturismelor care efectuează transport public alternativ, respectiv prin intermediul unor platforme precum Uber sau Bolt, să poată circula pe banda special amenajată pentru transportul public în comun , așa cum se întâmplă acum în cazul taximetrelor.” [2]
 
-### Printre mașinile oprite, încet
+### Pe lângă coloana oprită
 tip: cifră
 - 20 km/h
-Motocicletele, mopedele și bicicletele pot trece pe lângă coloana oprită la semafor sau la calea ferată, dacă au loc și nu îi încurcă pe ceilalți. Regula nu se aplică la trecerile de pietoni.
+Motocicletele, mopedele și bicicletele pot trece pe lângă coloana oprită la semafor sau la calea ferată, dacă au loc și nu îi încurcă pe ceilalți. Inițiatorii spun că regula nu se aplică la trecerile de pietoni.
 > „De asemenea, motocicliștii, mopediștii și bicicliștii pot înainta pe lângă coloanele oprite la semafor sau la calea ferată, cu cel mult 20 km/h, dacă au suficient spațiu lateral și nu îi stânjenesc pe ceilalți participanți la trafic.” [1]
 > „Această prevedere nu se aplică însă în cazul trecerilor pentru pietoni , potrivit inițiatorilor.” [2]
 
@@ -49,28 +49,28 @@ La semafoare și la trecerile cu barieră peste calea ferată se marchează pe a
 > „De asemenea, trecerea unei motociclete sau a unui moped pe lângă un vehicul de pe același sens nu mai este considerată depășire, dacă nu se trece peste marcajul benzii, iar la intersecțiile semaforizate și la trecerile de cale ferată cu barieră sau semibarieră se marchează un spațiu de siguranță de 3 metri pentru motociclete și mopede.” [1]
 > „Aceste zone vor fi marcate în fața coloanelor de vehicule și le vor oferi celor care circulă pe două roți un loc în care să aștepte fără să rămână în mijlocul traficului.” [3]
 
-### Nu mai e depășire
-tip: text
-Când o motocicletă sau un moped trece pe lângă o mașină care merge în același sens, fără să calce linia care desparte benzile, asta nu mai e socotit depășire.
-> „Actul normativ clarifică și situația motocicletelor și mopedelor care trec pe lângă vehicule aflate în mișcare, pe același sens de circulație.” [3]
-> „În acest caz, manevra nu va mai fi considerată depășire dacă nu este încălcat marcajul care delimitează banda.” [3]
-
 ### Când se aplică
 tip: cronologie
 - Marți: președintele semnează legea
 - La trei zile după publicare: legea intră în vigoare
 - Apoi: Guvernul are 60 de zile să schimbe regulamentul
-Regulamentul e documentul cu regulile de aplicare ale Codului rutier. Până se schimbă, noile reguli nu sunt complet puse în practică.
+Regulamentul spune în detaliu cum se aplică regulile. Adevărul și Radio România Actualități scriu că cele 60 de zile curg de la intrarea în vigoare a legii; Profit.ro scrie că de la publicare.
 > „Legea nr. 207/2026 va intra în vigoare la trei zile după publicarea în Monitorul Oficial. Ulterior, Guvernul va avea la dispoziție 60 de zile pentru a modifica regulamentul de aplicare a Codului rutier și pentru a adapta normele la noile reguli.” [3]
 > „Guvernul are la dispoziție 60 de zile de la intrarea în vigoare a legii pentru a adapta normele de aplicare.” [4]
+> „Pentru a intra în vigoare , în termen de 60 de zile de la data publicării legii, care a avut loc tot azi, Guvernul va trebui să modifice în mod corespunzător prevederile Regulamentului de aplicare a Codului rutier.” [2]
 
 ## Articol
 
-Președintele Nicușor Dan a semnat marți Legea motocicliștilor, adică a promulgat-o. Legea schimbă Codul rutier, regulile de circulație pe drumurile din România. Motivul scris în lege este ca traficul să meargă mai ușor.
+Președintele Nicușor Dan a promulgat marți Legea motocicliștilor, adică a semnat-o, ultimul pas înainte să fie publicată. Legea schimbă Codul rutier, regulile de circulație pe drumurile din România. Motivul scris în lege este ca traficul să meargă mai ușor.
 > „Președintele Nicușor Dan a promulgat, marți, Legea motocicliștilor, care prevede că banda destinată mijloacelor de transport în comun va putea fi utilizată de motociclete și mopede.” [1]
 > „Legea are ca obiect de reglementare modificarea și completarea Ordonanței de urgență a Guvernului nr. 195/2002, în sensul stabilirii unor măsuri pentru fluidizarea traficului.” [1]
 
 [card: Ce se schimbă]
+
+Unul dintre inițiatori, un deputat, spune că fiecare motocicletă sau scuter înseamnă o mașină mai puțin în coloană și un loc de parcare liber. El spune că legea a fost susținută de deputați din toate cele patru partide din Parlament și de asociația de motocicliști MotoADN și că reguli de acest fel se aplică de ani de zile în Vest. Articolele citate aici nu dau și păreri împotriva legii.
+> „Fiecare motocicletă sau scuter înseamnă o mașină mai puțin în coloană și un loc de parcare liber, deci legea îi ajută și pe cei care nu se vor urca niciodată pe două roți.” [3]
+> „Le mulțumesc colegilor din toate cele patru partide și celor de la MotoADN, care au adus proiectul în Parlament și l-au susținut până la capăt.” [3]
+> „Traficul nu are culoare politică, iar proiectul de lege adoptat astăzi este aliniat celor mai bune practici din Vest, unde aceste reguli se aplică deja de ani de zile” [3]
 
 ### Banda de autobuz
 
@@ -87,13 +87,13 @@ Multe firme de livrări la domiciliu lucrează cu oameni care merg pe mopede. Ș
 
 ### La semafor
 
-Când mașinile stau la semafor sau la o trecere peste calea ferată, motocicletele, mopedele și bicicletele pot înainta pe lângă ele. Trebuie să aibă destul loc pe lângă, să nu îi încurce pe ceilalți și să nu meargă cu mai mult de 20 de kilometri pe oră. Regula nu se aplică la trecerile pentru pietoni.
+Când mașinile stau la semafor sau la o trecere peste calea ferată, motocicletele, mopedele și bicicletele pot înainta pe lângă ele. Trebuie să aibă destul loc pe lângă, să nu îi încurce pe ceilalți și să nu meargă cu mai mult de 20 de kilometri pe oră. Inițiatorii spun că regula nu se aplică la trecerile pentru pietoni.
 > „De asemenea, motocicliștii, mopediștii și bicicliștii pot înainta pe lângă coloanele oprite la semafor sau la calea ferată, cu cel mult 20 km/h, dacă au suficient spațiu lateral și nu îi stânjenesc pe ceilalți participanți la trafic.” [1]
 > „Această prevedere nu se aplică însă în cazul trecerilor pentru pietoni , potrivit inițiatorilor.” [2]
 
-[card: Printre mașinile oprite, încet]
+[card: Pe lângă coloana oprită]
 
-La intersecțiile cu semafor și la trecerile cu barieră peste calea ferată se va marca pe asfalt un spațiu de 3 metri, chiar în fața liniei unde opresc mașinile. Acolo pot aștepta motocicletele și mopedele, ca să nu rămână între mașini.
+La intersecțiile cu semafor și la trecerile cu barieră peste calea ferată se va marca pe asfalt o fâșie de 3 metri, pe toată lățimea drumului, chiar înainte de linia de oprire; mașinile opresc în spatele ei. Acolo pot aștepta motocicletele și mopedele, ca să nu rămână între mașini.
 > „Proiectul mai prevede amanejarea unui spațiu de siguranță pentru motociclete și mopede, amplasat până în marcajul transversal de oprire la intrarea în intersecții semaforizate și la treceri la nivel cu calea ferată cu barieră și semibarieră.” [2]
 > „Acest spațiu este marcat perpendicular pe axa drumului, pe toată lățimea acestuia și cu lungimea de 3 m măsurată de la marcajul transversal de oprire la intrarea în intersecții semaforizate și treceri la nivel cu calea ferată cu barieră și semibarieră.” [2]
 > „Aceste zone vor fi marcate în fața coloanelor de vehicule și le vor oferi celor care circulă pe două roți un loc în care să aștepte fără să rămână în mijlocul traficului.” [3]
@@ -106,15 +106,16 @@ Legea mai lămurește o situație din mers. Când o motocicletă sau un moped tr
 
 ### Parcare și cască
 
-Primăriile trebuie să facă locuri pentru motociclete și mopede în toate parcările publice care au cel puțin șase locuri pentru mașini, cu avizul Poliției Rutiere. Cei care merg pe motocicletă sau pe moped, și pasagerii lor, trebuie să poarte o cască omologată pentru acel tip de vehicul, adică verificată și aprobată, și prinsă cum trebuie.
+Primăriile trebuie să facă locuri pentru motociclete și mopede în toate parcările publice care au cel puțin șase locuri pentru mașini, cu avizul Poliției Rutiere. Cei care merg pe motocicletă sau pe moped, și pasagerii lor, poartă cască; legea precizează că ea trebuie să fie omologată pentru acel tip de vehicul, adică verificată și aprobată, și prinsă cum trebuie.
 > „Și parcările publice vor trebui să țină cont de numărul tot mai mare de motociclete și mopede, iar primăriile vor avea obligația să amenajeze locuri destinate acestora în toate parcările publice care au cel puțin șase locuri pentru autoturisme. Amenajările vor fi realizate cu avizul Poliției Rutiere.” [3]
 > „Legea introduce și precizări privind echipamentul de protecție: motocicliștii, mopediștii și pasagerii lor trebuie să poarte căști omologate pentru categoria vehiculului, fixate corespunzător.” [3]
 
 ### Ce urmează
 
-Legea are numărul 207/2026 și intră în vigoare la trei zile după ce apare în Monitorul Oficial, publicația în care statul își tipărește legile. Apoi Guvernul are 60 de zile ca să schimbe regulamentul de aplicare a Codului rutier, documentul care spune în detaliu cum se aplică regulile.
+Legea are numărul 207/2026 și intră în vigoare la trei zile după ce apare în Monitorul Oficial, publicația în care statul își tipărește legile. Guvernul are 60 de zile ca să schimbe regulamentul de aplicare a Codului rutier, documentul care spune în detaliu cum se aplică regulile. Adevărul și Radio România Actualități scriu că termenul curge de la intrarea în vigoare a legii. Profit.ro scrie că termenul curge de la publicare și că regulamentul trebuie schimbat pentru ca legea să se aplice.
 > „Legea nr. 207/2026 va intra în vigoare la trei zile după publicarea în Monitorul Oficial. Ulterior, Guvernul va avea la dispoziție 60 de zile pentru a modifica regulamentul de aplicare a Codului rutier și pentru a adapta normele la noile reguli.” [3]
 > „Guvernul are la dispoziție 60 de zile de la intrarea în vigoare a legii pentru a adapta normele de aplicare.” [4]
+> „Pentru a intra în vigoare , în termen de 60 de zile de la data publicării legii, care a avut loc tot azi, Guvernul va trebui să modifice în mod corespunzător prevederile Regulamentului de aplicare a Codului rutier.” [2]
 
 [card: Când se aplică]
 

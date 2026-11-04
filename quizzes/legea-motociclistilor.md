@@ -1,4 +1,4 @@
-### În ultimele 12 luni, cât de des ai mers pe un vehicul pe două roți cu motor (motocicletă, moped, scuter)?
+### În ultimele 12 luni, cât de des ai mers, la volan sau ca pasager, pe un vehicul pe două roți cu motor (motocicletă, moped, scuter)?
 
 | id | doua-roti |
 |---|---|
@@ -12,7 +12,7 @@
 4. Mai rar de o dată pe lună
 5. Niciodată
 
-### Cât de mult ești de acord ca motocicletele să poată circula pe banda pentru autobuze, acolo unde se permite?
+### Cât de mult ești de acord ca vehiculele pe două roți cu motor (motociclete, mopede) să poată circula pe banda pentru autobuze, unde se permite?
 
 | id | acord-banda-autobuz |
 |---|---|
@@ -21,7 +21,7 @@
 | where | romania |
 | scale | Deloc de acord … Total de acord |
 
-### Cât de sigur ți se pare ca motocicletele să treacă încet printre mașinile oprite la semafor?
+### Cât de sigur ți se pare ca motocicletele să treacă pe lângă mașinile oprite la semafor, cu cel mult 20 km/h?
 
 | id | printre-masini |
 |---|---|
@@ -30,7 +30,7 @@
 | where | romania |
 | scale | Deloc sigur … Foarte sigur |
 
-### Cum crezi că va fi traficul din localitatea ta după aceste reguli noi?
+### Cum crezi că va fi traficul din localitatea ta în următorul an, după aceste reguli noi?
 
 | id | trafic-dupa-lege |
 |---|---|
@@ -39,17 +39,17 @@
 | where | romania |
 | outlook | a: 1, b: 0, c: -1, d: 0 |
 
-1. Mai fluid
+1. Mai puțin aglomerat
 2. La fel
 3. Mai aglomerat
 4. Nu știu
 
-### Cât de multă încredere ai că noile reguli pentru motociclete vor fi respectate în trafic?
+### Cât de multă încredere ai că motocicliștii vor respecta noile reguli, de exemplu viteza de cel mult 20 km/h pe lângă mașinile oprite?
 
 | id | respectarea-regulilor |
 |---|---|
 | type | scale |
 | measures | trust |
 | where | romania |
-| scale | Deloc … Foarte multă |
+| scale | Nicio încredere … Foarte multă încredere |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
