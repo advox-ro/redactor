@@ -60,7 +60,7 @@ tip: cronologie
 - Marți: comisia de buget a Senatului o aprobă, cu toate voturile
 - Urmează: votul tuturor senatorilor
 - Apoi: Camera Deputaților decide
-Până atunci, sumele de acum rămân. Dacă ar deveni lege în 2026, s-ar aplica din 2027.
+Până atunci, sumele de acum rămân. Dacă ar deveni lege în 2026, noile reguli s-ar aplica din 2027.
 > „Comisia de buget a Senatului a aprobat în unanimitate, marți, propunerea ca părinții care revin la muncă din concediul de creștere a copilului să primească un stimulent de inserție egal cu indemnizația anterioară.” [1]
 > „Senatul este prima Cameră care examinează proiectul L604/2026. După etapa comisiilor, acesta trebuie să ajungă în plenul Senatului și apoi la Camera Deputaților, care ia decizia finală.” [2]
 > „Dacă publicarea ar avea loc în 2026, aplicarea ar începe în 2027.” [2]
