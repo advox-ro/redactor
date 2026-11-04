@@ -18,15 +18,17 @@
 |---|---|
 | type | single |
 | measures | tradeoff |
-| na | Nu plănuiesc să am copii |
+| na | Nu e cazul pentru mine |
 
 1. Înainte ca copilul să împlinească 6 luni
 2. Când copilul are între 6 și 11 luni
 3. Când copilul are între 12 și 23 de luni
 4. La sfârșitul celor 2 ani de concediu
-5. Nu știu
+5. Nu m-aș mai întoarce la muncă
+6. Nu aș lua acest concediu
+7. Nu știu
 
-### Cât de mult ești de acord ca părinții care se întorc la muncă înainte de sfârșitul concediului de creștere a copilului să primească, pe lângă salariu, cât indemnizația?
+### Cât de mult ești de acord ca părinții care revin la muncă din concediul de creștere a copilului să primească, pe lângă salariu, o sumă egală cu indemnizația?
 
 | id | acord-stimulent-egal |
 |---|---|
@@ -45,7 +47,8 @@
 2. Părinții care se întorc la muncă
 3. Ambele, în mod egal
 4. Creșe și grădinițe
-5. Nu știu
+5. Altceva
+6. Nu știu
 
 ### Dacă ai un copil sub 3 ani, cine are grijă de el în principal cât ești la muncă?
 
