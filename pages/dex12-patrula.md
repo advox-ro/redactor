@@ -36,7 +36,7 @@ Patrularea a fost hotărâtă de poliția din județul Olt.
 tip: listă
 - Mașini oprite pe marginea drumului
 - Șoferi neatenți, care vorbesc la telefon sau stau pe rețele sociale
-Sunt cele două cauze pe care le-a numit poliția din Olt.
+Sunt cele două cauze numite de poliția din Olt.
 > „El a menționat că, în contextul în care cele mai multe dintre accidentele de pe DEx 12 au avut loc în după oprirea unor autovehicule pe acostament, o echipă a administratorului drumului a fost constituită pentru intervenții în cazul în care apar situații ce pot afecta traficul.” [1]
 > „Din păcate, șoferii nu sunt atenți, desfășoară alte activități în loc să fie atenți la drum. Vorbesc la telefon, se uită pe rețele de socializare, au autoturismul pe pilot automat de foarte multe ori și bineînțeles că își dau seama de pericol în ultimă fază, în ultimă situație și nu mai pot să rezolve mare lucru.” [1]
 
