@@ -16,13 +16,13 @@
 4. Mai rar de o dată pe lună
 5. Niciodată
 
-### Ți s-a întâmplat să rămâi cu mașina oprită pe marginea unui drum rapid, din cauza unei pane?
+### Ți s-a întâmplat ca mașina în care erai să rămână oprită pe marginea unui drum rapid, din cauza unei pane?
 
 | id | pana-drum-rapid |
 |---|---|
 | type | single |
 | measures | experience |
-| na | Nu conduc |
+| na | Nu merg cu mașina |
 
 1. Da, în ultimele 12 luni
 2. Da, mai demult
