@@ -28,7 +28,7 @@ Asta propune Primăria Capitalei: impozitul pe casă, pe teren sau pe mașină �
 > „Decizia a fost luată de primarul general Ciprian Ciucu, care a propus plafonarea acestora la valorile din 2026.” [1]
 > „Potrivit reprezentanților PMB, nici taxa de promovare turistică nu va fi majorată, urmând să rămână la valoarea de 10 lei pe noapte.” [1]
 
-### Creșterea de anul acesta a venit din toată țara
+### Anul acesta, creșteri în toată țara
 tip: text
 Impozitele pe locuințe și pe mașini au crescut anul acesta în toată țara, după o lege dată de Guvern. Propunerea Primăriei înseamnă că în București nu s-ar adăuga o nouă creștere peste cea de anul acesta.
 
@@ -47,7 +47,7 @@ Primăria Capitalei a anunțat miercuri că impozitele și taxele locale din Buc
 
 [card: În 2027 ar rămâne cât sunt acum]
 
-[card: Creșterea de anul acesta a venit din toată țara]
+[card: Anul acesta, creșteri în toată țara]
 
 ### Ce urmează
 
