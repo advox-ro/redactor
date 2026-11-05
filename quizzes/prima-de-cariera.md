@@ -23,6 +23,7 @@
 | type | scale |
 | measures | opinion |
 | scale | Deloc … Foarte mult |
+| na | Nu știu |
 
 ### Dacă statul are 1.500 de lei de dat fiecărui profesor, cum ți s-ar părea mai bine să-i dea?
 
@@ -32,7 +33,7 @@
 | measures | tradeoff |
 
 1. Pe un card, pentru cursuri și cărți
-2. În salariu, fără reguli despre cum îi cheltuie
+2. În salariu, să-i folosească cum vrea
 3. Școlii, pentru materiale la clasă
 4. Altfel
 5. Nu știu
