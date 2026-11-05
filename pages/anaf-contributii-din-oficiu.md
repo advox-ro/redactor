@@ -61,7 +61,7 @@ ANAF (Agenția Națională de Administrare Fiscală) este instituția care strâ
 > „Ordinul ANAF nr. 1.457/2026, publicat luni, 2 noiembrie, în Monitorul Oficial, reglementează procedura de stabilire din oficiu a contribuției de asigurări sociale (CAS) și a contribuției de asigurări sociale de sănătate (CASS).” [1]
 > „Noile prevederi vizează veniturile realizate în anul 2025 și stabilesc inclusiv termenele în care contribuabilii își pot clarifica situația fiscală.” [1]
 
-Cele două contribuții sunt CAS, care merge la pensie, și CASS, care merge la sănătate. La un salariu, le reține angajatorul. Pentru alte venituri, cum ar fi o chirie sau o activitate pe cont propriu, omul trebuie să le declare singur, prin declarația unică.
+Cele două contribuții sunt CAS, care merge la pensie, și CASS, care merge la sănătate. Pentru unele venituri, cum ar fi o chirie sau o activitate pe cont propriu, omul trebuie să le declare singur, prin declarația unică.
 > „Noua procedură se adresează persoanelor fizice care au realizat venituri pentru care legislația fiscală impune plata contribuțiilor sociale, dar care nu au declarat aceste sume în condițiile prevăzute de lege.” [2]
 > „În termen de 20 de zile de la comunicarea notificării, persoanele care depun declarația unică sau documente justificative care demonstrează că nu datorează contribuția sunt eliminate din lista celor pentru care urmează stabilirea obligațiilor din oficiu.” [1]
 
@@ -81,7 +81,7 @@ ANAF îi găsește pe cei vizați din declarațiile fiscale, din datele trimise 
 
 ### Ce se întâmplă pas cu pas
 
-Înainte de orice decizie, omul primește o notificare și își poate spune punctul de vedere. Are 20 de zile să depună declarația unică sau acte care arată că nu datorează contribuția. Dacă o face, iese de pe lista ANAF. Cine nu vine la prima discuție primește a doua invitație.
+Înainte de orice decizie, omul primește o notificare și își poate spune punctul de vedere. Are 20 de zile să depună declarația unică sau acte care arată că nu datorează contribuția. Dacă o face, iese de pe lista ANAF. ANAF îl poate chema la o discuție. Dacă nu vine, primește a doua invitație.
 > „Înainte de emiterea deciziei de impunere, contribuabilii vor primi o notificare și vor avea posibilitatea să își exprime punctul de vedere.” [1]
 > „În termen de 20 de zile de la comunicarea notificării, persoanele care depun declarația unică sau documente justificative care demonstrează că nu datorează contribuția sunt eliminate din lista celor pentru care urmează stabilirea obligațiilor din oficiu.” [1]
 > „Pentru contribuabilii care nu se prezintă la prima audiere este prevăzută o a doua invitație.” [1]
@@ -94,7 +94,7 @@ Dacă situația nu se lămurește, ANAF emite o decizie de impunere, adică un a
 
 ### Cât se plătește
 
-ANAF calculează suma pornind de la veniturile pe care le-a găsit și de la pragurile valabile în 2025. Pentru pensie, baza de calcul este de 12 sau 24 de salarii minime brute. Pentru sănătate, depinde de felul venitului: 6, 12 sau 24 de salarii minime, sau venitul realizat. De aceea suma diferă de la un om la altul.
+ANAF calculează suma pornind de la veniturile pe care le-a găsit și de la pragurile valabile în 2025. Baza de calcul este suma pe care se aplică procentul contribuției. Pentru pensie, ea este de 12 sau 24 de salarii minime brute. Pentru sănătate, depinde de felul venitului: 6, 12 sau 24 de salarii minime, sau venitul realizat. De aceea suma diferă de la un om la altul.
 > „În funcție de categoria veniturilor, ANAF va estima baza de calcul folosind veniturile identificate și plafoanele fiscale aplicabile anului 2025.” [1]
 > „Pentru CAS aferentă activităților independente și drepturilor de proprietate intelectuală sunt prevăzute baze de calcul de 12 sau 24 de salarii minime brute.” [1]
 > „Pentru CASS, regulile diferă în funcție de sursa veniturilor, fiind aplicabile, după caz, plafoane de 6, 12 sau 24 de salarii minime ori calculul în raport cu venitul realizat.” [1]

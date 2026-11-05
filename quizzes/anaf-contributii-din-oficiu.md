@@ -17,6 +17,7 @@
 5. Din drepturi de autor
 6. Din străinătate
 7. Niciunul dintre acestea
+8. Prefer să nu răspund
 
 ### Dacă ai primi de la ANAF o notificare că datorezi contribuții pentru 2025, ce ai face mai întâi?
 
@@ -29,14 +30,17 @@
 1. Aș verifica singur(ă) online, în Spațiul Privat Virtual
 2. Aș merge la ghișeul ANAF
 3. Aș cere ajutorul unui contabil
-4. Aș plăti suma fără să verific
-5. Aș lăsa-o deoparte
-6. Nu știu
+4. Aș depune declarația unică sau acte
+5. Aș plăti suma fără să verific
+6. Aș lăsa-o deoparte
+7. Altceva
+8. Nu știu
 
-### Cât de corect ți se pare ca ANAF să stabilească ea contribuțiile celor care nu și-au declarat veniturile?
+### Cât de corect ți se pare ca ANAF să calculeze singură contribuțiile, din datele pe care le are?
 
 | id | din-oficiu-corect |
 |---|---|
 | type | scale |
 | measures | opinion |
 | scale | Deloc corect … Foarte corect |
+| na | Nu știu |
