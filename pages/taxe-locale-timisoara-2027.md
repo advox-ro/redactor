@@ -23,7 +23,7 @@ tip: listă
 - Creșterea cu inflația: nu se aplică
 Asta propune Primăria Timișoara pentru oamenii din oraș: casa și mașina să nu coste mai mult la impozit anul viitor.
 > „Primăria Municipiului Timișoara propune ca, în 2027, taxele și impozitele pentru locuințele rezidențiale și pentru vehiculele cetățenilor să rămână la nivelul actual, fără indexare cu rata inflației.” [2]
-> „De asemenea, Primăria a anunțat că nu va opera nici indexarea cu rata inflației și va propune eliminarea cotei adiționale pentru clădirile nerezidențiale ale persoanelor fizice, introdusă începând cu 2019.” [1]
+> „De asemenea, Primăria a anunțat că nu va opera nici indexarea cu rata inflației și va propune eliminarea cotei adiționale pentru clădirile nerezidențiale ale persoanelor fizice, introdusă începând cu 2019” [1]
 
 ### Mai puțin, dacă plătești devreme
 tip: cifră
@@ -107,7 +107,7 @@ Deocamdată, toate acestea sunt proiecte de hotărâre, puse în dezbatere publi
 
 ## Surse
 
-1. Primăria Timișoara propune menținerea impozitelor pentru locuințe și mașini în 2027 la nivelul din acest an / Acestea nu vor fi indexate nici cu rata inflației — News.ro. https://www.news.ro/economic/primaria-timisoara-propune-mentinerea-impozitelor-pentru-locuinte-si-masini-in-2027-la-nivelul-din-acest-an-acestea-nu-vor-fi-indexate-nici-cu-rata-inflatiei-1922401704002026111122937124
+1. Primăria Timișoara propune menținerea impozitelor pe locuințe la nivelul actual în 2027. Ce se întâmplă cu cele pe mașini — Știrile ProTV. https://stirileprotv.ro/stiri/financiar/primaria-timisoara-propune-mentinerea-impozitelor-pe-locuinte-la-nivelul-actual-in-2027-ce-se-intampla-cu-cele-pe-masini.html
 2. Impozitele pe locuințe și mașini din Timișoara ar putea rămâne neschimbate în 2027 — Cotidianul. https://www.cotidianul.ro/impozitele-din-timisoara-ar-putea-ramane-neschimbate/
 3. Impozitele pe locuințele și mașinile din Timișoara, la același nivel și în 2027. Se elimină și cotele adiționale — Tion. https://www.tion.ro/stirile-judetului-timis/impozitele-pe-locuintele-si-masinile-din-timisoara-la-acelasi-nivel-si-in-2027-se-elimina-si-cotele-aditionale-2383542/
 4. Pregătea majorarea, dar a dat înapoi. Primăria Timișoara propune menținerea la nivelul de acum a impozitelor pentru locuințe și mașini în 2027 — Opinia Timișoarei. https://www.opiniatimisoarei.ro/pregatea-majorarea-dar-a-dat-inapoi-primaria-timisoara-propune-mentinerea-la-nivelul-de-acum-a-impozitelor-pentru-locuinte-si-masini-in-2027-si-eliminarea-cotei-aditionale-pentru-cladirile-nereziden/04/11/2026
