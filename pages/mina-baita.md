@@ -16,7 +16,7 @@ quiz: mina-baita
 
 ## Carduri
 
-### Pompele s-au oprit marți
+### Pompe oprite de marți
 tip: cronologie
 - De circa 20 de luni: nu se mai scoate minereu
 - Marți: se oprește pomparea apei
@@ -59,7 +59,7 @@ Mina Băița, din județul Bihor, riscă să fie inundată. Pompele care scoteau
 > „Potrivit e-bihoreanul.ro, firma Vast Băița Plai nu mai extrăgea minereuri din Mina Băița de circa 20 de luni, dar angajații continuau să asigure pomparea apei din subteran.” [3]
 > „Întrucât firma este în insolvență, iar preavizele angajaților au expirat, marți a fost oprită pomparea apei.” [3]
 
-[card: Pompele s-au oprit marți]
+[card: Pompe oprite de marți]
 
 Mina se află lângă orașul Ștei. Adevărul scrie că e cunoscută pentru zăcămintele de uraniu și că exploatarea a început în 1950.
 > „Mina Băița este o exploatare minieră din județul Bihor, situată în apropierea orașului Ștei, cunoscută pentru zăcămintele sale de uraniu.” [2]
