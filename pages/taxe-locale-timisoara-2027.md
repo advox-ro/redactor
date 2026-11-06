@@ -31,7 +31,7 @@ tip: cifră
 reducere primești dacă plătești tot impozitul pe 2027 pentru clădiri, teren sau mașină până la 31 martie 2027.
 > „Contribuabilii, persoane fizice și juridice, care achită până la 31 martie 2027 întregul impozit pe clădiri, pe teren sau pe mijloacele de transport datorat pentru 2027 primesc din partea municipalității o bonificație de 10%.” [2]
 
-### Cotidianul: un procent în plus
+### Pe mașini, un procent în plus
 tip: text
 Cotidianul amintește că anul acesta impozitul pe mașini din Timișoara a avut un procent suplimentar de 50%. Propunerea păstrează impozitul pe mașini la nivelul de acum.
 > „În 2026, impozitul pe mijloacele de transport a inclus un procent suplimentar de 50%.” [2]
@@ -79,7 +79,7 @@ Cotidianul amintește că în 2026 impozitul pe mașini din Timișoara a avut un
 > „În 2026, impozitul pe mijloacele de transport a inclus un procent suplimentar de 50%.” [2]
 > „Primăria Municipiului Timișoara propune ca, în 2027, taxele și impozitele pentru locuințele rezidențiale și pentru vehiculele cetățenilor să rămână la nivelul actual, fără indexare cu rata inflației.” [2]
 
-[card: Cotidianul: un procent în plus]
+[card: Pe mașini, un procent în plus]
 
 ### Clădirile care nu sunt locuințe
 
