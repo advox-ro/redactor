@@ -2,7 +2,7 @@
 - justitie-administratie-085
 - justitie-administratie-088
 
-### Impozitul pe 2026 l-ai plătit până la 31 martie, ca să primești reducerea?
+### Impozitele locale pe 2026 le-ai plătit integral până la 31 martie?
 
 | id | plata-devreme |
 |---|---|
@@ -11,12 +11,13 @@
 | where | romania |
 | na | Nu plătesc impozite locale |
 
-1. Da
-2. Nu, l-am plătit mai târziu
-3. Nu l-am plătit încă
-4. Nu știu
+1. Da, integral
+2. Doar o parte
+3. Nu, le-am plătit mai târziu
+4. Nu le-am plătit încă
+5. Nu știu
 
-### Dacă orașul tău ar avea nevoie de mai mulți bani în 2027, ce ai alege?
+### Dacă localitatea ta ar avea nevoie de mai mulți bani în 2027, ce ai alege?
 
 | id | bani-oras |
 |---|---|
@@ -25,6 +26,7 @@
 | where | romania |
 
 1. Să crească impozitele locale
-2. Să taie din cheltuielile primăriei
+2. Să taie din cheltuielile de funcționare ale primăriei
 3. Să amâne lucrări noi
-4. Nu știu
+4. Altceva
+5. Nu știu
