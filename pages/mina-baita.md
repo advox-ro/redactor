@@ -44,7 +44,7 @@ fără pompare pot fi de ajuns ca apa să acopere pompele și instalațiile elec
 ### Un risc și pentru ape
 tip: text
 Specialiștii avertizează că, dacă mina se inundă, apa care iese din ea ar putea avea mai multe minerale grele.
-> „Specialiștii atrag atenția că o eventuală inundare ar prezenta riscuri și pentru mediu, întrucât ar putea crește concentrația de minerale grele în apele evacuate.” [3]
+> „O asemenea situație poate provoca scoaterea din funcțiune a instalațiilor tehnice, extinderea progresivă a inundării, pierderea accesului la anumite zone și deteriorarea unor componente importante ale infrastructurii miniere. Există, de asemenea, riscuri de mediu, prin modificarea regimului de circulație și evacuare a apelor subterane și prin posibilitatea creșterii concentrației de minerale grele în apele evacuate” [3]
 > „Există și riscuri pentru mediu. Specialiștii avertizează că modificarea circulației apelor subterane ar putea duce la creșterea concentrației de minerale grele în apele evacuate.” [1]
 
 ### Bani ceruți pentru pompe
@@ -63,7 +63,7 @@ Mina Băița, din județul Bihor, riscă să fie inundată. Pompele care scoteau
 
 [card: Pompe oprite de marți]
 
-Mina se află lângă orașul Ștei. Adevărul scrie că e cunoscută pentru zăcămintele de uraniu și că exploatarea a început în 1950. În prezent, în subteran nu se mai scot minereuri polimetalice, adică minereuri din care se obțin mai multe metale, scrie News.ro, care citează Prefectura.
+Mina se află lângă orașul Ștei. Adevărul scrie că e cunoscută pentru zăcămintele de uraniu și că exploatarea a început în 1950. În prezent, în subteran nu se mai scot minereuri polimetalice, adică minereuri din care se obțin mai multe metale, potrivit Prefecturii.
 > „Mina Băița este o exploatare minieră din județul Bihor, situată în apropierea orașului Ștei, cunoscută pentru zăcămintele sale de uraniu.” [2]
 > „Exploatarea a început în 1950, în cadrul societății sovieto-române Sovromcuarț, înființată pentru a ascunde adevăratul obiect de activitate.” [2]
 > „În prezent, în subteranul Minei Băița nu se desfășoară activități de exploatare a minereurilor polimetalice.” [3]
@@ -87,7 +87,7 @@ Raportul lor spune că o pauză de circa 24 de ore la pompare poate fi de ajuns 
 
 Specialiștii avertizează că, dacă mina se inundă și apa își schimbă drumul pe sub pământ, apa care iese din mină ar putea avea mai multe minerale grele. Apa iese printr-un tunel lung de circa 5 kilometri, galeria Nucet. Miercuri, tunelul era în stare bună. Dacă s-ar surpa și ar bloca scurgerea, mina s-ar putea umple complet cu apă.
 > „Există și riscuri pentru mediu. Specialiștii avertizează că modificarea circulației apelor subterane ar putea duce la creșterea concentrației de minerale grele în apele evacuate.” [1]
-> „Specialiștii atrag atenția că o eventuală inundare ar prezenta riscuri și pentru mediu, întrucât ar putea crește concentrația de minerale grele în apele evacuate.” [3]
+> „O asemenea situație poate provoca scoaterea din funcțiune a instalațiilor tehnice, extinderea progresivă a inundării, pierderea accesului la anumite zone și deteriorarea unor componente importante ale infrastructurii miniere. Există, de asemenea, riscuri de mediu, prin modificarea regimului de circulație și evacuare a apelor subterane și prin posibilitatea creșterii concentrației de minerale grele în apele evacuate” [3]
 > „Un punct vulnerabil este galeria Nucet, lungă de aproximativ 5 kilometri, prin care apa din mină este evacuată.” [1]
 > „La verificările de miercuri, aceasta era în stare bună, dar autoritățile avertizează că o eventuală surpare care ar bloca scurgerea apei ar putea provoca inundarea completă a minei.” [1]
 
@@ -109,4 +109,4 @@ Prefectul, reprezentantul Guvernului în județ, a adunat miercuri Comitetul Jud
 
 1. O mină din Bihor riscă să fie inundată după ce a rămas fără angajați care să pompeze apa. Pericol de poluare cu minerale grele — Spotmedia. https://spotmedia.ro/stiri/mediu/o-mina-din-bihor-risca-sa-fie-inundata-dupa-ce-a-ramas-fara-angajati-care-sa-pompeze-apa-pericol-de-poluare-cu-minerale-grele
 2. Risc de inundare la Mina Băița. Autoritățile din Bihor vor institui situație de urgență — Adevărul. https://adevarul.ro/stiri-interne/evenimente/risc-de-inundare-la-mina-baita-autoritatile-din-2569040.html
-3. Autoritățile din Bihor au declarat situație de urgență în zona Minei Băița și solicită 6 milioane de lei de la Guvern — News.ro. https://www.news.ro/social/autoritatile-bihor-au-declarat-situatie-urgenta-zona-minei-baita-solicita-6-milioane-lei-guvern-prevenirea-inundarii-acesteia-apa-pompata-intrucat-exista-angajati-inundarea-riscuri-mediu-1922405604192026112022941206
+3. Pericol de inundare la Mina Băița, după ce angajații au oprit pomparea. Autoritățile cer 6 milioane de lei de la Guvern — Știrile ProTV. https://stirileprotv.ro/stiri/actualitate/pericol-de-inundare-la-mina-baita-dupa-ce-angajatii-au-oprit-pomparea-autoritatile-cer-6-milioane-de-lei-de-la-guvern.html
