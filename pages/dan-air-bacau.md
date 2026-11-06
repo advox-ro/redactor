@@ -27,7 +27,7 @@ tip: listă
 - Zbori de la Otopeni
 - Ceri toți banii înapoi
 Compania spune că îi va contacta pe pasagerii afectați. Bilete noi se pot cumpăra de pe site doar prin transfer bancar, nu cu cardul.
-> „NETOPIA a reziliat unilateral contractul cu compania aeriană începând cu 2 noiembrie 2026, iar pasagerii își mai pot achiziționa bilete de la DAN Air doar prin transfer bancar.” [5]
+> „NETOPIA a reziliat unilateral contractul cu compania aeriană începând cu 2 noiembrie 2026, iar pasagerii își mai pot achiziționa bilete de la DAN Air doar prin transfer bancar.” [4]
 > „Pasagerii afectați vor fi contactați de companie și pot alege zborul corespunzător din București sau rambursarea integrală a biletului, potrivit Regulamentului (CE) nr. 261/2004, spune compania:” [1]
 > „Rezervările noi se pot face în continuare pe site-ul companiei, dar doar cu plata prin transfer banca” [1]
 
@@ -53,8 +53,8 @@ Dan Air a cerut prima insolvența, ca să se reorganizeze. Aeroportul a cerut-o 
 > „Într-un comunicat de presă transmis miercuri, Dan Air spune că Aeroportul Bacău a depus pe 29 octombrie, la Tribunalul Ilfov, o cerere de deschidere a procedurii insolvenței împotriva companiei.” [1]
 > „Pe 2 noiembrie, NETOPIA a reziliat contractul cu DAN AIR, iar plata biletelor cu cardul pe site-ul companiei a devenit indisponibilă, potrivit Profit.ro .” [1]
 > „Compania aeriană Dan Air își mută temporar toate zborurile pe Aeroportul "Henri Coandă" din București.” [3]
-> „Prima înfățisare în dosar este programată pe 16 noiembrie.” [5]
-> „Pe data de 22 octombrie 2026, compania Dan Air a anunțat că a depus la Tribunalul Ilfov cererea de deschidere a procedurii insolvenței, cu intenția de reorganizare a activității.” [4]
+> „Prima înfățisare în dosar este programată pe 16 noiembrie.” [4]
+> „La momentul respectiv, Dan Air plătise deja 100.000 de lei, negocia o eșalonare similară celei convenite și respectate în 2025 și formulase, din 22 octombrie, propria cerere de reorganizare, aflată sub protecția instanței.” [2]
 
 ### Disputa cu firma de plăți
 tip: cifră
@@ -89,7 +89,7 @@ Zborurile programate de la Bacău vor pleca de la Otopeni. Cine are deja bilet v
 Dan Air spune că pleacă pentru că aeroportul i-a cerut insolvența la tribunal și i-a cerut plăți noi ca să-i mai ofere serviciile de la sol, cum ar fi încărcarea bagajelor. Compania spune că, după chiar datele aeroportului, peste 83% din datorii aveau cel mult 33 de zile, iar, după companie, legea presupune insolvența abia la datorii neplătite de 60 de zile. Mai spune că plătise deja 100.000 de lei și negocia o plată în rate, ca în 2025. Dan Air îl acuză pe directorul aeroportului de amenințări și presiuni și spune că se întoarce doar dacă se schimbă conducerea aeroportului.
 > „Compania aeriană Dan Air anunță că își mută temporar toate operațiunile de pe Aeroportul Internațional „George Enescu” Bacău pe Aeroportul Internațional „Henri Coandă” București, după ce aeroportul din Bacău i-a cerut insolvența și a condiționat serviciile de handling de noi plăți.” [1]
 > „Cererea a fost formulată deși, potrivit propriului comunicat al aeroportului, peste 83% din restanțe aveau o vechime de cel mult 33 de zile, iar legea prezumă insolvența doar pentru datoriile neachitate la 60 de zile” [1]
-> „La momentul respectiv, Dan Air plătise deja 100.000 de lei, negocia o eșalonare similară celei convenite și respectate în 2025 și formulase, din 22 octombrie, propria cerere de reorganizare, aflată sub protecția instanței.” [4]
+> „La momentul respectiv, Dan Air plătise deja 100.000 de lei, negocia o eșalonare similară celei convenite și respectate în 2025 și formulase, din 22 octombrie, propria cerere de reorganizare, aflată sub protecția instanței.” [2]
 > „Lipsa de încredere și temerea create ca urmare a amenințărilor și presiunilor exercitate de directorul general al regiei nu pot fi baza unei cooperări sănătoase dintre părți.” [1]
 > „Compania spune că se va întoarce doar dacă se schimbă conducerea executivă a aeroportului.” [1]
 
@@ -108,11 +108,11 @@ Aeroportul e o regie, adică o firmă a statului, sub autoritatea Consiliului Ju
 
 ### Insolvența și banii de pe bilete
 
-Dan Air și-a cerut singură insolvența pe 22 octombrie. Insolvența e procedura pentru o firmă care nu își mai poate plăti datoriile. Dan Air a cerut reorganizarea: să zboare mai departe și să-și plătească datoriile după un plan aprobat de cei cărora le datorează și confirmat de tribunal, sub supravegherea unui administrator judiciar. Cererea a ajuns la Tribunalul București, unde primul termen e pe 16 noiembrie. HotNews scrie că Dan Air a încheiat anul 2025 cu datorii totale de peste 126 de milioane de lei.
+Dan Air și-a cerut singură insolvența pe 22 octombrie. Insolvența e procedura pentru o firmă care nu își mai poate plăti datoriile. Dan Air spune că a cerut reorganizarea, adică vrea să zboare mai departe și să-și plătească datoriile, sub protecția tribunalului. Cererea a ajuns la Tribunalul București, unde primul termen e pe 16 noiembrie. HotNews scrie că Dan Air a încheiat anul 2025 cu datorii totale de peste 126 de milioane de lei.
 > „DAN AIR și-a cerut insolvența pe 22 octombrie, la Tribunalul Ilfov.” [1]
-> „Conform Legii nr. 85/2014, reorganizarea judiciară permite unei companii viabile să își continue activitatea și să își achite datoriile pe baza unui plan aprobat de creditori și confirmat de instanță, sub supravegherea unui administrator judiciar.” [4]
-> „Tribunalul Ilfov a declinat soluționarea cererii către Tribunalul București, unde a fost deschis un dosar pe 3 noiembrie, în care apar ca debitori și RA AIGEB, Uplist Airport Services, Air Claim, Badger Claim, Settlepoint, Setno IO, Aviator IV 3614 Limited, Aviator IV 3863 Limited, Aviator EOL 2479 Limited, dar și Miclea Anda Veronica și Iuhas Sorin Dan, fondatorul companiei.” [5]
-> „Prima înfățisare în dosar este programată pe 16 noiembrie.” [5]
+> „La momentul respectiv, Dan Air plătise deja 100.000 de lei, negocia o eșalonare similară celei convenite și respectate în 2025 și formulase, din 22 octombrie, propria cerere de reorganizare, aflată sub protecția instanței.” [2]
+> „Tribunalul Ilfov a declinat soluționarea cererii către Tribunalul București, unde a fost deschis un dosar pe 3 noiembrie, în care apar ca debitori și RA AIGEB, Uplist Airport Services, Air Claim, Badger Claim, Settlepoint, Setno IO, Aviator IV 3614 Limited, Aviator IV 3863 Limited, Aviator EOL 2479 Limited, dar și Miclea Anda Veronica și Iuhas Sorin Dan, fondatorul companiei.” [4]
+> „Prima înfățisare în dosar este programată pe 16 noiembrie.” [4]
 > „Compania a încheiat anul 2025 cu datorii totale de peste 126 de milioane de lei.” [1]
 
 [card: Cum s-a ajuns aici]
@@ -129,7 +129,7 @@ Dan Air spune că greutățile ei vin doar din faptul că NETOPIA, firma prin ca
 ### Ce urmează
 
 Primul termen în dosarul de insolvență de la Tribunalul București e pe 16 noiembrie. Dan Air spune că se va întoarce la Bacău când va avea acolo un partener de încredere și mulțumește Consiliului Județean pentru sprijin. Aeroportul propune plata datoriei în rate și plata în avans a serviciilor. Conducerea aeroportului spune că speră la o rezolvare și că toate serviciile pentru companiile aeriene care zboară de la Bacău merg în continuare.
-> „Prima înfățisare în dosar este programată pe 16 noiembrie.” [5]
+> „Prima înfățisare în dosar este programată pe 16 noiembrie.” [4]
 > „Mulțumim Consiliului Județean pentru sprijin și ne vom întoarce la Bacău imediat ce vom avea un partener de încredere” [1]
 > „La rândul său, conducerea Aeroportului Bacău susține că Dan Air poate continua zborurile de aici, dar dacă achită eșalonat datoria de 1,3 milioane de lei și plătește în avans serviciile pentru zborurile viitoare.” [3]
 > „Radu Bezniuc: Situația cu Dan Air ne îngrijoarează pe noi toți, dar în același timp sperăm într-o rezolvare pozitivă a acestei situații.” [3]
@@ -140,5 +140,4 @@ Primul termen în dosarul de insolvență de la Tribunalul București e pe 16 no
 1. Dan Air își mută toate zborurile de la Bacău la Otopeni. Ce se întâmplă cu pasagerii care au deja achiziționate bilete — HotNews. https://hotnews.ro/dan-air-isi-muta-toate-zborurile-de-la-bacau-la-otopeni-ce-se-intampla-cu-pasagerii-care-au-deja-achizitionate-bilete-2394971
 2. Dan Air, companie care și-a cerut insolvența, își mută temporar operațiunile din Bacău pe aeroportul „Henri Coandă” București — Economedia. https://economedia.ro/dan-air-companie-care-si-a-cerut-insolventa-isi-muta-temporar-operatiunile-din-bacau-pe-aeroportul-henri-coanda-bucuresti.html
 3. Compania aeriană Dan Air își mută temporar toate zborurile pe Aeroportul „Henri Coandă” — Radio România Actualități. https://www.romania-actualitati.ro/stiri/romania/compania-aeriana-dan-air-isi-muta-temporar-toate-zborurile-pe-aeroportul-henri-coanda-id236870.html
-4. Dan Air își mută toate operațiunile pe Aeroportul „Henri Coandă”. Opțiunile pasagerilor care și-au cumpărat deja bilete — DC News. https://www.dcnews.ro/dan-air-isi-muta-toate-operatiunile-pe-aerportul-henri-coandt-optiunile-pasagerilor-care-si-au-cumparat-deja-bilete_1093884.html
-5. DAN Air mută zborurile de pe aeroportul din Bacău, unde avea baza principală, pe Otopeni — Ziarul Financiar. https://www.zf.ro/companii/dan-air-muta-zborurile-de-pe-aeroportul-din-bacau-unde-avea-baza-principala-pe-otopeni-decizia-vine-dupa-ce-conducerea-aeroportului-bacau-a-cerut-deschiderea-insolventei-operatorului-aerian-23274556
+4. DAN Air mută zborurile de pe aeroportul din Bacău, unde avea baza principală, pe Otopeni — Ziarul Financiar. https://www.zf.ro/companii/dan-air-muta-zborurile-de-pe-aeroportul-din-bacau-unde-avea-baza-principala-pe-otopeni-decizia-vine-dupa-ce-conducerea-aeroportului-bacau-a-cerut-deschiderea-insolventei-operatorului-aerian-23274556
