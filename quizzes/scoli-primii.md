@@ -2,7 +2,7 @@
 - educatie-054
 - educatie-008
 
-### În ultimul an școlar, copilul tău a avut la școală ore în care să recupereze materia?
+### În anul școlar trecut, copilul tău (sau unul dintre copiii tăi) a avut la școală ore în care să recupereze materia?
 
 | id | ore-recuperare |
 |---|---|
