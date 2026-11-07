@@ -1,10 +1,8 @@
 ---
 title: Infecțiile sexuale cresc iar
-summary: Medicii de sănătate publică spun că sifilisul, gonoreea și chlamidia sunt din nou în creștere. Ce poate preveni vaccinul HPV.
+summary: O medic de la INSP spune că sifilisul, gonoreea și chlamidia sunt din nou în creștere, iar vaccinul HPV previne o parte din boli.
 tags: [sănătate, familie]
 date: 2026-11-04
-wiki: sanatate
-sources: [1]
 image:
   src: /photos/infectii-sexuale.jpg
   alt: O doză de vaccin HPV trasă într-o seringă
@@ -19,35 +17,31 @@ quiz: infectii-sexuale
 
 ### După ani de scădere, cresc din nou
 tip: text
-Sifilisul, gonoreea și chlamidia sunt boli care se iau prin contact sexual. Ani la rând au fost tot mai puține cazuri. Acum numărul lor crește din nou, în România și în Europa, spune o medic de la Institutul Național de Sănătate Publică.
+Sifilisul, gonoreea și chlamidia sunt boli care se iau prin contact sexual. Ani la rând au fost tot mai puține cazuri. Acum numărul lor crește din nou, în România și în Europa, spune o medic de la Institutul Național de Sănătate Publică. Ea vorbește de creșteri de aproape 10% la nivel european, fără să spună pe ce perioadă.
 > „În principiu, de-a lungul timpului am remarcat o scădere a cazurilor de infecții cu transmitere sexuală. Din păcate, nu mai este cazul în prezent.” [1]
 > „În ultimii ani a reînceput să crească incidența cazurilor de sifilis, de gonoree, de infecții cu chlamidia.” [1]
 > „Este un trend nu doar la noi în țară, este un trend la nivel european, la toate aceste infecții s-au înregistrat creșteri de aproape 10%, ceea ce ne îngrijorează” [2]
 
-### Creșteri de aproape 10%
-tip: text
-Medicul spune că la toate aceste infecții s-au înregistrat creșteri de aproape 10%. Articolele nu spun pe ce perioadă și nici dacă cifra e pentru România sau pentru toată Europa.
-> „Este un trend nu doar la noi în țară, este un trend la nivel european, la toate aceste infecții s-au înregistrat creșteri de aproape 10%, ceea ce ne îngrijorează” [1]
-
 ### Sifilisul poate trece neobservat
 tip: text
-Cine are sifilis poate să nu observe nimic. O mamă care nu știe că e bolnavă poate da boala copilului înainte de naștere. Medicii văd tot mai des astfel de cazuri, iar urmările pentru copil sunt pe viață.
+Cine are sifilis poate să nu observe nimic. O mamă care nu știe că e bolnavă poate da boala copilului ei. Medicii văd des astfel de cazuri, iar urmările pentru copil sunt pe viață.
 > „Ea a subliniat că persoanele care au contacte sexuale neprotejate trebuie să nu uite că sifilisul este o infecție cu transmitere sexuală care ”poate să treacă neobservată”” [2]
 > „medicii de sănătate publică ajung să constate tot mai frecvent cazuri de sifilis congenital, ceea ce înseamnă copii bolnavi de sifilis de la mamele lor, care nu au știut că suferă de această infecție” [2]
 > „Consecințele asupra copiilor sunt pe viață, a adăugat medicul.” [2]
+> „astfel că medicii ajung să constate frecvent cazuri de sifilis congenital, adică nou-născuți bolnavi de sifilis de la mamele lor, care nu au știut că suferă de această infecție” [1]
 
-### Mulți tineri spun că se protejează
+### Ce spun tinerii despre prezervativ
 tip: listă
 - Tineri: peste 70%
 - Tinere: peste 60%
-Atâția spun, în studii, că folosesc prezervativul ca să evite aceste infecții, cât sau chiar mai mult decât în restul UE. Medicii spun că mulți tineri cred totuși că nu e nevoie de el dacă partenerul nu are simptome.
+Atâția tineri spun, în studii, că folosesc prezervativul ca să evite aceste infecții, cât sau chiar mai mult decât în restul UE. Medicii spun că mulți tineri cred totuși că nu e nevoie de el dacă partenerul nu are simptome.
 > „studiile arată că, în România, peste 70% dintre tineri și peste 60% dintre tinere au declarat că folosesc prezervativul ca metodă de evitare a unor infecții cu transmitere sexuală, procentele fiind comparabile și chiar peste datele din Uniunea Europeană.” [2]
 > „Adriana Melnic a atras însă atenția că există un procent însemnat de tineri care consideră că nu trebuie să folosească prezervativul” [1]
 
-### HPV poate duce la cancer
+### Cancerul de col uterin vine de la HPV
 tip: cifră
 - 99%
-din cazurile de cancer de col uterin sunt produse de infecția cu HPV, un virus care se ia tot prin contact sexual. Nu orice infecție duce la cancer, iar împotriva lui există vaccin, și pentru fete, și pentru băieți.
+din cazurile de cancer de col uterin sunt produse de infecția cu HPV, un virus care se ia tot prin contact sexual. Nu orice infecție duce la cancer, iar împotriva virusului există vaccin, și pentru fete, și pentru băieți.
 > „Infecția cu HPV produce 99% din cazurile de cancer de col uterin.” [2]
 > „Nu este obligtoriu ca orice infecție cu HPV să ducă la cancer, pentru că organismul are și capacitatea de a elimina infecția” [2]
 > „dar de asemenea se produc peste 70% din cazurile de cancer vaginal, peste 60% din cazurile de cancer oro-faringian, peste 60% din cazurile de cancer penian și aici vaccinul este o modalitate de prevenție și pentru băieți” [2]
@@ -60,6 +54,7 @@ Medicii spun că e bine ca vaccinul să fie făcut înainte de primul contact se
 > „Aș vrea să atrag atenția părinților că cea mai bună vârstă pentru vaccinare este între 11 și 14 ani.” [2]
 > „Dacă se face în această perioadă, fereastră de oportunitate, vor fi necesare doar două doze, dacă se face peste vârsta de 14 ani, sunt necesare trei doze.” [2]
 > „Datele arată că, în România, se vaccinează mulți tineri după vârsta de 18 ani, în momentul în care pot să ia singuri această decizie.” [2]
+> „Pentru că e bine să fie făcută înaintea unui contact sexual” [2]
 
 ## Articol
 
@@ -74,12 +69,12 @@ Ani la rând, cazurile de sifilis, gonoree și chlamidia au scăzut. În ultimii
 
 [card: După ani de scădere, cresc din nou]
 
-Medicul a spus că la toate aceste infecții s-au înregistrat creșteri de aproape 10%. Articolele nu spun pe ce perioadă și nici dacă cifra e pentru România sau pentru toată Europa.
+Medicul a spus că la nivel european s-au înregistrat creșteri de aproape 10% la toate aceste infecții. Nu a spus pe ce perioadă și nici cât au crescut cazurile doar în România.
 > „Este un trend nu doar la noi în țară, este un trend la nivel european, la toate aceste infecții s-au înregistrat creșteri de aproape 10%, ceea ce ne îngrijorează” [1]
 
 ### De ce contează
 
-Sifilisul poate trece neobservat, iar cine îl observă poate să nu-l ia în serios. O mamă care nu știe că e bolnavă poate da boala copilului. Medicul spune că astfel de cazuri apar tot mai des și că urmările pentru copii sunt pe viață.
+Sifilisul poate trece neobservat, iar cine îl observă poate să nu-l ia în serios. O mamă care nu știe că e bolnavă poate da boala copilului. Medicul spune că astfel de cazuri apar des și că urmările pentru copii sunt pe viață.
 > „Ea a subliniat că persoanele care au contacte sexuale neprotejate trebuie să nu uite că sifilisul este o infecție cu transmitere sexuală care ”poate să treacă neobservată”, iar ”dacă e observată poate să nu îngrijoreze”” [2]
 > „medicii de sănătate publică ajung să constate tot mai frecvent cazuri de sifilis congenital, ceea ce înseamnă copii bolnavi de sifilis de la mamele lor, care nu au știut că suferă de această infecție” [2]
 > „Consecințele asupra copiilor sunt pe viață, a adăugat medicul.” [2]
@@ -95,7 +90,7 @@ O medic de la Centrul Regional de Sănătate Publică Cluj a citat studii după 
 > „studiile arată că, în România, peste 70% dintre tineri și peste 60% dintre tinere au declarat că folosesc prezervativul ca metodă de evitare a unor infecții cu transmitere sexuală, procentele fiind comparabile și chiar peste datele din Uniunea Europeană.” [2]
 > „Adriana Melnic a atras însă atenția că există un procent însemnat de tineri care consideră că nu trebuie să folosească prezervativul” [1]
 
-[card: Mulți tineri spun că se protejează]
+[card: Ce spun tinerii despre prezervativ]
 
 ### HPV și cancerul
 
@@ -107,7 +102,7 @@ HPV produce și peste 70% din cazurile de cancer vaginal, peste 60% din cele de 
 > „dar de asemenea se produc peste 70% din cazurile de cancer vaginal, peste 60% din cazurile de cancer oro-faringian, peste 60% din cazurile de cancer penian și aici vaccinul este o modalitate de prevenție și pentru băieți” [2]
 > „Ea a menționat că România înregistrează o mortalitate ridicată din cauza cancerului de col uterin.” [2]
 
-[card: HPV poate duce la cancer]
+[card: Cancerul de col uterin vine de la HPV]
 
 ### Când e bine făcut vaccinul
 
@@ -118,7 +113,7 @@ Medicul le spune părinților că cea mai bună vârstă pentru vaccinul HPV e �
 
 [card: Vaccinul HPV, mai devreme]
 
-În România, mulți tineri se vaccinează abia după 18 ani, când pot hotărî singuri. Medicul spune că vaccinul protejează la fel și dacă e făcut devreme.
+În România, mulți tineri se vaccinează abia după 18 ani, când pot hotărî singuri. Medicul spune că vaccinul făcut devreme își păstrează eficiența și mai târziu.
 > „Datele arată că, în România, se vaccinează mulți tineri după vârsta de 18 ani, în momentul în care pot să ia singuri această decizie.” [2]
 > „Cumva e mult mai eficient și chiar dacă se face mai devreme, sunt dovezi că el își păstrează aceeași eficiență și mai târziu.” [2]
 

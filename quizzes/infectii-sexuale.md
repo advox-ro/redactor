@@ -1,5 +1,3 @@
-- sanatate-063
-
 ### Ai făcut vaccinul HPV?
 
 | id | vaccin-hpv-tu |
@@ -13,20 +11,19 @@
 4. Nu știu
 5. Prefer să nu spun
 
-### Copilul tău a făcut vaccinul HPV? Dacă ai mai mulți copii, gândește-te la cel mai mare.
+### Copilul tău cel mai mare care are cel puțin 11 ani a făcut vaccinul HPV?
 
 | id | vaccin-hpv-copil |
 |---|---|
 | type | single |
 | measures | experience |
-| na | Nu am copii |
+| na | Nu am copii de 11 ani sau mai mari |
 
 1. Da
-2. Încă nu, e prea mic
-3. Nu
-4. Nu știu
+2. Nu
+3. Nu știu
 
-### În ultimele 12 luni, ți-ai făcut vreun test pentru infecții cu transmitere sexuală?
+### În ultimele 12 luni, ți-ai făcut vreun test pentru infecții care se iau prin contact sexual?
 
 | id | test-its |
 |---|---|
@@ -37,7 +34,7 @@
 2. Nu
 3. Prefer să nu spun
 
-### Pe cine crezi cel mai mult când e vorba de informații despre infecțiile cu transmitere sexuală?
+### Pe cine crezi cel mai mult când e vorba de informații despre infecțiile care se iau prin contact sexual?
 
 | id | incredere-its |
 |---|---|
@@ -50,13 +47,13 @@
 4. Familia
 5. Prietenii
 6. Internetul
-7. Pe nimeni
-8. Nu știu
+7. Altcineva
+8. Pe nimeni
 
-### Cât de îngrijorat(ă) ești de creșterea infecțiilor cu transmitere sexuală în România?
+### Cât de îngrijorat(ă) ești de infecțiile care se iau prin contact sexual în România?
 
 | id | ingrijorare-its |
 |---|---|
 | type | scale |
-| measures | expectation |
+| measures | opinion |
 | scale | Deloc îngrijorat(ă) … Foarte îngrijorat(ă) |
