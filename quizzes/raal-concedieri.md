@@ -1,13 +1,13 @@
-### În ultimele 12 luni, a fost concediat cineva apropiat de tine? Alege primul răspuns care ți se potrivește.
+### În ultimele 12 luni, ai fost concediat(ă) tu sau cineva pe care îl cunoști? Alege primul răspuns care ți se potrivește.
 
-| id | concediat-apropiat |
+| id | concediat-cunoscut |
 |---|---|
 | type | single |
 | measures | experience |
 
 1. Da, eu
 2. Da, cineva din familia mea
-3. Da, un prieten sau o cunoștință
+3. Da, altcineva pe care îl cunosc
 4. Nu
 
 ### Cât de ușor și-ar găsi un nou loc de muncă, în județul tău, cineva concediat dintr-o fabrică?
@@ -18,6 +18,7 @@
 | measures | expectation |
 | where | romania |
 | scale | Foarte greu … Foarte ușor |
+| na | Nu știu |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
 ### Dacă ți-ai pierde acum locul de muncă, cât timp ai putea plăti cheltuielile casei din economii?
@@ -26,14 +27,14 @@
 |---|---|
 | type | single |
 | measures | experience |
-| na | Nu lucrez în prezent |
+| na | Nu e cazul (nu lucrez sau nu plătesc eu cheltuielile casei) |
 | outlook | a: -1, b: -1, c: -0.5, d: 0.5, e: 1 |
 
 1. Deloc, nu am economii
 2. Mai puțin de o lună
-3. Între una și trei luni
-4. Între patru și șase luni
-5. Mai mult de șase luni
+3. Între 1 și 3 luni
+4. Peste 3 luni, până la 6 luni
+5. Peste 6 luni
 
 ### Dacă ai fi concediat(ă), ce ai face mai întâi?
 
@@ -52,7 +53,7 @@
 6. Altceva
 7. Nu știu
 
-### Cât de mult te-ar ajuta agenția județeană pentru ocuparea forței de muncă să-ți găsești un loc de muncă, dacă ai avea nevoie?
+### Cât de mult crezi că te-ar ajuta AJOFM (agenția statului pentru locuri de muncă din județ) să-ți găsești de lucru, dacă ai avea nevoie?
 
 | id | ajofm |
 |---|---|
@@ -60,4 +61,5 @@
 | measures | trust |
 | where | romania |
 | scale | Deloc … Foarte mult |
+| na | Nu aș căuta de lucru |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
