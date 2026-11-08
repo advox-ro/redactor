@@ -85,7 +85,7 @@ Parlamentul, Guvernul, justiția și presa au încrederea unei minorități. Arm
 - **2028**: alegeri locale și parlamentare, la termen. Dacă guvernul nu e învestit, scenariul alegerilor anticipate rămâne deschis (47% dintre români le susțin, 47% nu) [22].
 
 ## Despre acest wiki
-Paginile sunt cercetarea din care pornesc întrebările chestionarului advox. Fiecare domeniu are aceeași structură: pe scurt, context, ce merge, ce nu merge, diferențe regionale, schimbări 2025–2026, dezbateri deschise, indicatori și surse. Fiecare cifră are o sursă numerotată, iar cifrele pe care nu le-am putut verifica sunt marcate în text.
+Paginile sunt cercetarea din care pornesc întrebările quiz-urilor advox. Fiecare domeniu are aceeași structură: pe scurt, context, ce merge, ce nu merge, diferențe regionale, schimbări 2025–2026, dezbateri deschise, indicatori și surse. Fiecare cifră are o sursă numerotată, iar cifrele pe care nu le-am putut verifica sunt marcate în text.
 
 Această pagină adună doar ce e deja pe celelalte. Sursele de mai jos sunt cele originale, preluate de pe paginile domeniilor. Dacă o cifră e depășită sau greșită, spune-ne.
 

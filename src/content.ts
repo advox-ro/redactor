@@ -19,7 +19,7 @@ export type WikiPage = {
   sources: { n: number; text: string; url?: string }[];
 };
 
-/** The question pool as the site's older quiz reads it (scripts/pool.mjs, questions/README.md). */
+/** The question pool as the site reads it (scripts/pool.mjs, questions/README.md). */
 export type Pool = {
   axes: { id: string; label: string }[];
   questions: Record<string, Record<string, unknown> & { domain: string; text: string; choices: { id: string; label: string }[] }>;

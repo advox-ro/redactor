@@ -1,6 +1,6 @@
 # Wiki: România azi
 
-Cercetarea din care se generează întrebările chestionarului. Randată pe site la [advox.ro/wiki](https://advox.ro/wiki). Fiecare pagină are aceeași structură: pe scurt, context, ce merge, ce nu merge, diferențe regionale, schimbări 2025–2026, dezbateri, indicatori, idei de întrebări și surse.
+Cercetarea din care se generează întrebările quiz-urilor. Randată pe site la [advox.ro/wiki](https://advox.ro/wiki). Fiecare pagină are aceeași structură: pe scurt, context, ce merge, ce nu merge, diferențe regionale, schimbări 2025–2026, dezbateri, indicatori, idei de întrebări și surse.
 
 0. [Pe scurt](romania-pe-scurt.md) — punctul de plecare: date de bază, comparația cu UE și temele comune
 1. [Politică și guvernare](politica.md)

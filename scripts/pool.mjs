@@ -1,12 +1,12 @@
-// The question pool as the site's older quiz reads it (quiz.json), from questions/*.jsonl:
+// The question pool as the site reads it (quiz.json), from questions/*.jsonl:
 // questions, choices, axes and topics. Built into the Worker at deploy by scripts/content.ts; the
 // site reads it through the Content entrypoint (src/index.ts). The site stores answers by question
-// and choice id, and each answer's axis by its index here.
+// and choice id.
 import { readFileSync, readdirSync } from 'node:fs';
 
 const TYPES = new Set(['single', 'yesno', 'scale', 'multi']); // what the quiz UI can show
 
-// Results chart axes: each groups one or more wiki domains.
+// Axes: each groups one or more wiki domains.
 const AXES = [
   { id: 'viata', label: 'Viața ta', domains: ['romania-pe-scurt'] },
   { id: 'bani', label: 'Bani și trai', domains: ['economie', 'social'] },

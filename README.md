@@ -11,7 +11,7 @@ Redactorul publică conținutul de pe [advox.ro](https://advox.ro): paginile (pe
 | [`wiki/`](wiki/README.md) | Wiki-ul de la [advox.ro/wiki](https://advox.ro/wiki): cercetarea, cu surse, din care pornesc întrebările |
 | [`questions/`](questions/README.md) | Fondul de întrebări, câte un fișier pentru fiecare pagină din wiki, și regulile întrebărilor ([`QUIZ.md`](questions/QUIZ.md)) |
 
-La fiecare deploy, `scripts/content.ts` le include în Worker: paginile, paginile din wiki în HTML, cu procesorul Markdown al site-ului (Sätteri, din Astro; citările `[n]` duc la lista de surse, iar notițele „Idei de întrebări” rămân doar în fișiere) și fondul de întrebări ca `quiz.json`, pe care îl folosește chestionarul de 20 de întrebări (`scripts/pool.mjs`). Merge-ul unui pull request și deploy-ul care urmează le publică. Site-ul le citește de aici la fiecare cerere, printr-un service binding: o legătură directă între cele două Worker-e, fără adresă publică (`Content` în `src/index.ts`).
+La fiecare deploy, `scripts/content.ts` le include în Worker: paginile, paginile din wiki în HTML, cu procesorul Markdown al site-ului (Sätteri, din Astro; citările `[n]` duc la lista de surse, iar notițele „Idei de întrebări” rămân doar în fișiere) și fondul de întrebări ca `quiz.json`, din care quiz-urile își iau întrebările (`scripts/pool.mjs`). Merge-ul unui pull request și deploy-ul care urmează le publică. Site-ul le citește de aici la fiecare cerere, printr-un service binding: o legătură directă între cele două Worker-e, fără adresă publică (`Content` în `src/index.ts`).
 
 ```sh
 npm run validate                  # paginile, după regulile din pages/README.md

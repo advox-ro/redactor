@@ -2,7 +2,7 @@
 // session (wrangler.jsonc, "build"), so deploying publishes. It writes to src/generated/:
 //   pages.json    pages/*.md, each page's front matter and its quiz's questions as data, its cards' text as HTML
 //   wiki.json     wiki/*.md as the site shows them: front matter, HTML, headings and sources
-//   quiz.json     the question pool, questions/*.jsonl, as the site's older quiz reads it (pool.mjs)
+//   quiz.json     the question pool, questions/*.jsonl, as the site reads it (pool.mjs)
 import { mkdirSync, readFileSync, readdirSync, writeFileSync } from 'node:fs';
 import { createSatteriMarkdownProcessor } from '@astrojs/markdown-satteri';
 import { parse } from 'yaml';
