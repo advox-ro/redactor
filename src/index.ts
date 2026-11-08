@@ -21,6 +21,7 @@ import type { Env } from './env';
 import { commonsFile, searchCommons } from './commons';
 import { ingest } from './ingest';
 import { draft, draftPhoto, previewShot } from './preview';
+import { validPreviewKey } from './previewkey';
 import { closeProposal, openProposals, propose, proposal, ProposalError, type Proposal } from './proposals';
 
 const DAY = 86_400_000;
@@ -84,12 +85,12 @@ export class Content extends WorkerEntrypoint<Env> {
     return POOL;
   }
   /** A page on one of the editor's branches, before it is merged, or null (preview.ts). */
-  draft(branch: string) {
-    return draft(this.env, branch);
+  async draft(branch: string, key: string) {
+    return (await validPreviewKey(this.env.REDACTOR_TOKEN, branch, key)) ? draft(this.env, branch) : null;
   }
   /** That page's photo, or null. */
-  draftPhoto(branch: string) {
-    return draftPhoto(this.env, branch);
+  async draftPhoto(branch: string, key: string) {
+    return (await validPreviewKey(this.env.REDACTOR_TOKEN, branch, key)) ? draftPhoto(this.env, branch) : null;
   }
 }
 

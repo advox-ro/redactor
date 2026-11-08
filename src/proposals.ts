@@ -7,6 +7,9 @@
 //   content   branch content/<slug>: wiki pages (wiki/<name>.md) and question pool files
 //             (questions/<name>.jsonl); the READMEs and QUIZ.md stay out of reach
 // The checks on GitHub then merge it or say why not (.github/workflows/check.yml).
+// Only branches of this repository count, and only the check job's comments: on a public repository
+// anyone can open a pull request from a fork, on a branch of any name, or comment on one, and what
+// comes back from here is what the editor acts on.
 //   GET  /proposals              the editor's open pull requests
 //   POST /proposals              { kind?, slug, title, body, message?, draft?, files: { path: base64 } }:
 //                                commit the files to the branch (from main, or on top of it when it
@@ -21,6 +24,7 @@ const AUTHOR = { name: 'advox-ro', email: '349334465+advox-ro@users.noreply.gith
 const SLUG = /^[a-z0-9]+(-[a-z0-9]+)*$/;
 // The comment the check job posts when a check fails (check.yml).
 const FAILED = 'Verificările nu au trecut';
+const CHECK_JOB = 'github-actions[bot]';
 
 export class ProposalError extends Error {}
 
@@ -56,12 +60,20 @@ export async function fileAt(env: Env, path: string, ref: string): Promise<Array
   return r.arrayBuffer();
 }
 
-type Pull = { number: number; html_url: string; title: string; state: string; merged_at: string | null; head: { ref: string } };
+type Pull = { number: number; html_url: string; title: string; state: string; merged_at: string | null; head: { ref: string; repo: { full_name: string } | null } };
+type Comment = { body: string; created_at: string; user: { login: string } | null };
 const brief = (p: Pull) => ({ number: p.number, branch: p.head.ref, title: p.title, url: p.html_url });
+
+/** One of the editor's pull requests: on one of its branches, in this repository, not in a fork. */
+export const isEditors = (p: Pick<Pull, 'head'>) => OURS(p.head.ref) && p.head.repo?.full_name === REPO;
+
+/** The comments in which the check job said why the checks failed. */
+export const checkFailures = (comments: Comment[]) =>
+  comments.filter((c) => c.user?.login === CHECK_JOB && c.body.startsWith(FAILED)).map((c) => ({ at: c.created_at, body: c.body }));
 
 export async function openProposals(env: Env) {
   const pulls = await gh<Pull[]>(env, 'GET', '/pulls?state=open&per_page=100');
-  return pulls.filter((p) => OURS(p.head.ref)).map(brief);
+  return pulls.filter(isEditors).map(brief);
 }
 
 export type Proposal = { kind?: 'page' | 'content'; slug: string; title: string; body: string; message?: string; draft?: boolean; files: Record<string, string> };
@@ -121,17 +133,17 @@ export async function propose(env: Env, p: Proposal) {
 
 async function pagePull(env: Env, n: number) {
   const pull = await gh<Pull>(env, 'GET', `/pulls/${n}`);
-  if (!OURS(pull.head.ref)) throw new ProposalError(`#${n} is not one of the editor's pull requests`);
+  if (!isEditors(pull)) throw new ProposalError(`#${n} is not one of the editor's pull requests`);
   return pull;
 }
 
 export async function proposal(env: Env, n: number) {
   const pull = await pagePull(env, n);
-  const comments = await gh<{ body: string; created_at: string }[]>(env, 'GET', `/issues/${n}/comments?per_page=100`);
+  const comments = await gh<Comment[]>(env, 'GET', `/issues/${n}/comments?per_page=100`);
   return {
     ...brief(pull),
     state: pull.merged_at ? 'merged' : pull.state,
-    failures: comments.filter((c) => c.body.startsWith(FAILED)).map((c) => ({ at: c.created_at, body: c.body })),
+    failures: checkFailures(comments),
   };
 }
 

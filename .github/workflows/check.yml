@@ -5,6 +5,7 @@
 #                    changed news page is also checked against its articles, by the quotes under
 #                    its cards (check-page)
 #   content/<slug>   only wiki pages and question pool files
+# A pull request from a fork is only checked: it publishes nothing and gets no comment.
 # When a check fails, the reason goes in a comment on the pull request, where the editor reads it
 # and fixes it.
 name: Check
@@ -78,7 +79,7 @@ jobs:
         run: npm run -s questions-unchanged -- origin/main 2>&1 | tee -a check.log
 
       - name: Publish
-        if: steps.files.outputs.publish == 'true'
+        if: steps.files.outputs.publish == 'true' && github.event.pull_request.head.repo.full_name == github.repository
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
@@ -86,7 +87,7 @@ jobs:
           gh workflow run deploy.yml --ref main
 
       - name: Say why it failed
-        if: failure()
+        if: failure() && github.event.pull_request.head.repo.full_name == github.repository
         env:
           GH_TOKEN: ${{ github.token }}
         run: |

@@ -1,6 +1,7 @@
 // The editor's pages as they stand on their branch (page/<slug>), before they are merged: read from
 // GitHub and published as the build publishes them (scripts/content.ts), for the site's preview
-// address (advox.ro/preview/<slug>?branch=page/<slug>), which draws them as readers will see them.
+// address (advox.ro/preview/<slug>?branch=page/<slug>&key=<key>), which draws them as readers will
+// see them; without the branch's key (previewkey.ts) it answers 404.
 // GET /preview/<slug> photographs that address for the branch page/<slug>, so the editor can look
 // at its cards before the checks merge them (EDITOR.md): every card one under another, on a phone
 // (?width=1280 for a laptop).
@@ -8,6 +9,7 @@ import puppeteer from '@cloudflare/puppeteer';
 import type { Env } from './env';
 import { parsePage, published } from './pagefile';
 import { fileAt, OURS } from './proposals';
+import { previewKey } from './previewkey';
 import { parseQuiz } from './quizfile';
 
 const SITE = 'https://advox.ro';
@@ -41,7 +43,8 @@ export async function previewShot(env: Env, slug: string, width: number): Promis
   try {
     const tab = await browser.newPage();
     await tab.setViewport({ width, height: width < 768 ? 844 : 800, deviceScaleFactor: width < 768 ? 2 : 1 });
-    await tab.goto(`${SITE}/preview/${slug}?branch=page/${slug}`, { waitUntil: 'networkidle0' });
+    const key = await previewKey(env.REDACTOR_TOKEN!, `page/${slug}`); // every request here carried it (index.ts)
+    await tab.goto(`${SITE}/preview/${slug}?branch=page/${slug}&key=${key}`, { waitUntil: 'networkidle0' });
     const png = await tab.screenshot({ fullPage: true, type: 'png' });
     return new Response(png, { headers: { 'Content-Type': 'image/png' } });
   } finally {

@@ -62,3 +62,7 @@ npm run dev              # Worker-ul local, cu rulările programate
 ```
 
 Secretele Worker-ului, puse cu `npx wrangler secret put`: `REDACTOR_TOKEN`, cerut de toate adresele, și `GITHUB_TOKEN`, un token al contului advox-ro doar pentru acest repository, cu drept de scriere pe conținut și pe pull request-uri; local stau în `.dev.vars`. Fiecare push pe `main` verifică și publică ([`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)); are nevoie de secretele `CLOUDFLARE_API_TOKEN` și `CLOUDFLARE_ACCOUNT_ID` în repository.
+
+## Licență
+
+Codul e sub licența MIT ([LICENSE](LICENSE)). Textele din `pages/`, `quizzes/`, `wiki/` și `questions/` sunt sub [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Fotografiile din `pages/photos/` își păstrează licențele de pe Wikimedia Commons, iar propozițiile citate din articole rămân ale publicațiilor.
