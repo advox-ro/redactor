@@ -47,3 +47,13 @@
 3. Am schimbat becurile cu LED-uri
 4. Încălzesc mai puțin cu aparate electrice
 5. Nimic diferit față de anul trecut
+
+### Câtă încredere ai că autoritățile verifică bine siguranța centralelor nucleare din România?
+
+| id | verificare-siguranta |
+|---|---|
+| type | scale |
+| measures | trust |
+| scale | Nicio încredere … Foarte multă încredere |
+| na | Nu pot aprecia |
+| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
