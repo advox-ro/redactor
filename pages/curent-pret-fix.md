@@ -23,7 +23,7 @@ Furnizorul ar fi obligat să-ți ofere aceste contracte dacă le ceri. Deocamdat
 > „Furnizorii de energie electrică ar urma să ofere, la cererea clienților, contracte cu preț fix pe cel puțin un an și contracte cu prețuri dinamice celor care au contoare inteligente funcționale, potrivit unui proiect de ordonanță de urgență de modificare a Legii energiei, analizat de Digi24.ro.” [1]
 > „Documentul, publicat de Ministerul Energiei în dezbatere pe 4 noiembrie, propune și licențe temporare pentru capacități noi de producție și stocare, racordare flexibilă în zonele cu rețele aglomerate, reguli pentru partajarea energiei și noi obligații pentru furnizori și producători.” [1]
 
-### Prețul fix nu s-ar schimba pe durata contractului
+### Prețul fix ar rămâne neschimbat
 tip: listă
 - Furnizorul n-ar putea schimba singur condițiile
 - N-ar putea rupe contractul înainte de termen
@@ -84,7 +84,7 @@ Furnizorul nu ar putea schimba singur condițiile unui contract cu preț fix și
 > „Prețul fix ar urma să rămână neschimbat pe durata contractului, însă factura finală s-ar putea modifica dacă se schimbă taxele, impozitele sau alte componente reglementate prin acte normative.” [1]
 > „Furnizorul nu va avea dreptul de a modifica unilateral clauzele și condițiile contractelor de furnizare a energiei electrice pe durată determinată și cu prețuri fixe și nici de a denunța astfel de contracte înainte de expirarea duratei acestora, cu excepția cazurilor de sustragere de energie electrică constatată prin hotărâre judecătorească definitivă și de neplată a facturilor.” [2]
 
-[card: Prețul fix nu s-ar schimba pe durata contractului]
+[card: Prețul fix ar rămâne neschimbat]
 
 Și clientul e legat de contract. Dacă îl rupi înainte de termen, furnizorul îți poate cere un comision, cum prevede deja legea. Comisionul trebuie să-ți fie spusă clar înainte să semnezi, să fie scrisă în contract și să nu fie mai mare decât pierderea pe care i-o produci furnizorului. Furnizorul trebuie să dovedească pierderea, iar ANRE urmărește cum sunt stabilite aceste comisioane.
 > „Pe de altă parte, după cum stipulează deja Legea energiei, furnizorii pot percepe clienților finali comisioane pentru încetarea contractelor de furnizare a energiei electrice încheiate pe o durată determinată și cu prețuri fixe, în cazul rezilierii lor anticipate de către clientul final.” [2]
