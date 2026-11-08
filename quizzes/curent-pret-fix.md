@@ -8,8 +8,10 @@
 | na | Nu plătesc eu factura la curent |
 
 1. Preț fix pentru o perioadă
-2. Preț care se poate schimba oricând
-3. Nu știu
+2. Preț pe care furnizorul îl poate schimba, cu anunț
+3. Preț care urmează bursa de energie
+4. Altfel
+5. Nu știu
 
 ### Dacă ai putea alege, ce contract de curent ai lua?
 
@@ -20,9 +22,11 @@
 | where | romania |
 | na | Nu plătesc eu factura la curent |
 
-1. Preț fix pe un an, chiar dacă la început e puțin mai mare
-2. Preț care urmează bursa, mai mic sau mai mare de la o zi la alta
-3. Nu știu
+1. Preț fix pe cel puțin un an
+2. Preț pe care furnizorul îl poate schimba, cu anunț
+3. Preț care urmează bursa de energie, de la o oră la alta
+4. Nu contează pentru mine
+5. Nu știu
 
 ### Ai acasă un contor de curent inteligent, care transmite singur consumul?
 
@@ -54,6 +58,6 @@
 | type | scale |
 | measures | trust |
 | where | romania |
-| scale | Deloc … Foarte multă |
+| scale | Nicio încredere … Foarte multă încredere |
 | na | Nu plătesc eu factura la curent |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
