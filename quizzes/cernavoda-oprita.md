@@ -48,12 +48,12 @@
 4. Încălzesc mai puțin cu aparate electrice
 5. Nimic diferit față de anul trecut
 
-### Câtă încredere ai că singura centrală nucleară a țării funcționează în siguranță?
+### Câtă încredere ai că autoritățile verifică bine siguranța centralelor nucleare din România?
 
-| id | siguranta-centrala |
+| id | verificare-siguranta |
 |---|---|
 | type | scale |
 | measures | trust |
-| where | romania |
-| scale | Deloc … Foarte multă |
+| scale | Nicio încredere … Foarte multă încredere |
+| na | Nu pot aprecia |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
