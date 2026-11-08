@@ -1,6 +1,6 @@
 ---
 title: Mesaje false în numele Netflix
-summary: DNSC avertizează că circulă mesaje false despre abonamentul Netflix, care cer datele cardului. Ce faci tu când primești un astfel de mesaj.
+summary: Instituția statului pentru securitatea pe internet (DNSC) avertizează că circulă mesaje false în numele Netflix, care cer datele cardului.
 tags: [siguranță, bani]
 date: 2026-11-05
 image:
@@ -23,7 +23,7 @@ Oamenii primesc un mesaj care pare trimis de Netflix: plata abonamentului n-ar f
 ### Linkul duce la un site fals
 tip: text
 Site-ul cere datele cardului. Cine le scrie acolo le dă, de fapt, celor care au trimis mesajul.
-> „Link-ul din mesaj duce către un site fals care solicită victimei datele de card, acestea ajungând ulterior în posesia atacatorilor", transmite DNSC pe Facebook .” [1]
+> „Link-ul din mesaj duce către un site fals care solicită victimei datele de card, acestea ajungând ulterior în posesia atacatorilor” [1]
 
 ### Ce te sfătuiește DNSC
 tip: listă
@@ -40,13 +40,12 @@ DNSC este instituția statului care se ocupă de securitatea pe internet.
 ### Dacă ai dat deja datele cardului
 tip: text
 Sună imediat la bancă și cere să fie blocate cardul sau plățile pe care nu le-ai făcut tu.
-> „Dacă ai furnizat date bancare, contactează imediat banca pentru a încerca blocarea tranzacțiilor frauduloase", mai spun cei de la DNSC.” [1]
 > „Contactați imediat banca dacă ați furnizat datele cardului. Solicitați asistență pentru blocarea cardului sau a eventualelor tranzacții neautorizate.” [2]
 
-### Unde anunți o înșelătorie
+### Unde semnalezi mesajul
 tip: cifră
 - 1911
-este numărul la care poți anunța DNSC. Se poate și prin formularul de pe pnrisc.dnsc.ro.
+este numărul la care poți semnala mesajul la DNSC. Se poate și prin formularul de pe pnrisc.dnsc.ro.
 > „Pentru raportarea la DNSC folosiți formularul https://pnrisc.dnsc.ro/ sau apelați 1911.” [1]
 
 ## Articol
@@ -84,11 +83,11 @@ Dacă ai dat deja datele cardului, sună imediat la bancă și cere să fie bloc
 
 ### Unde anunți
 
-Mesajele de acest fel se pot anunța la DNSC, la numărul 1911 sau prin formularul de pe pnrisc.dnsc.ro. DNSC ține și o listă cu site-uri false, pe blacklist.dnsc.ro. Are și o extensie pentru browser care, dacă e pornită, blochează aceste site-uri.
+Mesajele de acest fel se pot anunța la DNSC, la numărul 1911 sau prin formularul de pe pnrisc.dnsc.ro. DNSC ține și o listă cu site-uri false, pe blacklist.dnsc.ro.
 > „Pentru raportarea la DNSC folosiți formularul https://pnrisc.dnsc.ro/ sau apelați 1911.” [1]
 > „Blacklist-ul DNSC (https://blacklist.dnsc.ro/) este actualizat constant cu site-uri frauduloase depistate în activitatea de monitorizare, iar extensia de browser le blochează automat accesul atunci când este activă.” [1]
 
-[card: Unde anunți o înșelătorie]
+[card: Unde semnalezi mesajul]
 
 ## Surse
 

@@ -1,33 +1,33 @@
 - securitate-media-012
 - securitate-media-069
 
-### Dacă ai primi un mesaj că plata abonamentului tău nu a trecut, ce ai face mai întâi?
+### Câtă încredere ai că banca ta ar bloca la timp o plată făcută cu cardul tău de altcineva?
 
-| id | primul-pas |
+| id | banca-blocheaza |
 |---|---|
-| type | single |
-| measures | expectation |
-
-1. Aș deschide linkul din mesaj
-2. Aș intra singur(ă) pe site-ul sau în aplicația firmei
-3. Aș suna la firmă
-4. Aș ignora mesajul
-5. Altceva
-6. Nu știu
+| type | scale |
+| measures | trust |
+| where | romania |
+| scale | Deloc … Foarte multă |
+| na | Nu am card bancar |
+| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
 ### Cât de sigur(ă) ești că ai recunoaște un mesaj fals care pare trimis de o firmă cunoscută?
 
 | id | recunoastere |
 |---|---|
 | type | scale |
-| measures | trust |
+| measures | expectation |
 | scale | Deloc sigur(ă) … Foarte sigur(ă) |
-| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### Ai anunțat vreodată o încercare de înșelătorie online, de exemplu la bancă, la poliție sau la DNSC?
+### În ultimele 12 luni, ai anunțat undeva o încercare de înșelătorie, de exemplu la bancă, la poliție sau la DNSC?
 
 | id | anuntat |
 |---|---|
-| type | yesno |
+| type | single |
 | measures | experience |
-| na | Nu am primit niciodată o încercare de înșelătorie |
+| na | Nu am avut așa ceva în ultimele 12 luni |
+
+1. Da
+2. Nu
+3. Nu țin minte
