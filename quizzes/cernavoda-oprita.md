@@ -47,3 +47,13 @@
 3. Am schimbat becurile cu LED-uri
 4. Încălzesc mai puțin cu aparate electrice
 5. Nimic diferit față de anul trecut
+
+### Câtă încredere ai că singura centrală nucleară a țării funcționează în siguranță?
+
+| id | siguranta-centrala |
+|---|---|
+| type | scale |
+| measures | trust |
+| where | romania |
+| scale | Deloc … Foarte multă |
+| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
