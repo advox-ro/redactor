@@ -6,10 +6,10 @@ date: 2026-11-05
 stat: { value: "20%", label: "din curentul produs în țară vine, de obicei, de la Cernavodă", quote: "În mod normal, cele două reactoare de la Cernavodă asigură 20% din producția de energie, cantitate pe care România este acum nevoită să o importe de la vecinii săi.", source: 4 }
 image:
   src: /photos/cernavoda-oprita.jpg
-  alt: Clădirile reactoarelor de la Centrala Nucleară Cernavodă, în decembrie 2024
+  alt: Centrala Nucleară Cernavodă văzută de peste apă, în decembrie 2024
   credit: IAEA Imagebank
   license: CC BY 2.0
-  url: https://commons.wikimedia.org/wiki/File:Cernavoda_Nuclear_Power_Plant_of_Romania_in_December_2024_on_an_IAEA_IPPAS_mission_to_advise_on_facility_security_-_1.jpg
+  url: https://commons.wikimedia.org/wiki/File:Cernavoda_Nuclear_Power_Plant_of_Romania_in_December_2024_on_an_IAEA_IPPAS_mission_to_advise_on_facility_security_-_21.jpg
 quiz: cernavoda-oprita
 ---
 
