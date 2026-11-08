@@ -1,45 +1,45 @@
 ---
-title: Programări greu de obținut
-summary: Ministerul Sănătății verifică programările din ambulatoriile spitalelor de stat. Cum îți merge ție când ai nevoie de un medic specialist.
+title: Programarea la specialist
+summary: Ministerul Sănătății verifică programările la medicii specialiști din spitalele de stat. Cât de ușor ajungi tu la un specialist.
 tags: [sănătate, servicii publice]
 date: 2026-11-05
 image:
   src: /photos/programari-ambulatoriu.jpg
-  alt: Clădirea unui spital județean de urgență
-  credit: Musichistory2009
-  license: CC BY 3.0
-  url: https://commons.wikimedia.org/wiki/File:Spitalul_Judetean_de_Urgenta_Sfantul_Ioan_cel_Nou_din_Suceava.jpg
+  alt: Un stetoscop pe o masă
+  credit: Tama998
+  license: CC0
+  url: https://commons.wikimedia.org/wiki/File:Stethoscope_No.120.JPG
   illustrative: true
 quiz: programari-ambulatoriu
 ---
 
 ## Carduri
 
-### Un test la telefon
+### Ministrul a sunat la spitale
 tip: text
 Ministrul Sănătății a sunat, fără să spună cine e, la mai multe spitale de stat. A cerut o programare la neurologie pentru „bunica”.
 > „Așa că am pus mâna pe telefon și am sunat personal la mai multe spitale publice din România, încercând să obțin o programare la neurologie pentru "bunica mea".” [1]
 > „Rogobete a sunat anonim și a încercat să obțină o programare la neurologie pentru "bunica".” [1]
 
 ### Răspunsuri diferite
-tip: voci
-- Unele spitale: programare într-un timp rezonabil
-- Alte spitale: nu sunt locuri, încercați la o altă clinică
-- Un spital din Iași: telefonul pentru programări, închis
+tip: listă
+- La unele spitale: programare într-un timp rezonabil
+- La altele: nu sunt locuri, încercați la o altă clinică
+- La Spitalul Colentina: noiembrie e plin, i s-a dat numărul altei clinici
 În unele locuri a mers, în altele nu.
 > „În unele spitale, sistemul funcționează, personalul răspunde, iar programările sunt disponibile într-un timp rezonabil.” [1]
 > „În alte spitale, însă, am întâlnit situații greu de acceptat: programări imposibile și chiar recomandări de a apela la o clinică din afara spitalului.” [1]
-> „Altă încercare, Spitalul Sfânta Maria din Iași. Aici, telefonul unde se pot face programări era închis.” [2]
+> „Un alt exemplu este cel al spitalului Colentina, unde operatorul i-a spus că toată luna noiembrie este ocupată, dar îi poate da un alt număr de la o clinică, privată, cel mai probabil.” [5]
 
-### La Constanța și Timișoara, în trei zile
+### Repede la Constanța și Timișoara
 tip: text
-Ministrul spune că la spitalele județene din Constanța și Timișoara a primit programare repede.
+Ministrul spune că la spitalele județene din Constanța și Timișoara a primit programare repede. La Constanța, în trei zile.
 > „Am avut exemple pozitive la Constanța, de exemplu, au răspuns, m-au programat într-un timp rezonabil, de doar trei zile. La Timișoara, la fel”, a mai explicat ministrul.” [1]
 > „Ministrul spune că a reușit să facă programare telefonică în ambulatoriul spitalelor județene din Constanța și Timișoara.” [2]
 
 ### Ce spun spitalele
 tip: voci
-- Spitalul Colentina, București: avem programări pe toată luna și am încercat doar să ajutăm
+- Spitalul Colentina, București: la unele specialități nu mai sunt locuri luna aceasta; am încercat doar să ajutăm
 - Spitalul Sfânta Maria, Iași: la unele secții e aglomerat; programări se pot face și online
 Conducerile spitalelor spun că programările se fac, dar mai greu la unele specialități.
 > „Managerul Spitalului Colentina spune că sistemul de programări funcționează, dar că la unele specialități nu mai sunt locuri pentru luna aceasta.” [2]
@@ -51,20 +51,19 @@ tip: listă
 - Programările făcute în calculator
 - Pontajul medicilor, adică orele lucrate
 - Consultațiile plătite de Casa de Asigurări
-Controlul se uită la ultimele trei luni, în spitalele din toată țara.
-> „Vreau să văd programările din Ambulatorul de Specialitate, care nu mai pot fi modificate pentru că ele au fost înregistrate electronic, contajul medicilor și numărul de deconturi făcute la Casa Națională de Asigurări de Sănătate”, a declarat Alexandru Rogobete.” [4]
+Ministrul spune că va verifica ultimele trei luni, în spitalele din toată țara.
+> „Vreau să văd programările din ambulatoriu de specialitate, care nu mai pot fi modificate, pentru că ele au fost înregistrate electronic, pontajul medicilor și numărul de deconturi făcute la Casa Națională de Asigurări de Sănătate, pentru că suspiciunea este următoarea.” [1]
 > „După anunțul privind declanșarea controalelor, ministrul a precizat că verificările au început la Spitalul Clinic Colentina din București și că urmează o acțiune la nivel național, care va analiza activitatea din ultimele trei luni.” [4]
 
 ### Ce bănuiește ministerul
-tip: comparație
-- Pacienți programați: 10
-- Consultații plătite: 2
-E exemplul dat de ministru: dacă diferența e mare, unele locuri ar fi ocupate de pacienți care nu există.
+tip: text
+Un exemplu dat de ministru, nu un rezultat al controlului: dacă sunt programați 10 pacienți, dar Casa de Asigurări a plătit doar 2 consultații, ceilalți ar putea fi pacienți care nu există. Bănuiala lui: unii medici țin ocupate locurile de la stat și își iau pacienții la cabinetele private.
 > „Pentru că suspiciunea este următoarea: de exemplu, dacă în programator apar 10 pacienți, iar la Casa Națională au fost decontate servicii doar pentru 2 pacienți, asta înseamnă că diferența de 8 sunt, de fapt, pacienți fictivi, care doar blochează programul”, a afirmat acesta.” [4]
+> „Alexandru Rogobete, ministrul Sănătății : „ Blochează locurile la stat și pleacă cu pacienții la cabinetele lor private ”.” [2]
 
 ### Ce urmează
 tip: text
-Ministerul va face public raportul controlului. Ministrul spune că, cel mai probabil, vor urma schimbări de lege. Până atunci, le cere pacienților să facă sesizări.
+Ministrul spune că va face public raportul controlului și că, cel mai probabil, vor urma schimbări de lege. Până atunci, le cere pacienților să facă sesizări.
 > „După ce voi termina raportul de control la nivel național, îl voi face public și, cel mai probabil, că vor veni noi modificări legislative pentru corectarea acestor situații”, a încheiat Alexandru Rogobete.” [1]
 > „Îi rog în continuare să facă sesizare la Ministerul Sănătății ori de câte ori apare o astfel de situație.” [1]
 
@@ -83,7 +82,12 @@ Ministrul Sănătății, Alexandru Rogobete, spune că a primit multe plângeri 
 > „Rogobete a sunat anonim și a încercat să obțină o programare la neurologie pentru "bunica".” [1]
 > „Ministrul Sănătății, Alexandru Rogobete, a dispus joi controale în ambulatoriile de specialitate ale spitalelor publice, după ce a încercat personal să obțină o programare la neurologie pentru o presupusă bunică.” [3]
 
-[card: Un test la telefon]
+[card: Ministrul a sunat la spitale]
+
+Ministrul a arătat public aceste apeluri. Spune că voia să vadă cum au fost aplicate schimbările făcute în mandatul său anterior pentru ambulatorii și recunoaște că problema nu e nouă.
+> „Așa am ajuns și eu să fac acest experiment, pe care am vrut să-l arăt public și apoi să demarez controlul național.” [1]
+> „Am primit foarte multe sesizări la Ministerul Sănătății despre astfel de situații și de ce le-am făcut acum și nu în vechiul mandat, de exemplu, pentru că asta nu e neapărat o problemă nouă.” [1]
+> „Și am verificat la câteva luni distanță cum s-au implementat aceste măsuri de reformă, până la urmă.” [1]
 
 Răspunsurile au fost diferite. La unele spitale, cineva a răspuns și a primit o programare într-un timp rezonabil. La altele i s-a spus că nu sunt locuri sau i s-a recomandat o clinică din afara spitalului.
 > „În unele spitale, sistemul funcționează, personalul răspunde, iar programările sunt disponibile într-un timp rezonabil.” [1]
@@ -91,20 +95,20 @@ Răspunsurile au fost diferite. La unele spitale, cineva a răspuns și a primit
 
 [card: Răspunsuri diferite]
 
-La Spitalul Colentina din București, ministrului i s-a spus că toată luna noiembrie e ocupată și i s-a dat numărul altei clinici. La un spital din Sibiu a aflat că programările pentru decembrie încep abia pe 10 noiembrie. La Spitalul Sfânta Maria din Iași, telefonul pentru programări era închis.
+La Spitalul Colentina din București, ministrului i s-a spus că toată luna noiembrie e ocupată și i s-a dat numărul altei clinici. La un spital din Sibiu a aflat că programările pentru decembrie încep abia pe 10 noiembrie. Știrile ProTV scrie că la Spitalul Sfânta Maria din Iași telefonul pentru programări era închis.
 > „Un alt exemplu este cel al spitalului Colentina, unde operatorul i-a spus că toată luna noiembrie este ocupată, dar îi poate da un alt număr de la o clinică, privată, cel mai probabil.” [5]
 > „La un spital din Sibiu a aflat că programările pentru luna decembrie urmau să înceapă abia pe 10 noiembrie, locurile pentru luna în curs fiind deja ocupate.” [3]
 > „Altă încercare, Spitalul Sfânta Maria din Iași. Aici, telefonul unde se pot face programări era închis.” [2]
 
-Ministrul spune că la spitalele județene din Constanța și Timișoara a primit programare repede, în doar trei zile.
+Ministrul spune că la spitalele județene din Constanța și Timișoara a primit programare repede. La Constanța, în doar trei zile.
 > „Am avut exemple pozitive la Constanța, de exemplu, au răspuns, m-au programat într-un timp rezonabil, de doar trei zile. La Timișoara, la fel”, a mai explicat ministrul.” [1]
 > „Ministrul spune că a reușit să facă programare telefonică în ambulatoriul spitalelor județene din Constanța și Timișoara.” [2]
 
-[card: La Constanța și Timișoara, în trei zile]
+[card: Repede la Constanța și Timișoara]
 
 ### Ce spun spitalele
 
-Managerul Spitalului Colentina spune că programările funcționează, dar că la unele specialități nu mai sunt locuri luna aceasta. „Avem programări pe toată luna și am încercat doar să ajutăm”, a spus el. La Iași, conducerea spitalului nu a explicat de ce telefonul era închis. Spune că la unele secții programarea se face de pe o zi pe alta, la altele e aglomerat, și că programări se fac și online.
+Managerul Spitalului Colentina spune că programările funcționează, dar că la unele specialități nu mai sunt locuri luna aceasta. „Am încercat doar să ajutăm”, a spus el. La Iași, conducerea spitalului nu a explicat de ce telefonul era închis. Spune că la unele secții programarea se face de pe o zi pe alta, la altele e aglomerat, și că programări se fac și online.
 > „Managerul Spitalului Colentina spune că sistemul de programări funcționează, dar că la unele specialități nu mai sunt locuri pentru luna aceasta.” [2]
 > „Dr. Alexandru Iacobescu, manager Spitalul Colentina : „ Avem programări pe toată luna și am încercat doar să ajutăm ”.” [2]
 > „Managementul nu are o explicație punctuală pentru această situație, dar susține că programări se fac, adevărat, mai greu la unele specializări.” [2]
@@ -112,12 +116,14 @@ Managerul Spitalului Colentina spune că programările funcționează, dar că l
 
 [card: Ce spun spitalele]
 
-Și reporterii Știrile ProTV au încercat să se programeze la un specialist de la Spitalul Universitar de Urgență București. Au dat întâi de un robot, apoi au fost trimiși de la un interior la altul, dar până la urmă au primit programare. Online erau puține locuri, și acelea cu plată.
+Și reporterii Știrile ProTV au încercat să se programeze la un specialist, la Spitalul de Urgență București. Au dat întâi de un robot, apoi au fost trimiși de la un interior la altul, dar până la urmă au primit programare. Online erau puține locuri, și acelea cu plată. Conducerea spitalului spune că îmbunătățește programările, și la telefon, și online.
+> „Între timp, am făcut și noi o încercare să ne programăm la un medic specialist de la Spitalul de Urgență București.” [2]
 > „Primul apel ne-a dus la un robot care ne-a direcționat apoi către alte persoane și, după mai multe discuții de la un interior la altul, am reușit în cele din urmă să obținem o programare. Online erau locuri puține și cu plată.” [2]
+> „Conducerea spitalului spune că sistemul de programări este într-un proces de îmbunătățire, atât online, cât și telefonic.” [2]
 
 ### Controlul
 
-Ministrul a trimis Corpul de Control, echipa de inspectori a Ministerului Sănătății. Verificările au început la Spitalul Colentina și urmează să se extindă în toată țara, pentru ultimele trei luni.
+Ministrul a trimis Corpul de Control, echipa de inspectori a Ministerului Sănătății. Verificările au început la Spitalul Colentina. Ministrul spune că le va extinde în toată țara, pentru ultimele trei luni.
 > „Începând de astăzi, am dispus controale extinse prin Corpul de Control al Ministerului Sănătății, pentru verificarea programărilor, a pontajelor și a modului în care funcționează ambulatoriile de specialitate.” [1]
 > „După anunțul privind declanșarea controalelor, ministrul a precizat că verificările au început la Spitalul Clinic Colentina din București și că urmează o acțiune la nivel național, care va analiza activitatea din ultimele trei luni.” [4]
 

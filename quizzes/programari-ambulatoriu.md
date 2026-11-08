@@ -22,20 +22,21 @@
 | na | Nu am căutat un specialist la stat în ultimele 12 luni |
 | outlook | da: -1, nu: 1 |
 
-### Dacă nu găsești loc la un medic specialist de stat, ce faci de obicei?
+### Ultima dată când nu ai găsit loc la un medic specialist de stat, ce ai făcut?
 
 | id | fara-loc |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Nu am avut nevoie de un specialist |
+| na | Nu mi s-a întâmplat |
 
-1. Aștept până găsesc loc la stat
-2. Plătesc o consultație la privat
-3. Merg la urgențe
-4. Renunț la consultație
-5. Altceva
+1. Am așteptat până am găsit loc la stat
+2. Am căutat loc la alt spital de stat
+3. Am plătit o consultație la privat
+4. Am mers la urgențe
+5. Am renunțat la consultație
+6. Altceva
 
 ### Cum preferi să faci o programare la un medic specialist?
 
@@ -48,27 +49,28 @@
 2. Online
 3. La ghișeu, mergând la spital
 4. Prin medicul de familie
-5. Nu contează
+5. Altfel
+6. Nu contează
 
-### Cât de mult crezi că va schimba controlul Ministerului Sănătății felul în care obții o programare la un specialist de stat?
+### Cât de mult crezi că se va îmbunătăți programarea la un specialist de stat după acest control?
 
 | id | efect-control |
-|---|---|
-| type | scale |
-| measures | expectation |
-| where | romania |
-| scale | Deloc … Foarte mult |
-| na | Nu știu |
-| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
-
-### Dacă nu ai primi programare la un spital de stat, ai face o sesizare la Ministerul Sănătății?
-
-| id | sesizare |
 |---|---|
 | type | single |
 | measures | expectation |
 | where | romania |
 
-1. Da
-2. Nu
-3. Nu știu
+1. Deloc
+2. Puțin
+3. Mult
+4. Foarte mult
+5. Nu știu
+
+### În ultimele 12 luni, ai făcut o sesizare sau o plângere pentru că nu ai primit programare la un spital de stat?
+
+| id | sesizare |
+|---|---|
+| type | yesno |
+| measures | experience |
+| where | romania |
+| na | Nu am încercat să mă programez la un spital de stat |
