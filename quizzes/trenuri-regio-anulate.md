@@ -12,7 +12,7 @@
 4. Mai rar de o dată pe lună
 5. Niciodată
 
-### Te afectează anularea trenurilor Regio Călători din noiembrie?
+### În ultima lună, te-a afectat anularea unor trenuri?
 
 | id | afectat-anulare |
 |---|---|
@@ -20,13 +20,14 @@
 | measures | experience |
 | where | romania |
 | na | Nu merg cu trenul |
-| outlook | a: -1, b: -0.5, c: 0 |
+| outlook | a: -1, b: -0.5, c: 0, d: 0 |
 
 1. Da, mult
 2. Da, puțin
 3. Deloc
+4. Nu știu
 
-### Cât de multă încredere ai că trenurile din zona ta circulă după program?
+### Cât de multă încredere ai că trenul cu care mergi de obicei nu va fi anulat?
 
 | id | incredere-program |
 |---|---|
@@ -49,20 +50,23 @@
 1. Cu alt tren
 2. Cu autobuzul
 3. Cu mașina mea
-4. Cu mașina altcuiva
+4. Cu mașina, luat(ă) de altcineva
 5. Nu aș mai face drumul
 6. Altfel
+7. Nu știu
 
-### Când un tren este anulat, cum ai vrea să afli prima dată?
+### Când un tren este anulat, pe ce cale ai vrea să afli mai întâi?
 
 | id | cum-afli |
 |---|---|
 | type | single |
 | measures | opinion |
 
-1. Prin mesaj pe telefon
-2. Dintr-o aplicație
-3. De pe internet
-4. Dintr-un anunț în gară
-5. Din știri
-6. Altfel
+1. Prin SMS
+2. Printr-o notificare în aplicația de bilete
+3. Pe site-ul cu mersul trenurilor
+4. Din anunțul din gară
+5. La radio
+6. La televizor
+7. Altfel
+8. Nu știu
