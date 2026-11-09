@@ -4,7 +4,7 @@
 |---|---|
 | type | single |
 | measures | experience |
-| na | Nu am schimbat niciodată telefonul |
+| na | Nu am avut un telefon pe care să nu-l mai folosesc |
 
 1. L-am păstrat acasă
 2. L-am dat altcuiva
@@ -14,29 +14,31 @@
 6. L-am aruncat la gunoi
 7. Altceva
 
-### În ultimele 12 luni, ai dus un aparat electric vechi la un punct de colectare?
+### În ultimele 12 luni, ai dus un aparat electric vechi la un loc unde se strâng pentru reciclare?
 
 | id | dus-la-colectare |
 |---|---|
 | type | yesno |
 | measures | experience |
 | where | romania |
+| na | Nu am avut aparate vechi de dat |
 
-### Unde este cel mai apropiat loc în care poți lăsa aparate electrice vechi?
+### Cât de greu îți este să ajungi la un loc unde poți lăsa aparate electrice vechi?
 
-| id | cel-mai-apropiat-punct |
+| id | greu-de-ajuns |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| outlook | a: 1, b: 0, c: -1, d: 0 |
+| outlook | a: 1, b: 0.5, c: -0.5, d: -1, e: 0 |
 
-1. În localitatea mea, aproape de casă
-2. În localitatea mea, departe de casă
-3. În altă localitate
-4. Nu știu
+1. Foarte ușor
+2. Ușor
+3. Greu
+4. Foarte greu
+5. Nu știu unde este un astfel de loc
 
-### Cât de des mergi la un oficiu poștal?
+### În ultimele 12 luni, cât de des ai mers la un oficiu poștal?
 
 | id | cat-de-des-posta |
 |---|---|
@@ -45,12 +47,13 @@
 | where | romania |
 
 1. Săptămânal
-2. Lunar
-3. De câteva ori pe an
-4. Mai rar
-5. Niciodată
+2. De 2–3 ori pe lună
+3. Lunar
+4. De câteva ori pe an
+5. O dată sau de două ori
+6. Niciodată
 
-### Dacă oficiul poștal de lângă tine ar primi aparate electrice vechi, cât de probabil este să duci acolo unul în următoarele 3 luni?
+### Cât de probabil este să duci un aparat electric vechi la oficiul poștal în următoarele 3 luni?
 
 | id | probabil-posta |
 |---|---|
