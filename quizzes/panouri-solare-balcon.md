@@ -9,7 +9,7 @@
 2. Casă
 3. Altfel
 
-### Balconul locuinței tale primește soare direct?
+### Într-o zi senină de vară, cât soare direct primește balconul locuinței tale?
 
 | id | soare-balcon |
 |---|---|
@@ -17,24 +17,26 @@
 | measures | experience |
 | na | Nu am balcon |
 
-1. Da, multe ore pe zi
-2. Da, câteva ore pe zi
-3. Nu
+1. Multe ore
+2. Câteva ore
+3. Mai puțin de o oră
+4. Deloc
 
-### Dacă legea ar permite fără autorizație, ți-ai pune panouri solare pe balcon în următorii doi ani?
+### Dacă legea s-ar schimba așa cum propun proiectele, ți-ai pune panouri solare pe balcon în următorii doi ani?
 
 | id | ar-monta |
 |---|---|
 | type | single |
 | measures | expectation |
 | where | romania |
-| na | Nu am balcon |
+| na | Nu am balcon sau nu decid eu în locuința mea |
 
-1. Da, sigur
-2. Probabil da
-3. Probabil nu
-4. Sigur nu
-5. Nu știu
+1. Am deja panouri pe balcon
+2. Da, sigur
+3. Probabil da
+4. Probabil nu
+5. Sigur nu
+6. Nu știu
 
 ### Ce te-ar opri cel mai mult să-ți pui panouri solare pe balcon?
 
@@ -43,13 +45,13 @@
 | type | single |
 | measures | opinion |
 | where | romania |
-| na | Nu am balcon |
+| na | Nu am balcon sau am deja panouri pe balcon |
 
 1. Costul
 2. Prea puțin soare
 3. Regulile blocului
 4. Nu cred că ar scădea mult factura
-5. Grija că nu sunt sigure
+5. Teama că panourile ar putea cădea sau lua foc
 6. Nimic nu m-ar opri
 7. Altceva
 
@@ -60,12 +62,13 @@
 | type | single |
 | measures | opinion |
 | where | romania |
-| na | Nu locuiesc la bloc |
+| na | Nu locuiesc la bloc sau nu sunt proprietar |
 
 1. Pentru
 2. Împotrivă
 3. M-aș abține
-4. Nu știu
+4. Nu merg la adunări
+5. Nu știu
 
 ### Câtă încredere ai că asociația ta de proprietari ar împărți corect banii din curentul produs pe acoperișul blocului?
 
@@ -75,4 +78,4 @@
 | measures | trust |
 | where | romania |
 | scale | Deloc … Foarte multă |
-| na | Nu locuiesc la bloc |
+| na | Nu locuiesc la bloc sau blocul meu nu are asociație de proprietari |
