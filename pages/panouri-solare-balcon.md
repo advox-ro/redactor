@@ -32,7 +32,6 @@ tip: listă
 - O baterie, dacă vrei
 Totul s-ar lega direct la instalația electrică a locuinței. Invertorul e aparatul prin care panourile se leagă la instalație.
 > „Sistem mic și sigur: cel mult patru panouri, un invertor de maximum 800 VA și, opțional, o baterie, conectate direct la instalația locuinței.” [1]
-> „Conform proiectului, fiecare apartament ar putea fi dotat cu maximum patru panouri solare și o baterie de stocare, conectate la rețeaua electrică interioară a locuinței.” [3]
 
 ### Fără aviz, doar notificări
 tip: listă
@@ -66,10 +65,11 @@ Sunt prețurile spuse de un instalator, pentru un panou și o baterie, fără mo
 ### Cât ar scădea factura
 tip: voci
 - Asociația Prosumatorilor: cu până la 40%, cu baterie și cu soare bun
-- Un locatar din București, cu panouri puse singur în locul geamurilor: plătea între 400 și 500 de lei, acum între 160 și 180 de lei
+- Un locatar din București, cu panouri puse singur în locul geamurilor: plătea 400-500 de lei pe lună, acum 160-180 de lei
 Prima e estimarea asociației care a scris proiectul. A doua e ce spune un singur om despre facturile lui.
 > „Împreună cu o baterie, un astfel de kit montat acolo unde există expunere bună la soare poate reduce, după estimările APCE, cu până la 40% factura de energie a unui apartament.” [1]
-> „Bărbatul a explicat că, înainte de montarea panourilor, achita lunar între 400 și 500 de lei pentru curent, în timp ce acum facturile sale sunt cuprinse între 160 și 180 de lei.” [3]
+> „160-180 de lei, plăteam 400-500 de lei.” [2]
+> „În locul termopanelor, Marius și-a montat singur în balcon panouri fotovoltaice ca să își mai reducă din cheltuieli.” [2]
 
 ### Pe acoperișul blocului
 tip: listă
@@ -84,11 +84,10 @@ Restul banilor ar merge în fondul de reparații al blocului. Sunt prevederi din
 ### Ce urmează
 tip: cronologie
 - Acum: proiecte depuse în Parlament
-- Apoi: votul Senatului și al Camerei Deputaților
+- Apoi: votul senatorilor și al deputaților
 - La final: promulgarea de către președinte
 Proiectele sunt abia la început de drum.
 > „Proiectele de lege pentru simplificarea instalării panourilor solare pe blocuri sunt abia la început de drum. Trebuie să fie votate de senatori, deputați și să fie aprobate apoi de președinte.” [2]
-> „Pentru a intra în vigoare, proiectele trebuie să treacă de votul Senatului și al Camerei Deputaților, urmând apoi să fie promulgate de președintele României.” [3]
 
 ## Articol
 
@@ -136,10 +135,11 @@ Un instalator de panouri solare a spus pentru Observator că un panou costă 70-
 
 [card: Cât costă]
 
-Asociația Prosumatorilor, care a scris două dintre proiecte, estimează că panourile de balcon, cu o baterie și cu soare bun, pot scădea factura la curent a unui apartament cu până la 40%. Unii oameni nu au mai așteptat legea. Un locatar din Sectorul 5 al Capitalei și-a pus singur panouri în locul geamurilor de la balcon. Spune că plătea între 400 și 500 de lei pe lună la curent, iar acum plătește între 160 și 180 de lei. E ce spune un singur om despre facturile lui. El spune că a întrebat un avocat, care i-a zis că nu e o problemă cât timp nu atinge fațada blocului și nu îi strică aspectul. Articolele nu explică ce permite legea de acum.
+Asociația Prosumatorilor, care a scris două dintre proiecte, estimează că panourile de balcon, cu o baterie și cu soare bun, pot scădea factura la curent a unui apartament cu până la 40%. Unii oameni nu au mai așteptat legea. Un locatar din Sectorul 5 al Capitalei și-a pus singur panouri în locul geamurilor de la balcon. Spune că plătea 400-500 de lei pe lună la curent, iar acum plătește 160-180 de lei. E ce spune un singur om despre facturile lui. El spune că a întrebat un avocat, care i-a zis că nu e o problemă cât timp nu atinge fațada blocului și nu îi strică aspectul. Articolele nu explică ce permite legea de acum.
 > „Împreună cu o baterie, un astfel de kit montat acolo unde există expunere bună la soare poate reduce, după estimările APCE, cu până la 40% factura de energie a unui apartament.” [1]
-> „Marius, un locuitor al Sectorului 5 din București, a decis să înlocuiască geamurile termopan ale balconului cu panouri fotovoltaice, pe care le-a instalat fără ajutorul unei firme specializate.” [3]
-> „Bărbatul a explicat că, înainte de montarea panourilor, achita lunar între 400 și 500 de lei pentru curent, în timp ce acum facturile sale sunt cuprinse între 160 și 180 de lei.” [3]
+> „În locul termopanelor, Marius și-a montat singur în balcon panouri fotovoltaice ca să își mai reducă din cheltuieli.” [2]
+> „160-180 de lei, plăteam 400-500 de lei. M-a interesat la un avocat.” [2]
+> „a declarat Marius , locatar în sectorul 5 din Capitală.” [2]
 > „M-a interesat la un avocat. Atâta timp cât nu mă ating de fațada blocului și nu stric imaginea fațadei, nu există nicio problemă” [2]
 
 [card: Cât ar scădea factura]
@@ -157,7 +157,7 @@ Curentul ar merge la ce folosește tot blocul: liftul, lumina de pe scară, pomp
 [card: Pe acoperișul blocului]
 
 Un bloc din București folosește deja curentul de la panouri pe casa scării. Administratorul spune că, din ianuarie, vor primi bani pe curentul trimis în rețea.
-> „Energia produsă este folosită pe casa scării. Avem aspirator în loc de mătură, avem mașină de spălat cu presiune, spălăm aleile. Din ianuarie, vom încasa contravaloarea curentului pe care îl injectăm în rețea” [3]
+> „Energia produsă este folosită pe casa scării. Avem aspirator în loc de mătură, avem mașină de spălat cu presiune, spălăm aleile. Din ianuarie, vom încasa contravaloarea curentului pe care îl injectăm în rețea” [2]
 
 Al treilea proiect, scris fără asociație, ar stabili cum se montează și se folosesc panourile și bateriile pe părțile comune, cum se împarte curentul între apartamente și ce se face cu cel rămas. Pentru montare ar fi nevoie de două treimi dintre proprietari și de proprietari care dețin împreună cel puțin două treimi din părțile comune ale blocului, plus acordul celor afectați direct.
 > „Un al treilea proiect de lege, elaborat fără implicarea Asociației, creează un mecanism pentru instalarea și exploatarea sistemelor fotovoltaice și a bateriilor aferente pe părțile comune ale condominiilor, utilizarea energiei pentru consumurile comune, partajarea acesteia către apartamente și valorificarea surplusului.” [1]
@@ -165,9 +165,8 @@ Al treilea proiect, scris fără asociație, ar stabili cum se montează și se 
 
 ### Ce urmează
 
-Proiectele sunt abia la început de drum. Ca să devină lege, trebuie votate de Senat și de Camera Deputaților, apoi promulgate de președinte. Articolele nu spun ce cred despre ele Guvernul, distribuitorii de curent sau ANRE, instituția care stabilește regulile pieței de curent.
+Proiectele sunt abia la început de drum. Ca să devină lege, trebuie votate de senatori și de deputați, apoi aprobate de președinte. Articolele nu spun ce cred despre ele Guvernul, distribuitorii de curent sau ANRE, instituția care stabilește regulile pieței de curent.
 > „Proiectele de lege pentru simplificarea instalării panourilor solare pe blocuri sunt abia la început de drum. Trebuie să fie votate de senatori, deputați și să fie aprobate apoi de președinte.” [2]
-> „Pentru a intra în vigoare, proiectele trebuie să treacă de votul Senatului și al Camerei Deputaților, urmând apoi să fie promulgate de președintele României.” [3]
 
 [card: Ce urmează]
 
@@ -175,4 +174,3 @@ Proiectele sunt abia la început de drum. Ca să devină lege, trebuie votate de
 
 1. Panouri solare la bloc: Trei proiecte de lege își propun să le reglementeze. Asociația Prosumatorilor estimează că sistemele de balcon pot reduce facturile cu până la 40% — Profit.ro. https://www.profit.ro/povesti-cu-profit/energie/panouri-solare-la-bloc-trei-proiecte-de-lege-isi-propun-sa-le-reglementeze-asociatia-prosumatorilor-estimeaza-ca-sistemele-de-balcon-pot-reduce-facturile-cu-pana-la-40-22944204
 2. Românii își pot monta panouri fotovoltaice în balcon. Facturile scad cu peste 50% — Observator. https://observatornews.ro/economic/romanii-isi-pot-monta-panouri-fotovoltace-in-balcon-facturile-scad-cu-peste-50-671444.html
-3. Facturi la curent reduse cu peste 50%, cu panouri fotovoltaice montate în balcon. Schimbarea pregătită pentru milioane de români care locuiesc la bloc — Știri pe surse. https://www.stiripesurse.ro/facturi-la-curent-reduse-cu-peste-50-cu-panouri-fotovoltaice-montate-in-balcon-schimbarea-pregatita-pentru-milioane-de-romani-care-locuiesc-la-bloc_3934488
