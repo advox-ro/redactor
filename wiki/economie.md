@@ -1,7 +1,7 @@
 ---
 title: "Economie și finanțe publice"
 summary: "Deficit record în UE, taxe majorate în 2025–2026, inflație ridicată, economie în stagnare și ultimele luni ale PNRR: cum arată economia României în 2026."
-updated: 2026-10-17
+updated: 2026-11-10
 order: 2
 ---
 
@@ -64,7 +64,7 @@ Datele regionale detaliate pentru 2025–2026 (PIB județean, salarii pe județe
 - Microîntreprinderile au o cotă unică de 1%, iar plafonul a coborât la 100.000 euro cifră de afaceri în 2026.
 - Câștigurile din criptomonede sunt impozitate cu 16%. A fost introdusă o taxă de 25 lei pe coletele mici din afara UE.
 - Impozitul minim pe cifra de afaceri (IMCA) a scăzut la 0,5% și urmează să fie eliminat din 2027.
-- Impozitele pe clădiri și mașini au crescut. Valoarea impozabilă de referință pentru locuințe a urcat de la 1.492 la 2.677 lei/mp, ceea ce înseamnă creșteri tipice de 70–80% [30]. Trecerea la impozitarea după valoarea de piață este anunțată pentru 2027. Sursele nu sunt de acord asupra calendarului exact.
+- Impozitele pe clădiri și mașini au crescut. Valoarea impozabilă de referință pentru locuințe a urcat de la 1.492 la 2.677 lei/mp, ceea ce înseamnă creșteri tipice de 70–80% [30]. Trecerea la impozitarea după valoarea de piață era prevăzută pentru 1 ianuarie 2027, ca jalon în PNRR. Pe 6 noiembrie 2026, ministrul Finanțelor a anunțat că măsura nu va fi aplicată în 2027, că termenul a fost renegociat cu Comisia Europeană în cadrul revizuirii PNRR și că măsura va fi analizată treptat, spre finalul perioadei de reducere a deficitului (ținta de 3%). Nu a dat o dată nouă [40].
 - Pensiile, salariile din sectorul public și alocațiile au fost înghețate. Concursurile de angajare la stat au fost suspendate, cu excepții. Administrația locală trebuie să reducă cu 10% posturile sau cheltuielile de personal [25].
 - Bugetul pe 2026 a fost adoptat cu o țintă de deficit de 6,2% din PIB (127,7 mld. lei) și investiții de 163,8 mld. lei [3].
 
@@ -179,3 +179,4 @@ Datele regionale detaliate pentru 2025–2026 (PIB județean, salarii pe județe
 37. Through harsh austerity measures Romania has saved less than half of what it could save by bringing its VAT revenue up to the EU27 level — Friedrich-Ebert-Stiftung România, 2025. https://romania.fes.de/e/through-harsh-austerity-measures-romania-has-saved-less-than-half-of-what-it-could-save-by-bringing-its-vat-revenue-up-to-the-eu27-level.html
 38. Consiliul Fiscal: bugetul e construit în realitate pe un deficit de 7,7% — Newsweek România, februarie 2025. https://newsweek.ro/economie/consiliul-fiscal-afirma-ca-bugetul-e-construit-in-realitate-pe-un-deficit-de-77
 39. Curs BNR, 2–6 octombrie 2026 (preluare a cursurilor oficiale BNR) — cursbnr.nxm.ro, octombrie 2026. https://cursbnr.nxm.ro/data/03-10-2026
+40. Impozitul pe locuințe nu va fi calculat la valoarea de piață din 2027 — Adevărul, 6 noiembrie 2026; Impozitarea proprietăților la valoarea de piață nu va fi introdusă din 2027 — Tion, 6 noiembrie 2026. https://adevarul.ro/stiri-interne/societate/impozitul-pe-locuinte-nu-va-fi-calculat-la-2569552.html ; https://www.tion.ro/romania/impozitarea-proprietatilor-la-valoarea-de-piata-nu-va-fi-introdusa-din-2027-se-amana-spre-finalul-perioadei-de-consolidare-2385468/
