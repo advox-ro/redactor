@@ -57,7 +57,7 @@
 6. Altceva
 7. Nu știu
 
-### Cât de multă încredere ai că, după vânzare, combinatul din județul tău va porni din nou producția în următorul an?
+### Cât de multă încredere ai că, în următoarele 12 luni, combinatul din județul tău va porni din nou producția?
 
 | id | dupa-vanzare |
 |---|---|
