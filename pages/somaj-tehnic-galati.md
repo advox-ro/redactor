@@ -1,10 +1,10 @@
 ---
 title: Șomaj tehnic la combinat
-summary: Majoritatea celor 2.200 de angajați ai combinatului din Galați intră în șomaj tehnic în noiembrie. Cum stai cu locul tău de muncă.
+summary: Combinatul din Galați, unde majoritatea angajaților sunt în șomaj tehnic, va fi vândut prin negociere. Cum stai cu locul tău de muncă.
 tags: [muncă, județ]
-date: 2026-10-29
+date: 2026-11-06
 counties: [GL]
-stat: { value: "2.200", label: "de angajați are combinatul, iar majoritatea intră în șomaj tehnic în noiembrie", quote: "Majoritatea celor 2.200 de angajați ai combinatului siderurgic Liberty Galați vor intra în șomaj tehnic de la 1 noiembrie, din cauza dificultăților cu care se confruntă compania", source: 1 }
+stat: { value: "2.200", label: "de angajați are combinatul, iar majoritatea sunt în șomaj tehnic în noiembrie", quote: "Majoritatea celor 2.200 de angajați ai combinatului siderurgic Liberty Galați vor intra în șomaj tehnic de la 1 noiembrie, din cauza dificultăților cu care se confruntă compania", source: 1 }
 image:
   src: /photos/somaj-tehnic-galati.jpg
   alt: Combinatul siderurgic de la Galați, văzut de departe
@@ -17,9 +17,29 @@ quiz: somaj-tehnic-galati
 
 ## Carduri
 
-### În noiembrie, combinatul se oprește
+### Combinatul, scos din nou la vânzare
+tip: cifră
+- 200 mil. euro
+fără TVA, e prețul de pornire pentru combinat și secția de țevi, vândute împreună. Vineri, Guvernul și administratorii au anunțat că planul a fost aprobat de creditori, adică de cei cărora combinatul le datorează bani.
+> „Conform planului aprobat de creditori, combinatul Liberty Galați și secția Tubular vor fi scoase la vânzare împreună, prin negociere directă, la un preț de pornire de 200 de milioane de euro, fără TVA.” [6]
+
+### Încă șase luni de plată
 tip: text
-De la 1 noiembrie, cei mai mulți dintre cei 2.200 de angajați ai combinatului din Galați intră în șomaj tehnic: activitatea se oprește, iar oamenii stau acasă. Măsura e pentru toată luna și îi cuprinde și pe cei de la Liberty Tubular Products.
+Statul prelungește cu șase luni plata angajaților din fondul pentru salariile pe care firmele nu le pot plăti, anunță Guvernul. Cât primesc oamenii, articolele nu spun.
+> „Ministerul Muncii va prelungi cu șase luni perioada de plată a a angajaților de la Liberty Galați, din fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă, transmite Guvernul României.” [7]
+
+### Ce urmează la vânzare
+tip: cronologie
+- Vineri: se anunță aprobarea creditorilor
+- Apoi: judecătorul trebuie să-l aprobe
+- După aceea: anunțul public pentru oferte
+Ofertele vor conta după bani, dar și după cât de bine poate cumpărătorul să pornească din nou producția.
+> „Următoarea etapă este solicitarea omologării planului de către judecătorul-sindic, procedură necesară înainte de lansarea procesului de vânzare. Ulterior, va fi publicat un anunț care va cuprinde condițiile de participare, calendarul și termenul-limită pentru depunerea ofertelor angajante.” [6]
+> „Ofertele vor fi evaluate atât în funcție de valoarea pentru creditori, cât și în funcție de capacitatea de a relansa activitatea industrială.” [7]
+
+### În noiembrie, combinatul s-a oprit
+tip: text
+De la 1 noiembrie, cei mai mulți dintre cei 2.200 de angajați ai combinatului din Galați au intrat în șomaj tehnic: activitatea se oprește, iar oamenii stau acasă. Măsura e pentru toată luna și îi cuprinde și pe cei de la Liberty Tubular Products.
 > „Majoritatea celor 2.200 de angajați ai combinatului siderurgic Liberty Galați vor intra în șomaj tehnic de la 1 noiembrie, din cauza dificultăților cu care se confruntă compania, arată o notificare internă consultată de News.ro.” [1]
 > „Vă informăm că, pe fondul dificultăților severe prin care trecem, inclusiv cele legate de furnizarea de energie și de transportul salariaților, s-a luat decizia ca regimul de lucru de la 1 noiembrie 2026 să fie cel de «întrerupere temporară a activității», cunoscut sub denumirea de «șomaj tehnic». Măsura se aplică și pentru salariații de la Liberty Tubular Products S.A.” [1]
 > „Angajații au fost informați joi dimineață că activitatea va fi întreruptă temporar pe parcursul lunii noiembrie, în urma unei decizii a conducerii companiei.” [1]
@@ -29,27 +49,20 @@ tip: listă
 - La pază
 - La întreținerea instalațiilor
 - La alte lucrări fără de care utilajele s-ar strica
-Câți vor fi nu s-a hotărât încă. Fiecare departament își face lista, iar angajații completează până pe 30 octombrie un tabel cu programul de lucru.
+La sfârșitul lui octombrie, fiecare departament își făcea lista celor care rămân.
 > „O parte dintre ei vor continua să lucreze pentru a asigura paza combinatului, întreținerea instalațiilor și alte activități necesare conservării unităților de producție.” [1]
 > „Aceștia trebuie să completeze până pe 30 octombrie un tabel privind programul de lucru, iar organizarea personalului care va continua să se prezinte la serviciu urmează să fie stabilită la nivelul fiecărui departament.” [1]
 > „Deocamdată, nu a fost stabilit numărul exact al angajaților care vor continua să lucreze în perioada următoare. La nivelul fiecărui departament se desfășoară operațiuni de organizare pentru identificarea personalului necesar desfășurării activităților indispensabile.” [3]
 
-### Salariile nu s-au mai plătit din mai
+### Salarii neplătite din mai
 tip: text
-Conducerea spune că nu are din ce: vânzarea unor stocuri vechi de materii prime e blocată, iar fără bani nu poate plăti nici oamenii, nici curentul de care ar avea nevoie ca să pornească iar producția.
+În octombrie, conducerea spunea că nu are din ce: vânzarea unor stocuri vechi de materii prime e blocată, iar fără bani nu poate plăti nici oamenii, nici curentul de care ar avea nevoie ca să pornească iar producția.
 > „Măsura vine în contextul în care salariații nu și-au mai primit salariile din luna mai și pregătesc un nou protest.” [1]
 > „Conducerea spune că nu poate face plăți salariale și către furnizori, în condițiile în care vânzarea unor stocuri vechi de materii prime este blocată, și nu poate plăti resursele energetice, astfel că reluarea producției rămâne imposibilă, în ciuda eforturilor tehnice și comerciale făcute până acum.” [4]
 
-### Pe 30 octombrie, protest în fața Prefecturii
-tip: text
-Angajații se adună pe 30 octombrie în fața Prefecturii Galați. Vor să afle dacă combinatul va mai merge și ce se întâmplă cu locurile lor de muncă.
-> „În paralel, angajații pregătesc un nou protest pentru vineri, 30 octombrie, pe platoul din fața Prefecturii Galați.” [2]
-> „Oamenii vor să știe ce se întâmplă cu combinatul și ce soartă vor avea salariații, neplătiți din luna mai.” [2]
-> „Protestatarii vor să afle dacă unitatea siderurgică va putea reveni la funcționarea normală și ce se va întâmpla cu locurile lor de muncă.” [3]
-
 ### Combinatul nu mai are contract de curent
 tip: text
-Contractul cu furnizorul Electrica nu a mai fost prelungit, din cauza datoriilor, spune un reprezentant al companiei. Combinatul cumpără curent zi de zi, pe bursă, și ar putea fi deconectat în câteva zile.
+La sfârșitul lui octombrie, un reprezentant al companiei spunea că contractul cu furnizorul Electrica nu a mai fost prelungit, din cauza datoriilor. Combinatul cumpăra curent zi de zi, pe bursă, și putea fi deconectat în câteva zile.
 > „Combinatul siderurgic Liberty Galați riscă să fie deconectat de la rețeaua de energie electrică, după ce contractul de furnizare încheiat cu Electrica nu a mai fost prelungit din cauza datoriilor neachitate.” [5]
 > „Un reprezentant al Liberty Galați, familiarizat cu situația, a declarat că deconectarea este iminentă și ar putea avea loc în următoarele zile.” [5]
 > „Reprezentantul combinatului a explicat că, în prezent, societatea nu mai are un contract de furnizare a energiei electrice și se bazează pe achizițiile de pe Piața pentru Ziua Următoare (PZU), soluție care îi mai permite să rămână conectată pentru o perioadă limitată.” [5]
@@ -64,6 +77,34 @@ ar putea dura repornirea dacă platforma rămâne fără curent, spun directorii
 
 ## Articol
 
+### Combinatul, scos la vânzare
+
+Creditorii combinatului Liberty Galați, adică firmele și instituțiile cărora le datorează bani, au aprobat un plan nou, anunțat vineri. Combinatul și secția de țevi, Liberty Tubular Products, vor fi vândute împreună prin negociere directă, adică administratorii vorbesc direct cu cumpărătorii interesați, nu prin licitație, ca până acum. Prețul de pornire e de 200 de milioane de euro, fără TVA. Planul vine de la CITR și Euro Insol, cele două firme numite să conducă restructurarea combinatului.
+> „Combinatul siderurgic Liberty Galați va fi vândut prin negociere directă, cu un preț de pornire de 200 de milioane de euro, după ce creditorii au aprobat planul, anunță CITR și Euro Insol, în calitate de administratori concordatari.” [7]
+> „Conform planului aprobat de creditori, combinatul Liberty Galați și secția Tubular vor fi scoase la vânzare împreună, prin negociere directă, la un preț de pornire de 200 de milioane de euro, fără TVA.” [6]
+
+[card: Combinatul, scos din nou la vânzare]
+
+Până acum, două licitații internaționale, în martie și în iunie 2026, s-au încheiat fără niciun cumpărător. Prima licitație pornise de la aproximativ 709 milioane de euro, iar prețul a fost scăzut apoi la circa 463 de milioane de euro. Guvernul spune că cinci investitori mari sunt interesați de combinat, iar trei dintre ei au analizat deja cum ar putea investi.
+> „Procesul de valorificare a activelor Liberty Galați a intrat în etapa negocierilor directe, după ce două licitații internaționale organizate în martie și iunie 2026 s-au încheiat fără ofertanți.” [7]
+> „Prima licitație a pornit de la un preț de aproximativ 709 milioane de euro, ulterior redus la circa 463 de milioane de euro pentru Liberty Galați și Liberty Tubular Products.” [7]
+> „Cinci mari investitori sunt interesați de achiziția Liberty Galați. Dintre aceștia, trei au analizat deja perspectiva de a investi în combinat, a transmis guvernul.” [7]
+
+Ministerul Muncii prelungește cu șase luni plata angajaților din fondul pentru creanțe salariale al Agenției Naționale pentru Ocupare și Forță de Muncă, un fond din care statul plătește salariile pe care o firmă nu le mai poate plăti. Anunțul a venit după o ședință a unui comitet al Guvernului pentru combinat, convocată de premier. Cât primesc oamenii din acest fond, articolele nu spun.
+> „Ministerul Muncii va prelungi cu șase luni perioada de plată a a angajaților de la Liberty Galați, din fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă, transmite Guvernul României.” [7]
+> „Anunțul vine după ce premierul Luca Niculescu a convocat, astăzi, la Palatul Victoria, Comitetul Interministerial pentru protejarea intereselor statului la Liberty Galați SA și Liberty Tubular Products Galați SA., pentru a identifica soluțiile necesare salvării locurilor de muncă și a capacităților de producție.” [7]
+
+[card: Încă șase luni de plată]
+
+Urmează ca judecătorul care se ocupă de dosar să aprobe planul. Abia apoi va fi publicat un anunț, cu condițiile, calendarul și termenul până la care se pot face oferte. Ofertele vor fi judecate după banii oferiți creditorilor, dar și după cât de bine poate cumpărătorul să pornească din nou producția. Șeful CITR, unul dintre administratori, spune că miza e să rămână și combinatul, și locurile de muncă.
+> „Următoarea etapă este solicitarea omologării planului de către judecătorul-sindic, procedură necesară înainte de lansarea procesului de vânzare. Ulterior, va fi publicat un anunț care va cuprinde condițiile de participare, calendarul și termenul-limită pentru depunerea ofertelor angajante.” [6]
+> „Ofertele vor fi evaluate atât în funcție de valoarea pentru creditori, cât și în funcție de capacitatea de a relansa activitatea industrială.” [7]
+> „De aceea, pentru noi miza nu a fost niciodată doar vânzarea unor active, ci păstrarea capacității industriale și a locurilor de muncă.” [7]
+
+[card: Ce urmează la vânzare]
+
+### Șomajul tehnic din noiembrie
+
 Combinatul siderurgic Liberty Galați, cel mai mare din România, are 2.200 de angajați. Cei mai mulți dintre ei intră în șomaj tehnic de la 1 noiembrie. Angajații au aflat joi dimineață, dintr-o notificare internă, că activitatea se întrerupe temporar pe toată durata lunii noiembrie, prin decizia conducerii.
 > „Majoritatea celor 2.200 de angajați ai combinatului siderurgic Liberty Galați vor intra în șomaj tehnic de la 1 noiembrie, din cauza dificultăților cu care se confruntă compania, arată o notificare internă consultată de News.ro.” [1]
 > „Angajații au fost informați joi dimineață că activitatea va fi întreruptă temporar pe parcursul lunii noiembrie, în urma unei decizii a conducerii companiei.” [1]
@@ -74,7 +115,7 @@ Combinatul siderurgic Liberty Galați, cel mai mare din România, are 2.200 de a
 > „Nu toți angajații vor fi însă trimiși acasă.” [1]
 > „Câteva ore mai târziu, conducerea a transmis o nouă notificare, prin care a explicat motivele deciziei și a precizat că șomajul tehnic se va aplica și angajaților Liberty Tubular Products.” [1]
 
-[card: În noiembrie, combinatul se oprește]
+[card: În noiembrie, combinatul s-a oprit]
 
 ### Cine rămâne la lucru
 
@@ -97,7 +138,7 @@ Conducerea spune că nu are bani nici pentru salarii, nici pentru furnizori, pen
 > „Conducerea spune că nu poate face plăți salariale și către furnizori, în condițiile în care vânzarea unor stocuri vechi de materii prime este blocată, și nu poate plăti resursele energetice, astfel că reluarea producției rămâne imposibilă, în ciuda eforturilor tehnice și comerciale făcute până acum.” [4]
 > „Potrivit managerilor, angajații combinatului nu și-au mai primit salariile de peste cinci luni, iar oțelăriile din Europa și din restul lumii beneficiază deja de experiența foștilor colegi care au plecat.” [4]
 
-[card: Salariile nu s-au mai plătit din mai]
+[card: Salarii neplătite din mai]
 
 La începutul lui octombrie existau speranțe ca o parte din combinat să repornească după 15 octombrie, cu laminoarele. Se vorbea atunci de contracte pentru circa 23.000 de tone de produse și de circa 1.000 de angajați care s-ar fi putut întoarce la lucru. Șomajul tehnic arată că problemele nu s-au rezolvat.
 > „La începutul lunii octombrie, existau speranțe că o parte dintre activitățile combinatului Liberty Galați ar putea fi reluate după data de 15 octombrie. Planurile vizau repornirea laminoarelor, la aproximativ un an de la primele discuții privind revenirea la producție.” [3]
@@ -137,13 +178,11 @@ Directorii mai avertizează că în rețeaua internă de gaze, lungă de 25 de k
 > „Totodată, unele echipamente ar putea fi pierdute ireversibil.” [4]
 > „Doar degradarea severă a mașinilor de turnare continuă și a băii de zinc ar presupune ulterior investiții de 70-80 de milioane de euro și o perioadă îndelungată pentru repunerea lor în funcțiune, iar fără măsuri de conservare pe timpul iernii combinatul ar putea pierde utilaje în valoare de sute de milioane de euro, arată documentul.” [4]
 
-### Protestul de vineri
+### Protestul din octombrie
 
-Vineri, 30 octombrie, angajații se adună în fața Prefecturii Galați. Oamenii vor să afle dacă combinatul va mai funcționa normal și ce se va întâmpla cu locurile lor de muncă.
+La sfârșitul lui octombrie, angajații au pregătit un protest pentru vineri, 30 octombrie, în fața Prefecturii Galați. Oamenii voiau să afle dacă combinatul va mai funcționa normal și ce se va întâmpla cu locurile lor de muncă.
 > „În paralel, angajații pregătesc un nou protest pentru vineri, 30 octombrie, pe platoul din fața Prefecturii Galați.” [2]
 > „Protestatarii vor să afle dacă unitatea siderurgică va putea reveni la funcționarea normală și ce se va întâmpla cu locurile lor de muncă.” [3]
-
-[card: Pe 30 octombrie, protest în fața Prefecturii]
 
 ## Surse
 
@@ -152,3 +191,5 @@ Vineri, 30 octombrie, angajații se adună în fața Prefecturii Galați. Oameni
 3. Alertă la Liberty Galați! Mii de angajați intră în șomaj tehnic de la 1 noiembrie — Realitatea. https://www.realitatea.net/stiri/social/alerta-la-liberty-galati-mii-de-angajati-intra-in-somaj-tehnic-de-la-1-noiembrie-muncitorii-ies-in-strada-wdstzb
 4. Conducerea executivă a combinatului Liberty Galați trage un semnal de alarmă — Ziarul Financiar. https://www.zf.ro/business-construct/conducerea-executiva-a-combinatului-liberty-galati-trage-un-semnal-de-alarma-mii-de-angajati-sunt-neplatiti-de-peste-cinci-luni-si-vor-intra-in-somaj-in-noiembrie-23270561
 5. Liberty Galați riscă să rămână fără energie electrică. Reprezentant combinat: Deconectarea ar putea avea loc în câteva zile — Realitatea. https://www.realitatea.net/stiri/economie/liberty-galati-risca-sa-ramana-fara-energie-electrica-reprezentant-combinat-deconectarea-ar-putea-avea-loc-in-cateva-zile-zbny8w
+6. Creditorii au aprobat planul de restructurare pentru Liberty Galați și secția Tubular. Care este prețul de pornire al vânzării — Digi24. https://www.digi24.ro/stiri/economie/creditorii-au-aprobat-planul-de-restructurare-pentru-liberty-galati-si-sectia-tubular-care-este-pretul-de-pornire-al-vanzarii-4025703
+7. Liberty Galați va fi vândut prin negociere directă, cu preț de pornire de 200 de milioane de euro — Economedia. https://economedia.ro/liberty-galati-va-fi-vandut-prin-negociere-directa-cu-pret-de-pornire-de-200-de-milioane-de-euro.html

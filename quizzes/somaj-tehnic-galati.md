@@ -56,3 +56,13 @@
 5. Ajutor ca să se mute unde sunt locuri de muncă
 6. Altceva
 7. Nu știu
+
+### Cât de multă încredere ai că, în următoarele 12 luni, combinatul din județul tău va porni din nou producția?
+
+| id | dupa-vanzare |
+|---|---|
+| type | scale |
+| measures | expectation |
+| where | romania |
+| scale | Nicio încredere … Foarte multă încredere |
+| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
