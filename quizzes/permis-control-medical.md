@@ -1,35 +1,34 @@
-### Cât de des conduci o mașină?
+### Cât de îngrijorat(ă) ești că, la următoarea reînnoire a permisului, vei avea nevoie de controale medicale în plus?
 
-| id | cat-de-des-conduci |
+| id | griji-reinnoire |
 |---|---|
-| type | single |
-| measures | experience |
+| type | scale |
+| measures | expectation |
+| scale | Deloc îngrijorat(ă) … Foarte îngrijorat(ă) |
 | na | Nu am permis de conducere |
 
-1. Zilnic
-2. Săptămânal
-3. Lunar
-4. Mai rar de o dată pe lună
-5. Niciodată
-
-### Cât de atent ți s-a părut controlul medical pe care l-ai făcut ultima dată pentru permis?
+### Cât de amănunțit ți s-a părut controlul medical pe care l-ai făcut ultima dată pentru permis?
 
 | id | control-medical-trecut |
 |---|---|
 | type | scale |
 | measures | experience |
 | where | romania |
-| scale | Deloc atent … Foarte atent |
+| scale | Deloc amănunțit … Foarte amănunțit |
 | na | Nu am făcut niciodată controlul medical pentru permis în România |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### Cât de mult ești de acord ca șoferii cu anumite probleme de sănătate să treacă prin controale medicale mai atente pentru permis?
+### Cum ți se par regulile noi pentru controlul medical al șoferilor cu anumite probleme de sănătate?
 
-| id | acord-controale |
+| id | parere-reguli |
 |---|---|
-| type | scale |
+| type | single |
 | measures | opinion |
-| scale | Deloc de acord … Total de acord |
+
+1. Prea stricte
+2. Potrivite
+3. Prea blânde
+4. Nu știu
 
 ### Cât de multă încredere ai că medicii care fac controlul pentru permis verifică bine dacă cineva poate conduce în siguranță?
 
@@ -37,21 +36,14 @@
 |---|---|
 | type | scale |
 | measures | trust |
-| where | romania |
 | scale | Nicio încredere … Foarte multă încredere |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### Cum crezi că vor fi drumurile din România în următorii doi ani, după aceste controale mai atente?
+### Cât de mult crezi că vor ajuta controalele medicale noi la mai puține accidente pe drumuri, în următorii doi ani?
 
-| id | drumuri-dupa-controale |
+| id | ajuta-la-accidente |
 |---|---|
-| type | single |
+| type | scale |
 | measures | expectation |
-| where | romania |
-| outlook | a: 1, b: 0.5, c: 0, d: -0.5, e: 0 |
-
-1. Mult mai sigure
-2. Puțin mai sigure
-3. La fel
-4. Mai puțin sigure
-5. Nu știu
+| scale | Deloc … Foarte mult |
+| na | Nu știu |
