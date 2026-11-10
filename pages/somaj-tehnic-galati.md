@@ -22,13 +22,11 @@ tip: cifră
 - 200 mil. euro
 fără TVA, e prețul de pornire pentru combinat și secția de țevi, vândute împreună. Vineri, Guvernul și administratorii au anunțat că planul a fost aprobat de creditori, adică de cei cărora combinatul le datorează bani.
 > „Conform planului aprobat de creditori, combinatul Liberty Galați și secția Tubular vor fi scoase la vânzare împreună, prin negociere directă, la un preț de pornire de 200 de milioane de euro, fără TVA.” [6]
-> „Creditorii au aprobat planul de vânzare prin negociere directă a Liberty Galați și a secției Tubular, cu un preț de pornire de 200 de milioane de euro fără TVA, potrivit administratorilor concordatari ai combinatului, CITR și Euro Insol.” [7]
 
 ### Încă șase luni de plată
 tip: text
-Statul prelungește cu șase luni plata angajaților din fondul pentru salariile pe care firmele nu le pot plăti, cât durează negocierile cu cumpărătorii, anunță Guvernul. Cât primesc oamenii, articolele nu spun.
-> „Procedura de negociere directă cu investitorii se va desfășura în următoarele șase luni, perioadă în care a fost prelungită plata celor 2400 de angajați activi ai combinatului, din Fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă.” [7]
-> „Ministerul Muncii va prelungi cu șase luni perioada de plată a a angajaților de la Liberty Galați, din fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă, transmite Guvernul României.” [8]
+Statul prelungește cu șase luni plata angajaților din fondul pentru salariile pe care firmele nu le pot plăti, anunță Guvernul. Cât primesc oamenii, articolele nu spun.
+> „Ministerul Muncii va prelungi cu șase luni perioada de plată a a angajaților de la Liberty Galați, din fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă, transmite Guvernul României.” [7]
 
 ### Ce urmează la vânzare
 tip: cronologie
@@ -37,7 +35,7 @@ tip: cronologie
 - După aceea: anunțul public pentru oferte
 Ofertele vor conta după bani, dar și după cât de bine poate cumpărătorul să pornească din nou producția.
 > „Următoarea etapă este solicitarea omologării planului de către judecătorul-sindic, procedură necesară înainte de lansarea procesului de vânzare. Ulterior, va fi publicat un anunț care va cuprinde condițiile de participare, calendarul și termenul-limită pentru depunerea ofertelor angajante.” [6]
-> „Ofertele vor fi evaluate atât în funcție de valoarea pentru creditori, cât și în funcție de capacitatea de a relansa activitatea industrială.” [8]
+> „Ofertele vor fi evaluate atât în funcție de valoarea pentru creditori, cât și în funcție de capacitatea de a relansa activitatea industrială.” [7]
 
 ### În noiembrie, combinatul s-a oprit
 tip: text
@@ -82,27 +80,25 @@ ar putea dura repornirea dacă platforma rămâne fără curent, spun directorii
 ### Combinatul, scos la vânzare
 
 Creditorii combinatului Liberty Galați, adică firmele și instituțiile cărora le datorează bani, au aprobat un plan nou, anunțat vineri. Combinatul și secția de țevi, Liberty Tubular Products, vor fi vândute împreună prin negociere directă, adică administratorii vorbesc direct cu cumpărătorii interesați, nu prin licitație, ca până acum. Prețul de pornire e de 200 de milioane de euro, fără TVA. Planul vine de la CITR și Euro Insol, cele două firme numite să conducă restructurarea combinatului.
-> „Creditorii au aprobat planul de vânzare prin negociere directă a Liberty Galați și a secției Tubular, cu un preț de pornire de 200 de milioane de euro fără TVA, potrivit administratorilor concordatari ai combinatului, CITR și Euro Insol.” [7]
+> „Combinatul siderurgic Liberty Galați va fi vândut prin negociere directă, cu un preț de pornire de 200 de milioane de euro, după ce creditorii au aprobat planul, anunță CITR și Euro Insol, în calitate de administratori concordatari.” [7]
 > „Conform planului aprobat de creditori, combinatul Liberty Galați și secția Tubular vor fi scoase la vânzare împreună, prin negociere directă, la un preț de pornire de 200 de milioane de euro, fără TVA.” [6]
 
 [card: Combinatul, scos din nou la vânzare]
 
 Până acum, două licitații internaționale, în martie și în iunie 2026, s-au încheiat fără niciun cumpărător. Prima licitație pornise de la aproximativ 709 milioane de euro, iar prețul a fost scăzut apoi la circa 463 de milioane de euro. Guvernul spune că cinci investitori mari sunt interesați de combinat, iar trei dintre ei au analizat deja cum ar putea investi.
-> „Procesul de valorificare a activelor Liberty Galați a intrat în etapa negocierilor directe, după ce două licitații internaționale organizate în martie și iunie 2026 s-au încheiat fără ofertanți.” [8]
-> „Prima licitație a pornit de la un preț de aproximativ 709 milioane de euro, ulterior redus la circa 463 de milioane de euro pentru Liberty Galați și Liberty Tubular Products.” [8]
-> „Cinci mari investitori sunt interesați de achiziția Liberty Galați. Dintre aceștia, trei au analizat deja perspectiva de a investi în combinat, a transmis guvernul.” [8]
+> „Procesul de valorificare a activelor Liberty Galați a intrat în etapa negocierilor directe, după ce două licitații internaționale organizate în martie și iunie 2026 s-au încheiat fără ofertanți.” [7]
+> „Prima licitație a pornit de la un preț de aproximativ 709 milioane de euro, ulterior redus la circa 463 de milioane de euro pentru Liberty Galați și Liberty Tubular Products.” [7]
+> „Cinci mari investitori sunt interesați de achiziția Liberty Galați. Dintre aceștia, trei au analizat deja perspectiva de a investi în combinat, a transmis guvernul.” [7]
 
-Negocierile cu cumpărătorii vor dura șase luni. În acest timp, Ministerul Muncii prelungește plata angajaților din fondul pentru creanțe salariale al Agenției Naționale pentru Ocupare și Forță de Muncă, un fond din care statul plătește salariile pe care o firmă nu le mai poate plăti. Anunțul a venit după o ședință a unui comitet al Guvernului pentru combinat, convocată de premier. Cât primesc oamenii din acest fond, articolele nu spun. News.ro scrie că plata se prelungește pentru 2.400 de angajați activi; articolele din octombrie vorbeau de 2.200 de angajați ai combinatului.
-> „Majoritatea celor 2.200 de angajați ai combinatului siderurgic Liberty Galați vor intra în șomaj tehnic de la 1 noiembrie, din cauza dificultăților cu care se confruntă compania” [1]
-> „Procedura de negociere directă cu investitorii se va desfășura în următoarele șase luni, perioadă în care a fost prelungită plata celor 2400 de angajați activi ai combinatului, din Fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă.” [7]
-> „Ministerul Muncii va prelungi cu șase luni perioada de plată a a angajaților de la Liberty Galați, din fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă, transmite Guvernul României.” [8]
-> „Anunțul vine după ce premierul Luca Niculescu a convocat, astăzi, la Palatul Victoria, Comitetul Interministerial pentru protejarea intereselor statului la Liberty Galați SA și Liberty Tubular Products Galați SA., pentru a identifica soluțiile necesare salvării locurilor de muncă și a capacităților de producție.” [8]
+Ministerul Muncii prelungește cu șase luni plata angajaților din fondul pentru creanțe salariale al Agenției Naționale pentru Ocupare și Forță de Muncă, un fond din care statul plătește salariile pe care o firmă nu le mai poate plăti. Anunțul a venit după o ședință a unui comitet al Guvernului pentru combinat, convocată de premier. Cât primesc oamenii din acest fond, articolele nu spun.
+> „Ministerul Muncii va prelungi cu șase luni perioada de plată a a angajaților de la Liberty Galați, din fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă, transmite Guvernul României.” [7]
+> „Anunțul vine după ce premierul Luca Niculescu a convocat, astăzi, la Palatul Victoria, Comitetul Interministerial pentru protejarea intereselor statului la Liberty Galați SA și Liberty Tubular Products Galați SA., pentru a identifica soluțiile necesare salvării locurilor de muncă și a capacităților de producție.” [7]
 
 [card: Încă șase luni de plată]
 
 Urmează ca judecătorul care se ocupă de dosar să aprobe planul. Abia apoi va fi publicat un anunț, cu condițiile, calendarul și termenul până la care se pot face oferte. Ofertele vor fi judecate după banii oferiți creditorilor, dar și după cât de bine poate cumpărătorul să pornească din nou producția. Șeful CITR, unul dintre administratori, spune că miza e să rămână și combinatul, și locurile de muncă.
 > „Următoarea etapă este solicitarea omologării planului de către judecătorul-sindic, procedură necesară înainte de lansarea procesului de vânzare. Ulterior, va fi publicat un anunț care va cuprinde condițiile de participare, calendarul și termenul-limită pentru depunerea ofertelor angajante.” [6]
-> „Ofertele vor fi evaluate atât în funcție de valoarea pentru creditori, cât și în funcție de capacitatea de a relansa activitatea industrială.” [8]
+> „Ofertele vor fi evaluate atât în funcție de valoarea pentru creditori, cât și în funcție de capacitatea de a relansa activitatea industrială.” [7]
 > „De aceea, pentru noi miza nu a fost niciodată doar vânzarea unor active, ci păstrarea capacității industriale și a locurilor de muncă.” [7]
 
 [card: Ce urmează la vânzare]
@@ -196,5 +192,4 @@ La sfârșitul lui octombrie, angajații au pregătit un protest pentru vineri, 
 4. Conducerea executivă a combinatului Liberty Galați trage un semnal de alarmă — Ziarul Financiar. https://www.zf.ro/business-construct/conducerea-executiva-a-combinatului-liberty-galati-trage-un-semnal-de-alarma-mii-de-angajati-sunt-neplatiti-de-peste-cinci-luni-si-vor-intra-in-somaj-in-noiembrie-23270561
 5. Liberty Galați riscă să rămână fără energie electrică. Reprezentant combinat: Deconectarea ar putea avea loc în câteva zile — Realitatea. https://www.realitatea.net/stiri/economie/liberty-galati-risca-sa-ramana-fara-energie-electrica-reprezentant-combinat-deconectarea-ar-putea-avea-loc-in-cateva-zile-zbny8w
 6. Creditorii au aprobat planul de restructurare pentru Liberty Galați și secția Tubular. Care este prețul de pornire al vânzării — Digi24. https://www.digi24.ro/stiri/economie/creditorii-au-aprobat-planul-de-restructurare-pentru-liberty-galati-si-sectia-tubular-care-este-pretul-de-pornire-al-vanzarii-4025703
-7. CITR și Euro Insol: Creditorii aprobă planul de vânzare prin negociere directă a Liberty Galați și a secției Tubular, cu un preț de pornire de 200 de milioane de euro — News.ro. https://www.news.ro/economic/citr-si-euro-insol-creditorii-aproba-planul-de-vanzare-prin-negociere-directa-a-liberty-galati-si-a-sectiei-tubular-cu-un-pret-de-pornire-de-200-de-milioane-de-euro-1922404006002026112222957523
-8. Liberty Galați va fi vândut prin negociere directă, cu preț de pornire de 200 de milioane de euro — Economedia. https://economedia.ro/liberty-galati-va-fi-vandut-prin-negociere-directa-cu-pret-de-pornire-de-200-de-milioane-de-euro.html
+7. Liberty Galați va fi vândut prin negociere directă, cu preț de pornire de 200 de milioane de euro — Economedia. https://economedia.ro/liberty-galati-va-fi-vandut-prin-negociere-directa-cu-pret-de-pornire-de-200-de-milioane-de-euro.html
