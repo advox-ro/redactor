@@ -18,15 +18,18 @@ quiz: dan-air-bacau
 
 ### Dan Air, în insolvență
 tip: text
-Tribunalul București a deschis vineri insolvența cerută chiar de Dan Air, care vrea să se reorganizeze. Compania spune că nu e faliment și că zborurile continuă.
+Tribunalul București a deschis vineri insolvența cerută chiar de Dan Air, care vrea să zboare mai departe și să-și plătească datoriile în timp. Compania spune că nu e faliment și că zborurile continuă. Vineri, cât a așteptat decizia, nu a zburat, iar ROMATSA, firma statului care dirijează avioanele, i-a reziliat contractul.
 > „Tribunalul București a dispus deschiderea procedurii generale de insolvență a companiei aeriene Dan Air, la solicitarea acesteia, care și-a declarat intenția de reorganizare.” [6]
 > „Reprezentanții operatorului aerian susțin că măsura nu înseamnă faliment și anunță că zborurile regulate și operațiunile ACMI vor continua.” [6]
+> „Oficialii DAN AIR declarau, vineri dimineață, că au oprit operarea zborurilor doar pentru astăzi, în așteptarea deciziei instanței legat de insolvența companiei.” [7]
+> „DAN AIR acuză ROMATSA că a reziliat contractul de furnizare a serviciilor de navigație aeriană cu doar 15 minute înainte de termenul de judecată privind insolvența companiei.” [5]
 
 ### Dacă rezervarea ți-a fost anulată
 tip: text
-Cine a plătit cu cardul și și-a pierdut rezervarea pentru că banii au rămas la NETOPIA, firma de plăți, e trimis de Dan Air la NETOPIA. Compania spune că banii nu au ajuns la ea. Cine nu a primit anunț de anulare trebuie să vină la zbor.
+Dan Air a anulat rezervările plătite cu cardul pentru care spune că NETOPIA, firma de plăți, nu i-a dat banii, și îi trimite pe pasageri la NETOPIA. NETOPIA spunea anterior că, dacă zborul e anulat, banii se pot cere înapoi pe card. Cine nu a primit anunț de anulare e rugat să vină la aeroport.
+> „Joi, DAN AIR anunța că rezervările DAN AIR plătite cu cardul pentru care procesatorul de plăți NETOPIA nu a decontat banii au fost anulate, iar pasagerii trebuie să se adreseze direct către acesta pentru rambursare.” [7]
 > „Pasagerii aflați în această situație sunt îndrumați să contacteze direct NETOPIA, la adresa finance@netopia-payments.com, pentru recuperarea sumelor.” [6]
-> „Compania afirmă că nu poate efectua rambursările, deoarece banii nu au ajuns în conturile sale, iar accesul la platforma prin care se realizează restituirile este restricționat.” [6]
+> „NETOPIA a explicat pentru HotNews că, dacă zborurile sunt anulate, pasagerii care au plătit cu cardul își pot recupera banii prin chargeback , procedură în care procesatorul restituie sumele „indiferent dacă DAN AIR mai are sau nu resursele necesare să despăgubească pasagerii”.” [1]
 > „Pasagerii care nu au primit notificări privind anularea rezervărilor din cauza neplății sunt rugați să se prezinte la aeroport conform programului comunicat în momentul rezervării.” [6]
 
 ### Zborurile pleacă de la Otopeni
@@ -59,13 +62,14 @@ tip: cronologie
 - 22 octombrie: Dan Air își cere singură insolvența
 - 29 octombrie: aeroportul cere și el insolvența companiei
 - 2 noiembrie: nu se mai poate plăti cu cardul pe site
-- Miercuri: Dan Air anunță mutarea la Otopeni
+- 4 noiembrie: Dan Air anunță mutarea la Otopeni
 - 6 noiembrie: tribunalul deschide insolvența
 Dan Air a cerut prima insolvența, ca să se reorganizeze. Aeroportul a cerut-o și el, după o săptămână.
 > „DAN AIR și-a cerut insolvența pe 22 octombrie, la Tribunalul Ilfov.” [1]
 > „Într-un comunicat de presă transmis miercuri, Dan Air spune că Aeroportul Bacău a depus pe 29 octombrie, la Tribunalul Ilfov, o cerere de deschidere a procedurii insolvenței împotriva companiei.” [1]
 > „Pe 2 noiembrie, NETOPIA a reziliat contractul cu DAN AIR, iar plata biletelor cu cardul pe site-ul companiei a devenit indisponibilă, potrivit Profit.ro .” [1]
 > „Compania aeriană Dan Air își mută temporar toate zborurile pe Aeroportul "Henri Coandă" din București.” [3]
+> „Decizia a fost anunțată miercuri, 4 noiembrie, pe fondul unui conflict între compania aeriană și conducerea aeroportului băcăuan.” [5]
 > „Prin încheierea pronunțată astăzi, 6 noiembrie 2026, în dosarul nr. 3523/93/2026, Tribunalul București – Secția a VII-a Civilă a dispus deschiderea procedurii generale a insolvenței împotriva DAN AIR, la cererea companiei, care și-a declarat intenția de reorganizare.” [5]
 > „La momentul respectiv, Dan Air plătise deja 100.000 de lei, negocia o eșalonare similară celei convenite și respectate în 2025 și formulase, din 22 octombrie, propria cerere de reorganizare, aflată sub protecția instanței.” [2]
 
@@ -82,7 +86,7 @@ tip: cifră
 
 ### Insolvența, deschisă
 
-Vineri, 6 noiembrie, Tribunalul București a deschis insolvența companiei aeriene Dan Air, la cererea companiei, care vrea să se reorganizeze. Reorganizarea înseamnă că firma merge mai departe și își plătește datoriile după un plan aprobat de creditori, adică de cei cărora le datorează bani, și de judecător. Dan Air spune că asta nu înseamnă faliment. Până se aprobă planul, compania spune că poate face doar plățile de care e nevoie ca să zboare.
+Vineri, 6 noiembrie, Tribunalul București a deschis insolvența companiei aeriene Dan Air, la cererea companiei, care vrea să se reorganizeze. Insolvența e procedura pentru o firmă care nu își mai poate plăti datoriile. Reorganizarea înseamnă că firma merge mai departe și își plătește datoriile după un plan aprobat de creditori, adică de cei cărora le datorează bani, și de judecător. Dan Air spune că asta nu înseamnă faliment. Până se aprobă planul, compania spune că poate face doar plățile de care e nevoie ca să zboare.
 > „Prin încheierea pronunțată astăzi, 6 noiembrie 2026, în dosarul nr. 3523/93/2026, Tribunalul București – Secția a VII-a Civilă a dispus deschiderea procedurii generale a insolvenței împotriva DAN AIR, la cererea companiei, care și-a declarat intenția de reorganizare.” [5]
 > „Potrivit companiei , procedura de insolvență îi oferă cadrul legal necesar pentru a-și continua activitatea și pentru a-și achita datoriile în baza unui plan de reorganizare, care trebuie aprobat de creditori și confirmat de judecătorul-sindic.” [6]
 > „Reprezentanții operatorului aerian susțin că măsura nu înseamnă faliment și anunță că zborurile regulate și operațiunile ACMI vor continua.” [6]
@@ -90,7 +94,7 @@ Vineri, 6 noiembrie, Tribunalul București a deschis insolvența companiei aerie
 
 [card: Dan Air, în insolvență]
 
-Compania spune că zborurile continuă și că următorul zbor era programat duminică, 8 noiembrie, de la București la Damasc. Cine nu a primit un anunț că rezervarea i-a fost anulată trebuie să vină la aeroport, după programul de la rezervare. Rezervările plătite cu cardul pentru care NETOPIA, firma prin care se plăteau biletele, nu a dat banii mai departe au fost anulate. Dan Air îi trimite pe acești pasageri la NETOPIA pentru bani și spune că nu îi poate da ea înapoi, pentru că nu i-a primit. NETOPIA spunea anterior că cei care au plătit cu cardul își pot recupera banii pe card dacă zborul e anulat.
+Compania spune că zborurile continuă și că următorul zbor era programat duminică, 8 noiembrie, de la București la Damasc. Dan Air a anulat rezervările plătite cu cardul pentru care, spune compania, NETOPIA, firma prin care se plăteau biletele, nu i-a dat banii. Cine nu a primit un anunț de anulare e rugat să vină la aeroport, după programul de la rezervare. Dan Air îi trimite pe acești pasageri la NETOPIA pentru bani și spune că nu îi poate da ea înapoi, pentru că nu i-a primit. NETOPIA spunea anterior că cei care au plătit cu cardul își pot recupera banii pe card dacă zborul e anulat.
 > „Compania precizează că își menține cursele regulate. Următorul zbor este programat duminică dimineață, 8 noiembrie, pe ruta București – Damasc.” [6]
 > „Pasagerii care nu au primit notificări privind anularea rezervărilor din cauza neplății sunt rugați să se prezinte la aeroport conform programului comunicat în momentul rezervării.” [6]
 > „Joi, DAN AIR anunța că rezervările DAN AIR plătite cu cardul pentru care procesatorul de plăți NETOPIA nu a decontat banii au fost anulate, iar pasagerii trebuie să se adreseze direct către acesta pentru rambursare.” [7]
@@ -99,10 +103,10 @@ Compania spune că zborurile continuă și că următorul zbor era programat dum
 
 [card: Dacă rezervarea ți-a fost anulată]
 
-Dan Air acuză și ROMATSA, firma statului care dirijează avioanele în aer, că i-a reziliat contractul cu 15 minute înainte de termenul la tribunal. Compania îi cere să revină asupra deciziei și spune că, după legea insolvenței, furnizorii nu pot opri serviciile pentru datorii vechi dacă cele noi sunt plătite. Articolele nu dau răspunsul ROMATSA. Prima adunare a creditorilor e pe 13 ianuarie 2027.
+Dan Air acuză și ROMATSA, firma statului care dirijează avioanele în aer, că i-a reziliat contractul cu 15 minute înainte de termenul la tribunal. Compania îi cere să revină asupra deciziei și spune că, după legea insolvenței, furnizorii nu pot opri serviciile pentru datorii vechi dacă cele noi sunt plătite. Știrile ProTV scrie că 6 noiembrie era și termenul de plată către ROMATSA pentru serviciile din ianuarie–august 2026. Articolele nu dau răspunsul ROMATSA.
 > „DAN AIR acuză ROMATSA că a reziliat contractul de furnizare a serviciilor de navigație aeriană cu doar 15 minute înainte de termenul de judecată privind insolvența companiei.” [5]
 > „Operatorul aerian cere ROMATSA să anuleze rezilierea și susține că, potrivit legii insolvenței, furnizorii nu pot întrerupe serviciile pentru datoriile mai vechi, dacă sunt plătite serviciile curente.” [5]
-> „De asemenea, prima ședință a adunării generale a creditorilor va avea loc pe 13 ianuarie 2027.” [7]
+> „Data de 6 noiembrie este și termenul de plată către ROMTSA pentru serviciile prestate în perioada ianuarie-august 2026, existând riscul să fie sistate serviciile de navigație aeriană de terminal.” [7]
 
 ### Mutarea de la Bacău
 
@@ -147,7 +151,7 @@ Aeroportul e o regie, adică o firmă a statului, sub autoritatea Consiliului Ju
 
 ### Insolvența și banii de pe bilete
 
-Dan Air și-a cerut singură insolvența pe 22 octombrie. Insolvența e procedura pentru o firmă care nu își mai poate plăti datoriile. Dan Air spune că a cerut reorganizarea, adică vrea să zboare mai departe și să-și plătească datoriile, sub protecția tribunalului. Cererea a ajuns la Tribunalul București, care a deschis insolvența pe 6 noiembrie. HotNews scrie că Dan Air a încheiat anul 2025 cu datorii totale de peste 126 de milioane de lei.
+Dan Air și-a cerut singură insolvența pe 22 octombrie. Dan Air spune că a cerut reorganizarea, adică vrea să zboare mai departe și să-și plătească datoriile, sub protecția tribunalului. Cererea a ajuns la Tribunalul București, care a deschis insolvența pe 6 noiembrie. HotNews scrie că Dan Air a încheiat anul 2025 cu datorii totale de peste 126 de milioane de lei.
 > „DAN AIR și-a cerut insolvența pe 22 octombrie, la Tribunalul Ilfov.” [1]
 > „La momentul respectiv, Dan Air plătise deja 100.000 de lei, negocia o eșalonare similară celei convenite și respectate în 2025 și formulase, din 22 octombrie, propria cerere de reorganizare, aflată sub protecția instanței.” [2]
 > „Tribunalul Ilfov a declinat soluționarea cererii către Tribunalul București, unde a fost deschis un dosar pe 3 noiembrie, în care apar ca debitori și RA AIGEB, Uplist Airport Services, Air Claim, Badger Claim, Settlepoint, Setno IO, Aviator IV 3614 Limited, Aviator IV 3863 Limited, Aviator EOL 2479 Limited, dar și Miclea Anda Veronica și Iuhas Sorin Dan, fondatorul companiei.” [4]
@@ -167,8 +171,9 @@ Dan Air spune că greutățile ei vin doar din faptul că NETOPIA, firma prin ca
 
 ### Ce urmează
 
-Dan Air spune că se va întoarce la Bacău când va avea acolo un partener de încredere și mulțumește Consiliului Județean pentru sprijin. Aeroportul propune plata datoriei în rate și plata în avans a serviciilor. Conducerea aeroportului spune că speră la o rezolvare și că toate serviciile pentru companiile aeriene care zboară de la Bacău merg în continuare.
-> „Prin încheierea pronunțată astăzi, 6 noiembrie 2026, în dosarul nr. 3523/93/2026, Tribunalul București – Secția a VII-a Civilă a dispus deschiderea procedurii generale a insolvenței împotriva DAN AIR, la cererea companiei, care și-a declarat intenția de reorganizare.” [5]
+Tribunalul a numit administrator judiciar firma RTZ & Partners, care supraveghează compania în insolvență. Prima adunare a creditorilor e pe 13 ianuarie 2027. Dan Air spune că se va întoarce la Bacău când va avea acolo un partener de încredere și mulțumește Consiliului Județean pentru sprijin. Aeroportul propune plata datoriei în rate și plata în avans a serviciilor. Conducerea aeroportului spune că speră la o rezolvare și că toate serviciile pentru companiile aeriene care zboară de la Bacău merg în continuare.
+> „Tribunalul București a admis, vineri, cererea companiei aeriene DAN AIR de intrare în insolvență, administrator judiciar provizoriu fiind numit RTZ & Partners SPRL-Filiala București.” [7]
+> „De asemenea, prima ședință a adunării generale a creditorilor va avea loc pe 13 ianuarie 2027.” [7]
 > „Mulțumim Consiliului Județean pentru sprijin și ne vom întoarce la Bacău imediat ce vom avea un partener de încredere” [1]
 > „La rândul său, conducerea Aeroportului Bacău susține că Dan Air poate continua zborurile de aici, dar dacă achită eșalonat datoria de 1,3 milioane de lei și plătește în avans serviciile pentru zborurile viitoare.” [3]
 > „Radu Bezniuc: Situația cu Dan Air ne îngrijoarează pe noi toți, dar în același timp sperăm într-o rezolvare pozitivă a acestei situații.” [3]
