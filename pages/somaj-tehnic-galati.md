@@ -1,8 +1,8 @@
 ---
 title: Șomaj tehnic la combinat
-summary: Majoritatea celor 2.200 de angajați ai combinatului din Galați intră în șomaj tehnic în noiembrie. Cum stai cu locul tău de muncă.
+summary: Combinatul din Galați, cu cei mai mulți oameni în șomaj tehnic, va fi scos la vânzare. Cum stai cu locul tău de muncă.
 tags: [muncă, județ]
-date: 2026-10-29
+date: 2026-11-06
 counties: [GL]
 stat: { value: "2.200", label: "de angajați are combinatul, iar majoritatea intră în șomaj tehnic în noiembrie", quote: "Majoritatea celor 2.200 de angajați ai combinatului siderurgic Liberty Galați vor intra în șomaj tehnic de la 1 noiembrie, din cauza dificultăților cu care se confruntă compania", source: 1 }
 image:
@@ -16,6 +16,29 @@ quiz: somaj-tehnic-galati
 ---
 
 ## Carduri
+
+### Combinatul, scos la vânzare
+tip: cifră
+- 200 de milioane de euro
+fără TVA, e prețul de pornire pentru combinat și secția de țevi, vândute împreună. Creditorii, adică cei cărora combinatul le datorează bani, au aprobat vineri planul.
+> „Conform planului aprobat de creditori, combinatul Liberty Galați și secția Tubular vor fi scoase la vânzare împreună, prin negociere directă, la un preț de pornire de 200 de milioane de euro, fără TVA.” [6]
+> „Creditorii au aprobat planul de vânzare prin negociere directă a Liberty Galați și a secției Tubular, cu un preț de pornire de 200 de milioane de euro fără TVA, potrivit administratorilor concordatari ai combinatului, CITR și Euro Insol.” [7]
+
+### Încă șase luni de plată
+tip: text
+Angajații mai primesc bani șase luni din fondul statului pentru salariile pe care firmele nu le pot plăti, cât durează negocierile cu cumpărătorii.
+> „Procedura de negociere directă cu investitorii se va desfășura în următoarele șase luni, perioadă în care a fost prelungită plata celor 2400 de angajați activi ai combinatului, din Fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă.” [7]
+> „Ministerul Muncii va prelungi cu șase luni perioada de plată a a angajaților de la Liberty Galați, din fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă, transmite Guvernul României.” [8]
+
+### Ce urmează la vânzare
+tip: cronologie
+- Vineri: creditorii aprobă planul
+- Apoi: îl aprobă judecătorul
+- După aceea: anunțul public pentru oferte
+Ofertele vor conta după bani, dar și după cât de în stare e cumpărătorul să pornească iar producția. Cinci investitori mari s-au arătat interesați, spune Guvernul.
+> „Următoarea etapă este solicitarea omologării planului de către judecătorul-sindic, procedură necesară înainte de lansarea procesului de vânzare. Ulterior, va fi publicat un anunț care va cuprinde condițiile de participare, calendarul și termenul-limită pentru depunerea ofertelor angajante.” [6]
+> „Ofertele vor fi evaluate atât în funcție de valoarea pentru creditori, cât și în funcție de capacitatea de a relansa activitatea industrială.” [8]
+> „Cinci mari investitori sunt interesați de achiziția Liberty Galați.” [8]
 
 ### În noiembrie, combinatul se oprește
 tip: text
@@ -63,6 +86,35 @@ ar putea dura repornirea dacă platforma rămâne fără curent, spun directorii
 > „Totodată, unele echipamente ar putea fi pierdute ireversibil.” [4]
 
 ## Articol
+
+### Combinatul, scos la vânzare
+
+Creditorii combinatului Liberty Galați, adică firmele și instituțiile cărora le datorează bani, au aprobat vineri un plan nou. Combinatul și secția de țevi, Liberty Tubular Products, vor fi vândute împreună prin negociere directă, adică administratorii vorbesc direct cu cumpărătorii interesați, fără licitație. Prețul de pornire e de 200 de milioane de euro, fără TVA. Planul vine de la CITR și Euro Insol, cele două firme numite să conducă restructurarea combinatului.
+> „Creditorii au aprobat planul de vânzare prin negociere directă a Liberty Galați și a secției Tubular, cu un preț de pornire de 200 de milioane de euro fără TVA, potrivit administratorilor concordatari ai combinatului, CITR și Euro Insol.” [7]
+> „Conform planului aprobat de creditori, combinatul Liberty Galați și secția Tubular vor fi scoase la vânzare împreună, prin negociere directă, la un preț de pornire de 200 de milioane de euro, fără TVA.” [6]
+
+[card: Combinatul, scos la vânzare]
+
+Până acum, două licitații internaționale, în martie și în iunie 2026, s-au încheiat fără niciun cumpărător. Prima licitație pornise de la aproximativ 709 milioane de euro, iar prețul a fost scăzut apoi la circa 463 de milioane de euro. Guvernul spune că cinci investitori mari sunt interesați de combinat, iar trei dintre ei au analizat deja cum ar putea investi.
+> „Procesul de valorificare a activelor Liberty Galați a intrat în etapa negocierilor directe, după ce două licitații internaționale organizate în martie și iunie 2026 s-au încheiat fără ofertanți.” [8]
+> „Prima licitație a pornit de la un preț de aproximativ 709 milioane de euro, ulterior redus la circa 463 de milioane de euro pentru Liberty Galați și Liberty Tubular Products.” [8]
+> „Cinci mari investitori sunt interesați de achiziția Liberty Galați. Dintre aceștia, trei au analizat deja perspectiva de a investi în combinat, a transmis guvernul.” [8]
+
+Negocierile cu cumpărătorii vor dura șase luni. În acest timp, Ministerul Muncii prelungește plata angajaților din fondul pentru creanțe salariale al Agenției Naționale pentru Ocupare și Forță de Muncă, un fond din care statul plătește salariile pe care o firmă nu le mai poate plăti. Anunțul a venit după o ședință a unui comitet al Guvernului pentru combinat, condusă de premier.
+> „Procedura de negociere directă cu investitorii se va desfășura în următoarele șase luni, perioadă în care a fost prelungită plata celor 2400 de angajați activi ai combinatului, din Fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă.” [7]
+> „Ministerul Muncii va prelungi cu șase luni perioada de plată a a angajaților de la Liberty Galați, din fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă, transmite Guvernul României.” [8]
+> „Anunțul vine după ce premierul Luca Niculescu a convocat, astăzi, la Palatul Victoria, Comitetul Interministerial pentru protejarea intereselor statului la Liberty Galați SA și Liberty Tubular Products Galați SA., pentru a identifica soluțiile necesare salvării locurilor de muncă și a capacităților de producție.” [8]
+
+[card: Încă șase luni de plată]
+
+Urmează ca judecătorul care se ocupă de dosar să aprobe planul. Abia apoi va fi publicat un anunț, cu condițiile, calendarul și termenul până la care se pot face oferte. Ofertele vor fi judecate după banii oferiți creditorilor, dar și după cât de în stare e cumpărătorul să repornească producția. Administratorii spun că miza e să rămână și combinatul, și locurile de muncă.
+> „Următoarea etapă este solicitarea omologării planului de către judecătorul-sindic, procedură necesară înainte de lansarea procesului de vânzare. Ulterior, va fi publicat un anunț care va cuprinde condițiile de participare, calendarul și termenul-limită pentru depunerea ofertelor angajante.” [6]
+> „Ofertele vor fi evaluate atât în funcție de valoarea pentru creditori, cât și în funcție de capacitatea de a relansa activitatea industrială.” [8]
+> „De aceea, pentru noi miza nu a fost niciodată doar vânzarea unor active, ci păstrarea capacității industriale și a locurilor de muncă.” [7]
+
+[card: Ce urmează la vânzare]
+
+### Șomajul tehnic din noiembrie
 
 Combinatul siderurgic Liberty Galați, cel mai mare din România, are 2.200 de angajați. Cei mai mulți dintre ei intră în șomaj tehnic de la 1 noiembrie. Angajații au aflat joi dimineață, dintr-o notificare internă, că activitatea se întrerupe temporar pe toată durata lunii noiembrie, prin decizia conducerii.
 > „Majoritatea celor 2.200 de angajați ai combinatului siderurgic Liberty Galați vor intra în șomaj tehnic de la 1 noiembrie, din cauza dificultăților cu care se confruntă compania, arată o notificare internă consultată de News.ro.” [1]
@@ -152,3 +204,6 @@ Vineri, 30 octombrie, angajații se adună în fața Prefecturii Galați. Oameni
 3. Alertă la Liberty Galați! Mii de angajați intră în șomaj tehnic de la 1 noiembrie — Realitatea. https://www.realitatea.net/stiri/social/alerta-la-liberty-galati-mii-de-angajati-intra-in-somaj-tehnic-de-la-1-noiembrie-muncitorii-ies-in-strada-wdstzb
 4. Conducerea executivă a combinatului Liberty Galați trage un semnal de alarmă — Ziarul Financiar. https://www.zf.ro/business-construct/conducerea-executiva-a-combinatului-liberty-galati-trage-un-semnal-de-alarma-mii-de-angajati-sunt-neplatiti-de-peste-cinci-luni-si-vor-intra-in-somaj-in-noiembrie-23270561
 5. Liberty Galați riscă să rămână fără energie electrică. Reprezentant combinat: Deconectarea ar putea avea loc în câteva zile — Realitatea. https://www.realitatea.net/stiri/economie/liberty-galati-risca-sa-ramana-fara-energie-electrica-reprezentant-combinat-deconectarea-ar-putea-avea-loc-in-cateva-zile-zbny8w
+6. Creditorii au aprobat planul de restructurare pentru Liberty Galați și secția Tubular. Care este prețul de pornire al vânzării — Digi24. https://www.digi24.ro/stiri/economie/creditorii-au-aprobat-planul-de-restructurare-pentru-liberty-galati-si-sectia-tubular-care-este-pretul-de-pornire-al-vanzarii-4025703
+7. CITR și Euro Insol: Creditorii aprobă planul de vânzare prin negociere directă a Liberty Galați și a secției Tubular, cu un preț de pornire de 200 de milioane de euro — News.ro. https://www.news.ro/economic/citr-si-euro-insol-creditorii-aproba-planul-de-vanzare-prin-negociere-directa-a-liberty-galati-si-a-sectiei-tubular-cu-un-pret-de-pornire-de-200-de-milioane-de-euro-1922404006002026112222957523
+8. Liberty Galați va fi vândut prin negociere directă, cu preț de pornire de 200 de milioane de euro — Economedia. https://economedia.ro/liberty-galati-va-fi-vandut-prin-negociere-directa-cu-pret-de-pornire-de-200-de-milioane-de-euro.html
