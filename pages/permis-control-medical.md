@@ -22,15 +22,15 @@ tip: listă
 - Cine a avut probleme cu alcoolul sau drogurile
 Din 6 noiembrie, acești șoferi, printre alții, trec prin evaluări medicale mai amănunțite când iau permisul sau când îl reînnoiesc.
 > „Șoferii cu probleme de vedere, cei care suferă de tulburări psihice sau au probleme legate de consumul de alcool și droguri trebuie să treacă prin evaluări medicale mai amănunțite înainte de a primi sau de a-și reînnoi permisul de conducere.” [1]
-> „Începând de vineri, 6 noiembrie, intră în vigoare noi reguli privind obținerea și reînnoirea permisului de conducere.” [3]
+> „Normele medicale pentru obținerea și reînnoirea permisului de conducere se modifică din 6 noiembrie 2026, în privința vederii, tulburărilor mintale, consumului de alcool, drogurilor și medicamentelor care afectează conducerea în siguranță.” [3]
 
 ### Un diagnostic nu ia singur permisul
 tip: text
 Pentru mașini și motociclete, medicul specialist poate da aviz favorabil după investigații suplimentare. Uneori, șoferul păstrează permisul, dar merge la controale periodice.
 > „Există însă și excepții, iar un diagnostic medical nu înseamnă automat că o persoană trebuie să renunțe la permis.” [2]
 > „Pentru persoanele care conduc autoturisme și motociclete există posibilitatea obținerii sau reînnoirii permisului chiar dacă nu îndeplinesc toate criteriile medicale obișnuite.” [2]
-> „Dacă medicul specialist efectuează investigații suplimentare și stabilește că afecțiunea nu reprezintă un pericol pentru siguranța rutieră, atunci cei care nu îndeplinesc toate criteriile de mai sus nu vor rămâne fără permis.” [3]
-> „În unele cazuri, șoferii nu rămân fără permis, dar sunt obligați să efectueze controale medicale periodice.” [3]
+> „Acest lucru este posibil dacă medicul specialist efectuează investigații suplimentare și stabilește că afecțiunea nu reprezintă un pericol pentru siguranța rutieră.” [2]
+> „În aceste situații, permisul poate fi acordat sau reînnoit în baza unui aviz favorabil și, după caz, cu efectuarea unor controale periodice.” [3]
 
 ### După dependența de alcool
 tip: listă
@@ -45,7 +45,7 @@ Fără acestea, permisul poate fi refuzat.
 ### Pentru camioane și autobuze, mai strict
 tip: text
 Pentru șoferii care duc oameni sau marfă, cu vehicule mari, controalele medicale sunt mai stricte.
-> „Pentru șoferii de camioane și autobuze regulile vor fi mai stricte.” [3]
+> „Pentru grupa 2, care include camioanele și autobuzele, normele prevăd cerințe specifice și evaluarea riscurilor suplimentare asociate acestor vehicule.” [3]
 > „Medicii trebuie să analizeze cu atenție riscurile asociate conducerii unor vehicule de mari dimensiuni și responsabilitatea suplimentară pe care o presupune transportul de persoane sau de mărfuri.” [2]
 
 ### Morți pe drumuri, ianuarie–octombrie
@@ -58,7 +58,7 @@ de oameni au murit în accidente rutiere în România între 1 ianuarie și 7 oc
 ## Articol
 
 De vineri, 6 noiembrie, sunt reguli noi pentru cine ia permisul de conducere sau și-l reînnoiește. Ele îi privesc pe șoferii cu probleme de sănătate: probleme de vedere, afecțiuni psihice sau probleme cu alcoolul și drogurile. Acești șoferi trec prin evaluări medicale mai amănunțite, ca medicii să vadă dacă pot conduce în siguranță.
-> „Începând de vineri, 6 noiembrie, intră în vigoare noi reguli privind obținerea și reînnoirea permisului de conducere.” [3]
+> „Normele medicale pentru obținerea și reînnoirea permisului de conducere se modifică din 6 noiembrie 2026, în privința vederii, tulburărilor mintale, consumului de alcool, drogurilor și medicamentelor care afectează conducerea în siguranță.” [3]
 > „Șoferii cu probleme de vedere, cei care suferă de tulburări psihice sau au probleme legate de consumul de alcool și droguri trebuie să treacă prin evaluări medicale mai amănunțite înainte de a primi sau de a-și reînnoi permisul de conducere.” [1]
 
 [card: Pe cine privesc mai ales regulile]
@@ -122,4 +122,4 @@ Normele europene pe care le urmează regulile noi urmăresc mai puțini morți �
 
 1. Reguli noi pentru șoferi, de astăzi, 6 noiembrie. Cine trebuie să facă evaluări medicale mai stricte — Știrile ProTV. https://stirileprotv.ro/stiri/actualitate/reguli-noi-pentru-soferi-in-vigoare-de-astazi-6-noiembrie-cine-trebuie-sa-treaca-prin-controale-medicale-mai-stricte.html
 2. Schimbări importante pentru șoferi, de astăzi! Cine riscă să piardă permisul de conducere și în ce condiții pot fi făcute excepții — Realitatea. https://www.realitatea.net/stiri/social/schimbari-importante-pentru-soferi-de-astazi-cine-risca-sa-piarda-permisul-de-conducere-si-in-ce-conditii-pot-fi-facute-exceptii-mgjwbj
-3. Schimbări pentru șoferi - Cine ar putea să-și piardă permisul. Există și excepții — Știri pe surse. https://www.stiripesurse.ro/schimbari-pentru-soferi-de-astazi-cine-ar-putea-sa-si-piarda-permisul-exista-si-exceptii_3934705
+3. Se schimbă normele medicale pentru permis. Ce trebuie să știe șoferii înainte de 6 noiembrie — Playtech. https://playtech.ro/2026/se-schimba-normele-medicale-pentru-permis-ce-trebuie-sa-stie-soferii-inainte-de-6-noiembrie/
