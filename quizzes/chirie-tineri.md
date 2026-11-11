@@ -7,10 +7,10 @@
 | type | scale |
 | measures | experience |
 | scale | Deloc greu … Foarte greu |
-| na | Nu stau cu chirie |
+| na | Nu plătesc eu chiria |
 | outlook | 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1 |
 
-### Contractul tău de închiriere este înregistrat la ANAF?
+### Contractul tău de închiriere este înregistrat la ANAF (Fisc)?
 
 | id | contract-anaf |
 |---|---|
@@ -30,6 +30,7 @@
 |---|---|
 | type | single |
 | measures | experience |
+| na | Nu am locuit cu părinții |
 
 1. Da, stau și acum
 2. Da, în trecut
@@ -42,12 +43,13 @@
 | type | single |
 | measures | priority |
 
-1. Bani de la stat pentru chirie
-2. Transport mai ieftin
+1. Transport mai ieftin
+2. Impozite mai mici pe salariu
 3. Locuințe de închiriat de la stat
-4. Un salariu mai mare
-5. Altceva
-6. Nu știu
+4. Bani de la stat pentru chirie
+5. Niciun ajutor de la stat
+6. Altceva
+7. Nu știu
 
 ### Câtă încredere ai că un ajutor de chirie de la stat ar ajunge la tinerii care au nevoie de el?
 
@@ -55,6 +57,5 @@
 |---|---|
 | type | scale |
 | measures | trust |
-| where | romania |
-| scale | Deloc … Foarte multă |
+| scale | Nicio încredere … Foarte multă încredere |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
