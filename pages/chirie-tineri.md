@@ -17,10 +17,9 @@ quiz: chirie-tineri
 
 ### Deocamdată, doar o propunere
 tip: text
-Doi deputați USR, alături de parlamentari din alte partide, au depus în Parlament un proiect de lege. Până nu e votat și nu intră în vigoare, nimeni nu poate cere acești bani.
+Doi deputați USR, alături de parlamentari din alte partide, au depus în Parlament un proiect de lege. Până nu e votat și nu intră în vigoare, nu se aplică.
 > „Proiectul a fost depus de către deputații USR Alin Stoica și Diana Stoica, alături de parlamentari de la alte partide” [2]
 > „Măsurile sunt, în acest moment, propuneri legislative și vor trebui să parcurgă procedura parlamentară pentru a putea intra în vigoare.” [1]
-> „Deocamdată, măsurile sunt doar pe hârtie. Proiectul nu a fost adoptat, astfel că tinerii nu pot solicita încă acești bani.” [5]
 
 ### Pentru cine ar fi
 tip: listă
@@ -89,11 +88,9 @@ Un proiect de lege depus în Parlament propune ca statul să-i ajute cu bani de 
 > „Tinerii cu vârste între 18 și 29 de ani, care câștigă cel mult 4.000 de lei net pe lună, ar putea primi ajutor pentru plata chiriei și reduceri de 50% la transportul public și la abonamentele de tren.” [1]
 > „Pentru a primi acest ajutor, tinerii trebuie să aibă între 18 și 29 de ani și să lucreze cu normă întreagă, în baza unui contract individual de muncă, a unui raport de serviciu sau a unui raport asimilat. Venitul salarial net lunar nu trebuie să depășească 4.000 de lei.” [1]
 
-Proiectul a fost depus de deputații USR Alin Stoica și Diana Stoica, alături de parlamentari din alte partide, și a fost înregistrat la Senat pe 28 octombrie 2026. Detaliile vin din proiect și dintr-un comunicat al USR. Este deocamdată doar o propunere: trebuie dezbătut și votat de Senat și de Camera Deputaților, apoi promulgat de președinte și publicat în Monitorul Oficial. Până atunci, nimeni nu poate cere acești bani.
+Proiectul a fost depus de deputații USR Alin Stoica și Diana Stoica, alături de parlamentari din alte partide. Detaliile vin din proiect și dintr-un comunicat al USR. Este deocamdată doar o propunere: trebuie dezbătut și votat de Senat și de Camera Deputaților, apoi promulgat de președinte și publicat în Monitorul Oficial. Până atunci, nu se aplică.
 > „Proiectul a fost depus de către deputații USR Alin Stoica și Diana Stoica, alături de parlamentari de la alte partide” [2]
-> „Proiectul legislativ B598/2026 a fost înregistrat la Senat în 28 octombrie 2026.” [5]
 > „Proiectul a fost depus de către deputații USR Alin Stoica și Diana Stoica, alături de parlamentari de la alte partide, se arată într-un comunicat transmis, joi, de Uniunea Salvați România, relatează Agerpres.” [2]
-> „Deocamdată, măsurile sunt doar pe hârtie. Proiectul nu a fost adoptat, astfel că tinerii nu pot solicita încă acești bani.” [5]
 > „Pentru moment, măsurile sunt doar propuneri. Proiectul a fost depus la Parlament și trebuie să parcurgă procedura legislativă, să fie dezbătut și votat de cele două Camere, apoi promulgat și publicat în Monitorul Oficial.” [3]
 
 [card: Deocamdată, doar o propunere]
@@ -160,4 +157,3 @@ Inițiatorii spun că o parte din bani s-ar întoarce: tinerii ar căuta proprie
 2. Proiect: Tinerii care câștigă cel mult 4.000 de lei pe lună ar putea beneficia de subvenții pentru chirie și transport redus — Știrile ProTV. https://stirileprotv.ro/stiri/politic/proiect-tinerii-care-castiga-cel-mult-4-000-de-lei-pe-luna-ar-putea-beneficia-de-subventii-pentru-chirie-si-transport-redus.html
 3. Ajutor de chirie pentru tineri cu salarii sub 4.000 de lei. Câți bani ar putea primi de la stat — Realitatea. https://www.realitatea.net/stiri/social/ajutor-de-chirie-pentru-tineri-cu-salarii-sub-4000-de-lei-cati-bani-ar-putea-primi-de-la-stat-xsxw79
 4. Statul ar putea plăti până la 600 de lei lunar pentru chiria tinerilor, în anumite condiții — Știrile ProTV. https://stirileprotv.ro/stiri/financiar/statul-ar-putea-plati-pana-la-600-de-lei-lunar-pentru-chiria-tinerilor-conditiile-pentru-a-primi-banii-timp-de-3-ani.html
-5. Bani de chirie pentru tinerii din Cluj! Până la 600 de lei lunar și transport la jumătate de preț. Cine ar putea beneficia? — Monitorul de Cluj. https://www.monitorulcj.ro/economie/141736-bani-de-chirie-pentru-tinerii-din-cluj-pana-la-600-de-lei-lunar-si-transport-la-jumatate-de-pret-cine-ar-putea-beneficia
