@@ -78,7 +78,7 @@ Sunt estimările celor care au scris proiectul.
 tip: voci
 - Inițiatorul: tinerii ar fi atrași să muncească, iar statul ar câștiga din taxe
 - Un analist economic: astfel de cheltuieli pun presiune pe buget
-Inițiatorii spun că o parte din bani s-ar întoarce prin taxe. Analistul amintește că România s-a angajat față de Uniunea Europeană să țină deficitul în anumite limite.
+Inițiatorii spun că o parte din bani s-ar întoarce prin taxe. Analistul amintește că România s-a angajat față de partenerii europeni să țină deficitul în anumite limite.
 > „Alin Stoica, inițiator: „Pot fi atrași pe piața muncii, asta înseamnă că statul nu mai cheltuie niște bani pentru protejarea acestor tineri. Evident și costurile sociale și contractele de muncă aduc după sine impozite și taxe pe sănătate și pensii”” [4]
 > „Pe de altă parte, condițiile pe care le-am asumat față de partenerii noștri europeni, să menținem deficitul într-un anumit cuantum. În măsura în care apar astfel de inițiative ele toate pun presiune pe cheltuielile bugetare.” [4]
 > „Potrivit inițiatorilor, o parte din bani ar putea veni indirect prin impozitarea veniturilor din chirii, care până acum nu erau declarate.” [4]
