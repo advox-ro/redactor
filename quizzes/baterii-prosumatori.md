@@ -25,7 +25,7 @@
 | where | romania |
 | na | Nu am panouri solare sau am deja baterie |
 
-1. Partea din preț pe care aș plăti-o eu
+1. Prețul bateriei
 2. Actele cerute
 3. Găsirea unui instalator
 4. Locul pentru baterie
@@ -33,19 +33,15 @@
 6. Nimic nu m-ar opri
 7. Altceva
 
-### În ultimele 12 luni, ai rămas acasă fără curent mai mult de o oră?
+### Cât de mult contează pentru tine să iei mai puțin curent din rețea?
 
-| id | fara-curent |
+| id | mai-putin-retea |
 |---|---|
-| type | single |
-| measures | experience |
+| type | scale |
+| measures | opinion |
 | where | romania |
-
-1. Niciodată
-2. O dată
-3. De 2–5 ori
-4. De mai mult de 5 ori
-5. Nu știu
+| scale | Deloc … Foarte mult |
+| na | Nu plătesc eu factura la curent |
 
 ### Câtă încredere ai că cererile din programele de finanțare ale statului sunt alese corect?
 
@@ -54,18 +50,20 @@
 | type | scale |
 | measures | trust |
 | where | romania |
-| scale | Deloc … Foarte multă |
+| scale | Nicio încredere … Foarte multă încredere |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### Dacă statul are bani pentru curentul de acasă, pe ce ar trebui să-i dea mai întâi?
+### Dacă statul are bani de dat pentru curentul din locuințe, pe ce ar trebui să-i dea mai întâi?
 
 | id | prioritate-bani |
 |---|---|
 | type | single |
 | measures | priority |
 
-1. Baterii pentru cei care au deja panouri solare
-2. Panouri solare pentru cei care nu au
+1. Baterii pentru casele cu panouri solare
+2. Panouri solare pentru casele care nu au
 3. Ajutor la factură pentru cei cu venituri mici
-4. Altceva
-5. Nu știu
+4. Centrale și rețele noi pentru toată țara
+5. Pe nimic, statul nu ar trebui să dea astfel de bani
+6. Altceva
+7. Nu știu
