@@ -1,4 +1,4 @@
-### În ultimele 3 luni, cât ai cumpărat la cumpărăturile obișnuite, față de înainte?
+### În ultimele 3 luni, ai cumpărat mai multe sau mai puține lucruri la cumpărăturile obișnuite decât acum un an?
 
 | id | cat-cumperi |
 |---|---|
@@ -14,7 +14,7 @@
 5. Mult mai mult
 6. Nu știu
 
-### În ultimele 3 luni, la ce ai cumpărat mai puțin decât înainte? Alege cel mult două.
+### În ultimele 3 luni, la ce ai redus cel mai mult cumpărăturile, față de acum un an? Alege cel mult două.
 
 | id | la-ce-renunti |
 |---|---|
@@ -28,27 +28,29 @@
 2. Haine și încălțăminte
 3. Electronice și electrocasnice
 4. Carburant
-5. Produse pentru casă
+5. Produse de curățenie și igienă
 6. Altceva
 7. La nimic
 
-### Care e principalul motiv pentru care cumperi acum mai puțin decât înainte?
+### Care e principalul motiv pentru care cumperi acum mai puțin decât acum un an?
 
 | id | motiv-mai-putin |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Nu cumpăr mai puțin decât înainte |
+| na | Nu cumpăr mai puțin decât acum un an |
 
 1. Prețurile au crescut
 2. Venitul meu a scăzut
 3. Vreau să pun bani deoparte
-4. Nu sunt sigur(ă) pe locul meu de muncă
+4. Mi-e teamă că venitul meu va scădea
 5. Am nevoie de mai puține lucruri
-6. Altceva
+6. Cumpăr din alte locuri, mai ieftine
+7. Altceva
+8. Nu știu
 
-### Cât crezi că vei cheltui pe cumpărăturile de sărbătorile de iarnă din acest an, față de anul trecut?
+### Cât crezi că vei cheltui pe cumpărăturile pentru sărbătorile de iarnă din acest an, față de anul trecut?
 
 | id | sarbatori-cheltuieli |
 |---|---|
