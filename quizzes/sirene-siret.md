@@ -1,27 +1,30 @@
-### Sâmbătă, 7 noiembrie, ai auzit în localitatea ta sirenele care anunțau o deversare de apă de la un baraj?
+### Cum ai aflat de mesajul despre deversarea de apă de la baraj, de sâmbătă, 7 noiembrie?
 
-| id | ai-auzit |
+| id | cum-ai-aflat |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
 
-1. Da
-2. Nu
-3. Nu știu
+1. Am auzit sirenele
+2. Am primit un mesaj pe telefon
+3. Mi-a spus cineva
+4. Din știri
+5. Nu am aflat de mesaj
+6. Nu știu
 
-### Ce ai făcut mai întâi când ai auzit mesajul sirenelor de sâmbătă?
+### Ce ai făcut mai întâi când ai aflat de mesajul despre deversare de sâmbătă, 7 noiembrie?
 
 | id | ce-ai-facut |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Nu am auzit sirenele |
+| na | Nu am aflat de mesaj atunci |
 
-1. Nimic
+1. Nu am făcut nimic
 2. Am căutat informații pe internet
-3. Am întrebat vecinii sau familia
+3. Am întrebat pe cineva apropiat
 4. Am sunat la 112
 5. M-am pregătit să plec de acasă
 6. Altceva
@@ -31,7 +34,7 @@
 | id | ai-sti-ce-faci |
 |---|---|
 | type | scale |
-| measures | experience |
+| measures | expectation |
 | where | romania |
 | scale | Deloc sigur(ă) … Foarte sigur(ă) |
 
@@ -42,7 +45,8 @@
 | type | scale |
 | measures | trust |
 | where | romania |
-| scale | Deloc … Foarte multă |
+| scale | Nicio încredere … Foarte multă încredere |
+| na | În localitatea mea nu ajung astfel de avertizări |
 
 ### Pe ce cale ai vrea să afli prima dată că apa unui râu poate crește în zona ta?
 
@@ -55,6 +59,7 @@
 1. Sirene cu mesaj vocal
 2. Mesaj RO-Alert pe telefon
 3. Anunț de la primărie
-4. Radio sau televizor
-5. De la vecini
-6. Altceva
+4. Radio
+5. Televizor
+6. De la vecini
+7. Altceva
