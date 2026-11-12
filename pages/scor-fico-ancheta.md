@@ -15,16 +15,18 @@ quiz: scor-fico-ancheta
 
 ## Carduri
 
-### O nouă anchetă la bănci
+### O anchetă despre scorul FICO
 tip: text
-Consiliul Concurenței, instituția statului care urmărește ca firmele să concureze corect, verifică felul în care se calculează scorul FICO, după care băncile hotărăsc cui dau credit.
+Consiliul Concurenței, instituția statului care urmărește ca firmele să concureze corect, verifică scorul FICO, după care băncile hotărăsc cui dau credit. Scorul îl calculează Biroul de Credit, iar ancheta privește băncile care fac parte din el.
 > „De data aceasta este vorba de verificări privind modul în care este calculat scorul FICO, a afirmat președintele Consiliului Concurenței, Bogdan Chirițoiu, la Antena 3 CNN .” [3]
 > „Investigația privește astfel acest indicator folosit de bănci pentru evaluarea riscului de creditare și posibilitatea ca metodologia acestuia să penalizeze clienții care solicită împrumuturi de la mai multe instituții bancare.” [3]
+> „Biroul de Credit este cel care are acest scor.” [3]
+> „Este vorba despre băncile membre ale Biroului de Credit, iar verificările ar urma să fie finalizate la începutul anului viitor.” [3]
 
 ### Ce este scorul FICO
 tip: cifră
 - 300–850
-de puncte poate avea scorul, calculat de Biroul de Credit, baza de date în care băncile își trec clienții. Un scor mai mare arată un risc mai mic că nu vei plăti.
+de puncte poate avea scorul, calculat de Biroul de Credit, baza de date în care băncile își trec clienții. Cu cât scorul e mai mare, cu atât e mai probabil, după calculul Biroului, să-ți plătești ratele la timp.
 > „FICO® Score de la Biroul de Credit este un punctaj între 300 și 850, calculat statistic pe baza informațiilor înregistrate în sistem.” [1]
 > „Un scor mai mare indică un risc de neplată estimat mai redus, dar nu reprezintă o garanție că solicitarea va fi aprobată , potrivit Adevărul Financiar .” [1]
 
@@ -41,29 +43,30 @@ Contează și câte cereri de credit ai făcut și câte credite ai primit în u
 
 ### Ce bănuiește Consiliul Concurenței
 tip: text
-Cine cere oferte de credit de la mai multe bănci poate pierde puncte, chiar dacă vrea doar să compare. De exemplu, cineva care vrea să-și mute creditul pentru casă și cere oferte de la trei sau patru bănci. Asta i-ar putea face pe oameni să nu mai schimbe banca.
+Cererile noi de credit intră în calculul scorului, așa că cine cere oferte de la mai multe bănci poate pierde puncte. De exemplu, cineva care vrea să-și mute creditul pentru casă și cere oferte de la trei sau patru bănci. Consiliul verifică dacă asta îi oprește pe oameni să-și mute creditul la o bancă mai ieftină.
+> „Problema este că, prin metodologia lor, atunci când un client interoghează și solicită credite la mai multe bănci, el este depunctat dacă apelează la mai multe instituții.” [3]
 > „Problema identificată de Consiliul Concurenței este că persoanele care solicită oferte de creditare de la mai multe bănci pot înregistra o scădere a scorului FICO, chiar dacă urmăresc doar să compare condițiile de finanțare.” [2]
 > „Un exemplu este cel al unei persoane care dorește să refinanțeze un credit ipotecar și solicită oferte de la trei sau patru bănci.” [2]
 > „O astfel de situație ar putea descuraja clienții să își mute creditele la alte bănci, chiar dacă acestea le-ar putea oferi condiții mai bune.” [2]
 
 ### Deocamdată, doar suspiciuni
 tip: voci
-- Consiliul Concurenței: e normal ca băncile să afle cine nu și-a plătit datoriile
+- Consiliul Concurenței: e normal ca băncile să afle cine nu și-a plătit datoriile, dar verifică dacă scorul îi oprește pe clienți să plece la altă bancă
 - Consiliul Concurenței: momentan sunt suspiciuni, nu o concluzie
-- BCR: verificările dinaintea unei cereri nu scad scorul
-Explicația BCR nu e valabilă neapărat la toate băncile și în toate etapele.
+Investigații asemănătoare există în SUA și în Polonia, spune președintele Consiliului.
+> „Ne punem întrebarea dacă mecanismul nu are ca rezultat blocarea mobilității clienților.” [3]
+> „Investigații similare sunt în SUA, iar în curând, în Polonia, s-a deschis o investigație” [3]
 > „Există un sistem în care băncile schimbă informații despre clienți, ceea ce este normal, pentru a-i elimina pe clienții rău-platnici, care nu și-au onorat contractele.” [3]
 > „Momentan, sunt suspiciuni, nu avem o concluzie.” [3]
-> „Adevărul Financiar citează explicația BCR potrivit căreia interogările de prescoring, în scop de pre-acordare, nu afectează punctajul FICO. Această precizare nu trebuie însă extinsă automat la toate etapele de analiză sau la toate băncile.” [1]
 
 ### Cum a ajuns aici
 tip: cronologie
 - 2023: inspecții la zece bănci și la Biroul de Credit
-- Iunie: amenzi pentru zece bănci, în dosarul ROBOR
+- Acum: președintele Consiliului vorbește public despre anchetă
 - Începutul lui 2027: verificările ar putea fi gata
 Dacă găsește încălcări ale legii, Consiliul Concurenței poate da amenzi.
 > „Ancheta a fost deschisă în 2023, după inspecții la zece bănci, la Biroul de Credit și la Asociația Română a Băncilor.” [1]
-> „La începutul lunii iunie, Consiliul Concurenței a dat o amendă record de 700 de milioane de euro împotriva a 10 bănci, pe care le-a acuzat de coordonarea comportamentului în procedura de stabilire a ROBOR.” [3]
+> „Consiliul Concurenței desfășoară o nouă anchetă la mai multe bănci din România.” [4]
 > „Potrivit declarațiilor președintelui autorității, Bogdan Chirițoiu, relatate de Adevărul Financiar, verificările ar putea fi finalizate la începutul anului 2027.” [1]
 > „Dacă vor fi confirmate încălcări ale legislației concurenței, băncile implicate riscă sancțiuni financiare.” [2]
 
@@ -71,9 +74,9 @@ Dacă găsește încălcări ale legii, Consiliul Concurenței poate da amenzi.
 tip: listă
 - Compară întâi cu simulatoarele băncilor
 - Întreabă în scris dacă verificarea contează la scor
-- Nu depune mai multe cereri ferme deodată fără nevoie
+- Nu depune deodată mai multe cereri de credit propriu-zise, dacă nu e nevoie
 - Cere-ți datele de la Biroul de Credit
-Biroul de Credit trebuie să răspundă în cel mult o lună, iar răspunsul poate include și scorul tău.
+Sunt sfaturi din Adevărul Financiar. Biroul de Credit răspunde în cel mult o lună, iar răspunsul poate include și scorul tău.
 > „Pentru comparația inițială pot fi folosite simulatoarele publice și ofertele indicative care nu presupun o cerere completă.” [1]
 > „După restrângerea listei la una sau două variante, clientul poate cere în scris ce verificări urmează și dacă acestea vor conta la calculul scorului. Recomandarea este evitarea depunerii simultane a mai multor cereri ferme atunci când nu sunt necesare, fără a renunța la compararea costurilor și a condițiilor.” [1]
 > „Consumatorul își poate solicita datele direct de la Biroul de Credit, prin exercitarea dreptului de acces prevăzut de GDPR, fără să depună o cerere nouă de împrumut.” [1]
@@ -81,11 +84,13 @@ Biroul de Credit trebuie să răspundă în cel mult o lună, iar răspunsul poa
 
 ## Articol
 
-Consiliul Concurenței, instituția statului care urmărește ca firmele să concureze corect, verifică felul în care se calculează scorul FICO. Băncile folosesc acest scor ca să hotărască dacă îți dau un credit.
+Consiliul Concurenței, instituția statului care urmărește ca firmele să concureze corect, verifică felul în care se calculează scorul FICO. Băncile folosesc acest scor ca să hotărască dacă îți dau un credit. Scorul îl calculează Biroul de Credit, iar ancheta privește băncile care fac parte din el.
+> „Biroul de Credit este cel care are acest scor.” [3]
+> „Este vorba despre băncile membre ale Biroului de Credit, iar verificările ar urma să fie finalizate la începutul anului viitor.” [3]
 > „De data aceasta este vorba de verificări privind modul în care este calculat scorul FICO, a afirmat președintele Consiliului Concurenței, Bogdan Chirițoiu, la Antena 3 CNN .” [3]
 > „Consiliul Concurenței verifică mai multe bănci din România.” [4]
 
-[card: O nouă anchetă la bănci]
+[card: O anchetă despre scorul FICO]
 
 ### Ce este scorul FICO
 
@@ -105,39 +110,45 @@ Fiecare bancă are propriile reguli. De aceea, același scor poate fi judecat di
 
 ### Ce verifică ancheta
 
-Consiliul Concurenței bănuiește că oamenii care cer oferte de credit de la mai multe bănci pot pierde puncte, chiar dacă vor doar să compare. Un exemplu: cineva care vrea să-și mute creditul pentru casă la altă bancă și cere oferte de la trei sau patru bănci. Dacă aceste cereri îi scad scorul, omul ar putea renunța să se mute, chiar dacă altă bancă i-ar da condiții mai bune. Iar băncile ar fi mai puțin presate să scadă dobânzile.
+Cererile noi de credit intră în calculul scorului. De aceea, cine cere oferte de credit de la mai multe bănci poate pierde puncte, chiar dacă vrea doar să compare. Consiliul Concurenței verifică dacă asta încalcă legea concurenței. Un exemplu: cineva care vrea să-și mute creditul pentru casă la altă bancă și cere oferte de la trei sau patru bănci. Dacă aceste cereri îi scad scorul, omul ar putea renunța să se mute, chiar dacă altă bancă i-ar da condiții mai bune. Iar băncile ar fi mai puțin presate să scadă dobânzile.
+> „Pentru cererile noi sunt relevante numărul interogărilor și creditele acordate în ultimele șase luni.” [1]
 > „Problema identificată de Consiliul Concurenței este că persoanele care solicită oferte de creditare de la mai multe bănci pot înregistra o scădere a scorului FICO, chiar dacă urmăresc doar să compare condițiile de finanțare.” [2]
 > „Un exemplu este cel al unei persoane care dorește să refinanțeze un credit ipotecar și solicită oferte de la trei sau patru bănci.” [2]
+> „Consiliul Concurenței urmărește să stabilească dacă modul în care sunt prelucrate și utilizate informațiile despre clienți produce efecte anticoncurențiale.” [2]
 > „O astfel de situație ar putea descuraja clienții să își mute creditele la alte bănci, chiar dacă acestea le-ar putea oferi condiții mai bune. În consecință, ar fi redusă presiunea concurențială asupra instituțiilor financiare pentru acordarea unor dobânzi mai mici.” [2]
 
 [card: Ce bănuiește Consiliul Concurenței]
 
-Președintele Consiliului Concurenței spune că e normal ca băncile să-și spună una alteia cine nu și-a plătit datoriile. Problema, spune el, ar fi doar felul în care sunt depunctați cei care caută o bancă mai bună. Și precizează că deocamdată sunt doar suspiciuni, nu o concluzie.
+Președintele Consiliului Concurenței spune că e normal ca băncile să-și spună una alteia cine nu și-a plătit datoriile. Problema, spune el, ar fi felul în care sunt depunctați cei care caută o bancă mai bună. Și precizează că deocamdată sunt suspiciuni, nu o concluzie. Investigații asemănătoare există în SUA și în Polonia.
 > „Există un sistem în care băncile schimbă informații despre clienți, ceea ce este normal, pentru a-i elimina pe clienții rău-platnici, care nu și-au onorat contractele.” [3]
 > „Dacă, prin modul în care se calculează acest scor, clienții care vor să se mute de la o bancă la alta sunt depunctați, situația poate fi problematică. Momentan, sunt suspiciuni, nu avem o concluzie.” [3]
-
-Nu orice discuție cu o bancă îți scade scorul. Contează dacă e doar o simulare sau o cerere de credit adevărată. BCR explică, de exemplu, că verificările făcute înainte de o cerere nu afectează scorul, dar asta nu înseamnă că e la fel la toate băncile și în toate etapele.
-> „Nu orice discuție cu o bancă înseamnă automat scăderea punctajului. Diferența importantă este între o simulare preliminară și o interogare realizată în cadrul unei cereri efective de finanțare .” [1]
-> „Adevărul Financiar citează explicația BCR potrivit căreia interogările de prescoring, în scop de pre-acordare, nu afectează punctajul FICO. Această precizare nu trebuie însă extinsă automat la toate etapele de analiză sau la toate băncile.” [1]
+> „Investigații similare sunt în SUA, iar în curând, în Polonia, s-a deschis o investigație” [3]
 
 [card: Deocamdată, doar suspiciuni]
 
+Nu orice discuție cu o bancă îți scade scorul. Contează dacă e doar o simulare sau o cerere de credit adevărată. BCR explică, de exemplu, că verificările făcute înainte de o cerere nu afectează scorul, dar asta nu înseamnă că e la fel la toate băncile și în toate etapele. Articolele citate nu dau nicio reacție a băncilor sau a Biroului de Credit la anchetă.
+> „Nu orice discuție cu o bancă înseamnă automat scăderea punctajului. Diferența importantă este între o simulare preliminară și o interogare realizată în cadrul unei cereri efective de finanțare .” [1]
+> „Adevărul Financiar citează explicația BCR potrivit căreia interogările de prescoring, în scop de pre-acordare, nu afectează punctajul FICO. Această precizare nu trebuie însă extinsă automat la toate etapele de analiză sau la toate băncile.” [1]
+
 ### Ce urmează
 
-Ancheta a început în 2023, cu inspecții la zece bănci, la Biroul de Credit și la Asociația Română a Băncilor. Privește toate băncile din Biroul de Credit, adică ceva mai multe decât cele din dosarul ROBOR. Verificările ar putea fi gata la începutul lui 2027. Dacă se dovedește că legea a fost încălcată, băncile pot primi amenzi.
+Ancheta a început în 2023, cu inspecții la zece bănci, la Biroul de Credit și la Asociația Română a Băncilor. Președintele Consiliului a vorbit despre ea abia acum, la televizor. Privește toate băncile din Biroul de Credit, adică ceva mai multe decât cele din dosarul ROBOR. Verificările ar putea fi gata la începutul lui 2027. Dacă se dovedește că legea a fost încălcată, băncile pot primi amenzi.
 > „Ancheta a fost deschisă în 2023, după inspecții la zece bănci, la Biroul de Credit și la Asociația Română a Băncilor. Potrivit declarațiilor președintelui autorității, Bogdan Chirițoiu, relatate de Adevărul Financiar, verificările ar putea fi finalizate la începutul anului 2027.” [1]
 > „Ancheta vizează instituțiile membre ale Biroului de Credit. Potrivit lui Bogdan Chirițoiu, numărul acestora este mai mare decât cel al băncilor investigate în dosarul ROBOR.” [2]
 > „Dacă vor fi confirmate încălcări ale legislației concurenței, băncile implicate riscă sancțiuni financiare.” [2]
-
-În iunie, în dosarul ROBOR, Consiliul Concurenței a amendat zece bănci cu 700 de milioane de euro, pentru că s-au coordonat la stabilirea ROBOR, dobânda de referință după care se calculează ratele multor credite. Băncile au contestat amenzile în instanță.
-> „La începutul lunii iunie, Consiliul Concurenței a dat o amendă record de 700 de milioane de euro împotriva a 10 bănci, pe care le-a acuzat de coordonarea comportamentului în procedura de stabilire a ROBOR.” [3]
-> „Instituțiile bancare sancționate au contestat deciziile autorității în instanță, inclusiv prin cereri de suspendare a executării sancțiunilor.” [2]
+> „De data aceasta este vorba de verificări privind modul în care este calculat scorul FICO, a afirmat președintele Consiliului Concurenței, Bogdan Chirițoiu, la Antena 3 CNN .” [3]
 
 [card: Cum a ajuns aici]
 
+Ancheta e separată de dosarul ROBOR. În iunie, în dosarul ROBOR, Consiliul Concurenței a amendat zece bănci cu aproximativ 700 de milioane de euro, pentru că, spune Consiliul, s-au coordonat la stabilirea ROBOR, dobânda de referință după care se calculează ratele multor credite. Băncile au contestat amenzile în instanță. Până acum, Consiliul a câștigat două procese despre suspendarea amenzilor.
+> „La începutul lunii iunie, Consiliul Concurenței a dat o amendă record de 700 de milioane de euro împotriva a 10 bănci, pe care le-a acuzat de coordonarea comportamentului în procedura de stabilire a ROBOR.” [3]
+> „Instituțiile bancare sancționate au contestat deciziile autorității în instanță, inclusiv prin cereri de suspendare a executării sancțiunilor.” [2]
+> „Bogdan Chirițoiu a declarat că instituția a obținut deja două hotărâri favorabile în litigiile privind suspendarea executării deciziilor.” [2]
+> „Noua investigație este distinctă de dosarul ROBOR, în care Consiliul Concurenței a aplicat deja sancțiuni de miliarde de lei instituțiilor bancare.” [2]
+
 ### Ce poți face
 
-Până la finalul anchetei, cine caută un credit mai ieftin poate compara întâi ofertele cu simulatoarele băncilor, fără o cerere completă. Poate întreba în scris dacă o verificare contează la scor și poate evita să depună mai multe cereri ferme deodată, fără nevoie. Sfaturile sunt ale Adevărul Financiar.
+Până la finalul anchetei, cine caută un credit mai ieftin poate compara întâi ofertele cu simulatoarele băncilor, fără o cerere completă. Poate întreba în scris dacă o verificare contează la scor și poate evita să depună deodată mai multe cereri de credit propriu-zise, dacă nu e nevoie. Sfaturile sunt ale publicației Adevărul Financiar.
 > „Pentru comparația inițială pot fi folosite simulatoarele publice și ofertele indicative care nu presupun o cerere completă.” [1]
 > „După restrângerea listei la una sau două variante, clientul poate cere în scris ce verificări urmează și dacă acestea vor conta la calculul scorului. Recomandarea este evitarea depunerii simultane a mai multor cereri ferme atunci când nu sunt necesare, fără a renunța la compararea costurilor și a condițiilor.” [1]
 
