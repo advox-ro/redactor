@@ -7,13 +7,13 @@
 | type | single |
 | measures | expectation |
 | where | romania |
-| na | Nu am bani pe care să-i pot pune deoparte |
+| na | Nu am economii |
 
-1. Da, am cumpărat deja
-2. Da, plănuiesc să cumpăr
-3. Poate
-4. Nu
-5. Nu știu
+1. Nu
+2. Poate
+3. Da, plănuiesc să cumpăr
+4. Da, am cumpărat deja
+5. Nu știu ce sunt titlurile Tezaur
 
 ### Dacă ai pune bani deoparte pentru câțiva ani, ce ar conta cel mai mult pentru tine?
 
@@ -22,11 +22,11 @@
 | type | single |
 | measures | priority |
 
-1. O dobândă cât mai mare
-2. Să nu plătesc impozit pe câștig
+1. Un câștig cât mai mare
+2. Să nu-și piardă valoarea din cauza scumpirilor
 3. Să pot scoate banii oricând
 4. Să fiu sigur(ă) că primesc banii înapoi
-5. Să pot cumpăra ușor, online
+5. Să pot pune banii ușor, de acasă
 6. Altceva
 7. Nu știu
 
@@ -35,20 +35,22 @@
 | id | cat-timp |
 |---|---|
 | type | single |
-| measures | experience |
+| measures | expectation |
 | na | Nu am economii |
 
-1. Mai puțin de 1 an
-2. 1–2 ani
-3. 3–4 ani
-4. 5 ani sau mai mult
-5. Nu știu
+1. Deloc, am nevoie de ele des
+2. Mai puțin de 1 an
+3. Cel puțin 1 an, dar mai puțin de 3
+4. Cel puțin 3 ani, dar mai puțin de 5
+5. 5 ani sau mai mult
+6. Nu știu
 
-### Câtă încredere ai că statul român dă înapoi la timp banii împrumutați de la oameni prin titluri de stat?
+### Câtă încredere ai că statul îți dă înapoi la timp banii puși în titluri de stat?
 
 | id | incredere-stat |
 |---|---|
 | type | scale |
 | measures | trust |
 | scale | Nicio încredere … Foarte multă încredere |
+| na | Nu știu ce sunt titlurile de stat |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
