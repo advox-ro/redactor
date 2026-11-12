@@ -1,6 +1,6 @@
 ---
 title: Ajutorul de încălzire
-summary: Cererile pentru ajutorul de încălzire din iarna 2026–2027 se depun la primărie până pe 20 noiembrie, ca banii să vină din noiembrie.
+summary: Cererile pentru ajutorul de încălzire se depun la primărie până pe 20 noiembrie. Cât te îngrijorează iarna și ce te-ar opri să-l ceri.
 tags: [bani, energie, facturi]
 date: 2026-11-09
 image:
@@ -18,9 +18,9 @@ quiz: ajutor-incalzire
 ### Termenul: 20 noiembrie
 tip: cronologie
 - 1 noiembrie 2026: începe sezonul rece
-- 20 noiembrie 2026: ultima zi pentru ajutor din noiembrie
+- 20 noiembrie 2026: ultima zi ca să primești și pe noiembrie
 - 31 martie 2027: se termină ajutorul
-Cine depune cererea după 20 noiembrie primește ajutorul abia din decembrie.
+Cine depune după 20 noiembrie pierde ajutorul pe noiembrie și îl primește din decembrie.
 > „Pentru acordarea ajutorului pentru încălzirea locuinței începând cu luna noiembrie 2026, cererea și documentele justificative trebuie depuse la primăria de domiciliu până la data de 20 noiembrie 2026.” [3]
 > „Solicitările înregistrate după această dată vor fi luate în considerare pentru acordarea ajutorului aferent lunii decembrie 2026.” [3]
 > „Ajutorul pentru încălzire se acordă pentru sezonul rece 2026–2027, în perioada 1 noiembrie 2026 – 31 martie 2027, în timp ce suplimentul pentru energie se acordă lunar, pe tot parcursul anului, în funcție de sursele de energie utilizate.” [3]
@@ -28,10 +28,10 @@ Cine depune cererea după 20 noiembrie primește ajutorul abia din decembrie.
 ### Cine îl poate primi
 tip: listă
 - Persoană singură: cel mult 2.053 lei net pe lună
-- Familie: în jur de 1.380 lei net de fiecare membru
-Contează și ce ai: o a doua casă, o mașină mai nouă de 10 ani sau economii mari în bancă te scot de pe listă.
+- Familie: 1.380–1.386 lei net de fiecare membru, după sursă
+Contează și ce ai: cine are o a doua casă, o mașină mai nouă de 10 ani sau economii mari în bancă nu primește ajutorul.
 > „De acest sprijin beneficiază persoanele singure care câștigă cel mult 2.053 de lei pe lună și familiile cu un venit de 1.380 de lei pe membru de familie.” [2]
-> „În cazul familiilor, venitul net lunar nu trebuie să depășească 1.386 de lei pentru fiecare membru.” [4]
+> „Pentru a putea beneficia de acest ajutor, persoanele singure trebuie să aibă un venit net lunar de maximum 2.053 de lei, calculat pentru luna anterioară depunerii cererii. În cazul familiilor, venitul net lunar nu trebuie să depășească 1.386 de lei pentru fiecare membru.” [4]
 > „Solicitanții care dețin alte clădiri sau spații locative în afara locuinței de domiciliu, terenuri intravilane care depășesc suprafețele prevăzute de lege, autoturisme mai noi de 10 ani sau mai multe autovehicule, precum și depozite bancare care depășesc plafonul legal nu pot beneficia de aceste forme de sprijin.” [4]
 
 ### Cât poate ajunge pe lună
@@ -39,17 +39,16 @@ tip: comparație
 - Curent: 500 lei
 - Lemne: 320 lei
 - Gaze: 250 lei
-Sunt sumele cele mai mari. Cât primește fiecare depinde de venit și de felul în care se încălzește. Se dă pentru o singură sursă, cea principală.
+Atât e cel mult; suma exactă depinde de venit. Se dă pentru o singură sursă, cea principală. Pentru termoficare, articolele nu dau o sumă.
 > „Ajutorul se acordă pentru perioada noiembrie-martie și poate ajunge la 500 de lei lunar pentru cei care se încălzesc cu electricitate, 320 de lei pentru lemne și 250 de lei pentru gaze.” [1]
 > „Cuantumul ajutorului pentru încălzirea locuinței este stabilit în funcție de veniturile beneficiarilor și de tipul de combustibil utilizat.” [4]
 > „Sprijinul se acordă pentru un singur sistem de încălzire, respectiv cel principal utilizat pentru încălzirea locuinței.” [2]
 
 ### Plus un supliment, tot anul
-tip: comparație
-- Doar curent în casă: 70 lei
-- Curent: 30 lei
-- Lemne sau petrol: 20 lei
-- Gaze: 10 lei
+tip: listă
+- Gaze: 10 lei pe lună
+- Curent: 30 lei pe lună, sau 70 lei dacă e singura sursă din casă
+- Lemne, cărbuni sau petrol: 20 lei pe lună
 Suplimentul pentru energie se dă în fiecare lună, și vara. Se adună după sursele pe care le folosești, de exemplu gaze și curent.
 > „Acesta este stabilit la 10 lei pentru consumul de gaze naturale, 30 de lei pentru energia electrică sau 70 de lei în situația în care energia electrică reprezintă singura sursă utilizată. Pentru combustibili solizi sau petrolieri, suplimentul este de 20 de lei lunar.” [4]
 > „Un aspect important este că suplimentul pentru energie poate fi cumulat în funcție de sursele de energie utilizate. De exemplu, o persoană care beneficiază de ajutor pentru încălzirea cu gaze naturale poate primi și suplimentul pentru energia electrică.” [4]
@@ -57,24 +56,25 @@ Suplimentul pentru energie se dă în fiecare lună, și vara. Se adună după s
 ### Cum ajung banii
 tip: listă
 - Gaze, curent, termoficare: scăzuți din factură, lunar
-- Lemne, cărbuni, petrol: toți odată, în decembrie
-Termoficarea e căldura venită prin țevi de la centrala orașului.
+- Lemne, cărbuni, petrol: toată suma odată, în decembrie
+Termoficarea e căldura venită prin țevi de la centrala orașului. Suplimentul pentru lemne se plătește totuși lunar.
 > „În cazul energiei termice furnizate în sistem centralizat, al gazelor naturale și al energiei electrice, ajutorul se decontează lunar furnizorului, fiind scăzut din valoarea facturii.” [3]
 > „Pentru încălzirea cu combustibili solizi și/sau petrolieri, suma aferentă întregului sezon rece sau lunilor rămase din sezon, în funcție de momentul solicitării, se acordă integral, într-o singură tranșă, în luna decembrie.” [3]
+> „Suplimentul pentru combustibili solizi va fi plătit lunar.” [4]
 
 ### Unde depui cererea
 tip: listă
 - La primăria de care ține locuința
 - Sau prin asociația de proprietari
-- Bifezi și ajutorul, și suplimentul
-Cererea e o declarație pe propria răspundere. Formularele sunt la primărie și, uneori, pe site-ul ei.
+- Dacă le vrei pe amândouă, bifezi ajutorul și suplimentul
+Cererea e o declarație pe propria răspundere: semnezi că ce scrii e adevărat. Formularele sunt la primărie și, uneori, pe site-ul ei.
 > „Cererea – declarație pe propria răspundere se depune la primăria localității sau a sectorului municipiului București în care se află locuința, individual sau, după caz, prin intermediul asociației de proprietari. Formularele sunt puse la dispoziție de primării și pot fi disponibile și pe site-urile autorităților administrației publice locale.” [2]
 > „Persoanele care doresc să beneficieze de ambele forme de sprijin trebuie să bifeze în formular atât opțiunea pentru ajutorul de încălzire, cât și pe cea pentru suplimentul pentru energie.” [2]
 
 ### Tichetul de 50 de lei, separat
 tip: cifră
 - 50 lei
-pe lună, tichetul de energie pentru factura la curent, până la 31 decembrie 2026. Se cere prin aplicația EPIDS sau la primărie.
+pe lună, tichetul de energie pentru factura la curent, până la 31 decembrie 2026. Îl pot cere cei pe care legea îi numește consumatori vulnerabili, online, prin aplicația EPIDS, sau la primărie.
 > „Suplimentar acestor forme de ajutor, consumatorii vulnerabili pot beneficia, până la data de 31 decembrie 2026, de tichetul de energie în valoare de 50 de lei pe lună, destinat achitării facturilor la energia electrică, în conformitate cu prevederile OUG nr. 35/2025, cu modificările și completările ulterioare.” [3]
 > „Cererea pentru acordarea tichetului se poate transmite prin intermediul aplicației EPIDS sau se poate depune la primărie.” [3]
 
@@ -84,16 +84,17 @@ Oamenii cu venituri mici pot cere de la stat un ajutor pentru încălzirea locui
 > „Persoanele singure și familiile care îndeplinesc condițiile legale trebuie să depună, până la data de 20 noiembrie , cererile pentru acordarea unui ajutor pentru încălzirea locuinței și documentele justificative, pentru a putea beneficia de sprijin începând cu această lună, a anunțat Agenția Națională pentru Plăți și Inspecție Socială (ANPIS).” [2]
 > „Ajutorul pentru încălzire se acordă pentru sezonul rece 2026–2027, în perioada 1 noiembrie 2026 – 31 martie 2027, în timp ce suplimentul pentru energie se acordă lunar, pe tot parcursul anului, în funcție de sursele de energie utilizate.” [3]
 
-Ajutorul se dă pentru cele cinci luni reci, între 1 noiembrie 2026 și 31 martie 2027. Cine depune cererea după 20 noiembrie nu pierde ajutorul, dar îl primește abia din decembrie.
+Ajutorul se dă pentru cele cinci luni reci, între 1 noiembrie 2026 și 31 martie 2027. Cine depune cererea după 20 noiembrie pierde ajutorul pe noiembrie. Regula e aceeași în fiecare lună: cererea depusă până pe 20 aduce ajutorul din luna aceea, cea depusă după, din luna următoare.
 > „Potrivit prevederilor Legii nr. 226/2021 privind protecția consumatorului vulnerabil de energie, ajutorul pentru încălzirea locuinței se acordă pe o perioadă de cinci luni, respectiv între 1 noiembrie 2026 și 31 martie 2027.” [4]
 > „Pentru acordarea ajutorului pentru încălzirea locuinței începând cu luna noiembrie 2026, cererea și documentele justificative trebuie depuse la primăria de domiciliu până la data de 20 noiembrie 2026.” [3]
 > „Solicitările înregistrate după această dată vor fi luate în considerare pentru acordarea ajutorului aferent lunii decembrie 2026.” [3]
+> „Dreptul la ajutor se stabilește începând cu luna depunerii cererii dacă dosarul este înregistrat până în data de 20 a lunii respective. Pentru documentele depuse după această dată, sprijinul se acordă începând cu luna următoare.” [4]
 
 [card: Termenul: 20 noiembrie]
 
 ### Cine are dreptul
 
-Ajutorul e pentru persoanele singure și familiile cu venituri mici. Cotidianul și Gazeta de Nord-Vest scriu că o persoană singură poate câștiga cel mult 2.053 de lei net pe lună. Pentru familii, limita e calculată pe fiecare membru: 1.380 de lei, după Cotidianul, și 1.386 de lei, după Gazeta de Nord-Vest. Radio România Actualități dă cifrele rotunjite: 2.000 de lei și aproximativ 1.300 de lei.
+Ajutorul e pentru persoanele singure și familiile cu venituri mici. Cotidianul și Gazeta de Nord-Vest scriu că o persoană singură poate câștiga cel mult 2.053 de lei pe lună. Gazeta de Nord-Vest precizează că e venitul net din luna dinaintea cererii. Pentru familii, limita e calculată pe fiecare membru: 1.380 de lei, după Cotidianul, și 1.386 de lei, după Gazeta de Nord-Vest. Radio România Actualități dă cifrele rotunjite: 2.000 de lei și aproximativ 1.300 de lei.
 > „De acest sprijin beneficiază persoanele singure care câștigă cel mult 2.053 de lei pe lună și familiile cu un venit de 1.380 de lei pe membru de familie.” [2]
 > „Pentru a putea beneficia de acest ajutor, persoanele singure trebuie să aibă un venit net lunar de maximum 2.053 de lei, calculat pentru luna anterioară depunerii cererii. În cazul familiilor, venitul net lunar nu trebuie să depășească 1.386 de lei pentru fiecare membru.” [4]
 > „De acest sprijin beneficiază persoanele singure, care câștigă cel mult 2.000 de lei pe lună și familiile cu un venit de aproximativ 1.300 de lei pe membru al familiei.” [1]
@@ -105,7 +106,7 @@ Primăria se uită și la ce are omul. Nu primește ajutorul cine mai are o cas�
 
 ### Câți bani
 
-Suma depinde de venit și de felul în care se încălzește locuința. Cel mult, ajutorul ajunge la 500 de lei pe lună pentru cei care se încălzesc cu curent, la 320 de lei pentru lemne și la 250 de lei pentru gaze. Se dă pentru o singură sursă de căldură, cea folosită cel mai mult.
+Suma depinde de venit și de felul în care se încălzește locuința. Articolele nu dau sumele pentru termoficare. Cel mult, ajutorul ajunge la 500 de lei pe lună pentru cei care se încălzesc cu curent, la 320 de lei pentru lemne și la 250 de lei pentru gaze. Se dă pentru o singură sursă de căldură, cea folosită cel mai mult.
 > „Ajutorul se acordă pentru perioada noiembrie-martie și poate ajunge la 500 de lei lunar pentru cei care se încălzesc cu electricitate, 320 de lei pentru lemne și 250 de lei pentru gaze.” [1]
 > „Cuantumul ajutorului pentru încălzirea locuinței este stabilit în funcție de veniturile beneficiarilor și de tipul de combustibil utilizat.” [4]
 > „Sprijinul se acordă pentru un singur sistem de încălzire, respectiv cel principal utilizat pentru încălzirea locuinței.” [2]
@@ -132,14 +133,14 @@ Cererea e o declarație pe propria răspundere, adică omul semnează că ce scr
 
 [card: Unde depui cererea]
 
-Decizia o ia primarul, după ce verifică veniturile și celelalte condiții. ANPIS le recomandă celor interesați să întrebe la primărie ce acte trebuie și să ceară ajutor la completarea cererii. Cine primește ajutorul trebuie să anunțe primăria dacă i se schimbă familia, veniturile sau bunurile, în cinci zile, scrie Gazeta de Nord-Vest.
+Decizia o ia primarul, după ce verifică veniturile și celelalte condiții. ANPIS le recomandă celor interesați să întrebe la primărie ce acte trebuie și să ceară ajutor la completarea cererii. Cine primește ajutorul trebuie să anunțe primăria dacă i se schimbă familia, veniturile sau bunurile, în cinci zile, spune Primăria Satu Mare, citată de Gazeta de Nord-Vest.
 > „Acordarea ajutorului se face în baza unei dispoziții emise de primar, după verificarea veniturilor și a celorlalte condiții de eligibilitate.” [3]
 > „ANPIS recomandă persoanelor și familiilor interesate să se adreseze primăriei de domiciliu pentru informații privind documentele necesare, sprijin în completarea cererii și clarificări referitoare la modalitatea de depunere a acesteia.” [3]
 > „Primăria atrage atenția că beneficiarii au obligația de a anunța orice modificare privind componența familiei, veniturile sau bunurile deținute, în termen de cinci zile de la apariția acesteia.” [4]
 
 ### Tichetul de energie
 
-Separat de ajutorul de încălzire, oamenii vulnerabili mai pot primi, până la 31 decembrie 2026, tichetul de energie de 50 de lei pe lună, pentru factura la curent. Se cere prin aplicația EPIDS sau la primărie.
+Separat de ajutorul de încălzire, cei pe care legea îi numește consumatori vulnerabili mai pot primi, până la 31 decembrie 2026, tichetul de energie de 50 de lei pe lună, pentru factura la curent. Se cere online, prin aplicația EPIDS, sau la primărie. Articolele nu spun ce se întâmplă cu tichetul după 31 decembrie.
 > „Suplimentar acestor forme de ajutor, consumatorii vulnerabili pot beneficia, până la data de 31 decembrie 2026, de tichetul de energie în valoare de 50 de lei pe lună, destinat achitării facturilor la energia electrică, în conformitate cu prevederile OUG nr. 35/2025, cu modificările și completările ulterioare.” [3]
 > „Cererea pentru acordarea tichetului se poate transmite prin intermediul aplicației EPIDS sau se poate depune la primărie.” [3]
 
