@@ -16,8 +16,10 @@ quiz: tezaur-noiembrie
 ## Carduri
 
 ### Statul se împrumută de la oameni
-tip: text
-Ministerul Finanțelor a început pe 9 noiembrie o nouă ediție Tezaur. Cine cumpără titluri de stat îi împrumută statului bani, iar statul îi plătește dobândă.
+tip: cronologie
+- 9 noiembrie: începe vânzarea
+- 4 decembrie: ultima zi, la Trezorerie
+Cine cumpără titluri de stat Tezaur îi împrumută statului bani, iar statul îi plătește dobândă.
 > „În perioada 9 noiembrie 2026 – 4 decembrie 2026, românii pot investi în titlurile de stat TEZAUR, cu maturități de 1, 3 și 5 ani și dobânzi anuale de 6,50%, 7,00% și, respectiv 7,50%, anunță Ministerul Finanțelor.” [2]
 > „Fondurile atrase de stat prin programul TEZAUR sunt utilizate pentru finanțarea deficitului bugetar și refinanțarea datoriei publice.” [3]
 
@@ -37,20 +39,24 @@ tip: listă
 - La Poștă, la sat: până pe 2 decembrie
 - La Poștă, la oraș: până pe 3 decembrie
 - La Trezorerie: până pe 4 decembrie
-SPV e contul online de la Fisc. Trezoreria e ghișeul unde statul își ține banii, în fiecare județ.
+SPV e contul online de la Fisc. Trezoreria e instituția care ține banii statului și are ghișee unde poți cumpăra.
 > „Titlurile de stat pot fi cumpărate, de luni, până în 2 decembrie, prin platforma Ghișeul.ro, iar până în 3 decembrie online, numai de către persoanele fizice care sunt înregistrate în SPV pentru titluri lansate prin intermediul unităților Trezoreriei Statului.” [1]
 > „De asemenea, titlurile pot fi cumpărate, până în 4 decembrie, de la sediul unităților Trezoreriei Statului, iar până în 3 decembrie - în mediul urban, respectiv 2 decembrie - în mediul rural, prin subunitățile poștale ale C.N. Poșta Română S.A.” [1]
 
 ### Cine poate cumpăra
-tip: text
-Oricine a împlinit 18 ani. Un titlu valorează 1 leu, iar în aceeași ediție poți cumpăra de mai multe ori.
+tip: cifră
+- 18 ani
+e vârsta de la care poți cumpăra. În aceeași ediție poți cumpăra de mai multe ori, iar un titlu valorează un leu.
 > „Sunt eligibile persoanele fizice care au împlinit vârsta de 18 ani la data efectuării subscrierii.” [2]
 > „Titlurile de stat au valoare nominală de 1 leu și sunt emise în formă dematerializată.” [2]
 > „Investitorii pot efectua una sau mai multe subscrieri în cadrul aceleiași emisiuni, iar anularea subscrierilor este posibilă pe durata perioadei de subscriere, prin depunerea unei cereri.” [4]
 
 ### Banii nu sunt blocați
-tip: text
-Titlurile pot fi vândute altcuiva sau răscumpărate înainte de termen. Te poți răzgândi doar până se încheie vânzarea, cu o cerere.
+tip: listă
+- Poți trece titlurile pe numele altcuiva
+- Le poți răscumpăra înainte de termen
+- Poți anula cumpărarea, dar doar până se încheie vânzarea
+Anularea se face cu o cerere.
 > „De asemenea, titlurile de stat emise în cadrul Programului TEZAUR sunt transferabile și se pot răscumpăra în avans.” [2]
 > „Investitorii au posibilitatea anulării subscrierilor deja efectuate doar în perioada de subscriere, prin depunerea unei cereri.” [2]
 
