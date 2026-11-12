@@ -6,24 +6,28 @@
 | measures | experience |
 | where | romania |
 
-1. Zilnic
+1. În fiecare zi lucrătoare
 2. De câteva ori pe săptămână
 3. De câteva ori în lună
 4. O dată
 5. Niciodată
 
-### Cât de îngrijorat(ă) ești că, în următoarele trei luni, transportul public din orașul tău va trece mai rar?
+### Cum crezi că se va schimba, în următoarele trei luni, cât de des trec autobuzele, tramvaiele și troleibuzele din orașul tău?
 
-| id | ingrijorare-curse |
+| id | curse-trei-luni |
 |---|---|
-| type | scale |
+| type | single |
 | measures | expectation |
 | where | romania |
-| scale | Deloc îngrijorat(ă) … Foarte îngrijorat(ă) |
 | na | Nu merg cu transportul public |
-| outlook | 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1 |
+| outlook | a: 1, b: 0, c: -1, d: 0 |
 
-### Dacă o companie de transport public are datorii mari, ce ar trebui să facă mai întâi?
+1. Vor trece mai des
+2. Vor trece la fel de des
+3. Vor trece mai rar
+4. Nu știu
+
+### Dacă o companie de transport public are datorii mari, ce crezi că ar trebui făcut mai întâi?
 
 | id | datorii-ce-mai-intai |
 |---|---|
@@ -31,14 +35,15 @@
 | measures | tradeoff |
 
 1. Să aibă mai puțini angajați
-2. Să scumpească biletele
-3. Să primească mai mulți bani de la primărie
-4. Să dea mai puține călătorii gratuite
-5. Să facă mai puține curse
-6. Altceva
-7. Nu știu
+2. Să taie alte cheltuieli decât salariile
+3. Să scumpească biletele
+4. Primăria să-i dea mai mulți bani din bugetul orașului
+5. Să dea mai puține călătorii gratuite
+6. Să facă mai puține curse
+7. Altceva
+8. Nu știu
 
-### Cine ar trebui să meargă gratuit cu transportul public, dintre pensionari?
+### Care pensionari crezi că ar trebui să meargă gratuit cu transportul public?
 
 | id | gratuitate-pensionari |
 |---|---|
@@ -46,22 +51,22 @@
 | measures | opinion |
 
 1. Toți pensionarii
-2. Doar pensionarii cu pensie mică
+2. Doar cei cu pensia de până la 3.000 de lei pe lună
 3. Niciun pensionar
-4. Nu știu
+4. Altceva
+5. Nu știu
 
-### Dacă biletul de transport public s-ar scumpi în orașul tău, ce ai face?
+### Dacă biletul de transport public s-ar scumpi în orașul tău, cât de des ai mai merge cu transportul public?
 
 | id | daca-se-scumpeste |
 |---|---|
 | type | single |
 | measures | expectation |
 | where | romania |
-| na | Nu merg cu transportul public |
+| na | Nu plătesc bilet sau abonament |
 
-1. Aș merge la fel de des
-2. Aș merge mai rar
-3. Aș merge mai mult cu mașina
-4. Aș merge mai mult pe jos
-5. Aș merge mai mult cu bicicleta
-6. Nu știu
+1. Mai des
+2. La fel de des
+3. Mai rar
+4. Deloc
+5. Nu știu
