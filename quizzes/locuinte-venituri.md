@@ -1,7 +1,6 @@
 - social-084
-- economie-045
 
-### Față de acum 10 ani, cât de greu îi este azi cuiva cu venitul tău să-și cumpere o locuință?
+### Față de acum 10 ani, crezi că azi îi este mai greu sau mai ușor cuiva cu un venit ca al tău să-și cumpere o locuință?
 
 | id | greu-acum |
 |---|---|
@@ -9,6 +8,7 @@
 | measures | trend |
 | where | romania |
 | scale | Mult mai greu … Mult mai ușor |
+| na | Nu am venit propriu |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
 ### Plănuiești să-ți cumperi o locuință în următorii 5 ani?
@@ -22,16 +22,15 @@
 2. Poate
 3. Nu, am deja o locuință potrivită
 4. Nu, nu îmi permit
-5. Nu, nu vreau să cumpăr
-6. Nu știu
+5. Nu, din alt motiv
 
-### Dacă ți-ai cumpăra o locuință, din ce bani ai plăti-o în principal?
+### Dacă ți-ai cumpăra o locuință în următorii ani, din ce bani ai plăti-o în principal?
 
 | id | din-ce-bani |
 |---|---|
 | type | single |
-| measures | experience |
-| na | Nu aș cumpăra o locuință |
+| measures | expectation |
+| na | Nu plănuiesc să cumpăr o locuință |
 
 1. Dintr-un credit de la bancă
 2. Din economiile mele
