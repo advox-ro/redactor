@@ -1,9 +1,9 @@
 ---
 title: Prețul porcului la fermă
-summary: Fermierii primesc pe porc cu 21,7% mai puțin decât acum un an. Ce înseamnă pentru masa de Crăciun și de unde cumperi carnea.
+summary: Fermierii primesc pe porc cu 21,7% mai puțin decât acum un an. Te întrebăm dacă și de unde cumperi carne de porc de sărbători.
 tags: [prețuri, bani]
 date: 2026-11-09
-stat: { value: "145 euro", label: "costau, în medie, 100 de kilograme de carcasă de porc la poarta fermelor din România, la final de octombrie", quote: "Prețul carcasei de porc la poarta fermelor românești costa, în medie, 145 de euro suta de kilograme, cu 21,7% mai puțin față de perioada similară a anului trecut", source: 2 }
+stat: { value: "145 euro", label: "costau, în medie, 100 kg de porc tăiat și curățat, vândut de fermierii din România, la final de octombrie", quote: "Prețul carcasei de porc la poarta fermelor românești costa, în medie, 145 de euro suta de kilograme, cu 21,7% mai puțin față de perioada similară a anului trecut", source: 2 }
 image:
   src: /photos/porc-craciun.jpg
   alt: Porci într-un țarc de la o fermă
@@ -16,32 +16,28 @@ quiz: porc-craciun
 
 ## Carduri
 
-### Fermierii primesc mai puțin
-tip: cifră
-- 21,7%
-atât a scăzut într-un an prețul porcului la poarta fermelor din România, la sfârșitul lui octombrie.
-> „Valoarea este cu 21,7% mai mică față de perioada similară a anului trecut.” [1]
-> „În săptămâna care a început cu 26 octombrie, prețul carcasei de porc la poarta fermelor românești costa, în medie, 145 de euro suta de kilograme, cu 21,7% mai puțin față de perioada similară a anului trecut, în urma unei scăderi lunare de 12,1% și săptămânală de 0,6%, potrivit datelor Comisiei Europene analizate de Economica.net.” [3]
-
 ### Mai mult decât media UE
 tip: comparație
+- Danemarca: 32,5%
 - România: 21,7%
 - Media UE: 13,6%
-cu atât a scăzut prețul la fermă într-un an. Carnea s-a ieftinit în mai multe țări, dar la noi mai mult.
+cu atât a scăzut într-un an prețul cu care fermierii vând porcul. România a avut a treia cea mai mare scădere din UE.
+> „Danemarca: scădere de 32,5%, până la 121,8 euro pentru 100 de kilograme.” [1]
+> „România este deci țara cu a treia cea mai mare scădere de preț din Uniunea Europeană, raportat la anul trecut.” [3]
 > „Valoarea este cu 21,7% mai mică față de perioada similară a anului trecut.” [1]
 > „Ieftinirea din România este mai accentuată decât media înregistrată la nivelul Uniunii Europene. Aici, prețul mediu al carcasei de porc a coborât cu 13,6%, ajungând la 153,3 euro pentru 100 de kilograme.” [1]
 
-### Fermierii vând sub cost
+### Crescătorii spun că vând sub cost
 tip: comparație
 - Primesc acum: 6 lei/kg
 - Îi costă: 7,5 lei/kg
-- Ar avea nevoie de: 8 lei/kg
+- Preț cu un mic profit: 8 lei/kg
 Așa spune asociația crescătorilor de porci. Ca să nu piardă bani, le-ar trebui un preț mai mare decât cel de acum.
 > „Potrivit lui Adrian Balaban, prețul mediu obținut în prezent de fermieri la poarta fermei este de aproximativ 6 lei pentru un kilogram.” [1]
 > „În schimb, costul de producție este estimat la aproximativ 7,5 lei pe kilogram.” [1]
 > „Președintele APCPR consideră că un preț de aproximativ 8 lei pe kilogram ar fi necesar pentru ca producătorii să își acopere cheltuielile și să obțină un profit minim.” [1]
 
-### Cea mai mare parte vine din import
+### Mare parte vine din import
 tip: cifră
 - 60-65%
 din carnea de porc mâncată în România vine din alte țări, după calculul asociației crescătorilor.
@@ -50,9 +46,9 @@ din carnea de porc mâncată în România vine din alte țări, după calculul a
 
 ### De ce scade prețul la noi
 tip: listă
-- Carnea din import vine ieftină
-- Fermierii români nu pot vinde peste graniță, din cauza pestei porcine africane
-Pesta porcină africană e o boală a porcilor. Fermierii nu pot vinde altor țări părțile de porc pe care românii nu le cumpără.
+- Piața depinde de import, iar marii exportatori din Europa împing prețul în jos
+- Fermierii români pot vinde foarte puțin peste graniță, din cauza pestei porcine africane
+Pesta porcină africană e o boală a porcilor. Părțile de porc pe care românii nu le cumpără nu au unde să fie vândute, așa că porcul întreg se vinde mai ieftin.
 > „Unul dintre principalele motive pentru scăderea prețurilor este dependența pieței românești de importurile de carne de porc.” [1]
 > „În schimb, producătorii români se confruntă cu posibilități limitate de export, în principal din cauza pestei porcine africane.” [1]
 > „Nu și din perspectiva producătorilor însă care sunt nevoiți să vândă ieftin, în contextul în care nu au voie să vândă la export acele părți de porc pe care consumatorul român nu îl pune pe masă.” [4]
@@ -70,11 +66,10 @@ Fermierii din România primesc acum mult mai puțini bani pe porci decât acum u
 > „În săptămâna care a început cu 26 octombrie, prețul carcasei de porc la poarta fermelor românești costa, în medie, 145 de euro suta de kilograme, cu 21,7% mai puțin față de perioada similară a anului trecut, în urma unei scăderi lunare de 12,1% și săptămânală de 0,6%, potrivit datelor Comisiei Europene analizate de Economica.net.” [3]
 > „Datele Comisiei Europene , analizate de Economica.net, arată că prețul carcasei de porc la poarta fermelor românești a ajuns, în săptămâna care a început la 26 octombrie 2026, la o medie de 145 de euro pentru 100 de kilograme.” [1]
 
-[card: Fermierii primesc mai puțin]
-
-Prețul a scăzut și în alte țări din Uniunea Europeană, dar mai puțin. În medie, în UE, scăderea a fost de 13,6%, până la 153,3 euro pentru 100 de kilograme. În Danemarca, prețul a scăzut cu 32,5%.
+Prețul a scăzut și în alte țări din Uniunea Europeană, dar în medie mai puțin: în UE, scăderea a fost de 13,6%, până la 153,3 euro pentru 100 de kilograme. România a avut a treia cea mai mare scădere din UE. În Danemarca, prețul a scăzut cu 32,5%.
 > „Ieftinirea din România este mai accentuată decât media înregistrată la nivelul Uniunii Europene. Aici, prețul mediu al carcasei de porc a coborât cu 13,6%, ajungând la 153,3 euro pentru 100 de kilograme.” [1]
 > „Danemarca: scădere de 32,5%, până la 121,8 euro pentru 100 de kilograme.” [1]
+> „România este deci țara cu a treia cea mai mare scădere de preț din Uniunea Europeană, raportat la anul trecut.” [3]
 
 [card: Mai mult decât media UE]
 
@@ -85,17 +80,19 @@ Asociația Producătorilor de Carne de Porc din România (APCPR) reprezintă cre
 > „Principalele țări din care provin aceste importuri sunt Spania, Germania, Ungaria, Olanda, Belgia și Danemarca.” [1]
 > „Fiind o piață dependentă de import, România depinde de presiunea pusă pe preț de marii exportatori și, în condițiile acestea, prețurile la noi au scăzut mai mult.” [1]
 
-[card: Cea mai mare parte vine din import]
+[card: Mare parte vine din import]
 
-Fermierii români au și o altă problemă: din cauza pestei porcine africane, o boală a porcilor, nu pot vinde peste graniță. Așa că părțile de porc pe care românii nu le cumpără nu au unde să le vândă, iar porcul întreg trebuie vândut mai ieftin.
+Fermierii români au și o altă problemă: din cauza pestei porcine africane, o boală a porcilor, pot vinde foarte puțin peste graniță. Așa că părțile de porc pe care românii nu le cumpără nu au unde să le vândă, iar porcul întreg trebuie vândut mai ieftin.
 > „În schimb, producătorii români se confruntă cu posibilități limitate de export, în principal din cauza pestei porcine africane.” [1]
 > „Nu și din perspectiva producătorilor însă care sunt nevoiți să vândă ieftin, în contextul în care nu au voie să vândă la export acele părți de porc pe care consumatorul român nu îl pune pe masă.” [4]
+> „Altfel, pentru că nu putem valorifica diferența dintre un porc întreg și ce se consumă în România, trebuie să oferim discount.” [4]
 
 [card: De ce scade prețul la noi]
 
-În primele opt luni ale anului s-au tăiat în România cu 6% mai mulți porci decât în aceeași perioadă a anului trecut. Pentru crescători, spune asociația, fiecare porc în plus apasă și mai mult prețul.
+În primele opt luni ale anului s-au tăiat în România cu 6% mai mulți porci decât în aceeași perioadă a anului trecut. Pentru crescători, spune asociația, fiecare porc în plus trage prețul în jos. Asociația mai spune că și piața neagră aduce cantități mari de carne.
 > „În perioada ianuarie-august 2026, în România s-au sacrificat cu 6% mai mulți porci decât în perioada similară a anului trecut, creșterea cantitativă fiind de 6,7%.” [4]
 > „Aceasta înseamnă că orice porc în plus pune presiune suplimentară pe noi” [4]
+> „În plus, spune oficialul APCPR, în România piața neagră asigură și ea volume importante.” [4]
 
 ### Fermierii vând în pierdere
 
@@ -104,7 +101,7 @@ Potrivit asociației, un fermier primește acum în medie cam 6 lei pe kilogram.
 > „În schimb, costul de producție este estimat la aproximativ 7,5 lei pe kilogram. Prin urmare, crescătorii ajung să vândă sub costurile suportate, înregistrând pierderi.” [1]
 > „Președintele APCPR consideră că un preț de aproximativ 8 lei pe kilogram ar fi necesar pentru ca producătorii să își acopere cheltuielile și să obțină un profit minim.” [1]
 
-[card: Fermierii vând sub cost]
+[card: Crescătorii spun că vând sub cost]
 
 ### Ce urmează până la Crăciun
 
