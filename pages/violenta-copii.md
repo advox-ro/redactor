@@ -1,6 +1,6 @@
 ---
 title: Copiii și violența
-summary: Un plan cu 57 de măsuri vrea să-i ferească pe copii de violență. Cât de în siguranță îi simți și ce ai face dacă un copil e în pericol.
+summary: Peste un milion de copii au trecut prin violență, iar un plan propune 57 de măsuri. Cât de în siguranță îi simți pe copii și ce ai face.
 tags: [siguranță, copii, servicii publice]
 date: 2026-11-09
 stat: { value: "57", label: "de măsuri propune planul împotriva violenței asupra copiilor", quote: "Foaia de parcurs propune șapte direcții strategice și 57 de măsuri, de la prevenire și identificarea timpurie a violenței până la intervenție, recuperare și reintegrare", source: 2 }
@@ -25,14 +25,14 @@ au trecut prin cel puțin o formă de violență, arată studiile unui proiect f
 > „Aproximativ 600.000 au trecut printr-o asemenea experiență doar în ultimul an.” [3]
 > „El a subliniat că proiectul, realizat împreună cu parteneri din Polonia, Comisia Europeană și UNICEF, nu vizează doar instituțiile și politicile publice, ci, înainte de toate, siguranța copiilor.” [1]
 
-### Puține cazuri ajung la stat
+### Cazurile ajunse la stat
 tip: cifră
 - peste 20.000
-de cazuri de abuz, neglijare și exploatare au ajuns în 2025 la direcțiile de protecție a copilului. Multe altele nu ajung la nicio instituție.
+de cazuri de abuz, neglijare și exploatare au ajuns în 2025 la direcțiile de protecție a copilului. Premierul spune că multe cazuri nu ajung la autorități.
 > „În 2025, direcțiile de protecție a copilului au înregistrat peste 20.000 de cazuri de abuz, neglijare și exploatare.” [4]
 > „Luca Niculescu a subliniat că multe situații rămân necunoscute autorităților și că, în pofida progreselor în protecția copilului, intervențiile întârzie uneori.” [4]
 
-### Unde se scapă copilul din vedere
+### Unde greșește sistemul
 tip: listă
 - Instituțiile nu vorbesc destul între ele
 - Ajutorul vine uneori prea târziu
@@ -43,7 +43,7 @@ Așa a descris premierul problemele sistemului care ar trebui să apere copiii.
 ### Un plan pe cinci ani
 tip: cifră
 - 57 de măsuri
-în șapte direcții: să prevină violența, s-o observe devreme, să intervină și să-l ajute pe copil să-și revină. E un plan propus, pe care instituțiile trebuie acum să-l pună în practică.
+în șapte direcții: să prevină violența, s-o observe devreme, să intervină și să-l ajute pe copil să-și revină. Deocamdată sunt recomandări, pe care instituțiile trebuie să le pună în practică.
 > „Foaia de parcurs propune șapte direcții strategice și 57 de măsuri, de la prevenire și identificarea timpurie a violenței până la intervenție, recuperare și reintegrare” [2]
 > „Foaia de parcurs stabilește un orizont de cinci ani pentru punerea în aplicare și monitorizarea măsurilor propuse.” [2]
 > „De aceea, solicit instituțiilor responsabile să lucreze împreună și să transforme aceste recomandări în schimbări pe care copiii și familiile lor să le simtă în viața de zi cu zi” [2]
@@ -51,7 +51,7 @@ tip: cifră
 ### Ce mai pregătește Guvernul
 tip: listă
 - Școala: o consultare despre siguranța copiilor
-- O strategie împotriva radicalizării
+- Guvernul: o strategie împotriva radicalizării
 Radicalizarea înseamnă ca un tânăr să ajungă la idei extreme, care pot duce la violență.
 > „Premierul a mai anunțat că Ministerul Educației a început un proces de consultare privind siguranța copiilor în școli, în timp ce Guvernul lucrează la finalizarea unei strategii naționale pentru prevenirea radicalizării care poate conduce la extremism violent.” [1]
 
@@ -66,13 +66,13 @@ Peste un milion de copii din România au trecut cel puțin o dată în viață p
 
 ### Câte cazuri ajung la stat
 
-Direcțiile de protecție a copilului sunt instituțiile care se ocupă de copiii aflați în pericol. În 2025, ele au înregistrat peste 20.000 de cazuri de abuz, neglijare și exploatare. Premierul a spus că multe situații nu ajung deloc la ele.
+Direcțiile de protecție a copilului sunt instituțiile care se ocupă de copiii aflați în pericol. În 2025, ele au înregistrat peste 20.000 de cazuri de abuz, neglijare și exploatare. Premierul a spus că multe cazuri nu ajung la autorități.
 > „În 2025, direcțiile de protecție a copilului au înregistrat peste 20.000 de cazuri de abuz, neglijare și exploatare.” [4]
-> „Dar știm în același timp și că multe dintre aceste situații nu ajung întotdeauna în atenția autorităților” [3]
+> „Luca Niculescu a subliniat că multe situații rămân necunoscute autorităților și că, în pofida progreselor în protecția copilului, intervențiile întârzie uneori.” [4]
 
-[card: Puține cazuri ajung la stat]
+[card: Cazurile ajunse la stat]
 
-Mărimea problemei e greu de măsurat. Instituțiile raportează pe canale diferite și folosesc criterii și cuvinte diferite, scrie Edupedu, din documentul proiectului. Același document dă și alte cifre: aproape 18.000 de cazuri raportate în 2023 la protecția copilului, peste 90.000 de semnalări de violență primite în 2022 la numărul de telefon 119 și aproximativ 10.000 de cazuri de violență în școli, raportate de Ministerul Educației. Cifrele vin din ani și din sisteme diferite și nu se adună între ele.
+Mărimea problemei e greu de măsurat. Instituțiile raportează pe canale diferite și folosesc criterii și cuvinte diferite, scrie Edupedu, din documentul proiectului. Același document dă și alte cifre: aproape 18.000 de cazuri raportate în 2023 la protecția copilului, peste 90.000 de semnalări de violență primite în 2022 la 119, numărul de telefon unde se semnalează violența și aproximativ 10.000 de cazuri de violență în școli, raportate de Ministerul Educației. Cifrele vin din ani și din sisteme diferite și nu se adună între ele.
 > „Una dintre problemele identificate în România este că instituțiile folosesc canale de raportare, criterii și termeni diferiți , ceea ce face dificilă evaluarea amplorii violenței împotriva copiilor, potrivit documentului de prezentare.” [2]
 > „Documentul de prezentare citează aproape 18.000 de cazuri raportate autorităților de protecție a copilului în 2023 .” [2]
 > „Separat, în 2022, la numărul 119 au fost primite peste 90.000 de raportări privind situații de violență, iar Ministerul Educației a raportat aproximativ 10.000 de cazuri de violență în școli .” [2]
@@ -83,10 +83,11 @@ Mărimea problemei e greu de măsurat. Instituțiile raportează pe canale difer
 Premierul a spus că România a făcut progrese în protecția copilului și că are instituții, legi și oameni dedicați. A spus însă și că sistemul nu funcționează mereu cum ar trebui: instituțiile nu comunică destul între ele, ajutorul vine uneori prea târziu, iar semnele că un copil e în pericol trec uneori neobservate.
 > „Nimeni nu poate nega faptul că România a făcut progrese în protecția copilului. Avem instituții, legislație și oameni dedicați, dar trebuie să recunoaștem că sistemul nu funcționează întotdeauna așa cum am dori și ar trebui. Uneori, instituțiile nu comunică suficient între ele. Alteori, reacția vine prea târziu. Iar câteodată, semnele pe care le dă un copil în pericol trec neobservate” [1]
 
-[card: Unde se scapă copilul din vedere]
+[card: Unde greșește sistemul]
 
-Ministrul Educației, Sorin Costreie, a spus că violența rămâne o problemă reală și în școli, deși există un plan național împotriva ei. El crede că și profesorii trebuie să fie mai atenți la copii.
+Unul dintre miniștrii Educației, Sorin Costreie, a spus că violența rămâne o problemă reală și în școli, deși există un plan național împotriva ei. El crede că și profesorii trebuie să fie mai atenți la copii.
 > „Și în școli, deși există un plan național de combatere a violenței, aceasta rămâne problemă reală, a precizat Ministrul Educației.” [5]
+> „Sorin Costreie afirmă că prevenirea este o responsabilitate comună și consideră ca e nevoie de mai multă implicare și din partea cadrelor didactice” [5]
 > „Eu cred că trebuie schimbată mentalitatea – și anume, cred cu tărie că profesorul trebuie să-și asume și un rol social și să se uite la copil.” [5]
 
 ### Planul

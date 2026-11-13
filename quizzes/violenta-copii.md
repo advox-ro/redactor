@@ -9,14 +9,15 @@
 | where | romania |
 
 1. Aș suna la 112
-2. Aș anunța protecția copilului
-3. Aș vorbi cu școala copilului
-4. Aș vorbi cu părinții lui
-5. Aș vorbi cu cineva apropiat de copil
+2. Aș suna la 119
+3. Aș anunța protecția copilului
+4. Aș vorbi cu școala copilului
+5. Aș vorbi cu părinții lui
 6. Nu m-aș amesteca
-7. Nu știu
+7. Altceva
+8. Nu știu
 
-### Câtă încredere ai că instituțiile statului ar ajuta repede un copil care cere ajutor pentru că e lovit?
+### Câtă încredere ai că un copil lovit care cere ajutor ar primi ajutor la timp?
 
 | id | incredere-institutii |
 |---|---|
@@ -55,17 +56,17 @@
 6. Altceva
 7. Nu știu
 
-### Dacă ai un copil sub 18 ani, cât de des vorbești cu el despre cum se simte la școală?
+### Dacă ai un copil la școală, cât de des vorbești cu el despre cum se simte la școală?
 
 | id | vorbesti-copil |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Nu am un copil sub 18 ani |
+| na | Nu am un copil la școală |
 
 1. Zilnic
 2. De câteva ori pe săptămână
-3. Săptămânal
+3. O dată pe săptămână
 4. Mai rar
 5. Niciodată
