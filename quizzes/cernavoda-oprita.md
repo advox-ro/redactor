@@ -58,9 +58,9 @@
 | na | Nu pot aprecia |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### Câtă încredere ai că centrala de la Cernavodă va merge fără opriri în această iarnă?
+### Câtă încredere ai că în România va fi destul curent pentru toată lumea în această iarnă?
 
-| id | functionare-iarna |
+| id | curent-iarna |
 |---|---|
 | type | scale |
 | measures | trust |

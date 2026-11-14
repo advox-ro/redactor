@@ -1,6 +1,6 @@
 ---
 title: Reactoarele de la Cernavodă
-summary: Reactorul 1 s-a oprit din nou, după o defecțiune la turbină, iar reactorul 2 pornește. Cum îți încălzești casa și ce aștepți de la factură.
+summary: Reactorul 1 s-a oprit iar, după o defecțiune, iar reactorul 2 ar urma să pornească. Cum îți încălzești casa și ce aștepți de la factură.
 tags: [energie, facturi]
 date: 2026-11-10
 stat: { value: "20%", label: "din curentul produs în țară vine, de obicei, de la Cernavodă", quote: "În mod normal, cele două reactoare de la Cernavodă asigură 20% din producția de energie, cantitate pe care România este acum nevoită să o importe de la vecinii săi.", source: 4 }
@@ -15,62 +15,70 @@ quiz: cernavoda-oprita
 
 ## Carduri
 
-### Reactorul 1 s-a oprit iar
+### Reactorul 1, oprit din nou
 tip: cronologie
 - 28 iulie: se oprește reactorul 1, Dunărea e prea scăzută
 - 13 august: se oprește și reactorul 2
-- 9 noiembrie: reactorul 1 se oprește din nou, din cauza unei defecțiuni
-- 11 noiembrie: reactorul 2 ar urma să fie legat la rețea
-Reactorul 1 pornise din nou doar cu câteva zile înainte, după peste trei luni de pauză.
+- 7 noiembrie: reactorul 1 pornește din nou
+- 9 noiembrie: reactorul 1 se oprește iar, din cauza unei defecțiuni
+Din seara de 9 noiembrie, niciun reactor nu mai produce curent.
 > „Unitatea 1 fusese oprită controlat pe 28 iulie, iar Unitatea 2, pe 13 august, din cauza debitului scăzut al Dunării, ceea ce a dus la oprirea întregii producții de energie a centralei.” [12]
 > „SN Nuclearelectrica SA anunță că Unitatea 1 CNE Cernavodă a fost deconectată de la Sistemul Energetic Național în seara zilei de 9 noiembrie 2026.” [9]
-> „SN Nuclearelectrica estimează că Unitatea 2 a Centralei Nuclearoelectrice Cernavodă va fi sincronizată la Sistemul Energetic Național (SEN) în data de 11 noiembrie 2026, urmând să atingă puterea nominală în 12 noiembrie.” [11]
-> „Unitatea 1 a centralei nucleare de la Cernavodă a fost deconectată din nou de la Sistemul Energetic Național, la doar câteva zile după ce fusese reconectată, în urma unei opriri care a durat aproximativ trei luni și jumătate.” [12]
+> „Premierul Luca Niculescu a anunțat sâmbătă, 7 noiembrie , că Unitatea 1 a Centralei Nuclearoelectrice Cernavodă a fost repornită după aproape 100 de zile de oprire cauzate de nivelul scăzut al Dunării.” [15]
+> „Nuclearelectrica a transmis că în acest moment nici nu reactor nu funcționează.” [9]
 
 ### Defectul, la turbină
 tip: text
 S-a stricat o piesă din partea care face curentul, la turbina de abur, nu la reactor. Nuclearelectrica, compania de stat care conduce centrala, spune că siguranța nucleară, oamenii și mediul nu au fost puși în pericol.
 > „N-a fost o problemă la nivelul reactorului. A fost o problemă în zona instalației tehnologice de producere a energiei electrice, respectiv la turbina de abur.” [10]
-> „Evenimentul nu are impact asupra securității nucleare, a personalului centralei sau a mediului înconjurător.” [9]
+> „Conform Nuclearelectrica, incidentul nu a avut impact asupra securității nucleare, personalului sau mediului înconjurător.” [11]
 
 ### Cât durează reparația
 tip: voci
 - Nuclearelectrica: reparația ține 2–4 zile, apoi urmează repornirea
+- Ministrul Energiei: reactorul revine în 2–4 zile
 - Premierul: speră ca ambele reactoare să meargă în una-două zile
 Repornirea unui reactor se face încet, în trepte, cu verificări pe fiecare treaptă.
 > „La acest moment, perioada de intervenție și remediere a defecțiunii este estimată la 2-4 zile, urmată de procedurile specifice pentru sincronizare și repornire.” [9]
 > „Sper ca, într-o zi-două, cele două unități să fie din nou funcționale.” [12]
+> „Se lucrează la această remediere și, spuneam, conform rezultatului care l-am primit la Minister, în minim două zile, maxim patru zile, această unitate va fi repusă în funcție” [13]
+> „Repunerea în funcțiune a unei unități nucleare presupune un proces gradual, în timpul căruia sunt verificate combustibilul, sistemele de răcire și toate echipamentele cu rol în securitatea nucleară.” [8]
 
-### Reactorul 2 revine
+### Reactorul 2 ar urma să revină
 tip: cronologie
-- 11 noiembrie: legat la rețea
-- 12 noiembrie: la putere plină
+- 11 noiembrie: ar urma să fie legat la rețea
+- 12 noiembrie: ar urma să ajungă la putere plină
 Ploile din ultimele zile au ridicat destul Dunărea, din care centrala ia apa de răcire.
 > „SN Nuclearelectrica estimează că Unitatea 2 a Centralei Nuclearoelectrice Cernavodă va fi sincronizată la Sistemul Energetic Național (SEN) în data de 11 noiembrie 2026, urmând să atingă puterea nominală în 12 noiembrie.” [11]
 > „Precipitațiile din ultimele zile au permis în final reluarea treptată a producției.” [14]
 
-### Un nou șef tehnic la centrală
+### Directorul tehnic, înlocuit
 tip: text
-Nuclearelectrica schimbă directorul tehnic al centralei de la 1 decembrie. Compania spune că opririle neplanificate din acest an au fost prea dese și că va verifica mai repede felul în care se face întreținerea.
+Nuclearelectrica schimbă directorul tehnic al centralei de la 1 decembrie. Compania spune că opririle neplanificate din acest an au fost mai dese decât își propune și că va verifica mai repede felul în care se face întreținerea.
 > „Conducerea societății a precizat că vor fi luate măsuri la nivelul managementului tehnic al centralei, iar acesta urmează să fie înlocuit începând cu data 1 decembrie 2026.” [10]
+> „În cursul acestui an, pe lângă provocările determinate de condițiile climatice severe, CNE Cernavodă s-a confruntat cu indisponibilități temporare neplanificate, cauzate de disfuncționalități la nivelul sistemelor tehnice auxiliare.” [10]
 > „Cu toate acestea, frecvența acestor întreruperi a fost sub nivelul de excelență pe care ni le asumăm.” [10]
 > „Acesta include verificarea accelerată a procedurilor de mentenanță și alinierea strictă a proceselor la cele mai bune practici din industria nucleară internațională.” [10]
 
 ### Măsuri pentru facturi, încă nedecise
 tip: text
-Ministerul Energiei discută cu furnizorii de curent și vrea să aibă măsuri care să ușureze facturile de la 1 decembrie. Ce anume și cu cât ar scădea facturile nu a spus încă.
+Ministerul Energiei discută cu furnizorii de curent și de gaze și vrea să aibă măsuri care să ușureze facturile de la 1 decembrie. Ce măsuri vor fi și cât vor conta pentru facturi nu a spus încă.
 > „dorința noastră este, la 1 decembrie, să avem măsuri” [13]
 > „Ministrul nu a prezentat, deocamdată, forma concretă a măsurilor și nici impactul financiar estimat pentru consumatori.” [13]
 > „Există în momentul de față discuții pe care le purtăm cu furnizorii din energie și din gaze în același timp” [13]
 
 ## Articol
 
-Reactorul 1 al centralei nucleare de la Cernavodă, singura din România, s-a oprit din nou în seara de 9 noiembrie. Pornise doar cu câteva zile înainte, după o pauză de peste trei luni. Cele două reactoare fuseseră oprite în vară, reactorul 1 pe 28 iulie și reactorul 2 pe 13 august, pentru că Dunărea scăzuse prea mult ca să mai dea apa cu care se răcește centrala.
+Reactorul 1 al centralei nucleare de la Cernavodă, singura din România, s-a oprit din nou în seara de 9 noiembrie. Pornise doar cu câteva zile înainte, după o pauză de peste trei luni. Din acea seară, niciun reactor nu mai produce curent. Cele două reactoare fuseseră oprite în vară, reactorul 1 pe 28 iulie și reactorul 2 pe 13 august, pentru că Dunărea scăzuse prea mult ca să mai dea apa cu care se răcește centrala.
 > „SN Nuclearelectrica SA anunță că Unitatea 1 CNE Cernavodă a fost deconectată de la Sistemul Energetic Național în seara zilei de 9 noiembrie 2026.” [9]
 > „Unitatea 1 a centralei nucleare de la Cernavodă a fost deconectată din nou de la Sistemul Energetic Național, la doar câteva zile după ce fusese reconectată, în urma unei opriri care a durat aproximativ trei luni și jumătate.” [12]
+> „Nuclearelectrica a transmis că în acest moment nici nu reactor nu funcționează.” [9]
 > „Unitatea 1 fusese oprită controlat pe 28 iulie, iar Unitatea 2, pe 13 august, din cauza debitului scăzut al Dunării, ceea ce a dus la oprirea întregii producții de energie a centralei.” [12]
 
-[card: Reactorul 1 s-a oprit iar]
+Oprirea de trei luni a adus pierderi de aproximativ un miliard de lei, scrie G4Media.
+> „Timp de trei luni, centrala a oprit ambele reactoare din cauza nivelului prea scăzut al Dunării, iar acest lucru a adus pierderi de aproximativ un miliard de lei.” [9]
+
+[card: Reactorul 1, oprit din nou]
 
 ### Ce s-a stricat
 
@@ -78,7 +86,7 @@ Defecțiunea a apărut în partea „clasică” a centralei, cea care transform
 > „N-a fost o problemă la nivelul reactorului. A fost o problemă în zona instalației tehnologice de producere a energiei electrice, respectiv la turbina de abur.” [10]
 > „Defecțiunea a fost localizată în partea clasică, nenucleară, a reactorului, la sistemul de control al vidului de la condensatorul turbinei.” [11]
 
-Nuclearelectrica, compania de stat care conduce centrala, spune că oprirea s-a făcut după reguli și că nu a avut efect asupra siguranței nucleare, a oamenilor care lucrează acolo sau a mediului. Cauza de fond va fi explicată într-un raport ulterior.
+Nuclearelectrica, compania de stat care conduce centrala, și Ministerul Energiei spun că oprirea s-a făcut după reguli și că nu a avut efect asupra siguranței nucleare, a oamenilor care lucrează acolo sau a mediului. Cauza de fond va fi explicată într-un raport ulterior.
 > „Cauza deconectării Unității 1 CNE Cernavodă este o defecțiune în partea clasică a reactorului Unității 1, fară niciun impact asupra securității nucleare, fiind realizată în strictă conformitate cu procedurile de operare.” [9]
 > „Evenimentul nu are impact asupra securității nucleare, a personalului centralei sau a mediului înconjurător.” [9]
 > „Cauza de profunzime va face subiectul unui raport ulterior.” [9]
@@ -87,9 +95,10 @@ Nuclearelectrica, compania de stat care conduce centrala, spune că oprirea s-a 
 
 ### Când repornește
 
-Nuclearelectrica estimează că reparația durează între două și patru zile. După ea urmează pașii de repornire, care durează și ei. Ministrul Energiei a spus că specialiștii au găsit piesa care trebuie reparată. Premierul Luca Niculescu a spus că speră ca ambele reactoare să meargă din nou în una-două zile.
+Nuclearelectrica estimează că reparația durează între două și patru zile. După ea urmează pașii de repornire, care durează și ei. Ministrul Energiei a spus că specialiștii au găsit piesa care trebuie reparată și că reactorul va funcționa din nou în cel puțin două și cel mult patru zile. Premierul Luca Niculescu a spus că speră ca ambele reactoare să meargă din nou în una-două zile.
 > „La acest moment, perioada de intervenție și remediere a defecțiunii este estimată la 2-4 zile, urmată de procedurile specifice pentru sincronizare și repornire.” [9]
 > „Rezultatul tehnic a stabilit cauza defecțiunii, a stabilit efectiv ce piesă trebuie remediată.” [13]
+> „Se lucrează la această remediere și, spuneam, conform rezultatului care l-am primit la Minister, în minim două zile, maxim patru zile, această unitate va fi repusă în funcție” [13]
 > „Sper ca, într-o zi-două, cele două unități să fie din nou funcționale.” [12]
 
 [card: Cât durează reparația]
@@ -98,32 +107,36 @@ Reactorul 2 ar urma să fie legat la rețea pe 11 noiembrie și să ajungă la p
 > „SN Nuclearelectrica estimează că Unitatea 2 a Centralei Nuclearoelectrice Cernavodă va fi sincronizată la Sistemul Energetic Național (SEN) în data de 11 noiembrie 2026, urmând să atingă puterea nominală în 12 noiembrie.” [11]
 > „Precipitațiile din ultimele zile au permis în final reluarea treptată a producției.” [14]
 
-[card: Reactorul 2 revine]
+[card: Reactorul 2 ar urma să revină]
 
 ### Schimbări la conducerea centralei
 
-După oprire, Nuclearelectrica a anunțat că directorul tehnic al centralei va fi înlocuit de la 1 decembrie. Directorul general al companiei, Mihai Gioară, a spus că în acest an centrala a avut și opriri neplanificate din cauza unor sisteme tehnice ajutătoare, că sistemele de protecție au funcționat și că aceste întreruperi au fost prea dese. Compania pregătește un plan de corectare, cu verificarea mai rapidă a felului în care se face întreținerea.
+După oprire, Nuclearelectrica a anunțat că directorul tehnic al centralei va fi înlocuit de la 1 decembrie. Directorul general al companiei, Mihai Gioară, a spus că în acest an centrala a avut și opriri neplanificate din cauza unor sisteme tehnice ajutătoare, că sistemele de protecție au funcționat și că aceste întreruperi au fost mai dese decât își propune compania. Compania pregătește un plan de corectare, cu verificarea mai rapidă a felului în care se face întreținerea.
 > „Conducerea societății a precizat că vor fi luate măsuri la nivelul managementului tehnic al centralei, iar acesta urmează să fie înlocuit începând cu data 1 decembrie 2026.” [10]
 > „În cursul acestui an, pe lângă provocările determinate de condițiile climatice severe, CNE Cernavodă s-a confruntat cu indisponibilități temporare neplanificate, cauzate de disfuncționalități la nivelul sistemelor tehnice auxiliare.” [10]
 > „Toate sistemele de protecție au funcționat impecabil, iar securitatea nucleară nu a fost în niciun moment afectată.” [10]
 > „Cu toate acestea, frecvența acestor întreruperi a fost sub nivelul de excelență pe care ni le asumăm.” [10]
 > „Acesta include verificarea accelerată a procedurilor de mentenanță și alinierea strictă a proceselor la cele mai bune practici din industria nucleară internațională.” [10]
 
-[card: Un nou șef tehnic la centrală]
+[card: Directorul tehnic, înlocuit]
 
 ### Iarna și facturile
 
-Premierul a spus că centrala dă aproape 20% din curentul țării și că riscul unor noi opriri la iarnă depinde de cât de multă apă va avea Dunărea. După informațiile Guvernului, iarna nu va fi foarte secetoasă. Ca centrala să aibă mai multă apă pe termen lung, Guvernul vorbește de un proiect numit Bala 2.
+Premierul a spus că centrala dă aproape 20% din curentul țării și că riscul unor noi opriri la iarnă depinde de cât de multă apă va avea Dunărea. După informațiile Guvernului, iarna nu va fi foarte secetoasă. Ca centrala să aibă mai multă apă pe termen lung, Guvernul vorbește de un proiect, Bala 2, care ar aduce mai multă apă pentru reactoarele de acum și pentru cele două noi plănuite la Cernavodă. Ministrul Energiei spune că se studiază două măsuri pentru apă, una pe termen scurt și una pe termen lung. El a mai spus că reactorul 1 va mai merge până anul viitor, când urmează să fie modernizat, iar data opririi o va anunța Nuclearelectrica.
 > „Aproape 20% din energia din România.” [12]
 > „Niculescu a mai spus, întrebat despre riscul să se întâmple astfel de incidente la iarnă, că „depinde mult de cum va arăta regimul hidrologic”.” [12]
 > „Din informațiile pe care le avem, nu ne așteaptă o iarnă foarte secetoasă.” [12]
+> „În ceea ce privește asigurarea cu apă a centralei, Chisăliță a subliniat că sunt două măsuri care urmează să fie luate, una pe termen scurt, una pe termen lung, ambele fiind în momentul de față în faza de analiză tehnică la nivelul instituțiilor de proiectare, pentru a se stabili concret în cât timp se poate asigura un nivel al apei care să nu mai creeze probleme.” [10]
+> „Pe de altă parte, ministrul a precizat că există un plan pentru retehnologizarea unității 1, care va mai merge până în anul următor.” [10]
 > „De aceea, proiectul Bala 2 despre care v-am vorbit, care înseamnă mai multă apă pentru reactoarele 1 și 2, dar și cele care vor fi construite, 3 și 4, de la Cernavodă, este atât de important” [15]
 
-Premierul a mai spus că depozitele de gaze sunt pline în proporție de 90%, cât cere Uniunea Europeană, și că Guvernul pregătește vouchere pentru plata curentului pentru oamenii cu venituri mici. Totuși, până pe 30 noiembrie, Transelectrica, compania care transportă curentul, are în continuare voie să limiteze consumul marilor fabrici și să oprească exportul de curent dacă e criză.
+Premierul a mai spus că depozitele de gaze sunt pline în proporție de 90%, cât cere Uniunea Europeană, și că Guvernul pregătește vouchere pentru plata curentului pentru oamenii cu venituri mici. Totuși, Guvernul a prelungit măsurile de urgență. Transelectrica, compania care transportă curentul, are voie până pe 30 noiembrie să limiteze consumul marilor fabrici și poate opri oricând exportul de curent dacă e criză. Ministerul Energiei avertizează că există riscul unei crize în alimentarea cu curent la orele de vârf, dacă nu sunt destule rezerve.
 > „Premierul a precizat că rezervele de gaz au ajuns la pragul european de 90%.” [14]
 > „Guvernul pregătește măsuri de sprijin pentru plata energiei electrice sub formă de vouchere pentru persoanele vulnerabile.” [14]
 > „Transelectrica are dreptul legal să limiteze consumul marilor actori industriali până la 30 noiembrie.” [14]
 > „Operatorul de sistem poate sista oricând exporturile de energie electrică ale României în caz de criză.” [14]
+> „În ciuda declarațiilor optimiste, Guvernul a prelungit măsurile de urgență.” [14]
+> „În plus, apreciem că există un risc de a se ajunge la o situație de criză în alimentarea cu energie electrică, când, în lipsa unor rezerve de putere și energie suficiente pentru echilibrarea sistemului la orele de vârf de consum, în vederea asigurării funcționării stabile, pot apărea consecințe economice și sociale grave.” [14]
 
 Ministrul Energiei discută cu furnizorii de curent și de gaze un mecanism prin care curentul să fie cumpărat la prețuri mai bune, ca să scadă apăsarea facturilor. Vrea ca măsurile să existe de la 1 decembrie, dar nu a spus încă cum vor arăta și cât vor conta pentru oameni.
 > „În ceea ce privește mecanismul pe care îl propunem, este un mecanism care privește o modalitate de a se obține o energie electrică la prețuri competitive, pentru că trebuie să respectăm aceste lege în momentul de față, dar, în același timp, să existe o reducere a presiunii la nivelul consumatorilor de energie din momentul de față.” [13]
@@ -153,7 +166,7 @@ Un reactor care merge folosește multă apă pentru răcire, așa că scade nive
 
 ### Cât contează centrala
 
-Fiecare reactor are în jur de 700 de megawați putere instalată. Împreună, ele dau de obicei o cincime din curentul produs în țară. România rămâne în stare de alertă în energie, declarată din 1 august. Dunărea scăzută a înjumătățit și producția hidrocentralelor de la Porțile de Fier, care dau de obicei 10-15% din curentul țării. Repornirea primului reactor ar putea reduce nevoia de curent adus din alte țări, mai ales seara, când România acoperă greu consumul din ce produce.
+Fiecare reactor are în jur de 700 de megawați putere instalată. Împreună, ele dau de obicei o cincime din curentul produs în țară. România rămâne în stare de alertă în energie, declarată din 1 august. Dunărea scăzută a înjumătățit și producția hidrocentralelor de la Porțile de Fier, care dau de obicei 10-15% din curentul țării. Se aștepta ca repornirea primului reactor să reducă nevoia de curent adus din alte țări, mai ales seara, când România acoperă greu consumul din ce produce.
 > „România se află în stare de alertă energetică din 1 august, după închiderea primei unități de la Cernavodă din cauza debitului redus al Dunării, pe 28 iulie, care a dus și la înjumătățirea producției celor două hidrocentrale de la Porțile de Fier, care contribuie, la nivel multianual, cu 10-15% din energia națională.” [6]
 > „Centrala de la Cernavodă, operată de Nuclearelectrica oprită integral pe 13 august, asigură, cu cele două reactoare care au o capacitate instalată de aproximativ 700 MW fiecare, aproximativ o cincime din producția de energie electrică a României, în condiții normale de funcționare.” [6]
 > „Reconectarea ar putea reduce necesarul de importuri, într-o perioadă în care România întâmpină dificultăți în acoperirea consumului din producția internă, în special în orele de seară.” [8]
@@ -180,7 +193,7 @@ Nuclearelectrica (SNN), producătorul național de energie nucleară, care condu
 > „Chiar și atunci când un reactor nu mai produce electricitate, răcirea și monitorizarea instalațiilor trebuie continuate. Tocmai de aceea, centrala dispune de sisteme independente și proceduri speciale pentru perioadele de oprire.” [2]
 > „Pe întreaga perioadă în care Unitățile 1 și 2 rămân oprite, securitatea nucleară este asigurată prin sisteme redundante, proceduri specifice și echipe de specialiști alocate permanent. Situația afectează exclusiv producția de energie electrică” [2]
 
-La sfârșitul lui octombrie, la intrarea în țară, pe la Baziaș, pe Dunăre curgeau 1.300 de metri cubi de apă pe secundă. Ca centrala să repornească, era nevoie atunci de 4.900, spuneau specialiștii, iar specialiștii se așteptau la 1.550 în săptămâna următoare.
+La sfârșitul lui octombrie, la intrarea în țară, pe la Baziaș, pe Dunăre curgeau 1.300 de metri cubi de apă pe secundă. Ca centrala să repornească, era nevoie atunci de 4.900, iar specialiștii se așteptau la 1.550 în săptămâna următoare.
 > „Debitul Dunării la intrarea în țară, în secțiunea Baziaș, a înregistrat o valoare de 1.300 metri cubi pe secundă la finalul lunii octombrie.” [5]
 > „Specialiștii au afirmat că va ajunge săptămâna viitoare la 1.550m³/s, dar este insuficient, ținând cont de faptul că ar trebui să fie de 4.900m³/s.” [1]
 
