@@ -1,8 +1,8 @@
 ---
 title: Programarea la specialist
-summary: Ministerul Sănătății verifică programările la medicii specialiști din spitalele de stat. Cât de ușor ajungi tu la un specialist.
+summary: Ministerul Sănătății verifică programările la specialiștii de stat și ia în calcul concedieri. Cât de ușor ajungi tu la un specialist.
 tags: [sănătate, servicii publice]
-date: 2026-11-05
+date: 2026-11-10
 image:
   src: /photos/programari-ambulatoriu.jpg
   alt: Un stetoscop pe o masă
@@ -61,9 +61,17 @@ Un exemplu dat de ministru, nu un rezultat al controlului: dacă sunt programaț
 > „Pentru că suspiciunea este următoarea: de exemplu, dacă în programator apar 10 pacienți, iar la Casa Națională au fost decontate servicii doar pentru 2 pacienți, asta înseamnă că diferența de 8 sunt, de fapt, pacienți fictivi, care doar blochează programul”, a afirmat acesta.” [4]
 > „Alexandru Rogobete, ministrul Sănătății : „ Blochează locurile la stat și pleacă cu pacienții la cabinetele lor private ”.” [2]
 
+### Concediere pentru cine pleacă mai devreme
+tip: text
+Ministrul se gândește să concedieze medicii care pleacă de la spitalul de stat înainte de sfârșitul programului ca să lucreze la cabinetul lor privat. Spune că nu vrea să generalizeze: mulți medici stau și peste program.
+> „Mă gândesc inclusiv la desfacerea contractului de muncă pentru cei care își părăsesc spitalul public înainte de finalizarea programului”, a afirmat ministrul.” [6]
+> „Nu vreau să generalizez. Așa cum am spus de fiecare dată, în sistemul de sănătate există oameni excepționali, care stau peste program, care vin de acasă, care fac mai multe gărzi decât ar trebui, dar există și această categorie care pare că nu vrea să înțeleagă”, a adăugat Rogobete.” [6]
+> „Ministrul Sănătății, Alexandru Rogobete, ia în calcul concedierea medicilor care pleacă din spitalele publice înainte de terminarea programului pentru a lucra în cabinetele private.” [7]
+
 ### Ce urmează
 tip: text
-Ministrul spune că va face public raportul controlului și că, cel mai probabil, vor urma schimbări de lege. Până atunci, le cere pacienților să facă sesizări.
+Controlul în toată țara ar putea dura două-trei luni. Ministrul spune că va face public raportul și că, cel mai probabil, vor urma schimbări de lege. Până atunci, le cere pacienților să facă sesizări.
+> „Alexandru Rogobete a afirmat, luni seară, la Euronews, că a început un control la nivel național, care ar putea dura două-trei luni, inspectorii urmând a verifica programările pacienților, pontajele medicilor și serviciile decontate de CNAS.” [6]
 > „După ce voi termina raportul de control la nivel național, îl voi face public și, cel mai probabil, că vor veni noi modificări legislative pentru corectarea acestor situații”, a încheiat Alexandru Rogobete.” [1]
 > „Îi rog în continuare să facă sesizare la Ministerul Sănătății ori de câte ori apare o astfel de situație.” [1]
 
@@ -141,9 +149,25 @@ Ministrul a dat un exemplu: dacă în calculator sunt programați 10 pacienți, 
 Deocamdată e doar o bănuială, pe care controlul trebuie s-o confirme sau nu. Ministerul nu a spus încă lista completă a spitalelor controlate și nici când se termină verificările.
 > „Deocamdată, Ministerul Sănătății nu a comunicat lista completă a spitalelor care vor fi controlate și nici un termen pentru finalizarea verificărilor.” [3]
 
+### Medicii care pleacă la privat
+
+Câteva zile mai târziu, ministrul a spus la Euronews că se gândește la concedieri. Ar viza medicii care pleacă de la spitalul de stat înainte să li se termine programul ca să lucreze la cabinetul lor privat. A dat exemplul unui cardiolog cu cabinet „la colțul blocului”, care pleacă la ora 11 „cu tot cu pacienți”. Spune că asta se întâmplă mai ales la medicii cu cabinete proprii, mai puțin în marile rețele private.
+> „Ministrul Sănătății, Alexandru Rogobete, a anunțat, luni seară, că ia în calcul desfacerea contractelor de muncă ale medicilor care pleacă din spitalele publice înainte de încheierea programului pentru a merge la cabinetele private, relatează News.ro.” [6]
+> „Dau un exemplu - cardiolog, care are la colțul blocului un cabinet propriu, care la ora 11 pleacă în cabinetul lui cu tot cu pacienți.” [6]
+> „Ministrul a precizat că astfel de situații apar mai ales în cazul medicilor care dețin propriile cabinete private.” [7]
+> „Acesta susține că problemele sunt mai puțin întâlnite în marile rețele medicale private, unde activitatea angajaților este monitorizată mai atent.” [7]
+
+Ministrul spune că nu vrea să generalizeze: în spitalele de stat sunt mulți medici care stau peste program și fac gărzi în plus. Mai spune că ministerul a mărit deja sumele plătite pentru consultațiile din ambulatoriu și a făcut mai flexibil programul medicilor. Pentru o schimbare de lege, spune el, are nevoie de rezultatele controlului.
+> „Nu vreau să generalizez. Așa cum am spus de fiecare dată, în sistemul de sănătate există oameni excepționali, care stau peste program, care vin de acasă, care fac mai multe gărzi decât ar trebui, dar există și această categorie care pare că nu vrea să înțeleagă”, a adăugat Rogobete.” [6]
+> „Rogobete a amintit că ministerul a majorat tarifele pentru serviciile din ambulatoriu și a flexibilizat programul medicilor.” [7]
+> „Pentru a putea face o modificare legislativă abruptă, am nevoie de o justificare puternică, iar această justificare o pot efectua doar din aceste controale”, a declarat ministrul.” [7]
+
+[card: Concediere pentru cine pleacă mai devreme]
+
 ### Ce urmează
 
-Ministrul spune că va face public raportul și că, cel mai probabil, vor urma schimbări de lege. Le cere pacienților care pățesc așa ceva să facă sesizări la Ministerul Sănătății.
+Controlul în toată țara ar putea dura două-trei luni. Inspectorii verifică programările, pontajele medicilor și consultațiile plătite de CNAS. Ministrul spune că va face public raportul și că, cel mai probabil, vor urma schimbări de lege. Le cere pacienților care pățesc așa ceva să facă sesizări la Ministerul Sănătății.
+> „Alexandru Rogobete a afirmat, luni seară, la Euronews, că a început un control la nivel național, care ar putea dura două-trei luni, inspectorii urmând a verifica programările pacienților, pontajele medicilor și serviciile decontate de CNAS.” [6]
 > „După ce voi termina raportul de control la nivel național, îl voi face public și, cel mai probabil, că vor veni noi modificări legislative pentru corectarea acestor situații”, a încheiat Alexandru Rogobete.” [1]
 > „Îi rog în continuare să facă sesizare la Ministerul Sănătății ori de câte ori apare o astfel de situație.” [1]
 
@@ -156,3 +180,5 @@ Ministrul spune că va face public raportul și că, cel mai probabil, vor urma 
 3. Ministrul Sănătății a sunat la spitale ca să-și programeze „bunica”. Ce a descoperit și de ce a dispus controale — Bihoreanul. https://www.ebihoreanul.ro/stiri/ministrul-sanatatii-a-sunat-la-spitale-ca-sa-si-programeze-bunica-ce-a-descoperit-si-de-ce-a-dispus-controale-206386.html
 4. Programări blocate artificial în spitalele publice? Rogobete pregătește noi modificări legislative — Mediafax. https://www.mediafax.ro/politic/programari-blocate-artificial-in-spitalele-publice-rogobete-pregateste-noi-modificari-legislative-23838268
 5. Ministrul Sănătății trimite Corpul de control în ambulatoriile de specialitate după ce a sunat anonim să își programeze ”bunica” — Gândul. https://www.gandul.ro/actualitate/ministrul-sanatatii-trimite-corpul-de-control-in-ambulatoriile-de-specialitate-dupa-ce-a-sunat-anonim-sa-isi-programeze-bunica-21055776
+6. Rogobete ia în calcul concedierea medicilor care pleacă din spitalul public mai devreme pentru a merge la cabinetul privat — Digi24. https://www.digi24.ro/stiri/actualitate/sanatate/rogobete-ia-in-calcul-concedierea-medicilor-care-pleaca-din-spitalul-public-mai-devreme-pentru-a-merge-la-cabinetul-privat-4028905
+7. Rogobete ia în calcul concedierea medicilor care pleacă de la stat la privat în timpul programului de lucru — Cotidianul. https://www.cotidianul.ro/rogobete-ia-in-calcul-concedierea-medicilor-care-pleaca-de-la-stat-la-privat-in-timpul-programului-de-lucru/
