@@ -1,6 +1,6 @@
 ---
 title: Minivacanța de 1 Decembrie
-summary: De Sfântul Andrei și de Ziua Națională, cine lucrează de luni până vineri are patru zile libere la rând. Cum le petreci tu.
+summary: Sfântul Andrei și Ziua Națională cad luni și marți, așa că cine lucrează de luni până vineri are patru zile libere la rând.
 tags: [muncă, școală]
 date: 2026-11-10
 image:
@@ -18,10 +18,9 @@ quiz: minivacanta-1-decembrie
 ### Patru zile libere la rând
 tip: cronologie
 - Sâmbătă, 28 noiembrie: începe minivacanța
-- Luni, 30 noiembrie: Sfântul Andrei
-- Marți, 1 decembrie: Ziua Națională
+- Marți, 1 decembrie: ultima zi liberă
 - Miercuri, 2 decembrie: înapoi la serviciu
-Cele două sărbători legale cad luni și marți, imediat după weekend.
+Sfântul Andrei, luni, 30 noiembrie, și Ziua Națională, marți, 1 decembrie, vin imediat după weekend.
 > „Perioada liberă va începe sâmbătă, 28 noiembrie. După weekend urmează cele două sărbători legale: luni, 30 noiembrie, și marți, 1 decembrie. Salariații cu program obișnuit de luni până vineri vor reveni la serviciu miercuri, 2 decembrie.” [2]
 > „Minivacanța de Ziua Națională începe sâmbătă, 28 noiembrie, și se încheie marți. Activitatea obișnuită se reia miercuri, 2 decembrie 2026.” [1]
 
@@ -47,6 +46,7 @@ tip: listă
 - Urgențele, pompierii, poliția
 - Localurile unde se servește mâncare
 - Fabricile care nu se pot opri
+- Alte activități care trebuie să meargă continuu
 Acolo unde munca nu se poate întrerupe, angajații pot fi chemați la lucru și în zilele de sărbătoare.
 > „Este cazul unor activități din sănătate, servicii de urgență, pompieri, poliție și alte domenii care trebuie să funcționeze continuu.” [1]
 > „Există și domenii în care activitatea nu poate fi întreruptă, precum spitalele, unitățile de alimentație publică, anumite servicii de urgență sau sectoare în care procesul de producție impune continuarea activității.” [2]
@@ -55,12 +55,12 @@ Acolo unde munca nu se poate întrerupe, angajații pot fi chemați la lucru și
 ### Ce primești dacă lucrezi
 tip: listă
 - Întâi: zile libere în schimb, în următoarele 30 de zile
-- Dacă nu se poate: un spor de cel puțin 100% din salariul de bază
+- Dacă nu se poate, din motive întemeiate: un spor de cel puțin 100% din salariul de bază
 Asta spune Codul muncii, legea care stabilește drepturile angajaților.
 > „Salariații care lucrează în zilele de sărbătoare legală au dreptul la compensații și angajatorul trebuie să acorde timp liber corespunzător în următoarele 30 de zile.” [1]
 > „Dacă acordarea timpului liber nu este posibilă din motive justificate, salariații trebuie să primească un spor de cel puțin 100% din salariul de bază pentru zilele lucrate.” [1]
 
-### Următoarele: de Crăciun
+### Următorul weekend lung: de Crăciun
 tip: text
 Prima zi de Crăciun cade vineri, 25 decembrie, așa că cine lucrează de luni până vineri are liber până duminică, 27 decembrie.
 > „Prima zi a sărbătorii, 25 decembrie, este vineri, astfel că aceștia vor beneficia de trei zile consecutive de repaus, până duminică, 27 decembrie, inclusiv.” [2]
@@ -76,23 +76,23 @@ Anul acesta, două sărbători legale cad una după alta, imediat după weekend:
 Ziua de 30 noiembrie este închinată Sfântului Apostol Andrei, ocrotitorul României. 1 decembrie amintește de Marea Unire din 1918, de la care se împlinesc anul acesta 108 ani.
 > „Cele două sărbători au semnificații distincte: 30 noiembrie este dedicată Sfântului Apostol Andrei, Ocrotitorul României, iar 1 decembrie marchează, în acest an, împlinirea a 108 ani de la Marea Unire din 1918.” [2]
 
-### Fără concediu, dar nu pentru toți
+### Fără zi de concediu, dar nu oriunde
 
-Pentru cele patru zile nu e nevoie de o zi de concediu: sărbătorile vin chiar lângă weekend. Codul muncii, legea care stabilește drepturile angajaților, trece 30 noiembrie și 1 decembrie printre zilele în care nu se lucrează. România TV notează că totul depinde de felul în care își organizează munca angajatorul, pentru că zilele de odihnă din săptămână pot cădea și în afara weekendului.
+Pentru cele patru zile nu e nevoie de o zi de concediu: sărbătorile vin chiar lângă weekend. Codul muncii, legea care stabilește drepturile angajaților, trece 30 noiembrie și 1 decembrie printre zilele în care nu se lucrează. România TV notează că cele patru zile libere depind de felul în care își organizează munca angajatorul, pentru că zilele de odihnă din săptămână pot cădea și în afara weekendului.
 > „Minivacanța se formează prin așezarea celor două sărbători legale lângă weekend; nu este nevoie de o zi de concediu pentru a obține cele patru zile libere.” [3]
-> „Ce prevede Codul muncii despre cele două sărbători legale Articolul 139 alin. (1) din Legea nr. 53/2003 – Codul muncii, include 30 noiembrie, sărbătoarea Sfântului Apostol Andrei, și 1 decembrie între sărbătorile legale în care nu se lucrează.” [2]
+> „Articolul 139 alin. (1) din Legea nr. 53/2003 – Codul muncii, include 30 noiembrie, sărbătoarea Sfântului Apostol Andrei, și 1 decembrie între sărbătorile legale în care nu se lucrează.” [2]
 > „Această posibilitate depinde însă de organizarea activității la nivelul angajatorului, deoarece odihna săptămânală poate fi stabilită și în afara sfârșitului de săptămână.” [2]
 
 [card: Fără zi de concediu]
 
-Unii oameni lucrează și în aceste zile: cei din spitale, de la urgențe, pompierii, polițiștii, cei din localurile unde se servește mâncare și cei din fabricile care nu se pot opri. Codul muncii cere un program de lucru potrivit pentru unitățile sanitare și pentru localuri, ca oamenii să aibă îngrijire medicală și alimentele de strictă necesitate.
+Acolo unde munca nu se poate întrerupe, angajații pot fi chemați la lucru și în aceste zile: de exemplu cei din spitale, de la urgențe, pompierii, polițiștii, cei din localurile unde se servește mâncare sau din fabricile care nu se pot opri. Codul muncii cere un program de lucru potrivit pentru spitale, ca oamenii să aibă îngrijire medicală, și pentru localuri și magazinele de mâncare, ca oamenii să aibă alimentele de strictă necesitate.
 > „Este cazul unor activități din sănătate, servicii de urgență, pompieri, poliție și alte domenii care trebuie să funcționeze continuu.” [1]
 > „Există și domenii în care activitatea nu poate fi întreruptă, precum spitalele, unitățile de alimentație publică, anumite servicii de urgență sau sectoare în care procesul de producție impune continuarea activității.” [2]
 > „Codul muncii prevede stabilirea unor programe de lucru adecvate pentru unitățile sanitare și pentru cele de alimentație publică, astfel încât să fie asigurate asistența medicală și aprovizionarea populației cu produse alimentare de strictă necesitate.” [2]
 
 [card: Cine lucrează totuși]
 
-Cine lucrează într-o zi de sărbătoare legală trebuie să primească, de la angajator, timp liber în schimb, în următoarele 30 de zile. Dacă asta nu se poate, din motive întemeiate, primește un spor de cel puțin 100% din salariul de bază pentru zilele lucrate.
+Cine e chemat la lucru într-o zi de sărbătoare legală trebuie să primească, de la angajator, timp liber în schimb, în următoarele 30 de zile. Dacă asta nu se poate, din motive întemeiate, primește un spor de cel puțin 100% din salariul de bază pentru zilele lucrate.
 > „Salariații care lucrează în zilele de sărbătoare legală au dreptul la compensații și angajatorul trebuie să acorde timp liber corespunzător în următoarele 30 de zile.” [1]
 > „Dacă acordarea timpului liber nu este posibilă din motive justificate, salariații trebuie să primească un spor de cel puțin 100% din salariul de bază pentru zilele lucrate.” [1]
 
@@ -113,7 +113,7 @@ Elevii au liber în aceleași zile, de sâmbătă, 28 noiembrie, până marți, 
 > „Prima zi a sărbătorii, 25 decembrie, este vineri, astfel că aceștia vor beneficia de trei zile consecutive de repaus, până duminică, 27 decembrie, inclusiv.” [2]
 > „Deși este declarată sărbătoare legală, data de 26 decembrie coincide cu sâmbăta și nu prelungește acest interval.” [2]
 
-[card: Următoarele: de Crăciun]
+[card: Următorul weekend lung: de Crăciun]
 
 ## Surse
 
