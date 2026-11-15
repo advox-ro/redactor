@@ -1,6 +1,6 @@
 ---
 title: COVID la spitalul din Târgu Jiu
-summary: O secție a Spitalului Județean Târgu Jiu ia 10 zile doar urgențe, după un focar de COVID; ce crezi despre infecțiile din spital.
+summary: O secție a Spitalului Județean Târgu Jiu primește 10 zile doar urgențe, după un focar de COVID; vizite, mască și infecțiile din spital.
 tags: [sănătate, județ]
 counties: [GJ]
 date: 2026-11-11
@@ -18,15 +18,16 @@ quiz: focar-covid-targu-jiu
 
 ### Un focar pe o secție
 tip: cronologie
-- Luni: spitalul anunță 6 pacienți bolnavi
+- Luni: spitalul raportează 6 pacienți infectați
 - Miercuri: încă un pacient confirmat
-Toți sunt internați la Medicină Internă 1, una dintre secțiile Spitalului Județean de Urgență Târgu Jiu. Focar înseamnă mai multe îmbolnăviri din aceeași sursă, în același loc.
+Toți sunt pacienți ai secției Medicină Internă 1 a Spitalului Județean de Urgență Târgu Jiu. Focar înseamnă mai multe îmbolnăviri legate între ele, în același loc.
 > „Medicii de la Serviciul de Prevenire a Infecțiilor Asociate Asistenței Medicale (SPIAAM) au raportat, luni, la DSP Gorj existența unui focar de SARS-CoV2 la Secția Medicina Internă 1, fiind 6 cazuri de pacienți infectați, a declarat pentru News.ro purtătorul de cuvânt al Spitalului Județean de Urgență Târgu Jiu, Mihaela Țicleanu.” [1]
 > „Un al șaptelea caz de infecție cu SARS-CoV2 a fost confirmat miercuri dimineață, în spital.” [2]
 
 ### Pe secție, doar urgențe
 tip: text
-Timp de 10 zile, secția primește doar urgențe. Cine vine cu bilet de trimitere de la medicul de familie va merge, cel mai probabil, la cealaltă secție de Medicină Internă a spitalului, de pe strada Tudor Vladimirescu.
+Timp de 10 zile, secția primește doar urgențe; spitalul spune că sunt măsuri obișnuite la un focar. Cine vine cu bilet de trimitere de la medicul de familie va merge, cel mai probabil, la cealaltă secție de Medicină Internă a spitalului, de pe strada Tudor Vladimirescu.
+> „Sunt măsuri standard care se impun în cazul focarelor” [2]
 > „Am discutat cu medicul șef SPIAAM și mi-a transmis că pentru următoarele 10 zile se vor face doar internări în caz de urgență, pacienții cazuri de urgență. Nu vor mai fi internați pacienții care vin cu bilete de trimitere de la medicul de familie. Cel mai probabil, vor merge la cealaltă Secție de Medicină Internă, situată de pe strada Tudor Vladimirescu.” [1]
 
 ### Vizite o oră pe zi
@@ -41,17 +42,16 @@ tip: listă
 - Bolnavii sunt izolați
 - Cei care au stat aproape de ei sunt urmăriți
 - Toți pacienții secției și medicii poartă mască
-- Cine are simptome e testat
+- Pacienții și personalul cu simptome sunt testați
 - O anchetă caută sursa
-Spitalul spune că sunt măsuri obișnuite când apare un focar.
+Tot ce se știe vine de la purtătoarea de cuvânt a spitalului.
 > „Pacienții confirmați sunt izolați, contacții direcți ai acestora sunt supravegheați și a fost dispusă purtarea măștii de protecție de către toți pacienții din secție și de personalul medical.” [2]
 > „Pacienții simptomatici și personalul medical cu simptome vor fi testați.” [2]
 > „Imediat după confirmare, reprezentanții spitalului au dispus măsuri pentru limitarea focarului, inclusiv o anchetă epidemiologică pentru stabilirea cauzei acestuia.” [2]
-> „Sunt măsuri standard care se impun în cazul focarelor” [2]
 
-### Bolnavii sunt bine
+### Spitalul: pacienții sunt bine
 tip: text
-Starea pacienților bolnavi este bună, spune spitalul. Medicii și asistentele nu s-au îmbolnăvit. Se crede că virusul a venit de la un pacient sau de la cineva venit în vizită.
+Primii șase pacienți sunt bine, spune spitalul. Până miercuri, niciun medic sau asistent nu se îmbolnăvise. Pacienții au luat virusul în spital: se bănuiește că de la un alt pacient sau de la cineva venit în vizită.
 > „Starea lor de sănătate este bună.” [1]
 > „Potrivit reprezentantei spitalului, sursa infectărilor este în curs de identificare și sunt afectați doar pacienți, nu și personal medical.” [1]
 > „Se bănuiește că pacienții s-au infectat de la un pacient sau un aparținător.” [1]
@@ -65,16 +65,16 @@ La Spitalul Județean de Urgență Târgu Jiu a apărut un focar de COVID, adic�
 
 [card: Un focar pe o secție]
 
-Starea bolnavilor este bună. Trei dintre ei au rămas pe secție, iar alți trei au fost mutați la Boli Infecțioase. Medicii și asistentele nu s-au îmbolnăvit. Spitalul încă nu știe de unde a pornit virusul; bănuiește că de la un pacient sau de la cineva venit în vizită.
+Toate informațiile vin de la purtătoarea de cuvânt a spitalului, citată de agenția News.ro. Dintre primii șase pacienți, trei au rămas pe secție, iar trei sunt internați la Boli Infecțioase, secția pentru bolile care se iau de la alți oameni. Starea lor este bună. Pacienții s-au infectat în spital: spitalul încă nu știe de la cine, dar bănuiește că de la un alt pacient sau de la cineva venit în vizită. Până miercuri, niciun medic sau asistent nu se îmbolnăvise.
 > „Trei dintre pacienți au rămas internați pe secție, alți trei fiind internați la Boli Infecțioase. Starea lor de sănătate este bună.” [2]
 > „Potrivit reprezentantei spitalului, sursa infectărilor este în curs de identificare și sunt afectați doar pacienți, nu și personal medical.” [2]
 > „Se bănuiește că pacienții s-au infectat de la un pacient sau un aparținător.” [2]
 
-[card: Bolnavii sunt bine]
+[card: Spitalul: pacienții sunt bine]
 
 ### Ce se schimbă pentru pacienți
 
-Timp de 10 zile, secția cu focarul internează doar urgențe. Cine vine cu bilet de trimitere de la medicul de familie nu mai e internat acolo. Purtătoarea de cuvânt a spitalului spune că acești pacienți vor merge, cel mai probabil, la cealaltă secție de Medicină Internă, de pe strada Tudor Vladimirescu.
+Timp de 10 zile, secția cu focarul internează doar urgențe. Cine vine cu bilet de trimitere de la medicul de familie nu mai e internat acolo. Purtătoarea de cuvânt a spitalului spune că acești pacienți vor merge, cel mai probabil, la cealaltă secție de Medicină Internă, de pe strada Tudor Vladimirescu. Ea spune că sunt măsuri obișnuite la un focar. Spitalul nu a spus de la ce dată se numără cele 10 zile.
 > „Am discutat cu medicul șef SPIAAM și mi-a transmis că pentru următoarele 10 zile se vor face doar internări în caz de urgență, pacienții cazuri de urgență. Nu vor mai fi internați pacienții care vin cu bilete de trimitere de la medicul de familie. Cel mai probabil, vor merge la cealaltă Secție de Medicină Internă, situată de pe strada Tudor Vladimirescu.” [1]
 
 [card: Pe secție, doar urgențe]
@@ -86,11 +86,10 @@ Rudele și prietenii pot veni în vizită în tot spitalul doar între 13:00 și
 
 ### Ce face spitalul
 
-Bolnavii sunt izolați, iar cei care au stat aproape de ei sunt urmăriți. Toți pacienții secției, medicii și asistentele poartă mască. Pacienții și personalul care au simptome sunt testați. Spitalul a pornit și o anchetă epidemiologică, o verificare prin care încearcă să afle de unde a venit boala. Purtătoarea de cuvânt spune că sunt măsuri obișnuite când apare un focar.
+Bolnavii sunt izolați, iar cei care au stat aproape de ei sunt urmăriți. Toți pacienții secției, medicii și asistentele poartă mască. Pacienții și personalul care au simptome sunt testați. Spitalul a pornit și o anchetă epidemiologică, o verificare prin care încearcă să afle de unde a venit boala.
 > „Pacienții confirmați sunt izolați, contacții direcți ai acestora sunt supravegheați și a fost dispusă purtarea măștii de protecție de către toți pacienții din secție și de personalul medical.” [2]
 > „Pacienții simptomatici și personalul medical cu simptome vor fi testați.” [2]
 > „Imediat după confirmare, reprezentanții spitalului au dispus măsuri pentru limitarea focarului, inclusiv o anchetă epidemiologică pentru stabilirea cauzei acestuia.” [2]
-> „Sunt măsuri standard care se impun în cazul focarelor” [2]
 
 [card: Ce mai face spitalul]
 
