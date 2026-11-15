@@ -61,11 +61,11 @@ Primii șase pacienți sunt bine, spune spitalul. Până miercuri, niciun medic 
 La Spitalul Județean de Urgență Târgu Jiu a apărut un focar de COVID, adică mai multe îmbolnăviri legate între ele, în același loc. Luni, medicii spitalului care se ocupă de prevenirea infecțiilor au anunțat Direcția de Sănătate Publică (DSP) Gorj, instituția statului care urmărește bolile din județ, că 6 pacienți de la secția Medicină Internă 1 au COVID. Miercuri dimineață a fost confirmat al șaptelea caz.
 > „Medicii de la Serviciul de Prevenire a Infecțiilor Asociate Asistenței Medicale (SPIAAM) au raportat, luni, la DSP Gorj existența unui focar de SARS-CoV2 la Secția Medicina Internă 1, fiind 6 cazuri de pacienți infectați, a declarat pentru News.ro purtătorul de cuvânt al Spitalului Județean de Urgență Târgu Jiu, Mihaela Țicleanu.” [1]
 > „Un al șaptelea caz de infecție cu SARS-CoV2 a fost confirmat miercuri dimineață, în spital.” [2]
-> „Șapte pacienți ai Spitalului Județean de Urgență Târgu Jiu au fost diagnosticați, până miercuri, cu COVID.” [3]
+> „Șapte pacienți ai Spitalului Județean de Urgență Târgu Jiu au fost diagnosticați, până miercuri, cu COVID.” [1]
 
 [card: Un focar pe o secție]
 
-Toate informațiile vin de la purtătoarea de cuvânt a spitalului, citată de agenția News.ro. Dintre primii șase pacienți, trei au rămas pe secție, iar trei sunt internați la Boli Infecțioase, secția pentru bolile care se iau de la alți oameni. Starea lor este bună. Pacienții s-au infectat în spital: spitalul încă nu știe de la cine, dar bănuiește că de la un alt pacient sau de la cineva venit în vizită. Până miercuri, niciun medic sau asistent nu se îmbolnăvise.
+Toate informațiile vin de la purtătoarea de cuvânt a spitalului, citată de presă. Dintre primii șase pacienți, trei au rămas pe secție, iar trei sunt internați la Boli Infecțioase, secția pentru bolile care se iau de la alți oameni. Starea lor este bună. Pacienții s-au infectat în spital: spitalul încă nu știe de la cine, dar bănuiește că de la un alt pacient sau de la cineva venit în vizită. Până miercuri, niciun medic sau asistent nu se îmbolnăvise.
 > „Trei dintre pacienți au rămas internați pe secție, alți trei fiind internați la Boli Infecțioase. Starea lor de sănătate este bună.” [2]
 > „Potrivit reprezentantei spitalului, sursa infectărilor este în curs de identificare și sunt afectați doar pacienți, nu și personal medical.” [2]
 > „Se bănuiește că pacienții s-au infectat de la un pacient sau un aparținător.” [2]
@@ -97,4 +97,3 @@ Bolnavii sunt izolați, iar cei care au stat aproape de ei sunt urmăriți. Toț
 
 1. Focar de COVID într-un spital din România. O secție primește doar urgențe, după infectarea a șapte pacienți — Digi24. https://www.digi24.ro/stiri/actualitate/sanatate/focar-de-covid-intr-un-spital-din-romania-o-sectie-primeste-doar-urgente-dupa-infectarea-a-sapte-pacienti-4030901
 2. Focarul de COVID-19 de la Spitalul Județean Târgu Jiu: Șapte pacienți confirmați cu virusul. Ce măsuri au fost luate — Știrile ProTV. https://stirileprotv.ro/stiri/actualitate/focarul-de-covid-19-de-la-spitalul-judetean-targu-jiu-sapte-pacienti-confirmati-cu-virusul-ce-masuri-au-fost-luate.html
-3. Focar de COVID la Spitalul Județean de Urgență Târgu Jiu. Șapte pacienți, confirmați cu infecția cu SARS-CoV-2 — News.ro. https://www.news.ro/social/focar-de-covid-la-spitalul-judetean-de-urgenta-targu-jiu-sapte-pacienti-confirmati-cu-infectia-cu-sars-cov-2-spitalul-a-dispus-masuri-pentru-limitarea-transmiterii-virusului-1922401911282026110922980311
