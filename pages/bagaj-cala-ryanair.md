@@ -1,6 +1,6 @@
 ---
 title: Bagajul de cală, mai devreme
-summary: Din 10 noiembrie, Ryanair închide ghișeele de bagaje cu 60 de minute înainte de zbor, nu cu 40; cât de des zbori și cum te pregătești.
+summary: Din 10 noiembrie, Ryanair închide ghișeele de bagaje cu 60 de minute înainte de zbor, nu cu 40; cât de devreme ajungi tu la aeroport.
 tags: [transport, bani]
 date: 2026-11-10
 image:
@@ -19,7 +19,7 @@ quiz: bagaj-cala-ryanair
 tip: comparație
 - Până pe 10 noiembrie: 40 de minute
 - De la 10 noiembrie: 60 de minute
-înainte de decolare se închid acum ghișeele unde Ryanair primește bagajele de cală, în toate aeroporturile unde zboară compania.
+înainte de decolare se închid acum ghișeele unde Ryanair primește bagajele de cală (valiza mare, care călătorește în burta avionului), în toate aeroporturile unde zboară compania.
 > „Serviciile de preluare a bagajelor (bag drop) se vor închide cu 60 de minute înainte de ora programată de decolare, în loc de 40 de minute. Schimbarea se aplică de marți, 10 noiembrie 2026.” [2]
 > „Noua regulă se aplică în toate aeroporturile în care operează Ryanair.” [2]
 
@@ -32,30 +32,32 @@ dintre pasagerii Ryanair au bagaj de cală, după datele companiei. Cine are doa
 
 ### De ce schimbă compania regula
 tip: text
-Ryanair spune că vrea ca mai puțini oameni să piardă avionul din cauza cozilor de la controlul de securitate sau de la verificarea pașapoartelor, mai ales când aeroporturile sunt aglomerate.
+Ryanair spune că vrea ca mai puțini oameni să piardă avionul din cauza cozilor de la controlul de securitate sau de la verificarea pașapoartelor, mai ales când aeroporturile sunt aglomerate. Pe de altă parte, pasagerii au acum mai puțin timp să-și predea bagajul.
+> „Pasagerii vor avea la dispoziție mai puțin timp pentru a-și preda bagajele înainte de plecare.” [2]
 > „Potrivit reprezentanților companiei, noua regulă ar trebui să reducă numărul pasagerilor care pierd zborurile din cauza cozilor de la controlul de securitate sau de la controlul pașapoartelor, în special în perioadele aglomerate.” [1]
 > „Compania susține că modificarea ar trebui să reducă numărul pasagerilor care pierd avionul din cauza cozilor formate la controlul de securitate sau la verificarea pașapoartelor.” [3]
 
 ### Anunțată din primăvară
 tip: cronologie
-- Aprilie: Ryanair anunță schimbarea
+- Aprilie 2026: Ryanair anunță schimbarea
 - 10 noiembrie: regula nouă se aplică
-Cine are deja bilet cu bagaj de cală trebuie să ajungă mai devreme la aeroport.
+Cine zboară de acum cu bagaj de cală trebuie să-l predea cu cel puțin o oră înainte de decolare.
 > „Compania aeriană low-cost a anunțat schimbarea încă din aprilie.” [1]
+> „Schimbarea se aplică de marți, 10 noiembrie 2026.” [2]
 > „Începând de marți, 10 noiembrie, serviciile de predare a bagajelor din aeroporturi se vor închide cu 60 de minute înainte de ora programată a zborului, față de termenul actual de 40 de minute, potrivit The Independent .” [3]
 > „Astfel, persoanele care au achiziționat servicii de transport pentru bagajele de cală trebuie să se asigure că le-au predat la ghișeele de check-in cu cel puțin o oră înainte de plecarea avionului.” [2]
 
 ### Șeful Ryanair se așteaptă la bilete mai scumpe
 tip: text
-Michael O'Leary, directorul general al Ryanair, crede că în 2027 biletele de avion din Europa se vor scumpi cu 10% până la 20%. Motivele, spune el: combustibilul pentru avioane s-a scumpit din cauza războiului din Iran, iar unele companii aeriene dau faliment sau sunt cumpărate de altele, așa că vor fi mai puține locuri în avioane.
+Michael O'Leary, directorul general al Ryanair, crede că în 2027 biletele de avion din Europa se vor scumpi cu 10% până la 20%. El pune asta pe seama combustibilului mai scump și a faptului că unele companii aeriene dau faliment sau sunt cumpărate de altele, așa că vor fi mai puține locuri în avioane.
 > „Anul viitor, vom asista la o creștere a tarifelor la călătoriile cu avionul în Europa, cred că de ordinul a 10%, 15% poate chiar 20%.” [2]
 > „Potrivit acestuia, tarifele pentru călătoriile aeriene în Europa ar putea crește cu 10-20%, pe fondul reducerii numărului de locuri disponibile în avioane, ca urmare a falimentelor și preluărilor din industria transportului aerian.” [2]
-> „Războiul din Iran a contribuit la creșterea puternică a prețurilor la combustibilul pentru avioane, în principal din cauza blocării efective a traficului prin Strâmtoarea Ormuz.” [3]
+> „Directorul general al companiei, Michael O’Leary, a avertizat că efectele conflictului din Orientul Mijlociu continuă să se reflecte în prețul kerosenului.” [2]
 > „Separat, directorul general al companiei, Michael O’Leary, a avertizat recent că pasagerii din Europa ar putea fi afectați în 2027 de cea mai mare creștere a prețurilor biletelor de avion din istorie.” [1]
 
 ## Articol
 
-Ryanair, o companie aeriană cu bilete ieftine care zboară și din România, a schimbat de marți, 10 noiembrie, ora până la care primește bagajele de cală. Bagajul de cală este valiza mare, care nu intră cu tine în avion, ci se predă la un ghișeu din aeroport și călătorește separat, în burta avionului. Ghișeele se închid acum cu 60 de minute înainte de decolare. Până acum se închideau cu 40 de minute înainte.
+Ryanair, o companie aeriană cu bilete ieftine, a schimbat de marți, 10 noiembrie, ora până la care primește bagajele de cală. Bagajul de cală este valiza mare, care nu intră cu tine în avion, ci se predă la un ghișeu din aeroport și călătorește separat, în burta avionului. Ghișeele se închid acum cu 60 de minute înainte de decolare. Până acum se închideau cu 40 de minute înainte.
 > „Serviciile de preluare a bagajelor (bag drop) se vor închide cu 60 de minute înainte de ora programată de decolare, în loc de 40 de minute. Schimbarea se aplică de marți, 10 noiembrie 2026.” [2]
 > „Ryanair modifică programul de închidere a ghișeelor pentru predarea bagajelor de cală în toate aeroporturile în care operează.” [2]
 
@@ -86,11 +88,12 @@ Adevărul observă, pe de altă parte, că pasagerii au de acum mai puțin timp 
 
 ### Ce urmează pentru prețuri
 
-Separat de regula pentru bagaje, directorul general al Ryanair, Michael O'Leary, a spus la o conferință de presă la Bruxelles că se așteaptă ca biletele de avion din Europa să se scumpească anul viitor cu 10% până la 20%. Este estimarea lui, nu o decizie a companiei.
+Separat de regula pentru bagaje, directorul general al Ryanair, Michael O'Leary, a spus la o conferință de presă la Bruxelles că se așteaptă ca biletele de avion din Europa să se scumpească anul viitor cu 10% până la 20%.
 > „Anul viitor, vom asista la o creștere a tarifelor la călătoriile cu avionul în Europa, cred că de ordinul a 10%, 15% poate chiar 20%.” [2]
 > „Declarațiile au fost făcute în cadrul unei conferințe de presă organizate la Bruxelles, pe fondul creșterii costurilor cu combustibilul pentru avioane.” [3]
 
-El dă două motive. Primul: combustibilul pentru avioane s-a scumpit mult după războiul din Iran, pentru că traficul prin Strâmtoarea Ormuz, pe unde trece mult petrol, este practic blocat. Al doilea: unele companii aeriene dau faliment sau sunt cumpărate de altele, așa că vor fi mai puține locuri în avioane. Ca să-și țină costurile în frâu, Ryanair se gândește să înghețe salariile, să aibă mai puțini oameni în echipajul de la bord și să folosească mai mult inteligența artificială.
+O'Leary spune că efectele conflictului din Orientul Mijlociu se văd încă în prețul combustibilului pentru avioane și că unele companii aeriene dau faliment sau sunt cumpărate de altele, așa că vor fi mai puține locuri în avioane. Presa explică scumpirea combustibilului prin războiul din Iran, care a blocat practic traficul prin Strâmtoarea Ormuz. Ca să-și țină costurile în frâu, Ryanair se gândește să înghețe salariile, să aibă mai puțini oameni în echipajul de la bord și să folosească mai mult inteligența artificială.
+> „Directorul general al companiei, Michael O’Leary, a avertizat că efectele conflictului din Orientul Mijlociu continuă să se reflecte în prețul kerosenului.” [2]
 > „Războiul din Iran a contribuit la creșterea puternică a prețurilor la combustibilul pentru avioane, în principal din cauza blocării efective a traficului prin Strâmtoarea Ormuz.” [3]
 > „O'Leary a estimat că, în următoarele luni, numărul locurilor disponibile pentru călători ar putea scădea, pe măsură ce unele companii aeriene intră în faliment sau sunt preluate de alți operatori.” [3]
 > „Ryanair analizează o serie de măsuri de reducere a costurilor , inclusiv înghețarea salariilor, diminuarea numărului de membri ai echipajului de la bord și extinderea utilizării inteligenței artificiale, în contextul creșterii accelerate a prețurilor la combustibil.” [2]
