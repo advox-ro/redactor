@@ -1,5 +1,3 @@
-- educatie-063
-
 ### În acest an școlar, primește vreun copil din familia ta o bursă școlară?
 
 | id | copil-bursa |
@@ -11,7 +9,7 @@
 
 1. Da
 2. Nu, deși cred că ar avea dreptul
-3. Nu
+3. Nu, și nu cred că ar avea dreptul
 4. Nu știu
 
 ### Cât de mult contează banii din bursă pentru familia ta?
@@ -24,7 +22,7 @@
 | scale | Deloc … Foarte mult |
 | na | Niciun copil din familia mea nu primește bursă |
 
-### Pe ce se duc cei mai mulți bani din bursa copilului, în familia ta?
+### Pe ce se duc, de obicei, cei mai mulți bani din bursele copiilor din familia ta?
 
 | id | pe-ce-se-duc |
 |---|---|
@@ -36,11 +34,24 @@
 1. Rechizite
 2. Haine
 3. Mâncare
-4. Transport
+4. Facturile casei
 5. Meditații
 6. Sunt puși deoparte
-7. Cheltuielile casei
+7. Îi folosește copilul cum vrea
 8. Altceva
+
+### Ce ar trebui să conteze cel mai mult când se dau bursele elevilor?
+
+| id | ce-sa-conteze |
+|---|---|
+| type | single |
+| measures | tradeoff |
+
+1. Rezultatele la învățătură
+2. Venitul familiei
+3. Prezența la ore
+4. Altceva
+5. Nu știu
 
 ### Un elev cu cel puțin 10 absențe nemotivate într-o lună nu primește bursa pe acea lună. Cât de corectă ți se pare această regulă?
 

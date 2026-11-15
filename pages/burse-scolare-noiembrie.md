@@ -1,6 +1,6 @@
 ---
 title: Bursele școlare, pe 20 noiembrie
-summary: Elevii primesc pe 20 noiembrie bursele pe septembrie și octombrie. Cât contează bursa pentru familia ta și cum crezi că ar trebui dată.
+summary: Bursele pe septembrie și octombrie vin pe 20 noiembrie; cât contează ele pentru familia ta și după ce ar trebui date.
 tags: [școală, bani]
 date: 2026-11-11
 image:
@@ -19,7 +19,7 @@ quiz: burse-scolare-noiembrie
 tip: cronologie
 - 7 septembrie: încep cursurile
 - 20 noiembrie: se plătesc septembrie și octombrie
-- 18 decembrie: se plătește noiembrie
+- 18 decembrie: plata pe noiembrie, probabil
 De acum, bursa vine în fiecare lună, pe 20, pentru luna dinainte. Când 20 pică într-o zi liberă, banii vin în ziua de lucru dinainte.
 > „Primele burse din anul școlar 2026-2027 se plătesc vineri, 20 noiembrie 2026.” [1]
 > „Pentru septembrie sunt luate în calcul 18 zile, deoarece cursurile au început luni, 7 septembrie, după primele patru zile lucrătoare ale lunii.” [1]
@@ -32,16 +32,18 @@ tip: comparație
 - De merit: 450 lei
 - Socială: 300 lei
 - Tehnologică: 300 lei
-Sumele sunt aceleași în toată țara, în anul școlar acesta.
+Sumele au fost stabilite de Guvern pentru acest an școlar.
 > „Bursa de merit are un cuantum de 450 de lei pe lună, iar bursa socială și cea tehnologică au fiecare un cuantum de 300 de lei pe lună.” [1]
+> „Valorile pentru anul școlar 2026-2027 sunt prevăzute la art. 6 alin. (1) din metodologie, modificat prin Hotărârea Guvernului nr. 738/2026 .” [1]
 
 ### Cât vine acum, pentru două luni
 tip: comparație
 - De merit: 715,90 lei
 - Socială: 600 lei
 - Tehnologică: 477,26 lei
-Atât primește elevul care a avut dreptul la bursă în ambele luni. Bursa socială vine întreagă; celelalte, doar pe zilele de școală.
+Atât primește elevul care a avut dreptul la bursă în ambele luni, după calculul Edupedu; Digi24 rotunjește bursa de merit la 717 lei. Bursa socială vine întreagă; celelalte, doar pe zilele de școală.
 > „Totalul de plată în noiembrie pentru ambele luni ar fi de 715,90 lei.” [2]
+> „Sumele rezultate sunt de aproximativ 369 de lei pentru septembrie și 348 de lei pentru octombrie, astfel că prima tranșă este estimată la 717 lei.” [1]
 > „Un elev care a avut dreptul la ea în ambele luni primește, așadar, 600 de lei.” [1]
 > „Bursa tehnologică, în valoare de 300 de lei, ar urma să fie 245,45 de lei pe luna septembrie și 231,81 de lei pe luna octombrie. Totalul de plată ar fi 477,26 de lei” [2]
 
@@ -58,18 +60,19 @@ Bursa de merit și cea tehnologică se împart pe zilele lucrătoare și se plă
 ### Absențele pot tăia o lună
 tip: cifră
 - 10
-absențe nemotivate într-o lună pot lăsa elevul fără bursă pe luna aceea. Dacă lipsa a fost din motive de sănătate, actele aduse în șapte zile de la întoarcere îi dau înapoi dreptul.
+absențe nemotivate sau mai multe într-o lună pot lăsa elevul fără bursă pe luna aceea. Dacă lipsa a fost din motive de sănătate, actele aduse în șapte zile de la întoarcere pot să-i dea înapoi dreptul.
 > „Un elev care a acumulat cel puțin 10 absențe nemotivate în octombrie poate primi în prima tranșă doar suma pentru septembrie, dacă a îndeplinit condițiile în acea lună.” [1]
 > „Regula se aplică burselor de merit, sociale și tehnologice.” [1]
 > „Dacă absențele au avut cauze medicale, dreptul la bursă poate fi restabilit prin prezentarea documentelor necesare pentru motivarea lor, în termen de șapte zile de la reluarea activității elevului.” [1]
 
 ### Cine primește bursa
 tip: listă
-- De merit: elevii de gimnaziu și liceu cu media de cel puțin 9
-- Socială: elevii din familii cu venituri mici, orfanii, copiii în plasament, cei bolnavi
+- De merit: de regulă, cei mai buni 15% din clasă, cu media de cel puțin 9
+- Socială: printre alții, elevii din familii cu venituri mici, cei care și-au pierdut un părinte, copiii în plasament, elevii cu anumite boli
 - Tehnologică: elevii din școlile profesionale
-Pentru bursa de merit și cea tehnologică nu e nevoie de cerere: îi propune dirigintele. Pentru bursa socială, familia depune cerere și acte.
+Pentru bursa de merit și cea tehnologică nu e nevoie de cerere: îi propune dirigintele. Pentru bursa socială, familia depune de obicei cerere și acte.
 > „Bursa de merit se acordă elevilor de gimnaziu și liceu cu o medie de cel puțin 9,00.” [1]
+> „Numărul beneficiarilor se stabilește, ca regulă generală, prin aplicarea procentului de 15% la efectivul fiecărei clase, cu rotunjire în sus.” [1]
 > „Bursa socială se acordă, între altele, elevilor din familii cu venituri sub plafonul legal, celor cu unul sau ambii părinți decedați, copiilor aflați în plasament și celor care îndeplinesc criteriile medicale prevăzute de metodologie.” [1]
 > „Bursa tehnologică este destinată elevilor înscriși în învățământul profesional, la calificări de nivel 3, în condițiile stabilite de metodologie.” [1]
 > „Bursa se acordă la propunerea dirigintelui, fără cerere.” [1]
@@ -79,7 +82,7 @@ Pentru bursa de merit și cea tehnologică nu e nevoie de cerere: îi propune di
 ### Pe card sau în numerar
 tip: listă
 - Prin transfer în cont
-- Sau în numerar, la școală
+- Sau în numerar, după caz
 Școala nu te poate obliga să deschizi cont la o anumită bancă. Banii pot apărea în cont mai târziu, după cât lucrează banca.
 > „Bursele pot fi încasate prin transfer bancar sau în numerar, după caz.” [1]
 > „Dacă plata se face prin virament, școala nu poate impune deschiderea unui cont la o anumită bancă.” [1]
@@ -91,7 +94,7 @@ Elevii care au bursă primesc primii bani din acest an școlar vineri, 20 noiemb
 > „Primele burse din anul școlar 2026-2027 se plătesc vineri, 20 noiembrie 2026.” [1]
 > „Școlile vor achita într-o singură tranșă drepturile aferente lunilor septembrie și octombrie.” [1]
 
-De ce abia în noiembrie? La începutul anului școlar, școlile trimit până pe 20 octombrie lista elevilor cu bursă la inspectoratul școlar, instituția care conduce școlile din județ. Inspectoratele trimit apoi ministerului, până pe 25 octombrie, câți elevi au fiecare fel de bursă și câți bani trebuie. Pentru primele două luni, regulile stabilesc o singură zi de plată, 20 noiembrie.
+Plata vine în noiembrie din cauza calendarului. La începutul anului școlar, școlile trimit până pe 20 octombrie lista elevilor cu bursă la inspectoratul școlar, instituția care coordonează școlile din județ. Inspectoratele trimit apoi ministerului, până pe 25 octombrie, câți elevi au fiecare fel de bursă și câți bani trebuie. Pentru primele două luni, regulile stabilesc o singură zi de plată, 20 noiembrie.
 > „La începutul fiecărui an școlar, unitățile de învățământ transmit inspectoratelor, până la 20 octombrie, prima listă a beneficiarilor.” [1]
 > „Inspectoratele comunică apoi Ministerului Educației și Cercetării, până la 25 octombrie, numărul elevilor pe categorii de burse și sumele estimate pentru septembrie și octombrie.” [1]
 > „Pentru aceste două luni, metodologia stabilește un termen comun de plată, pe 20 noiembrie.” [1]
@@ -111,8 +114,9 @@ Bursa de merit e de 450 de lei pe lună. Bursa socială și cea tehnologică sun
 
 [card: Cât e bursa pe lună]
 
-Bursa socială se dă și în vacanțe. În vară, ministerul propusese ca ea să se dea doar în perioada cursurilor, dar Guvernul a renunțat la schimbare. Așa că un elev care a avut dreptul la bursa socială în ambele luni primește acum 600 de lei.
+Bursa socială se dă și în vacanțe. În vară, ministerul propusese ca ea să se dea doar în perioada cursurilor. Edupedu a scris atunci că schimbarea ar fi tăiat bursele sociale în vacanțe. Guvernul a renunțat la ea. Așa că un elev care a avut dreptul la bursa socială în ambele luni primește acum 600 de lei.
 > „În forma pusă în consultare publică, Ministerul Educației și Cercetării propunea ca bursele sociale să fie acordate numai în perioada cursurilor școlare, nu și în vacanțe, așa cum se întâmpla anterior.” [2]
+> „Edupedu.ro a scris că această modificare ar fi dus la tăierea burselor sociale pe perioada vacanțelor școlare .” [2]
 > „Bursa socială se acordă și în vacanțe, deoarece Guvernul a renunțat la modificarea propusă în vară.” [1]
 > „Un elev care a avut dreptul la ea în ambele luni primește, așadar, 600 de lei.” [1]
 
@@ -136,7 +140,7 @@ Cu această regulă, Edupedu, o publicație despre educație, scrie că bursa de
 
 ### Absențele contează
 
-Dreptul la bursă se verifică pentru fiecare lună. Un elev cu cel puțin 10 absențe nemotivate în octombrie poate primi acum doar banii pe septembrie. Regula e aceeași pentru toate cele trei burse. Dacă absențele au fost din motive de sănătate, dreptul la bursă revine dacă familia aduce actele care le motivează, în șapte zile de la întoarcerea elevului la școală.
+Dreptul la bursă se verifică pentru fiecare lună. Un elev cu cel puțin 10 absențe nemotivate în octombrie poate primi acum doar banii pe septembrie. Regula e aceeași pentru toate cele trei burse. Dacă absențele au fost din motive de sănătate, dreptul la bursă poate fi recâștigat cu actele care le motivează, aduse în șapte zile de la întoarcerea elevului la școală.
 > „Dreptul la bursă se verifică pentru fiecare lună în parte.” [1]
 > „Un elev care a acumulat cel puțin 10 absențe nemotivate în octombrie poate primi în prima tranșă doar suma pentru septembrie, dacă a îndeplinit condițiile în acea lună.” [1]
 > „Regula se aplică burselor de merit, sociale și tehnologice.” [1]
@@ -165,7 +169,7 @@ Bursa tehnologică e pentru elevii din învățământul profesional, școlile c
 
 [card: Cine primește bursa]
 
-Elevii din clasa a V-a nu au încă medii la gimnaziu, așa că lista lor pentru bursa de merit se face în ianuarie 2027. Prima lor plată, pentru ianuarie, e programată vineri, 19 februarie 2027. Bursa socială o primesc după calendarul obișnuit.
+Elevii din clasa a V-a abia încep gimnaziul, așa că lista lor pentru bursa de merit se face în ianuarie 2027. Prima lor plată, pentru ianuarie, e programată vineri, 19 februarie 2027. Bursa socială o primesc după calendarul obișnuit.
 > „Pentru elevii din clasa a V-a, lista beneficiarilor bursei de merit se stabilește în ianuarie 2027, pe baza rezultatelor din primele două intervale de cursuri.” [1]
 > „Prima plată acoperă drepturile aferente lunii ianuarie și este programată vineri, 19 februarie 2027, deoarece data de 20 va fi sâmbătă.” [1]
 > „Elevii din clasa a V-a care beneficiază de bursă socială urmează calendarul general de plată.” [1]
