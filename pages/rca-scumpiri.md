@@ -43,7 +43,7 @@ Așa arată tarifele de referință pentru o mașină cu motor între 76 și 100
 ### Un reper pentru prețuri
 tip: cifră
 - 12%
-au crescut, aproximativ, tarifele de referință publicate de ASF, autoritatea care supraveghează asigurările. Asigurătorii își fac prețurile pornind de la ele.
+au crescut, aproximativ, tarifele de referință publicate de ASF, autoritatea care supraveghează asigurările. Sunt un reper pentru prețurile din piață.
 > „Un reper pentru piața asigurărilor îl reprezintă tarifele de referință publicate de Autoritatea de Supraveghere Financiară (ASF). Și acestea au înregistrat o creștere de aproximativ 12%, iar diferențele de preț în funcție de vârsta șoferului și zona în care este înmatriculată mașina sunt considerabile.” [2]
 
 ### De ce se scumpește
