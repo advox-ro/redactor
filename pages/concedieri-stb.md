@@ -1,6 +1,6 @@
 ---
 title: Concedieri la STB
-summary: STB, compania de autobuze, tramvaie și troleibuze din București, a trimis preaviz de concediere la 796 de angajați. Cum vezi transportul.
+summary: STB, compania de autobuze, tramvaie și troleibuze din București, a trimis preavize de concediere pentru 796 de angajați.
 tags: [transport, muncă, județ]
 date: 2026-11-11
 counties: [B]
