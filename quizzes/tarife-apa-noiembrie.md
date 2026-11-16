@@ -1,17 +1,17 @@
-### Știi cât plătești pentru un metru cub de apă acolo unde locuiești?
+### Te uiți pe factură la cât costă metrul cub de apă?
 
-| id | stii-pretul |
+| id | te-uiti-pe-factura |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Nu plătesc eu apa |
+| na | Nu plătesc eu apa de la rețea |
 
-1. Da, știu exact
-2. Știu aproximativ
-3. Nu știu
+1. Da, de fiecare dată
+2. Uneori
+3. Niciodată
 
-### Cât de mulțumit(ă) ești de prețul pe care îl plătești pentru apa de la rețea?
+### Cât de mulțumit(ă) ești de prețul apei de la rețea în localitatea ta?
 
 | id | multumit-pret |
 |---|---|
@@ -22,7 +22,7 @@
 | na | Nu am apă de la rețea |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### În ultimele 12 luni, cât de greu ți-a fost să plătești la timp factura la apă?
+### În ultimele 12 luni, cât de greu ți-a fost să plătești apa, pe factură sau în întreținere?
 
 | id | greu-de-platit |
 |---|---|
@@ -30,17 +30,16 @@
 | measures | experience |
 | where | romania |
 | scale | Foarte ușor … Foarte greu |
-| na | Nu plătesc eu apa |
+| na | Nu plătesc eu apa de la rețea |
 | outlook | 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1 |
 
-### În ultimele 12 luni, ai folosit mai puțină apă ca să plătești mai puțin?
+### Cât de corect ți se pare ca prețul apei să difere mult de la o localitate la alta?
 
-| id | mai-putina-apa |
+| id | pret-diferit |
 |---|---|
-| type | yesno |
-| measures | experience |
-| where | romania |
-| na | Nu plătesc eu apa |
+| type | scale |
+| measures | opinion |
+| scale | Deloc corect … Foarte corect |
 
 ### Cum crezi că se va schimba prețul apei în localitatea ta în următoarele 12 luni?
 
@@ -50,10 +49,11 @@
 | measures | expectation |
 | where | romania |
 | na | Nu am apă de la rețea |
-| outlook | a: 1, b: 0, c: -0.5, d: -1, e: 0 |
+| outlook | a: 1, b: 0.5, c: 0, d: -0.5, e: -1, f: 0 |
 
-1. Va scădea
-2. Va rămâne la fel
-3. Va crește puțin
-4. Va crește mult
-5. Nu știu
+1. Va scădea mult
+2. Va scădea puțin
+3. Va rămâne la fel
+4. Va crește puțin
+5. Va crește mult
+6. Nu știu
