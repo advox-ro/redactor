@@ -28,38 +28,42 @@ tip: text
 Pârâul Corund a inundat mina în mai 2025. De atunci, salina nu mai primește turiști și nu mai scoate sare.
 > „Salina Praid și-a întrerupt activitatea în mai 2025, după ce apele pârâului Corund au inundat exploatarea subterană. Incidentul a afectat grav mina și a pus capăt activității turistice și de exploatare desfășurate acolo.” [2]
 
-### Cine pleacă
+### De unde sunt cei concediați
 tip: comparație
 - Praid, Ocna de Jos și Ocna de Sus: 55
 - Județul Mureș: 4
 - Județul Cluj: 1
-Toți lucrau în subteran: agenți de control al accesului, șoferi, operatori, casieri.
+Cei mai mulți sunt din satele de lângă salină. Toți lucrau în subteran.
 > „Sunt agenți control-acces, șoferi, operatori, casieri…, deci o gamă largă de ocupații. Sunt din Praid, Ocna de Jos și Ocna de Sus majoritatea, 55 de persoane. 4 salariați sunt din județul Mureș și 1 din județul Cluj.” [1]
 > „Toți cei 60 de salariați vizați lucrau în subteranul Salinei Praid.” [2]
 
-### Un an de salariu redus
+### Un an în șomaj tehnic
 tip: text
-De mai bine de un an, angajații au fost în șomaj tehnic, adică acasă, plătiți cu 80% din salariul de bază.
+De mai bine de un an, angajații au fost în șomaj tehnic: nu au lucrat și au fost plătiți cu 80% din salariul de bază.
 > „De mai bine de un an, angajații Salinei din Praid au fost în șomaj tehnic și au fost remunerați cu 80% din salariul de bază.” [1]
 
 ### Ce primesc cei concediați
 tip: listă
-- Plăți compensatorii: între 8 și 12 salarii, după vechime
-- Ajutor de șomaj: 660 de lei pe lună, plus 3–10% din salariul mediu
+- Plăți compensatorii: între 8 și 12 salarii, după vechime, potrivit sindicatului
+- Ajutor de șomaj: 660 de lei pe lună, plus 3–10% din salariul lor din ultimul an
 Ajutorul de șomaj se dă între șase luni și un an, celor care îndeplinesc condițiile.
 > „În funcție de vechime, vor fi între 8-10 și 12 salarii compensatorii.” [1]
 > „Cei care se califică vor primi ajutor de șomaj între șase luni și un an, câte 660 de lei pe lună, la care se adaugă între 3 și 10% din media salariului din ultimul an.” [1]
 
 ### Puține locuri de muncă în zonă
 tip: text
-Agenția pentru locuri de muncă din Harghita are, în fiecare zi, sub 30 de locuri libere. Cele mai apropiate sunt, în cel mai bun caz, la Odorheiu Secuiesc.
+Agenția pentru locuri de muncă din Harghita le-a arătat angajaților o ofertă de sub 30 de locuri pe zi. Cele mai apropiate locuri de muncă sunt, în cel mai bun caz, la Odorheiu Secuiesc.
 > „Specialiștii AJOFM au oferit la începutul acestei luni servicii de preconcediere angajaților de la Salina Praid și au prezentat oferta de locuri de muncă care este, zilnic, sub 30 de locuri de muncă.” [1]
 > „Una dintre principalele probleme pentru persoanele care vor rămâne fără serviciu este numărul redus de oportunități profesionale din zonă. Potrivit reprezentantei AJOFM Harghita, cele mai apropiate variante de angajare se găsesc, în cel mai bun caz, la Odorheiu Secuiesc.” [2]
 
 ## Articol
 
-Salina Praid, din județul Harghita, concediază 60 de oameni din cei 125 pe care îi are. Concedierile încep pe 23 și 24 noiembrie. Salina a anunțat-o la Agenția Județeană pentru Ocuparea Forței de Muncă (AJOFM) Harghita, instituția statului care se ocupă de locurile de muncă și de șomerii din județ.
+Salina Praid, din județul Harghita, concediază 60 de oameni din cei 125 pe care îi are. Salina ține de Societatea Națională a Sării, o companie a statului. Concedierile încep pe 23 și 24 noiembrie. Salina a anunțat-o la Agenția Județeană pentru Ocuparea Forței de Muncă (AJOFM) Harghita, instituția statului care se ocupă de locurile de muncă și de șomerii din județ.
 > „Salina Praid ne-a notificat că dintr-un număr de 125 de salariați vor fi disponibilizați colectiv 60 de salariați începând cu 23-24 noiembrie.” [1]
+> „Salina Praid va pierde 60 de angajați în luna noiembrie 2026, după ce Societatea Națională a Sării a notificat Agenția Județeană pentru Ocuparea Forței de Muncă (AJOFM) Harghita cu privire la reducerea personalului.” [2]
+
+Pentru oamenii din zonă, salina și turiștii care vin la ea sunt o sursă importantă de venit.
+> „Disponibilizarea celor 60 de salariați reprezintă o nouă lovitură pentru comunitatea locală, care depinde în mare măsură de activitatea economică generată de salină și de turismul asociat acesteia.” [2]
 
 [card: 60 de oameni își pierd locul de muncă]
 
@@ -68,26 +72,28 @@ Salina Praid, din județul Harghita, concediază 60 de oameni din cei 125 pe car
 Salina nu mai funcționează din mai 2025, când a fost inundată de apele pârâului Corund. Inundația a afectat grav mina și a oprit atât vizitele turiștilor, cât și scoaterea sării.
 > „Salina Praid și-a întrerupt activitatea în mai 2025, după ce apele pârâului Corund au inundat exploatarea subterană. Incidentul a afectat grav mina și a pus capăt activității turistice și de exploatare desfășurate acolo.” [2]
 
+[card: Salina e închisă din mai 2025]
+
 De mai bine de un an, angajații au fost în șomaj tehnic: nu au lucrat și au primit 80% din salariul de bază.
 > „De mai bine de un an, angajații Salinei din Praid au fost în șomaj tehnic și au fost remunerați cu 80% din salariul de bază.” [1]
 
-[card: Salina e închisă din mai 2025]
+[card: Un an în șomaj tehnic]
 
 ### Cine pleacă
 
-Toți cei 60 lucrau în subteranul salinei. Cei mai mulți îi primeau direct pe turiști: agenți de control al accesului, șoferi, operatori, casieri. 55 sunt din Praid, Ocna de Jos și Ocna de Sus, 4 din județul Mureș și unul din județul Cluj.
+Toți cei 60 lucrau în subteranul salinei, iar cei mai mulți îi primeau direct pe turiști. Au meserii diferite: agenți de control al accesului, șoferi, operatori, casieri. 55 sunt din Praid, Ocna de Jos și Ocna de Sus, 4 din județul Mureș și unul din județul Cluj.
 > „Toți cei 60 de salariați vizați lucrau în subteranul Salinei Praid.” [2]
 > „Majoritatea angajaților vizați deserveau direct turiștii în subteranul Salinei.” [1]
 > „Sunt agenți control-acces, șoferi, operatori, casieri…, deci o gamă largă de ocupații. Sunt din Praid, Ocna de Jos și Ocna de Sus majoritatea, 55 de persoane. 4 salariați sunt din județul Mureș și 1 din județul Cluj.” [1]
 
-[card: Cine pleacă]
+[card: De unde sunt cei concediați]
 
 Cei mai mulți sunt încă la vârsta la care lucrează. Patru sau cinci dintre ei ar putea ieși la pensie în cel mult un an.
 > „Cei mai mulți sunt încă la vârstă activă, în timp ce patru sau cinci dintre ei ar urma să îndeplinească în cel mult un an condițiile pentru pensionare.” [2]
 
 ### Ce primesc
 
-Potrivit liderului de sindicat de la salină, cei concediați primesc plăți compensatorii, după contractul colectiv de muncă: între 8 și 12 salarii, în funcție de vechime. Cei care îndeplinesc condițiile primesc și ajutor de șomaj, între șase luni și un an: 660 de lei pe lună, plus între 3% și 10% din salariul mediu din ultimul an.
+Potrivit liderului de sindicat de la salină, cei concediați primesc plăți compensatorii, după contractul colectiv de muncă: între 8 și 12 salarii, în funcție de vechime. Cei care îndeplinesc condițiile primesc și ajutor de șomaj, între șase luni și un an: 660 de lei pe lună, plus între 3% și 10% din salariul lor mediu din ultimul an.
 > „E prevăzut în Contractul Colectiv de Muncă, cei care se duc în concediere colectivă o să primească plăți compensatorii, în ultima zi de preaviz, așa am înțeles. În funcție de vechime, vor fi între 8-10 și 12 salarii compensatorii.” [1]
 > „Cei care se califică vor primi ajutor de șomaj între șase luni și un an, câte 660 de lei pe lună, la care se adaugă între 3 și 10% din media salariului din ultimul an.” [1]
 
@@ -98,7 +104,7 @@ Cei care rămân la salină speră să lucreze la refacerea minei și la deviere
 
 ### Unde se pot angaja
 
-Pe 3 noiembrie, specialiștii AJOFM s-au întâlnit cu angajații și le-au explicat ce drepturi au ca șomeri și ce locuri de muncă și cursuri există. Agenția are zilnic sub 30 de locuri de muncă libere. Reprezentanta ei spune că în zonă sunt prea puține locuri de muncă și că cele mai apropiate sunt, în cel mai bun caz, la Odorheiu Secuiesc.
+Pe 3 noiembrie, specialiștii AJOFM s-au întâlnit cu angajații și le-au explicat ce drepturi au ca șomeri și ce locuri de muncă și cursuri există. Oferta de locuri de muncă prezentată atunci era de sub 30 de locuri pe zi. Reprezentanta ei spune că în zonă sunt prea puține locuri de muncă și că cele mai apropiate sunt, în cel mai bun caz, la Odorheiu Secuiesc.
 > „Pe 3 noiembrie, specialiștii agenției s-au întâlnit cu angajații și le-au explicat ce drepturi vor avea după intrarea în șomaj, dar și ce posibilități de angajare și de formare profesională există.” [2]
 > „Specialiștii AJOFM au oferit la începutul acestei luni servicii de preconcediere angajaților de la Salina Praid și au prezentat oferta de locuri de muncă care este, zilnic, sub 30 de locuri de muncă.” [1]
 > „Una dintre principalele probleme pentru persoanele care vor rămâne fără serviciu este numărul redus de oportunități profesionale din zonă. Potrivit reprezentantei AJOFM Harghita, cele mai apropiate variante de angajare se găsesc, în cel mai bun caz, la Odorheiu Secuiesc.” [2]
