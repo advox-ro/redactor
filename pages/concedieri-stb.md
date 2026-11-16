@@ -1,10 +1,10 @@
 ---
 title: Concedieri la STB
-summary: STB, compania de autobuze, tramvaie și troleibuze din București, concediază 880 de oameni. Cum vezi tu transportul din oraș.
+summary: STB, compania de autobuze, tramvaie și troleibuze din București, a trimis preavize de concediere pentru 796 de angajați.
 tags: [transport, muncă, județ]
-date: 2026-11-07
+date: 2026-11-11
 counties: [B]
-stat: { value: "880", label: "de angajați ai STB vor fi concediați până la sfârșitul anului", quote: "STB pregătește concedierea a 880 de angajați până la sfârșitul anului 2026.", source: 5 }
+stat: { value: "796", label: "de angajați ai STB au primit preaviz de concediere pe 11 noiembrie", quote: "Societatea de Transport București (STB) a emis miercuri 796 de preavize de concediere", source: 6 }
 image:
   src: /photos/concedieri-stb.jpg
   alt: Un șir de autobuze albastre ale STB, parcate în autobaza Militari
@@ -17,126 +17,149 @@ quiz: concedieri-stb
 
 ## Carduri
 
-### 880 de oameni pleacă de la STB
+### 796 de oameni au primit preaviz
 tip: cifră
-- 880
-de angajați vor fi concediați până la sfârșitul anului de Societatea de Transport București (STB), compania care are autobuzele, tramvaiele și troleibuzele orașului.
-> „STB pregătește concedierea a 880 de angajați până la sfârșitul anului 2026.” [5]
+- 796
+de angajați ai Societății de Transport București (STB), compania cu autobuzele, tramvaiele și troleibuzele orașului, au primit preaviz de concediere pe 11 noiembrie. Preavizul îi anunță pe angajați că vor fi concediați după o perioadă stabilită.
+> „Societatea de Transport București (STB) a emis miercuri 796 de preavize de concediere și va desființa alte 919 posturi vacante, în cadrul unui proces de reorganizare, în condițiile în care compania înregistrează datorii de peste 3 miliarde de lei, a anunțat Remus Borza, reprezentantul consorțiului de administratori judiciari.” [6]
+> „"Azi, 11 noiembrie 2026, am comunicat un număr de 796 de preavize de concediere, corelativ cu desființarea unui număr echivalent de posturi din organigrama STB.” [6]
 
-### Pe listă sunt și oameni de la volan
-tip: voci
-- Observator: aproape 200 de șoferi și vatmani
-- Știrile ProTV: peste 100 de șoferi și vatmani
-Cei mai mulți sunt de la birouri și din serviciile auxiliare, scrie Știrile ProTV. Sindicatele spun că doar puțini sunt de la birouri, iar restul sunt muncitori.
-> „Din cei 880 de angajați ce vor fi concediați, aproape 200 sunt șoferi și vatmani.” [2]
-> „Printre angajații care urmează să fie disponibilizați se numără și peste 100 de șoferi de autobuz și vatmani.” [1]
-> „Dintre acestea, în jur de 900 vor fi eliminate prin concedieri colective, cele mai multe din rândul personalului administrativ și auxiliar.” [1]
-> „Sindicaliștii au transmis că, din unele informații, din cei 800 de angajați, doar puțini sunt din TESA, restul sunt muncitori, ceea ce îi nemulțumește, sunt revoltați și nu exclud organizarea unui protest sau să facă pașii pentru o grevă în perioada următoare.” [4]
+### Dispar și posturi libere
+tip: listă
+- Posturi ale celor concediați: 796
+- Posturi libere: 919
+- Posturi care rămân: 8.428
+Organigrama, lista tuturor posturilor din firmă, scade cu 1.715 posturi, la 8.428. Un post liber nu are pe nimeni pe el.
+> „"Azi, 11 noiembrie 2026, am comunicat un număr de 796 de preavize de concediere, corelativ cu desființarea unui număr echivalent de posturi din organigrama STB. Prin noua organigramă, se desființează și un număr de 919 posturi vacante, astfel încât numărul de posturi ce vor rămâne după încheierea acestui proces de reorganizare să fie 8.428", a declarat Remus Borza, reprezentantul consorțiului de administratori judiciari format din Euro Insol, Ceres Insolv și Turmac Insolvency, într-un comunicat.” [6]
+> „După finalizarea reorganizării, organigrama STB va cuprinde 8.428 de posturi, în urma eliminării a 1.715 posturi” [7]
+
+### Ce posturi dispar
+tip: listă
+- Casieri: 58 din 374
+- Lăcătuși mecanici: 69 din 442
+- Sudori: 37 din 138
+- Economiști și contabili: 28 din 293
+Sunt câteva dintre posturile desființate. Administratorul judiciar, care a anunțat concedierile, spune că unele meserii nu mai sunt necesare, iar altele au prea mulți oameni față de nevoi.
+> „Astfel, se desființează 58 posturi de casier din 374, 28 posturi de economist și contabil din 293, 37 posturi de sudor din 138, 69 posturi de lăcătuș mecanic din 442, 10 posturi de electrician întreținere din 166, 16 posturi de mecanic auto din 290, 23 de posturi de repartizor, 7 posturi de consilier juridic din 40, 30 posturi referent de specialitate din 109" , a explicat acesta.” [6]
+> „"Concedierea colectivă urmărește desființarea unor posturi ce corespund unor meserii redundante. Astfel, se desființează 24 de posturi de curier, 12 posturi de fochist din 88, 17 posturi de statistician, 4 posturi de legător manual, 44 de posturi de operator introducere validare date (studii medii) din 145, 13 posturi referent (studii medii).” [6]
+> „Concedierea vizează și reducerea unor posturi aferente unor meserii excesiv reprezentate în organigramă față de nevoile reale ale Societății.” [6]
+
+### Pleacă și oameni de la volan
+tip: listă
+- Șoferi de autobuz și troleibuz: 120 din 3.508
+- Vatmani: 50 din 850
+Administratorul judiciar spune că printre ei sunt oameni cu abateri disciplinare, cercetați penal pentru presupus furt de combustibil, găsiți sub influența alcoolului sau declarați inapți medical. Articolele despre aceste preavize nu redau un răspuns al sindicatului.
+> „Astfel, s-au emis: 120 preavize de concediere pentru conducători autobuze și troleibuze din 3.508 și 50 preavize de concediere pentru vatmani din 850 de posturi" , a precizat Borza.” [6]
+> „Potrivit lui Remus Borza, printre angajații care au primit preavize se numără persoane cu abateri disciplinare, cercetate penal pentru furt de combustibil, declarate inapte medical sau depistate sub influența alcoolului.” [8]
+> „Potrivit lui Remus Borza, măsurile care vizează personalul de conducere a vehiculelor au în vedere angajați pentru care compania invocă abateri disciplinare, cercetări penale pentru presupuse furturi de combustibil, certificate de inaptitudine sau alte nereguli.” [7]
 
 ### Vor trece autobuzele la fel de des?
 tip: voci
-- STB: circulația nu va fi afectată, numărul curselor rămâne același
-- Sindicatul STB: încă câteva sute de oameni vor pleca, iar călătorii vor avea de suferit
-Cele două părți spun lucruri diferite despre ce urmează.
-> „Societatea de Transport București transmite că circulația mijloacelor de transport public nu va fi afectată.” [3]
-> „Conducerea STB dă însă asigurări că aceste concedieri nu vor afecta transportul public și că numărul curselor va rămâne neschimbat” [1]
+- Administratorul judiciar: programul nu e afectat, iar vehiculele vor trece mai des la orele de vârf
+- Sindicatul STB, înainte de preavize: încă câteva sute de oameni vor pleca, iar călătorii vor avea de suferit
+Compania are 4.358 de șoferi și vatmani pentru aproximativ 1.250 de vehicule pe zi, spune administratorul judiciar. Sindicatul a vorbit când pe listă erau aproape 200 de șoferi și vatmani; au primit preaviz 170.
+> „STB susține că reducerea numărului de șoferi și vatmani nu va afecta programul de transport, în condițiile în care compania are 4.358 de angajați în aceste categorii profesionale și pune zilnic în circulație aproximativ 1.250 de autobuze, troleibuze și tramvaie.” [7]
+> „Concedierile vizează și 170 de șoferi și vatmani, pentru care au fost emise 120 de preavize în cazul conducătorilor de autobuze și troleibuze și 50 de preavize în cazul vatmanilor.” [7]
+> „“Prin masurile de digitalizare și eficientizare a activitatii pe care le implementam in acest moment, vom creste frecventa vehiculelor in trafic, cu precadere in orele de varf, vom reduce timpii de asteptare in statii si vom creste gradul de confort si siguranta a calatorilor”, transmite compania.” [7]
 > „"M-au sunat zeci de colegi că dacă se va intampla să concedieze aproape 200 de conducatori autobuz deja se gândesc să plece.” [2]
 > „Deci pe lângă acei 200 vă garantez că vor mai pleca încă câteva sute de oameni.” [2]
 > „Vor suferi călătorii, până la urmă", a declarat Valer Ciobănescu , președinte al sindicatului STB.” [2]
 
-### Cum au fost aleși
-tip: voci
-- STB: după performanță, abateri disciplinare și vechime
-- Administratorul judiciar: și cei cu dosare penale, de exemplu pentru furt de combustibil
-- Sindicatul: contestă criteriile
-Administratorul judiciar înseamnă firmele numite de tribunal să conducă STB cât e în insolvență. Sindicaliștii nu exclud un protest sau o grevă.
-> „Remus Borza, reprezentant al Euro Insol, una dintre firmele desemnate administrator provizoriu, a anunțat că restructurarea va viza mai multe aspecte ale activității STB.” [5]
-> „STB anunță că a avut în vedere mai multe criterii de selecție atunci când au decis lista angajaților care își vor pierde locurile de muncă: au ținut cont de performanța lor, de numărul abaterilor disciplinare și de vechimea în muncă .” [3]
-> „Potrivit administratorului judiciar, sunt vizați salariați cu rezultate slabe la evaluări, abateri disciplinare sau cei implicați în dosare penale, cum ar fi cele privind furtul de combustibil.” [1]
-> „Sindicaliștii contestă criteriile după care au fost selectați angajații care vor fi concediați și sunt nemulțumiri de salariile compensatorii pe care ar urma să le primească.” [1]
-> „sunt revoltați și nu exclud organizarea unui protest sau să facă pașii pentru o grevă în perioada următoare.” [4]
-
 ### Câți bani primesc cei concediați
 tip: voci
-- Observator: între două și patru salarii, după vechime
+- Administratorul judiciar: între 20.000 și 40.000 de lei, după vechime
 - Sindicatul: contractul colectiv prevedea până la 20 de salarii, acum se dau cel mult 4
-Salariile compensatorii sunt bani dați la plecare. Câte primește fiecare depinde de câți ani a lucrat la STB.
+Salariile compensatorii sunt bani dați la plecare. La începutul lui noiembrie, sindicatele spuneau că vor fi între 2 și 4 salarii, după vechime. STB spune că sindicatul a fost consultat tot timpul.
+> „Angajații disponibilizați vor beneficia de salarii compensatorii cuprinse între 20.000 și 40.000 de lei, în funcție de vechime, potrivit informațiilor transmise de STB.” [7]
+> „Compania precizează că sindicatul reprezentativ din STB a fost consultat permanent pe parcursul procesului de restructurare.” [7]
 > „Deși contractul colectiv de muncă spunea, în funcție de vechime, să primească 20, 18, 16 salarii compensatorii” [1]
-> „Fiecare angajat dat afară o să primească salarii compensatorii în funcție de vechime.” [2]
-> „Angajații dați afară pot primi între două și maximum patru salarii compensatorii.” [2]
 > „Varianta creată a fost doar de 4 salarii.” [1]
-
-### Ce urmează
-tip: cronologie
-- Septembrie: STB intră în insolvență
-- 9 noiembrie: primele preavize, după sindicat
-- 17 decembrie: concedierile ar trebui să se încheie
-Insolvența e procedura pentru o firmă care nu-și mai poate plăti datoriile. În preaviz, perioada dinainte de plecare, cei concediați lucrează doar 4 ore pe zi, 20 de zile lucrătoare.
-> „Societatea de Transport București a intrat în insolvență în luna septembrie, după ce a acumulat datorii de peste 1,5 miliarde de lei.” [1]
-> „Primele preavize vor fi înmânate săptămâna viitoare, potrivit liderului sindical Vasile Petrariu.” [5]
-> „Aproximativ 880 de angajați se află pe listele de concediere colectivă, iar primele preavize ar urma să fie transmise începând de luni, 9 noiembrie.” [5]
 > „Potrivit sindicatelor, concedierile colective ar trebui finalizate până pe 17 decembrie, iar angajații ale căror posturi dispar ar putea primi între 2 și 4 salarii compensatorii, în funcție de vechime.” [4]
-> „Astfel că, de săptămâna viitoare, angajații vor intra în preaviz și, așa cum prevede legea, vor lucra doar 4 ore zilnic timp de 20 de zile lucrătoare.” [3]
 
 ### De ce: datoriile
 tip: listă
 - La intrarea în insolvență, în septembrie: peste 1,5 miliarde de lei
 - Acum, după administratorul judiciar: peste 3 miliarde de lei
-Așa scrie Știrile ProTV. Datoriile au crescut de la intrarea în insolvență, potrivit administratorului judiciar.
+Insolvența e procedura pentru o firmă care nu-și mai poate plăti datoriile. Administratorul judiciar, firmele numite de tribunal pentru STB în acest timp, spune că fără tăieri STB riscă falimentul.
+> „Societatea de Transport București (STB), operatorul de transport public al Capitalei, a transmis 796 de preavize de concediere și va elimina alte 919 posturi vacante din organigramă, în cadrul unui proces de restructurare care vine pe fondul unei situații financiare dificile, compania având datorii de peste 3 miliarde de lei și pierderi de 765 de milioane de lei în primele zece luni din 2026.” [7]
+> „"Societatea de Transport București S.A. traversează o perioadă extrem de dificilă din punct de vedere financiar, caracterizată de un volum foarte mare al datoriilor de peste 3 miliarde lei, o pierdere la 10 luni de 765 milioane lei și o trezorerie netă negativă de 67 milioane lei.” [6]
+> „Fără o optimizare a costurilor cu forța de muncă, care în prezent presupune un efort financiar de 1,2 miliarde lei anual, reprezentând 70% din total venituri, STB riscă falimentul", a avertizat Borza.” [6]
 > „Societatea de Transport București a intrat în insolvență în luna septembrie, după ce a acumulat datorii de peste 1,5 miliarde de lei.” [1]
-> „Între timp, potrivit administratorului judiciar, datoriile au trecut 3 miliarde de lei.” [1]
+> „Tribunalul București a admis, la începutul lunii septembrie, cererea de intrare în insolvență a Societății de Transport București (STB), fiind desemnat ca administrator judiciar provizoriu un consorțiu format din Euro Insol SPRL, Turmac Insolvency SPRL și Ceres Insolv SPRL, cu o remunerație de 10.000 lei din averea STB.” [6]
 
 ### Unde merg banii STB
 tip: parte
-- 68%
-din veniturile STB: atât costă salariile. Administratorul judiciar spune că tăierile sunt necesare ca să scadă cheltuielile.
-> „Cheltuielile cu salariile ajung la 106 milioane de lei pe lună, adică peste 1,2 miliarde de lei anual, și reprezintă 68% din veniturile societății.” [1]
-> „Acesta susține că măsura e necesară pentru reducerea cheltuielilor și acuză inclusiv abuzuri în privința concediilor medicale.” [4]
+- 70%
+din veniturile STB merg pe costurile cu angajații, spune administratorul judiciar.
+> „Fără o optimizare a costurilor cu forța de muncă, care în prezent presupune un efort financiar de 1,2 miliarde lei anual, reprezentând 70% din total venituri, STB riscă falimentul", a avertizat Borza.” [6]
+
+### Pașii restructurării
+tip: cronologie
+- Început de septembrie: STB intră în insolvență
+- 11 noiembrie: 796 de preavize
+- 17 decembrie: termenul anunțat de sindicate la începutul lui noiembrie
+În preaviz, cei concediați lucrează doar 4 ore pe zi, 20 de zile lucrătoare.
+> „Tribunalul București a admis, la începutul lunii septembrie, cererea de intrare în insolvență a Societății de Transport București (STB), fiind desemnat ca administrator judiciar provizoriu un consorțiu format din Euro Insol SPRL, Turmac Insolvency SPRL și Ceres Insolv SPRL, cu o remunerație de 10.000 lei din averea STB.” [6]
+> „"Azi, 11 noiembrie 2026, am comunicat un număr de 796 de preavize de concediere, corelativ cu desființarea unui număr echivalent de posturi din organigrama STB.” [6]
+> „Potrivit sindicatelor, concedierile colective ar trebui finalizate până pe 17 decembrie, iar angajații ale căror posturi dispar ar putea primi între 2 și 4 salarii compensatorii, în funcție de vechime.” [4]
+> „Astfel că, de săptămâna viitoare, angajații vor intra în preaviz și, așa cum prevede legea, vor lucra doar 4 ore zilnic timp de 20 de zile lucrătoare.” [3]
 
 ### Ce s-ar mai putea schimba
 tip: listă
 - Bilete mai scumpe
 - Amenzi mai mari pentru cei care merg fără bilet
 - Gratuitate doar pentru pensionarii cu pensia de până la 3.000 de lei
-Sunt propuneri ale administratorului judiciar. Deocamdată nu au fost aprobate.
+Sunt propuneri ale administratorului judiciar, de la începutul lui noiembrie. Atunci nu fuseseră aprobate.
 > „În acest context au fost aduse în discuție majorarea tarifelor și creșterea amenzilor pentru călătorii care circulă fără bilet.” [5]
 > „Pentru moment, acestea sunt măsuri propuse în cadrul procesului de reorganizare, dar nu au fost deocamdată aprobate.” [5]
 > „"Vorbim de 511.000 de pensionari la nivelul Bucureștiului care au gratuitate și atunci noi am venit să propunem să aibă gratuitate doar acei pensionari cu o pensie de până în 3.000 de lei", a declarat Remus Borza, administrator judiciar al Societății de Transport București.” [2]
 
 ## Articol
 
-Societatea de Transport București (STB), compania care are autobuzele, tramvaiele și troleibuzele din Capitală, concediază 880 de angajați până la sfârșitul anului 2026.
-> „STB pregătește concedierea a 880 de angajați până la sfârșitul anului 2026.” [5]
+Societatea de Transport București (STB), compania care are autobuzele, tramvaiele și troleibuzele din Capitală, a trimis pe 11 noiembrie preavize de concediere pentru 796 de angajați. Preavizul îi anunță pe angajați că vor fi concediați după o perioadă stabilită. Vestea a dat-o Remus Borza, care îi reprezintă pe administratorii judiciari, firmele numite de tribunal pentru STB cât e în insolvență. Cifrele și motivele de mai jos sunt cele date de el, în numele companiei.
+> „Societatea de Transport București (STB) a emis miercuri 796 de preavize de concediere și va desființa alte 919 posturi vacante, în cadrul unui proces de reorganizare, în condițiile în care compania înregistrează datorii de peste 3 miliarde de lei, a anunțat Remus Borza, reprezentantul consorțiului de administratori judiciari.” [6]
+> „"Azi, 11 noiembrie 2026, am comunicat un număr de 796 de preavize de concediere, corelativ cu desființarea unui număr echivalent de posturi din organigrama STB.” [6]
 
-[card: 880 de oameni pleacă de la STB]
+[card: 796 de oameni au primit preaviz]
 
-Planul de reorganizare desființează aproximativ 1.700 de posturi, spune administratorul judiciar. Multe dintre ele, aproximativ 900, sunt deja libere. Pe lângă acestea, STB face concedieri colective, adică dă afară mai mulți oameni deodată.
-> „Din cele 1.700 de posturi care sunt în curs de desființare, aproximativ 900 sunt deja vacanțe, potrivit administratorului judiciar Remus Borza.” [4]
+Pe lângă posturile celor concediați, STB desființează 919 posturi libere. În total dispar 1.715 posturi, iar după reorganizare vor rămâne 8.428. La începutul lui noiembrie, B365 scria că pe listele de concediere erau aproximativ 880 de oameni.
+> „"Azi, 11 noiembrie 2026, am comunicat un număr de 796 de preavize de concediere, corelativ cu desființarea unui număr echivalent de posturi din organigrama STB. Prin noua organigramă, se desființează și un număr de 919 posturi vacante, astfel încât numărul de posturi ce vor rămâne după încheierea acestui proces de reorganizare să fie 8.428", a declarat Remus Borza, reprezentantul consorțiului de administratori judiciari format din Euro Insol, Ceres Insolv și Turmac Insolvency, într-un comunicat.” [6]
+> „După finalizarea reorganizării, organigrama STB va cuprinde 8.428 de posturi, în urma eliminării a 1.715 posturi” [7]
+> „Aproximativ 880 de angajați se află pe listele de concediere colectivă, iar primele preavize ar urma să fie transmise începând de luni, 9 noiembrie.” [5]
+
+[card: Dispar și posturi libere]
 
 ### Cine pleacă
 
-Potrivit Știrile ProTV, cei mai mulți dintre cei concediați lucrează în administrație și în serviciile auxiliare. Sindicatele spun însă că doar puțini sunt de la birouri, iar restul sunt muncitori. Pe listă sunt însă și oameni care duc călători: aproape 200 de șoferi și vatmani, scrie Observator, peste 100, scrie Știrile ProTV.
-> „Dintre acestea, în jur de 900 vor fi eliminate prin concedieri colective, cele mai multe din rândul personalului administrativ și auxiliar.” [1]
-> „Din cei 880 de angajați ce vor fi concediați, aproape 200 sunt șoferi și vatmani.” [2]
-> „Printre angajații care urmează să fie disponibilizați se numără și peste 100 de șoferi de autobuz și vatmani.” [1]
-> „Sindicaliștii au transmis că, din unele informații, din cei 800 de angajați, doar puțini sunt din TESA, restul sunt muncitori, ceea ce îi nemulțumește, sunt revoltați și nu exclud organizarea unui protest sau să facă pașii pentru o grevă în perioada următoare.” [4]
+Administratorul judiciar spune că unele meserii nu mai sunt necesare: dispar, de exemplu, 24 de posturi de curier și 17 de statistician. Alte meserii au, spune el, prea mulți oameni față de nevoi: pleacă 58 de casieri din 374, 69 de lăcătuși mecanici din 442, 37 de sudori din 138 și 28 de economiști și contabili din 293.
+> „"Concedierea colectivă urmărește desființarea unor posturi ce corespund unor meserii redundante. Astfel, se desființează 24 de posturi de curier, 12 posturi de fochist din 88, 17 posturi de statistician, 4 posturi de legător manual, 44 de posturi de operator introducere validare date (studii medii) din 145, 13 posturi referent (studii medii).” [6]
+> „Concedierea vizează și reducerea unor posturi aferente unor meserii excesiv reprezentate în organigramă față de nevoile reale ale Societății.” [6]
+> „Astfel, se desființează 58 posturi de casier din 374, 28 posturi de economist și contabil din 293, 37 posturi de sudor din 138, 69 posturi de lăcătuș mecanic din 442, 10 posturi de electrician întreținere din 166, 16 posturi de mecanic auto din 290, 23 de posturi de repartizor, 7 posturi de consilier juridic din 40, 30 posturi referent de specialitate din 109" , a explicat acesta.” [6]
 
-[card: Pe listă sunt și oameni de la volan]
+[card: Ce posturi dispar]
 
-STB spune că a ales oamenii după performanță, după numărul de abateri disciplinare și după vechime. Administratorul judiciar, firmele numite provizoriu de tribunal să administreze STB în insolvență, spune că pe listă sunt și oameni cu rezultate slabe la evaluări sau implicați în dosare penale, de exemplu pentru furt de combustibil. Sindicatele contestă criteriile și nu exclud un protest sau o grevă.
+Pleacă și 120 de șoferi de autobuz și troleibuz, din 3.508, și 50 de vatmani, din 850. Borza spune că printre ei sunt oameni cu abateri disciplinare, cercetați penal pentru presupus furt de combustibil, declarați inapți medical sau găsiți sub influența alcoolului. El spune și că unii și-au luat concedii medicale fără să fie bolnavi și au lucrat în acest timp pentru agenții de turism sau alte firme de transport. Articolele nu redau un răspuns al sindicatului sau al angajaților.
+> „Astfel, s-au emis: 120 preavize de concediere pentru conducători autobuze și troleibuze din 3.508 și 50 preavize de concediere pentru vatmani din 850 de posturi" , a precizat Borza.” [6]
+> „Potrivit lui Remus Borza, printre angajații care au primit preavize se numără persoane cu abateri disciplinare, cercetate penal pentru furt de combustibil, declarate inapte medical sau depistate sub influența alcoolului.” [8]
+> „Acesta susține că unii angajați au abuzat de concedii medicale, deși nu aveau probleme de sănătate reale, și au lucrat în această perioadă pentru agenții de turism sau alte companii de transport persoane.” [8]
+> „Potrivit lui Remus Borza, măsurile care vizează personalul de conducere a vehiculelor au în vedere angajați pentru care compania invocă abateri disciplinare, cercetări penale pentru presupuse furturi de combustibil, certificate de inaptitudine sau alte nereguli.” [7]
+
+La începutul lui noiembrie, STB spunea că alege oamenii după performanță, abateri disciplinare și vechime. Sindicatele contestau atunci aceste criterii și nu excludeau un protest sau o grevă. Articolele despre preavizele trimise acum nu redau o reacție a sindicatului.
 > „STB anunță că a avut în vedere mai multe criterii de selecție atunci când au decis lista angajaților care își vor pierde locurile de muncă: au ținut cont de performanța lor, de numărul abaterilor disciplinare și de vechimea în muncă .” [3]
-> „Remus Borza, reprezentant al Euro Insol, una dintre firmele desemnate administrator provizoriu, a anunțat că restructurarea va viza mai multe aspecte ale activității STB.” [5]
-> „Potrivit administratorului judiciar, sunt vizați salariați cu rezultate slabe la evaluări, abateri disciplinare sau cei implicați în dosare penale, cum ar fi cele privind furtul de combustibil.” [1]
 > „Sindicaliștii contestă criteriile după care au fost selectați angajații care vor fi concediați și sunt nemulțumiri de salariile compensatorii pe care ar urma să le primească.” [1]
 > „sunt revoltați și nu exclud organizarea unui protest sau să facă pașii pentru o grevă în perioada următoare.” [4]
 
-[card: Cum au fost aleși]
+[card: Pleacă și oameni de la volan]
 
 ### Ce înseamnă pentru călători
 
-STB spune că circulația nu va fi afectată și că numărul curselor rămâne același. Sindicatul spune altceva: zeci de colegi i-au spus liderului sindical că se gândesc să plece, încă câteva sute de oameni ar putea pleca, iar până la urmă vor avea de suferit călătorii.
-> „Societatea de Transport București transmite că circulația mijloacelor de transport public nu va fi afectată.” [3]
-> „Conducerea STB dă însă asigurări că aceste concedieri nu vor afecta transportul public și că numărul curselor va rămâne neschimbat” [1]
+Borza spune că plecarea celor 170 de șoferi și vatmani nu afectează programul. Compania are 4.358 de șoferi și vatmani și scoate zilnic pe străzi aproximativ 1.250 de autobuze, troleibuze și tramvaie. Compania mai spune că, prin digitalizare, vehiculele vor trece mai des, mai ales la orele de vârf.
+> „STB susține că reducerea numărului de șoferi și vatmani nu va afecta programul de transport, în condițiile în care compania are 4.358 de angajați în aceste categorii profesionale și pune zilnic în circulație aproximativ 1.250 de autobuze, troleibuze și tramvaie.” [7]
+> „Concedierile vizează și 170 de șoferi și vatmani, pentru care au fost emise 120 de preavize în cazul conducătorilor de autobuze și troleibuze și 50 de preavize în cazul vatmanilor.” [7]
+> „“Prin masurile de digitalizare și eficientizare a activitatii pe care le implementam in acest moment, vom creste frecventa vehiculelor in trafic, cu precadere in orele de varf, vom reduce timpii de asteptare in statii si vom creste gradul de confort si siguranta a calatorilor”, transmite compania.” [7]
+> „El a susținut că disponibilizarea celor 170 de conducători auto și vatmani nu va afecta programul de transport.” [6]
+
+Sindicatul spunea altceva înainte de preavize, când pe listă erau aproape 200 de șoferi și vatmani: zeci de colegi i-au spus liderului sindical că se gândesc să plece, încă câteva sute de oameni ar putea pleca, iar până la urmă vor avea de suferit călătorii.
 > „"M-au sunat zeci de colegi că dacă se va intampla să concedieze aproape 200 de conducatori autobuz deja se gândesc să plece.” [2]
 > „Deci pe lângă acei 200 vă garantez că vor mai pleca încă câteva sute de oameni.” [2]
 > „Vor suferi călătorii, până la urmă", a declarat Valer Ciobănescu , președinte al sindicatului STB.” [2]
@@ -145,48 +168,46 @@ STB spune că circulația nu va fi afectată și că numărul curselor rămâne 
 
 ### Ce primesc cei concediați
 
-Cei concediați intră în preaviz, perioada dinainte de plecare: 20 de zile lucrătoare în care lucrează doar 4 ore pe zi, cum cere legea. Primele preavize ar urma să fie date de luni, 9 noiembrie, iar concedierile ar trebui să se încheie până pe 17 decembrie.
-> „Astfel că, de săptămâna viitoare, angajații vor intra în preaviz și, așa cum prevede legea, vor lucra doar 4 ore zilnic timp de 20 de zile lucrătoare.” [3]
-> „Aproximativ 880 de angajați se află pe listele de concediere colectivă, iar primele preavize ar urma să fie transmise începând de luni, 9 noiembrie.” [5]
+Cei concediați primesc salarii compensatorii, bani dați la plecare, între 20.000 și 40.000 de lei, în funcție de vechime, spune STB. La începutul lui noiembrie, sindicatele spuneau că vor fi între 2 și 4 salarii. Compania spune că sindicatul a fost consultat tot timpul. Un reprezentant al sindicatului spunea, la începutul lui noiembrie, că după contractul colectiv de muncă oamenii ar fi trebuit să primească până la 20 de salarii, nu doar 4.
 > „Potrivit sindicatelor, concedierile colective ar trebui finalizate până pe 17 decembrie, iar angajații ale căror posturi dispar ar putea primi între 2 și 4 salarii compensatorii, în funcție de vechime.” [4]
-
-Ei ar urma să primească între două și patru salarii compensatorii, bani dați la plecare, în funcție de câți ani au lucrat la STB. Un exemplu dat de Observator: un șofer cu peste 20 de ani vechime ar primi aproximativ 40.000 de lei. Un reprezentant al sindicatului spune că, după contractul colectiv de muncă, oamenii ar fi trebuit să primească până la 20 de salarii, nu doar 4.
-> „Spre exemplu, un șofer cu peste 20 de ani vechime va încasa aproximativ 40.000 de lei.” [2]
-> „Angajații dați afară pot primi între două și maximum patru salarii compensatorii.” [2]
+> „Angajații disponibilizați vor beneficia de salarii compensatorii cuprinse între 20.000 și 40.000 de lei, în funcție de vechime, potrivit informațiilor transmise de STB.” [7]
+> „Compania precizează că sindicatul reprezentativ din STB a fost consultat permanent pe parcursul procesului de restructurare.” [7]
 > „Deși contractul colectiv de muncă spunea, în funcție de vechime, să primească 20, 18, 16 salarii compensatorii” [1]
 > „Varianta creată a fost doar de 4 salarii.” [1]
 
 [card: Câți bani primesc cei concediați]
 
+În preaviz, perioada dinainte de plecare, cei concediați lucrează doar 4 ore pe zi, 20 de zile lucrătoare, cum cere legea. La începutul lui noiembrie, sindicatele spuneau că concedierile ar trebui să se încheie până pe 17 decembrie.
+> „Astfel că, de săptămâna viitoare, angajații vor intra în preaviz și, așa cum prevede legea, vor lucra doar 4 ore zilnic timp de 20 de zile lucrătoare.” [3]
+> „Potrivit sindicatelor, concedierile colective ar trebui finalizate până pe 17 decembrie, iar angajații ale căror posturi dispar ar putea primi între 2 și 4 salarii compensatorii, în funcție de vechime.” [4]
+
 ### De ce concediază STB
 
-STB a intrat în insolvență în septembrie, după ce adunase datorii de peste 1,5 miliarde de lei. Insolvența e procedura pentru o firmă care nu-și mai poate plăti datoriile.
+Tribunalul București a deschis insolvența STB la începutul lui septembrie. Insolvența e procedura pentru o firmă care nu-și mai poate plăti datoriile. Atunci, datoriile erau de peste 1,5 miliarde de lei, scria Știrile ProTV. Acum, spune administratorul judiciar, trec de 3 miliarde de lei, iar în primele 10 luni din 2026 compania a pierdut 765 de milioane de lei.
+> „Tribunalul București a admis, la începutul lunii septembrie, cererea de intrare în insolvență a Societății de Transport București (STB), fiind desemnat ca administrator judiciar provizoriu un consorțiu format din Euro Insol SPRL, Turmac Insolvency SPRL și Ceres Insolv SPRL, cu o remunerație de 10.000 lei din averea STB.” [6]
 > „Societatea de Transport București a intrat în insolvență în luna septembrie, după ce a acumulat datorii de peste 1,5 miliarde de lei.” [1]
-
-De atunci, spune administratorul judiciar, datoriile au trecut de 3 miliarde de lei.
-> „Între timp, potrivit administratorului judiciar, datoriile au trecut 3 miliarde de lei.” [1]
+> „Societatea de Transport București (STB), operatorul de transport public al Capitalei, a transmis 796 de preavize de concediere și va elimina alte 919 posturi vacante din organigramă, în cadrul unui proces de restructurare care vine pe fondul unei situații financiare dificile, compania având datorii de peste 3 miliarde de lei și pierderi de 765 de milioane de lei în primele zece luni din 2026.” [7]
+> „"Societatea de Transport București S.A. traversează o perioadă extrem de dificilă din punct de vedere financiar, caracterizată de un volum foarte mare al datoriilor de peste 3 miliarde lei, o pierdere la 10 luni de 765 milioane lei și o trezorerie netă negativă de 67 milioane lei.” [6]
 
 [card: De ce: datoriile]
 
-Salariile costă STB 106 milioane de lei pe lună, cât 68% din veniturile companiei. Administratorul judiciar spune că reorganizarea e necesară ca să scadă cheltuielile, că multe meserii din firmă nu mai sunt necesare și că fără aceste măsuri STB riscă falimentul. STB spune că restructurarea continuă măsurile începute de Primăria Capitalei.
+Salariile costă STB 1,2 miliarde de lei pe an, adică 70% din venituri, spune administratorul judiciar. La începutul lui noiembrie, Știrile ProTV scria 68%. Fără reducerea acestor cheltuieli, spune Borza, STB riscă falimentul. STB spune că restructurarea continuă măsurile începute de Primăria Capitalei, care conduce orașul.
+> „Fără o optimizare a costurilor cu forța de muncă, care în prezent presupune un efort financiar de 1,2 miliarde lei anual, reprezentând 70% din total venituri, STB riscă falimentul", a avertizat Borza.” [6]
 > „Cheltuielile cu salariile ajung la 106 milioane de lei pe lună, adică peste 1,2 miliarde de lei anual, și reprezintă 68% din veniturile societății.” [1]
-> „Acesta susține că măsura e necesară pentru reducerea cheltuielilor și acuză inclusiv abuzuri în privința concediilor medicale.” [4]
-> „Sunt foarte multe... foarte multe meserii redundante în STB” [1]
-> „Dacă nu se realizează acest lucru, într-adevăr riscăm falimentul” [2]
 > „societatea e în proces de restructurare în continuarea măsurilor inițiate de Primăria Capitalei, iar cheltuielile trebuie reduse la maximum.” [4]
 
 [card: Unde merg banii STB]
 
 ### Ce urmează
 
-Administratorul judiciar a propus și bilete mai scumpe, amenzi mai mari pentru cei care merg fără bilet și gratuitate doar pentru pensionarii cu pensia de până la 3.000 de lei. Acum, în București, 511.000 de pensionari au gratuitate. Propunerile nu au fost aprobate.
+La începutul lui noiembrie, administratorul judiciar propusese și bilete mai scumpe, amenzi mai mari pentru cei care merg fără bilet și gratuitate doar pentru pensionarii cu pensia de până la 3.000 de lei. În București, 511.000 de pensionari au gratuitate, spune Borza. Atunci, propunerile nu fuseseră aprobate.
 > „În acest context au fost aduse în discuție majorarea tarifelor și creșterea amenzilor pentru călătorii care circulă fără bilet.” [5]
 > „"Vorbim de 511.000 de pensionari la nivelul Bucureștiului care au gratuitate și atunci noi am venit să propunem să aibă gratuitate doar acei pensionari cu o pensie de până în 3.000 de lei", a declarat Remus Borza, administrator judiciar al Societății de Transport București.” [2]
 > „Pentru moment, acestea sunt măsuri propuse în cadrul procesului de reorganizare, dar nu au fost deocamdată aprobate.” [5]
 
 [card: Ce s-ar mai putea schimba]
 
-[card: Ce urmează]
+[card: Pașii restructurării]
 
 ## Surse
 
@@ -195,3 +216,6 @@ Administratorul judiciar a propus și bilete mai scumpe, amenzi mai mari pentru 
 3. Val de concedieri la STB: 880 de angajați vor fi dați afară. 200 dintre aceștia sunt șoferi și vatmani — Observator. https://observatornews.ro/eveniment/val-de-concedieri-la-stb-880-de-angajativor-fi-dati-afara-200-dintre-acestia-sunt-soferi-si-vatmani-671583.html
 4. Concedieri masive la STB: peste 800 de angajați sunt trimiși acasă. Societatea vrea să reducă la maximum cheltuielile — Digi24. https://www.digi24.ro/stiri/actualitate/concedieri-masive-la-stb-peste-800-de-angajati-sunt-trimisi-acasa-societatea-vrea-sa-reduca-la-maximum-cheltuielile-4026123
 5. Încep concedierile la STB. Aproape 900 de angajați ar urma să plece până la sfârșitul anului — B365. https://b365.ro/incep-concedierile-la-stb-aproape-900-de-angajati-ar-urma-sa-plece-pana-la-sfarsitul-anului-627483/
+6. Concedieri la STB: 796 de angajați au primit preavize. Vor primi salarii compensatorii de până la 40.000 lei — Observator. https://observatornews.ro/eveniment/concedieri-la-stb796-de-angajati-au-primit-preavize-vor-primi-salarii-compensatorii-de-pana-la-40000-lei-672013.html
+7. STB, cu datorii de peste 3 mld. lei și pierderi de 765 mil. lei la zece luni, anunță concedierea a 796 de angajați și eliminarea a 919 posturi vacante. Compania susține că programul de transport nu va fi afectat — Ziarul Financiar. https://www.zf.ro/auto/stb-datorii-peste-3-mld-lei-pierderi-765-mil-lei-zece-luni-anunta-concedierea-796-angajati-eliminarea-919-posturi-vacante-compania-sustine-programul-transport-afectat-23279648
+8. Concedieri masive la STB. Sute de angajați au primit preavize. Ce salarii vor încasa persoanele disponibilizate — Gândul. https://www.gandul.ro/actualitate/concedieri-masive-la-stb-sute-de-angajati-au-primit-preavize-21061393
