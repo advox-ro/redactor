@@ -80,12 +80,12 @@ Salariile compensatorii sunt bani dați la plecare. La începutul lui noiembrie,
 tip: listă
 - La intrarea în insolvență, în septembrie: peste 1,5 miliarde de lei
 - Acum, după administratorul judiciar: peste 3 miliarde de lei
-Insolvența e procedura pentru o firmă care nu-și mai poate plăti datoriile. Administratorul judiciar, firmele numite de tribunal să supravegheze STB în acest timp, spune că fără tăieri STB riscă falimentul.
+Insolvența e procedura pentru o firmă care nu-și mai poate plăti datoriile. Administratorul judiciar, firmele numite de tribunal pentru STB în acest timp, spune că fără tăieri STB riscă falimentul.
 > „Societatea de Transport București (STB), operatorul de transport public al Capitalei, a transmis 796 de preavize de concediere și va elimina alte 919 posturi vacante din organigramă, în cadrul unui proces de restructurare care vine pe fondul unei situații financiare dificile, compania având datorii de peste 3 miliarde de lei și pierderi de 765 de milioane de lei în primele zece luni din 2026.” [7]
 > „"Societatea de Transport București S.A. traversează o perioadă extrem de dificilă din punct de vedere financiar, caracterizată de un volum foarte mare al datoriilor de peste 3 miliarde lei, o pierdere la 10 luni de 765 milioane lei și o trezorerie netă negativă de 67 milioane lei.” [6]
 > „Fără o optimizare a costurilor cu forța de muncă, care în prezent presupune un efort financiar de 1,2 miliarde lei anual, reprezentând 70% din total venituri, STB riscă falimentul", a avertizat Borza.” [6]
 > „Societatea de Transport București a intrat în insolvență în luna septembrie, după ce a acumulat datorii de peste 1,5 miliarde de lei.” [1]
-> „Noua structură de administrare a societății avea în vedere redresarea și eficientizarea activității, cu implicarea administratorului special, Gheorghe Pecingină, și a directorului general al STB S.A., Andrei Dinculescu-Bighea, sub supravegherea administratorului judiciar, respectiv consorțiul format din Euro Insol SPRL, Turmac Insolvency SPRL și Ceres Insolv SPRL, reprezentat de Remus Borza, avocat și doctor în management.” [9]
+> „Tribunalul București a admis, la începutul lunii septembrie, cererea de intrare în insolvență a Societății de Transport București (STB), fiind desemnat ca administrator judiciar provizoriu un consorțiu format din Euro Insol SPRL, Turmac Insolvency SPRL și Ceres Insolv SPRL, cu o remunerație de 10.000 lei din averea STB.” [6]
 
 ### Unde merg banii STB
 tip: parte
@@ -95,11 +95,11 @@ din veniturile STB merg pe costurile cu angajații, spune administratorul judici
 
 ### Pașii restructurării
 tip: cronologie
-- 8 septembrie: STB intră în insolvență
+- Început de septembrie: STB intră în insolvență
 - 11 noiembrie: 796 de preavize
 - 17 decembrie: termenul anunțat de sindicate la începutul lui noiembrie
 În preaviz, cei concediați lucrează doar 4 ore pe zi, 20 de zile lucrătoare.
-> „Procedura de insolvență în care se află STB S.A. a fost deschisă de Tribunalul București – Secția a VII-a Civilă la data de 8 septembrie 2026, scopul aacesteia fiind reorganizarea activității societății și achitarea datoriilor potrivit unui plan de reorganizare, în condițiile prevăzute de lege.” [9]
+> „Tribunalul București a admis, la începutul lunii septembrie, cererea de intrare în insolvență a Societății de Transport București (STB), fiind desemnat ca administrator judiciar provizoriu un consorțiu format din Euro Insol SPRL, Turmac Insolvency SPRL și Ceres Insolv SPRL, cu o remunerație de 10.000 lei din averea STB.” [6]
 > „"Azi, 11 noiembrie 2026, am comunicat un număr de 796 de preavize de concediere, corelativ cu desființarea unui număr echivalent de posturi din organigrama STB.” [6]
 > „Potrivit sindicatelor, concedierile colective ar trebui finalizate până pe 17 decembrie, iar angajații ale căror posturi dispar ar putea primi între 2 și 4 salarii compensatorii, în funcție de vechime.” [4]
 > „Astfel că, de săptămâna viitoare, angajații vor intra în preaviz și, așa cum prevede legea, vor lucra doar 4 ore zilnic timp de 20 de zile lucrătoare.” [3]
@@ -116,7 +116,7 @@ Sunt propuneri ale administratorului judiciar, de la începutul lui noiembrie. A
 
 ## Articol
 
-Societatea de Transport București (STB), compania care are autobuzele, tramvaiele și troleibuzele din Capitală, a trimis pe 11 noiembrie preavize de concediere pentru 796 de angajați. Preavizul îi anunță pe angajați că vor fi concediați după o perioadă stabilită. Vestea a dat-o Remus Borza, care îi reprezintă pe administratorii judiciari, firmele numite de tribunal să supravegheze STB cât e în insolvență. Cifrele și motivele de mai jos sunt cele date de el, în numele companiei.
+Societatea de Transport București (STB), compania care are autobuzele, tramvaiele și troleibuzele din Capitală, a trimis pe 11 noiembrie preavize de concediere pentru 796 de angajați. Preavizul îi anunță pe angajați că vor fi concediați după o perioadă stabilită. Vestea a dat-o Remus Borza, care îi reprezintă pe administratorii judiciari, firmele numite de tribunal pentru STB cât e în insolvență. Cifrele și motivele de mai jos sunt cele date de el, în numele companiei.
 > „Societatea de Transport București (STB) a emis miercuri 796 de preavize de concediere și va desființa alte 919 posturi vacante, în cadrul unui proces de reorganizare, în condițiile în care compania înregistrează datorii de peste 3 miliarde de lei, a anunțat Remus Borza, reprezentantul consorțiului de administratori judiciari.” [6]
 > „"Azi, 11 noiembrie 2026, am comunicat un număr de 796 de preavize de concediere, corelativ cu desființarea unui număr echivalent de posturi din organigrama STB.” [6]
 
@@ -183,8 +183,8 @@ Cei concediați primesc salarii compensatorii, bani dați la plecare, între 20.
 
 ### De ce concediază STB
 
-Tribunalul București a deschis insolvența STB pe 8 septembrie. Insolvența e procedura pentru o firmă care nu-și mai poate plăti datoriile. Atunci, datoriile erau de peste 1,5 miliarde de lei, scria Știrile ProTV. Acum, spune administratorul judiciar, trec de 3 miliarde de lei, iar în primele 10 luni din 2026 compania a pierdut 765 de milioane de lei.
-> „Procedura de insolvență în care se află STB S.A. a fost deschisă de Tribunalul București – Secția a VII-a Civilă la data de 8 septembrie 2026, scopul aacesteia fiind reorganizarea activității societății și achitarea datoriilor potrivit unui plan de reorganizare, în condițiile prevăzute de lege.” [9]
+Tribunalul București a deschis insolvența STB la începutul lui septembrie. Insolvența e procedura pentru o firmă care nu-și mai poate plăti datoriile. Atunci, datoriile erau de peste 1,5 miliarde de lei, scria Știrile ProTV. Acum, spune administratorul judiciar, trec de 3 miliarde de lei, iar în primele 10 luni din 2026 compania a pierdut 765 de milioane de lei.
+> „Tribunalul București a admis, la începutul lunii septembrie, cererea de intrare în insolvență a Societății de Transport București (STB), fiind desemnat ca administrator judiciar provizoriu un consorțiu format din Euro Insol SPRL, Turmac Insolvency SPRL și Ceres Insolv SPRL, cu o remunerație de 10.000 lei din averea STB.” [6]
 > „Societatea de Transport București a intrat în insolvență în luna septembrie, după ce a acumulat datorii de peste 1,5 miliarde de lei.” [1]
 > „Societatea de Transport București (STB), operatorul de transport public al Capitalei, a transmis 796 de preavize de concediere și va elimina alte 919 posturi vacante din organigramă, în cadrul unui proces de restructurare care vine pe fondul unei situații financiare dificile, compania având datorii de peste 3 miliarde de lei și pierderi de 765 de milioane de lei în primele zece luni din 2026.” [7]
 > „"Societatea de Transport București S.A. traversează o perioadă extrem de dificilă din punct de vedere financiar, caracterizată de un volum foarte mare al datoriilor de peste 3 miliarde lei, o pierdere la 10 luni de 765 milioane lei și o trezorerie netă negativă de 67 milioane lei.” [6]
@@ -219,4 +219,3 @@ La începutul lui noiembrie, administratorul judiciar propusese și bilete mai s
 6. Concedieri la STB: 796 de angajați au primit preavize. Vor primi salarii compensatorii de până la 40.000 lei — Observator. https://observatornews.ro/eveniment/concedieri-la-stb796-de-angajati-au-primit-preavize-vor-primi-salarii-compensatorii-de-pana-la-40000-lei-672013.html
 7. STB, cu datorii de peste 3 mld. lei și pierderi de 765 mil. lei la zece luni, anunță concedierea a 796 de angajați și eliminarea a 919 posturi vacante. Compania susține că programul de transport nu va fi afectat — Ziarul Financiar. https://www.zf.ro/auto/stb-datorii-peste-3-mld-lei-pierderi-765-mil-lei-zece-luni-anunta-concedierea-796-angajati-eliminarea-919-posturi-vacante-compania-sustine-programul-transport-afectat-23279648
 8. Concedieri masive la STB. Sute de angajați au primit preavize. Ce salarii vor încasa persoanele disponibilizate — Gândul. https://www.gandul.ro/actualitate/concedieri-masive-la-stb-sute-de-angajati-au-primit-preavize-21061393
-9. Aproape 800 de angajați ai STB au fost concediați. Ce sume compensatorii vor primi / Mii de români rămân șomeri în pragul sărbătorilor — Știri pe surse. https://www.stiripesurse.ro/aproape-800-de-angajati-ai-stb-au-fost-concediati-ce-sume-compensatorii-vor-primi-mii-de-romani-raman-someri-in-pragul-sarbatorilor_3935835
