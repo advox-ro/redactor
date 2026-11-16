@@ -6,13 +6,13 @@
 | measures | experience |
 | where | romania |
 | na | Nu plătesc eu asigurarea RCA a unei mașini |
-| outlook | a: 1, b: 0.5, c: -0.5, d: -1, e: -1, f: 0 |
+| outlook | a: 1, b: 0.5, c: -0.5, d: -1, e: 0, f: 0 |
 
 1. A scăzut
 2. A rămas la fel
 3. A crescut puțin
 4. A crescut mult
-5. A crescut de cel puțin două ori
+5. Nu am avut o poliță înainte
 6. Nu mai știu
 
 ### Cum ai plătit ultima poliță RCA?
@@ -26,6 +26,7 @@
 
 1. Toată suma odată
 2. În rate
+3. Nu mai știu
 
 ### Câte oferte de la asigurători diferiți ai comparat înainte de ultima poliță RCA?
 
@@ -36,7 +37,7 @@
 | where | romania |
 | na | Nu plătesc eu asigurarea RCA a unei mașini |
 
-1. Una singură
+1. Niciuna, am luat prima ofertă
 2. 2–3 oferte
 3. Peste 3 oferte
 4. Nu mai știu
@@ -52,7 +53,7 @@
 | na | Nu plătesc eu asigurarea RCA a unei mașini |
 | outlook | 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1 |
 
-### Cât de îngrijorat(ă) ești că asigurarea RCA a mașinii tale se va scumpi din nou în 2027?
+### Cât de îngrijorat(ă) ești că asigurarea RCA a mașinii tale se va scumpi în 2027?
 
 | id | ingrijorare-2027 |
 |---|---|

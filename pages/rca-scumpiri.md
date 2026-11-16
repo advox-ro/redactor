@@ -28,7 +28,7 @@ tip: cifră
 a crescut prețul mediu al poliței față de aceeași perioadă a anului trecut.
 > „Suma este cu 21% mai mare decât cea înregistrată în aceeași perioadă a anului trecut.” [1]
 
-### Prețul depinde de vârstă și de loc
+### Tariful, după vârstă și loc
 tip: comparație
 - Până în 30 de ani, București-Ilfov: 4.760 lei
 - Până în 30 de ani, alte județe: 2.896 lei
@@ -41,23 +41,23 @@ Așa arată tarifele de referință pentru o mașină cu motor între 76 și 100
 ### Un reper, nu prețul de la ghișeu
 tip: cifră
 - 12,3%
-au crescut în mai 2026 tarifele de referință pentru mașinile oamenilor. Le publică ASF, autoritatea care supraveghează asigurările. Fiecare asigurător își stabilește singur prețul.
+au crescut în mai 2026 tarifele de referință pentru mașinile oamenilor. Le publică ASF, autoritatea care supraveghează asigurările. Sunt doar un reper. Fiecare asigurător își stabilește singur prețul.
 > „Cele din mai 2026 au crescut în medie cu 12,3% la autoturismele persoanelor fizice și cu 10% la vehiculele de marfă ale firmelor. Dar ASF avertizează de fiecare dată că acestea sunt doar un reper statistic, nu prețuri de piață, și că fiecare asigurător își stabilește singur prețul.” [3]
 
 ### De ce se scumpește
 tip: voci
 - Asigurătorii: piesele, reparațiile și despăgubirile costă tot mai mult
-- Transportatorii (COTAR): riscul a crescut cu aproximativ 4,6%, prețurile mult mai mult
-Cele două părți nu se înțeleg asupra motivului. Datele ASF arată că și reparațiile plătite s-au scumpit.
+- Transportatorii (COTAR): accidentele nu s-au înmulțit cât au crescut prețurile
+Cele două părți nu se înțeleg asupra motivului. Datele ASF arată că suma medie plătită pentru o pagubă a crescut.
 > „Asigurătorii pun majorările de preț pe seama costurilor tot mai mari cu piesele de schimb și manopera din service-uri, dar și a despăgubirilor acordate victimelor accidentelor rutiere.” [2]
-> „Din calculele făcute recent de COTAR reiese că riscul a crescut în mod real doar cu 4,6%, iar prețul asigurării, cu 70%.” [3]
+> „În același timp, frecvența daunelor la autoturismele persoanelor fizice a crescut, potrivit raportului semestrial al ASF, cu doar 1,9%.” [3]
 > „Reprezentanții patronatului spun că asigurătorii invocă scumpirea pieselor și a manoperei și despăgubiri tot mai mari, bet datele ASF le dau parțial dreptate: dauna medie RCA a crescut în primul semestru din 2026 cu aproximativ 18% față de aceeași perioadă a anului trecut.” [3]
 
 ### Prețurile au fost plafonate
 tip: cronologie
 - 11 aprilie 2023: prețurile sunt înghețate
 - 30 iunie 2025: plafonarea se încheie
-Guvernul a ținut prețurile RCA pe loc aproape doi ani. După aceea, au crescut din nou.
+Guvernul a ținut prețurile RCA pe loc peste doi ani. De atunci, tarifele de referință cresc de două ori pe an.
 > „Plafonarea prețurilor la polițele de asigurare obligatorie auto (RCA) prin Hotărâre de Guvern s-a aplicat în perioada 11 aprilie 2023 - 30 iunie 2025, fiind prelungită succesiv prin mai multe acte normative” [3]
 > „A existat o astfel de plafonare, în perioada 2023-2025, prin Hotărâre de Guvern prelungită de multe ori, dar după ce statul nu a mai aplicat plafonarea, costurile s-au majorat succesiv, crescând și tariful de referință, de două ori pe an.” [3]
 
@@ -75,7 +75,7 @@ Transportatorii se așteaptă la noi scumpiri de anul viitor. Ei spun că unele 
 tip: listă
 - Ceri oferte de la mai mulți asigurători
 - Le păstrezi, cu dată și preț
-- Dacă prețul pare prea mare față de istoricul tău, faci o petiție la ASF
+- Dacă prețul ți se pare prea mare față de cât plăteai și de accidentele tale, faci o petiție la ASF
 Sunt sfaturile transportatorilor pentru orice șofer.
 > „Reprezentanții asociației patronale mai spun că fiecare șofer poate să ceară oferte de la cât mai mulți asigurători și să le păstreze, cu dată și preț, iar dacă oferta pare disproporționată față de istoricul lui, să depună o petiție la ASF și să ceară verificarea.” [3]
 
@@ -99,7 +99,7 @@ Tariful diferă mult după vârsta șoferului și după locul unde e înmatricul
 > „De exemplu, pentru un autoturism cu o putere a motorului cuprinsă între 76 și 100 kW, tariful de referință pentru un șofer cu vârsta de până în 30 de ani ajunge la 4.760 de lei în București-Ilfov. În restul județelor, valoarea este de 2.896 de lei.” [2]
 > „În cazul șoferilor de peste 60 de ani, tariful ajunge la 2.693 de lei în București și Ilfov, respectiv la 1.665 de lei în celelalte județe.” [2]
 
-[card: Prețul depinde de vârstă și de loc]
+[card: Tariful, după vârstă și loc]
 
 Între aprilie 2023 și iunie 2025, Guvernul a plafonat prețurile RCA, adică nu le-a lăsat să crească. De când plafonarea s-a încheiat, prețurile au crescut de mai multe ori.
 > „Plafonarea prețurilor la polițele de asigurare obligatorie auto (RCA) prin Hotărâre de Guvern s-a aplicat în perioada 11 aprilie 2023 - 30 iunie 2025, fiind prelungită succesiv prin mai multe acte normative” [3]
@@ -112,13 +112,16 @@ Tariful diferă mult după vârsta șoferului și după locul unde e înmatricul
 Asigurătorii spun că s-au scumpit piesele de schimb și manopera din service-uri și că despăgubirile pentru victimele accidentelor sunt tot mai mari.
 > „Asigurătorii pun majorările de preț pe seama costurilor tot mai mari cu piesele de schimb și manopera din service-uri, dar și a despăgubirilor acordate victimelor accidentelor rutiere.” [2]
 
-Transportatorii nu sunt de acord. Confederația Operatorilor și Transportatorilor Autorizați din România (COTAR), o organizație a firmelor de transport, spune că riscul a crescut cu aproximativ 4,6%. Tot COTAR recunoaște că datele ASF le dau parțial dreptate asigurătorilor: suma medie plătită pentru o pagubă a crescut cu aproximativ 18% în primul semestru din 2026.
-> „Din calculele făcute recent de COTAR reiese că riscul a crescut în mod real doar cu 4,6%, iar prețul asigurării, cu 70%.” [3]
+Transportatorii nu sunt de acord. Confederația Operatorilor și Transportatorilor Autorizați din România (COTAR), o organizație a firmelor de transport, arată că, potrivit ASF, la mașinile oamenilor numărul de pagube a crescut cu 1,9%. Tot COTAR recunoaște că datele ASF le dau parțial dreptate asigurătorilor: suma medie plătită pentru o pagubă a crescut cu aproximativ 18% în primul semestru din 2026.
+> „În același timp, frecvența daunelor la autoturismele persoanelor fizice a crescut, potrivit raportului semestrial al ASF, cu doar 1,9%.” [3]
 > „Reprezentanții patronatului spun că asigurătorii invocă scumpirea pieselor și a manoperei și despăgubiri tot mai mari, bet datele ASF le dau parțial dreptate: dauna medie RCA a crescut în primul semestru din 2026 cu aproximativ 18% față de aceeași perioadă a anului trecut.” [3]
 
 [card: De ce se scumpește]
 
-COTAR cere ca ASF să publice prețurile plătite cu adevărat de șoferi și ca autoritatea pentru concurență, Consiliul Concurenței, să deschidă o anchetă.
+COTAR cere Guvernului să reevalueze piața RCA și să găsească soluții ca polițele să se ieftinească.
+> „Astfel, Confederația Operatorilor și Transportatorilor Autorizați din România (COTAR) cere guvernului o reevaluare urgentă a pieței RCA , soluții de ieftinire a polițelor și alinierea costurilor la realitatea din service-uri.” [3]
+
+COTAR cere și ca ASF să publice prețurile plătite cu adevărat de șoferi și ca autoritatea pentru concurență, Consiliul Concurenței, să deschidă o anchetă.
 > „Transportatorii cer ASF să publice prețurile reale ale polițelor și Consiliului Concurenței să deschidă o anchetă” [3]
 
 ### Ce urmează
@@ -129,7 +132,7 @@ Tot mai mulți șoferi plătesc polița în rate. Transportatorii se așteaptă 
 
 [card: Ce urmează în 2027]
 
-Transportatorii le recomandă șoferilor să ceară oferte de la mai mulți asigurători și să le păstreze. Dacă o ofertă pare prea mare față de istoricul lor, pot face o petiție la ASF.
+Transportatorii le recomandă șoferilor să ceară oferte de la mai mulți asigurători și să le păstreze. Dacă o ofertă li se pare prea mare față de cât plăteau și de accidentele lor, pot face o petiție la ASF.
 > „Reprezentanții asociației patronale mai spun că fiecare șofer poate să ceară oferte de la cât mai mulți asigurători și să le păstreze, cu dată și preț, iar dacă oferta pare disproporționată față de istoricul lui, să depună o petiție la ASF și să ceară verificarea.” [3]
 
 [card: Ce poți face]
