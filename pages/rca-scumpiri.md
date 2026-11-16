@@ -21,12 +21,14 @@ tip: cifră
 - 2.093 lei
 plătea în medie un șofer pentru polița RCA a unei mașini, în aprilie–iunie 2026. RCA e asigurarea obligatorie pentru orice mașină înmatriculată.
 > „Datele din piață arată că prețul mediu al unei polițe RCA pentru autoturisme a ajuns la 2.093 de lei în al doilea trimestru al anului 2026.” [1]
+> „Prima medie RCA pentru autoturisme, calculată la nivelul societăților autorizate și supravegheate de ASF, s-a situat la 2.093 lei în T2/2026, cu aproximativ 7% peste nivelul din T1/2026 și cu circa 21% mai mult față de T2/2025.” [3]
 
 ### Cu 21% mai mult decât acum un an
 tip: cifră
 - 21%
 a crescut prețul mediu al poliței față de aceeași perioadă a anului trecut.
 > „Suma este cu 21% mai mare decât cea înregistrată în aceeași perioadă a anului trecut.” [1]
+> „Prima medie RCA pentru autoturisme, calculată la nivelul societăților autorizate și supravegheate de ASF, s-a situat la 2.093 lei în T2/2026, cu aproximativ 7% peste nivelul din T1/2026 și cu circa 21% mai mult față de T2/2025.” [3]
 
 ### Tariful, după vârstă și loc
 tip: comparație
@@ -38,28 +40,21 @@ Așa arată tarifele de referință pentru o mașină cu motor între 76 și 100
 > „De exemplu, pentru un autoturism cu o putere a motorului cuprinsă între 76 și 100 kW, tariful de referință pentru un șofer cu vârsta de până în 30 de ani ajunge la 4.760 de lei în București-Ilfov. În restul județelor, valoarea este de 2.896 de lei.” [2]
 > „Pentru aceeași categorie de mașină, un șofer cu vârsta între 31 și 40 de ani are un tarif de referință de 2.666 de lei în București-Ilfov și de 1.634 de lei în restul țării.” [2]
 
-### Un reper, nu prețul de la ghișeu
+### Un reper pentru prețuri
 tip: cifră
-- 12,3%
-au crescut în mai 2026 tarifele de referință pentru mașinile oamenilor. Le publică ASF, autoritatea care supraveghează asigurările. Sunt doar un reper. Fiecare asigurător își stabilește singur prețul.
-> „Cele din mai 2026 au crescut în medie cu 12,3% la autoturismele persoanelor fizice și cu 10% la vehiculele de marfă ale firmelor. Dar ASF avertizează de fiecare dată că acestea sunt doar un reper statistic, nu prețuri de piață, și că fiecare asigurător își stabilește singur prețul.” [3]
+- 12%
+au crescut, aproximativ, tarifele de referință publicate de ASF, autoritatea care supraveghează asigurările. Asigurătorii își fac prețurile pornind de la ele.
+> „Un reper pentru piața asigurărilor îl reprezintă tarifele de referință publicate de Autoritatea de Supraveghere Financiară (ASF). Și acestea au înregistrat o creștere de aproximativ 12%, iar diferențele de preț în funcție de vârsta șoferului și zona în care este înmatriculată mașina sunt considerabile.” [2]
 
 ### De ce se scumpește
 tip: voci
+- ASF: au crescut costurile cu pagubele plătite și cheltuielile asigurătorilor
 - Asigurătorii: piesele, reparațiile și despăgubirile costă tot mai mult
-- Transportatorii (COTAR): accidentele nu s-au înmulțit cât au crescut prețurile
-Cele două părți nu se înțeleg asupra motivului. Datele ASF arată că suma medie plătită pentru o pagubă a crescut.
+- Transportatorii: scumpirile sunt mai mari decât au crescut accidentele și despăgubirile
+Transportatorii nu sunt de acord cu explicațiile asigurătorilor.
+> „ASF pune evoluția pe seama creșterii costurilor cu daunele și a cheltuielilor operaționale, inclusiv în contextul persistenței inflației.” [3]
 > „Asigurătorii pun majorările de preț pe seama costurilor tot mai mari cu piesele de schimb și manopera din service-uri, dar și a despăgubirilor acordate victimelor accidentelor rutiere.” [2]
-> „În același timp, frecvența daunelor la autoturismele persoanelor fizice a crescut, potrivit raportului semestrial al ASF, cu doar 1,9%.” [3]
-> „Reprezentanții patronatului spun că asigurătorii invocă scumpirea pieselor și a manoperei și despăgubiri tot mai mari, bet datele ASF le dau parțial dreptate: dauna medie RCA a crescut în primul semestru din 2026 cu aproximativ 18% față de aceeași perioadă a anului trecut.” [3]
-
-### Prețurile au fost plafonate
-tip: cronologie
-- 11 aprilie 2023: prețurile sunt înghețate
-- 30 iunie 2025: plafonarea se încheie
-Guvernul a ținut prețurile RCA pe loc peste doi ani. De atunci, tarifele de referință cresc de două ori pe an.
-> „Plafonarea prețurilor la polițele de asigurare obligatorie auto (RCA) prin Hotărâre de Guvern s-a aplicat în perioada 11 aprilie 2023 - 30 iunie 2025, fiind prelungită succesiv prin mai multe acte normative” [3]
-> „A existat o astfel de plafonare, în perioada 2023-2025, prin Hotărâre de Guvern prelungită de multe ori, dar după ce statul nu a mai aplicat plafonarea, costurile s-au majorat succesiv, crescând și tariful de referință, de două ori pe an.” [3]
+> „Reprezentanții transportatorilor contestă creșterile de preț și susțin că acestea nu sunt proporționale cu evoluția numărului de accidente și a despăgubirilor plătite.” [1]
 
 ### Mulți plătesc în rate
 tip: text
@@ -70,14 +65,6 @@ Tot mai mulți șoferi își plătesc polița în rate, pentru că nu mai pot da
 tip: text
 Transportatorii se așteaptă la noi scumpiri de anul viitor. Ei spun că unele polițe ar putea ajunge să coste de două ori cât la începutul lui 2026.
 > „După aceste majorări, reprezentanții transportatorilor avertizează că, în 2027, anumite polițe ar putea ajunge să coste de două ori mai mult decât la începutul anului 2026.” [1]
-
-### Ce poți face
-tip: listă
-- Ceri oferte de la mai mulți asigurători
-- Le păstrezi, cu dată și preț
-- Dacă prețul ți se pare prea mare față de cât plăteai și de accidentele tale, faci o petiție la ASF
-Sunt sfaturile transportatorilor pentru orice șofer.
-> „Reprezentanții asociației patronale mai spun că fiecare șofer poate să ceară oferte de la cât mai mulți asigurători și să le păstreze, cu dată și preț, iar dacă oferta pare disproporționată față de istoricul lui, să depună o petiție la ASF și să ceară verificarea.” [3]
 
 ## Articol
 
@@ -92,8 +79,10 @@ Pentru unii șoferi, scumpirea a fost de 20–30% față de anul trecut. Ea vine
 
 ### Cum se stabilește prețul
 
-De două ori pe an, Autoritatea de Supraveghere Financiară (ASF), instituția statului care supraveghează asigurătorii, publică tarife de referință. În mai 2026, acestea au crescut în medie cu 12,3% pentru mașinile oamenilor și cu 10% pentru camioanele firmelor. ASF spune că sunt doar un reper și că fiecare asigurător își stabilește singur prețul.
-> „De două ori pe an, ASF publică tarifele de referință RCA. Cele din mai 2026 au crescut în medie cu 12,3% la autoturismele persoanelor fizice și cu 10% la vehiculele de marfă ale firmelor. Dar ASF avertizează de fiecare dată că acestea sunt doar un reper statistic, nu prețuri de piață, și că fiecare asigurător își stabilește singur prețul.” [3]
+Autoritatea de Supraveghere Financiară (ASF), instituția statului care supraveghează asigurătorii, publică tarife de referință, un reper pentru prețurile din piață. Ele au crescut cu aproximativ 12%.
+> „Un reper pentru piața asigurărilor îl reprezintă tarifele de referință publicate de Autoritatea de Supraveghere Financiară (ASF). Și acestea au înregistrat o creștere de aproximativ 12%, iar diferențele de preț în funcție de vârsta șoferului și zona în care este înmatriculată mașina sunt considerabile.” [2]
+
+[card: Un reper pentru prețuri]
 
 Tariful diferă mult după vârsta șoferului și după locul unde e înmatriculată mașina. Pentru o mașină cu motor între 76 și 100 kW, un șofer de până în 30 de ani are un tarif de referință de 4.760 de lei în București-Ilfov și de 2.896 de lei în restul județelor. Peste 60 de ani, tariful este de 2.693 de lei în București și Ilfov și de 1.665 de lei în celelalte județe.
 > „De exemplu, pentru un autoturism cu o putere a motorului cuprinsă între 76 și 100 kW, tariful de referință pentru un șofer cu vârsta de până în 30 de ani ajunge la 4.760 de lei în București-Ilfov. În restul județelor, valoarea este de 2.896 de lei.” [2]
@@ -101,28 +90,20 @@ Tariful diferă mult după vârsta șoferului și după locul unde e înmatricul
 
 [card: Tariful, după vârstă și loc]
 
-Între aprilie 2023 și iunie 2025, Guvernul a plafonat prețurile RCA, adică nu le-a lăsat să crească. De când plafonarea s-a încheiat, prețurile au crescut de mai multe ori.
-> „Plafonarea prețurilor la polițele de asigurare obligatorie auto (RCA) prin Hotărâre de Guvern s-a aplicat în perioada 11 aprilie 2023 - 30 iunie 2025, fiind prelungită succesiv prin mai multe acte normative” [3]
-> „A existat o astfel de plafonare, în perioada 2023-2025, prin Hotărâre de Guvern prelungită de multe ori, dar după ce statul nu a mai aplicat plafonarea, costurile s-au majorat succesiv, crescând și tariful de referință, de două ori pe an.” [3]
-
-[card: Prețurile au fost plafonate]
-
 ### Ce spune fiecare parte
+
+ASF explică scumpirea prin costurile mai mari cu pagubele plătite și cu cheltuielile de funcționare ale asigurătorilor, într-o perioadă în care prețurile cresc în general. Suma medie plătită pentru o pagubă din RCA a crescut cu aproximativ 18% în primul semestru din 2026.
+> „ASF pune evoluția pe seama creșterii costurilor cu daunele și a cheltuielilor operaționale, inclusiv în contextul persistenței inflației.” [3]
+> „Dauna medie RCA a crescut cu aproximativ 18% în primul semestru din 2026 față de S1/2025.” [3]
 
 Asigurătorii spun că s-au scumpit piesele de schimb și manopera din service-uri și că despăgubirile pentru victimele accidentelor sunt tot mai mari.
 > „Asigurătorii pun majorările de preț pe seama costurilor tot mai mari cu piesele de schimb și manopera din service-uri, dar și a despăgubirilor acordate victimelor accidentelor rutiere.” [2]
 
-Transportatorii nu sunt de acord. Confederația Operatorilor și Transportatorilor Autorizați din România (COTAR), o organizație a firmelor de transport, arată că, potrivit ASF, la mașinile oamenilor numărul de pagube a crescut cu 1,9%. Tot COTAR recunoaște că datele ASF le dau parțial dreptate asigurătorilor: suma medie plătită pentru o pagubă a crescut cu aproximativ 18% în primul semestru din 2026.
-> „În același timp, frecvența daunelor la autoturismele persoanelor fizice a crescut, potrivit raportului semestrial al ASF, cu doar 1,9%.” [3]
-> „Reprezentanții patronatului spun că asigurătorii invocă scumpirea pieselor și a manoperei și despăgubiri tot mai mari, bet datele ASF le dau parțial dreptate: dauna medie RCA a crescut în primul semestru din 2026 cu aproximativ 18% față de aceeași perioadă a anului trecut.” [3]
+Transportatorii nu sunt de acord. Ei spun că scumpirile nu țin pasul cu numărul de accidente și cu despăgubirile plătite, ci sunt mai mari.
+> „Reprezentanții transportatorilor contestă creșterile de preț și susțin că acestea nu sunt proporționale cu evoluția numărului de accidente și a despăgubirilor plătite.” [1]
+> „Transportatorii contestă însă, în multe cazuri, justificarea acestor scumpiri și avertizează că presiunea asupra costurilor de operare va continua.” [2]
 
 [card: De ce se scumpește]
-
-COTAR cere Guvernului să reevalueze piața RCA și să găsească soluții ca polițele să se ieftinească.
-> „Astfel, Confederația Operatorilor și Transportatorilor Autorizați din România (COTAR) cere guvernului o reevaluare urgentă a pieței RCA , soluții de ieftinire a polițelor și alinierea costurilor la realitatea din service-uri.” [3]
-
-COTAR cere și ca ASF să publice prețurile plătite cu adevărat de șoferi și ca autoritatea pentru concurență, Consiliul Concurenței, să deschidă o anchetă.
-> „Transportatorii cer ASF să publice prețurile reale ale polițelor și Consiliului Concurenței să deschidă o anchetă” [3]
 
 ### Ce urmează
 
@@ -132,13 +113,8 @@ Tot mai mulți șoferi plătesc polița în rate. Transportatorii se așteaptă 
 
 [card: Ce urmează în 2027]
 
-Transportatorii le recomandă șoferilor să ceară oferte de la mai mulți asigurători și să le păstreze. Dacă o ofertă li se pare prea mare față de cât plăteau și de accidentele lor, pot face o petiție la ASF.
-> „Reprezentanții asociației patronale mai spun că fiecare șofer poate să ceară oferte de la cât mai mulți asigurători și să le păstreze, cu dată și preț, iar dacă oferta pare disproporționată față de istoricul lui, să depună o petiție la ASF și să ceară verificarea.” [3]
-
-[card: Ce poți face]
-
 ## Surse
 
 1. Polițele RCA, tot mai scumpe pentru șoferi. Transportatorii avertizează că unele tarife s-ar putea dubla în 2027 — Realitatea. https://www.realitatea.net/stiri/economie/politele-rca-tot-mai-scumpe-pentru-soferi-transportatorii-avertizeaza-ca-unele-tarife-s-ar-putea-dubla-in-2027-xlyyny
 2. Polițele RCA s-au scumpit atât de mult, încât șoferii au început să le plătească în rate. Noi majorări sunt așteptate de anul viitor — Antena 3 CNN. https://www.antena3.ro/economic/auto/politele-rca-s-au-scumpit-atat-de-mult-incat-soferii-au-inceput-sa-le-plateasca-in-rate-noi-majorari-sunt-asteptate-de-anul-viitor-810738.html
-3. Explozia prețurilor RCA: Cât va costa o poliță de asigurare obligatorie începând din ianuarie — Știri pe surse. https://www.stiripesurse.ro/scumpiri-rca-preturi-dublate-ianuarie-ancheta-cotar_3935406
+3. ASF: Piața asigurărilor a crescut cu 15% în S1/2026, la 14,2 mld. lei. Segmentul RCA a avansat cu 17% an/an, la 6 mld. lei — Ziarul Financiar. https://www.zf.ro/banci-si-asigurari/asf-piata-asigurarilor-a-crescut-cu-15-in-s1-2026-la-14-2-mld-lei-segmentul-rca-a-avansat-cu-17-an-an-la-6-mld-lei-23251679
