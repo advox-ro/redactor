@@ -1,4 +1,4 @@
-### Ai fost vreodată într-o sală de naștere, ca mamă sau ca însoțitor?
+### Ai fost vreodată de față la o naștere?
 
 | id | sala-de-nastere |
 |---|---|
@@ -7,7 +7,9 @@
 
 1. Da, ca mamă
 2. Da, ca însoțitor
-3. Nu
+3. Da, ca personal medical
+4. Da, în mai multe feluri
+5. Nu
 
 ### Cât de important ți se pare ca o femeie care naște să poată avea alături o persoană aleasă de ea?
 
@@ -26,17 +28,17 @@
 
 1. Pe oricine alege ea
 2. Doar pe partener
-3. Doar pe partener sau pe o rudă apropiată
-4. Pe nimeni, la naștere ar trebui să fie doar personalul medical
+3. Doar pe cineva din familie
+4. Pe nimeni în afară de personalul medical
 5. Nu știu
 
-### La ultima naștere din familia ta, din ultimii 5 ani, mama și copilul au stat în aceeași cameră la spital?
+### La ultima naștere din familia ta apropiată, din ultimii 5 ani, mama și copilul au stat în aceeași cameră la spital?
 
 | id | aceeasi-camera |
 |---|---|
 | type | single |
 | measures | experience |
-| na | Nu a fost nicio naștere în familia mea în ultimii 5 ani |
+| na | Nu a fost nicio naștere la spital în familia mea apropiată în ultimii 5 ani |
 
 1. Da, tot timpul
 2. O parte din timp
@@ -51,5 +53,5 @@
 | measures | trust |
 | where | romania |
 | scale | Nicio încredere … Foarte multă încredere |
-| na | Nu știu cum lucrează maternitățile din județul meu |
+| na | Nu știu |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
