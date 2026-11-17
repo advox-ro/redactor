@@ -10,14 +10,14 @@
 2. Buletin clasic, fără cip
 3. Nu știu
 
-### Cât de probabil este să îți pui buletinul pe telefon, când se va putea?
+### Cât de probabil este să folosești aplicația RO Wallet, când se va putea?
 
 | id | cat-de-probabil |
 |---|---|
 | type | scale |
 | measures | expectation |
 | scale | Deloc probabil … Foarte probabil |
-| na | Nu am telefon mobil cu internet |
+| na | Nu am telefon inteligent |
 
 ### Câtă încredere ai că datele tale personale vor fi în siguranță într-o aplicație de identitate făcută de stat?
 
@@ -38,10 +38,11 @@
 1. La bancă
 2. La instituțiile statului
 3. La angajare
-4. La înscrierea la o școală sau facultate
-5. Când călătoresc în Uniunea Europeană
-6. Nu le-aș folosi
-7. Altceva
+4. La înscrierea la facultate
+5. Pe internet, la servicii online
+6. Când călătoresc în Uniunea Europeană
+7. Nu le-aș folosi
+8. Altceva
 
 ### Dacă buletinul de pe telefon ar fi acceptat peste tot, ai mai purta cu tine buletinul de plastic?
 
@@ -49,7 +50,7 @@
 |---|---|
 | type | single |
 | measures | tradeoff |
-| na | Nu am telefon mobil cu internet |
+| na | Nu am telefon inteligent |
 
 1. Da, mereu
 2. Uneori
