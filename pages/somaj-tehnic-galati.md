@@ -24,9 +24,13 @@ fără TVA, e prețul de pornire pentru combinat și secția de țevi, vândute 
 > „Conform planului aprobat de creditori, combinatul Liberty Galați și secția Tubular vor fi scoase la vânzare împreună, prin negociere directă, la un preț de pornire de 200 de milioane de euro, fără TVA.” [6]
 
 ### Încă șase luni de plată
-tip: text
-Statul prelungește cu șase luni plata angajaților din fondul pentru salariile pe care firmele nu le pot plăti, anunță Guvernul. Cât primesc oamenii, articolele nu spun.
-> „Ministerul Muncii va prelungi cu șase luni perioada de plată a a angajaților de la Liberty Galați, din fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă, transmite Guvernul României.” [7]
+tip: comparație
+- Până acum: 6 luni
+- De acum: 12 luni
+Atât pot fi plătite salariile restante ale angajaților din Fondul de garantare, un fond al statului. Joi, Guvernul a aprobat schimbarea, iar suma maximă pentru fiecare om crește și ea, la 12 salarii medii brute pe economie.
+> „Sprijin extins de la 6 la 12 luni: Se dublează perioada pentru care plata salariilor și a altor drepturi bănești restante poate fi acoperită din Fondul de garantare.” [9]
+> „Salariile și celelalte drepturi bănești restante ale angajaților Liberty Galați vor putea fi plătite din Fondul de garantare pentru o perioadă de până la 12 luni, după ce Guvernul a extins joi mecanismul aplicabil companiilor strategice aflate în concordat preventiv.” [8]
+> „Plafonul maxim crește de la șase la 12 salarii medii brute pentru fiecare angajat, a anunțat purtătorul de cuvânt al Executivului, Dan Cărbunaru.” [8]
 
 ### Ce urmează la vânzare
 tip: cronologie
@@ -90,9 +94,19 @@ Până acum, două licitații internaționale, în martie și în iunie 2026, s-
 > „Prima licitație a pornit de la un preț de aproximativ 709 milioane de euro, ulterior redus la circa 463 de milioane de euro pentru Liberty Galați și Liberty Tubular Products.” [7]
 > „Cinci mari investitori sunt interesați de achiziția Liberty Galați. Dintre aceștia, trei au analizat deja perspectiva de a investi în combinat, a transmis guvernul.” [7]
 
-Ministerul Muncii prelungește cu șase luni plata angajaților din fondul pentru creanțe salariale al Agenției Naționale pentru Ocupare și Forță de Muncă, un fond din care statul plătește salariile pe care o firmă nu le mai poate plăti. Anunțul a venit după o ședință a unui comitet al Guvernului pentru combinat, convocată de premier. Cât primesc oamenii din acest fond, articolele nu spun.
+Ministerul Muncii a anunțat atunci că prelungește cu șase luni plata angajaților din fondul pentru creanțe salariale al Agenției Naționale pentru Ocupare și Forță de Muncă, un fond din care statul plătește salariile pe care o firmă nu le mai poate plăti. Anunțul a venit după o ședință a unui comitet al Guvernului pentru combinat, convocată de premier.
 > „Ministerul Muncii va prelungi cu șase luni perioada de plată a a angajaților de la Liberty Galați, din fondul pentru creanțe salariale de la Agenția Națională pentru Ocupare și Forță de Muncă, transmite Guvernul României.” [7]
 > „Anunțul vine după ce premierul Luca Niculescu a convocat, astăzi, la Palatul Victoria, Comitetul Interministerial pentru protejarea intereselor statului la Liberty Galați SA și Liberty Tubular Products Galați SA., pentru a identifica soluțiile necesare salvării locurilor de muncă și a capacităților de producție.” [7]
+
+Joi, Guvernul a aprobat schimbarea, printr-o ordonanță de urgență, o lege dată direct de Guvern. Până acum, Fondul de garantare putea plăti salariile restante pentru cel mult șase luni la rând, în limita a șase salarii medii brute pentru fiecare angajat. Pentru firmele declarate de interes strategic și aflate în concordat preventiv, cum e combinatul, perioada și suma se dublează. Angajații care au primit deja bani pentru șase luni pot cere plata pentru restul, până la 12 luni. Banii vin dintr-o contribuție plătită pentru muncă și merg la angajați, nu la firmă.
+> „Până acum, Fondul de garantare putea acoperi creanțe salariale pentru cel mult șase luni consecutive, în limita a șase salarii medii brute pentru fiecare angajat. Prin actul normativ adoptat de Guvern, perioada și plafonul sunt dublate în cazul companiilor declarate de interes strategic național și aflate în concordat preventiv.” [8]
+> „Angajații care au beneficiat deja de sprijin pentru șase luni vor putea solicita plata drepturilor restante pentru perioada rămasă, până la limita totală de 12 luni.” [8]
+> „Banii vor fi acordați salariaților din Fondul de garantare, finanțat din contribuția asiguratorie pentru muncă. Beneficiarii direcți ai mecanismului sunt angajații, nu compania.” [8]
+
+Documentele ordonanței estimează costul la aproximativ 60,8 milioane de lei în 2026 și 30,4 milioane de lei în 2027. Purtătorul de cuvânt al Guvernului a vorbit de 2.400 de angajați cu salarii restante; aceleași documente spun că aproximativ 2.200 de angajați urmau să fie afectați de oprirea de la 1 noiembrie. Guvernul spune că, în paralel, caută în continuare un investitor care să pornească din nou producția.
+> „Potrivit notei de fundamentare, cheltuielile generate de măsură sunt estimate la aproximativ 60,8 milioane de lei în 2026 și 30,4 milioane de lei în 2027.” [8]
+> „Separat de cei 2.400 de salariați menționați de purtătorul de cuvânt al Guvernului în legătură cu plata restanțelor, documentația actului normativ arată că aproximativ 2.200 de angajați urmau să fie afectați de oprirea temporară a activității începând cu 1 noiembrie.” [8]
+> „Purtătorul de cuvânt al Guvernului a precizat că, în paralel, continuă discuțiile pentru identificarea unui investitor care să poată relua producția la combinatul siderurgic din Galați.” [8]
 
 [card: Încă șase luni de plată]
 
@@ -193,3 +207,5 @@ La sfârșitul lui octombrie, angajații au pregătit un protest pentru vineri, 
 5. Liberty Galați riscă să rămână fără energie electrică. Reprezentant combinat: Deconectarea ar putea avea loc în câteva zile — Realitatea. https://www.realitatea.net/stiri/economie/liberty-galati-risca-sa-ramana-fara-energie-electrica-reprezentant-combinat-deconectarea-ar-putea-avea-loc-in-cateva-zile-zbny8w
 6. Creditorii au aprobat planul de restructurare pentru Liberty Galați și secția Tubular. Care este prețul de pornire al vânzării — Digi24. https://www.digi24.ro/stiri/economie/creditorii-au-aprobat-planul-de-restructurare-pentru-liberty-galati-si-sectia-tubular-care-este-pretul-de-pornire-al-vanzarii-4025703
 7. Liberty Galați va fi vândut prin negociere directă, cu preț de pornire de 200 de milioane de euro — Economedia. https://economedia.ro/liberty-galati-va-fi-vandut-prin-negociere-directa-cu-pret-de-pornire-de-200-de-milioane-de-euro.html
+8. Guvernul României a extins la un an plata salariilor restante pentru angajații Liberty Galați — Digi24. https://www.digi24.ro/stiri/economie/guvernul-romaniei-a-extins-la-un-an-plata-salariilor-restante-pentru-angajatii-liberty-galati-4033383
+9. DECIZIE la fostul Sidex. Guvernul prelungește cu 6 luni plata din Fondul pentru creanțe salariale a angajaților de la Liberty Galați — Profit.ro. https://www.profit.ro/insider/actualitate/decizie-la-fostul-sidex-guvernul-prelungeste-cu-6-luni-plata-din-fondul-pentru-creante-salariale-a-angajatilor-de-la-liberty-galati-22983033
