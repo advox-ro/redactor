@@ -33,18 +33,19 @@ Norma Euro arată cât poluează o mașină și scrie în talon: cu cât număru
 > „Potrivit calendarului prezentat de Primăria Capitalei, măsurile vor fi introduse progresiv, mai întâi în zona centrală, apoi la nivelul întregului municipiu.” [1]
 > „Astfel, începând cu 1 noiembrie 2027, în zona centrală a Bucureștiului ar urma să fie interzis accesul autovehiculelor fără normă de poluare și al celor Euro 1.” [2]
 > „În restul Bucureștiului, restricțiile ar urma să fie introduse din 1 noiembrie 2028, când va fi interzis accesul mașinilor fără normă de poluare și Euro 1.” [2]
-> „1 noiembrie 2028: restricțiile din centru se extind la Euro 1, iar mașinile Non-Euro nu vor mai putea circula în întregul București.” [5]
 > „Măsurile vor fi introduse etapizat, vor viza treptat și automobilele Euro 1-5 și vor culmina cu eliminarea mașinilor vechi și poluante din întregul București.” [1]
 
 ### Calendare diferite
 tip: voci
-- HotNews: în 2027, în centru, fără normă Euro și Euro 1; din 2031, în centru doar Euro 6
-- Știri pe surse: în 2027, în centru, doar mașinile fără normă Euro; Euro 5, abia din 2032
-Publicațiile dau calendare diferite pentru anii următori. Regulile exacte și harta zonei se stabilesc printr-un regulament.
+- Adevărul: prima etapă, în centru, e doar pentru mașinile fără normă Euro
+- HotNews: în 2027, în centru, fără normă Euro și Euro 1; Euro 5, din 2031
+- Economedia: restricțiile ajung la Euro 5 până în 2030
+Publicațiile dau calendare diferite. Regulile exacte și harta zonei se stabilesc printr-un regulament.
+> „Mașinile Non-Euro nu vor mai putea circula în zona centrală a Bucureștiului începând cu 1 noiembrie 2027, potrivit planului propus de Primăria Capitalei pentru reducerea poluării.” [1]
+> „Prima etapă vizează 80.507 de autoturisme Non-Euro, fabricate înainte de 1991, reprezentând aproximativ 3% din parcul auto analizat de municipalitate.” [1]
 > „Astfel, începând cu 1 noiembrie 2027, în zona centrală a Bucureștiului ar urma să fie interzis accesul autovehiculelor fără normă de poluare și al celor Euro 1.” [2]
-> „Practic, din noiembrie 2031, în zona centrală ar mai putea circula doar autovehiculele Euro 6.” [2]
-> „1 noiembrie 2027: mașinile Non-Euro nu vor mai avea acces în zona centrală.” [5]
-> „1 noiembrie 2032: restricțiile din centru vor ajunge și la Euro 5, în timp ce la nivelul întregului oraș vor fi vizate mașinile Non-Euro, Euro 1, Euro 2 și Euro 3.” [5]
+> „De la 1 noiembrie 2028, restricția ar urma să fie extinsă și la mașinile Euro 2, din 2029 la cele Euro 3, din 2030 la Euro 4, iar din 2031 la Euro 5.” [2]
+> „Ulterior, până în 2030, măsurile ar urma să fie extinse și pentru autovehiculele Euro 2, Euro 3, Euro 4 și Euro 5.” [3]
 > „Perimetrul final, excepțiile și regulile de acces trebuie stabilite prin regulament.” [4]
 
 ### Aproape 1,3 milioane de mașini vechi
@@ -106,10 +107,9 @@ Restricțiile ar începe în centru și s-ar extinde apoi în tot orașul, la ma
 
 [card: Întâi centrul, apoi tot orașul]
 
-Știri pe surse publică un alt calendar, pe care îl atribuie Primăriei: din 1 noiembrie 2027, în centru n-ar mai avea voie doar mașinile fără normă Euro, Euro 1 ar urma în 2028, iar Euro 5 abia din 2032. Tot după acest calendar, în restul orașului mașinile fără normă Euro n-ar mai circula din 2028. Economedia scrie doar că restricțiile ar ajunge la Euro 5 până în 2030. Calendarul final, harta zonei și excepțiile se stabilesc printr-un regulament.
-> „1 noiembrie 2027: mașinile Non-Euro nu vor mai avea acces în zona centrală.” [5]
-> „1 noiembrie 2028: restricțiile din centru se extind la Euro 1, iar mașinile Non-Euro nu vor mai putea circula în întregul București.” [5]
-> „1 noiembrie 2032: restricțiile din centru vor ajunge și la Euro 5, în timp ce la nivelul întregului oraș vor fi vizate mașinile Non-Euro, Euro 1, Euro 2 și Euro 3.” [5]
+Adevărul scrie altfel: din 1 noiembrie 2027, în centru n-ar mai avea voie mașinile fără normă Euro, iar prima etapă ar privi 80.507 mașini fabricate înainte de 1991, aproximativ 3% din mașinile analizate de Primărie. Economedia scrie că restricțiile ar ajunge la Euro 5 până în 2030. Calendarul final, harta zonei și excepțiile se stabilesc printr-un regulament.
+> „Mașinile Non-Euro nu vor mai putea circula în zona centrală a Bucureștiului începând cu 1 noiembrie 2027, potrivit planului propus de Primăria Capitalei pentru reducerea poluării.” [1]
+> „Prima etapă vizează 80.507 de autoturisme Non-Euro, fabricate înainte de 1991, reprezentând aproximativ 3% din parcul auto analizat de municipalitate.” [1]
 > „Ulterior, până în 2030, măsurile ar urma să fie extinse și pentru autovehiculele Euro 2, Euro 3, Euro 4 și Euro 5.” [3]
 > „Perimetrul final, excepțiile și regulile de acces trebuie stabilite prin regulament.” [4]
 
@@ -182,4 +182,3 @@ Oricine poate trimite păreri la Primărie, la sediu sau pe e-mail, la plancalit
 2. Primul pas pentru interzicerea mașinilor poluante în București, începând din 2027 — HotNews. https://hotnews.ro/primul-pas-pentru-interzicerea-masinilor-poluante-in-bucuresti-incepand-din-2027-de-cand-vor-fi-restrictii-in-toata-capitala-si-ce-paradox-apare-chiar-si-daca-nu-s-ar-aplica-interdictiile-2402765
 3. Bucureștiul pregătește restricții pentru mașinile poluante din 2027. Ce măsuri propune Primăria pentru reducerea poluării până în 2030 — Economedia. https://economedia.ro/bucurestiul-pregateste-restrictii-pentru-masinile-poluante-din-2027-ce-masuri-propune-primaria-pentru-reducerea-poluarii-pana-in-2030.html
 4. Restricții pentru mașini (hartă) și bani pentru schimbarea încălzirii. Cu cât ar reduce poluarea în București planurile PMB — Spotmedia. https://spotmedia.ro/stiri/social/restrictii-pentru-masini-harta-si-bani-pentru-schimbarea-incalzirii-cu-cat-ar-reduce-poluarea-in-bucuresti-planurile-pmb
-5. Lovitură pentru peste 1,3 milioane de șoferi din București și Ilfov: Când intră în vigoare interdicțiile — Știri pe surse. https://www.stiripesurse.ro/masini-non-euro-euro-1-5-interzise-bucuresti-calendar-primaria-capitalei_3936363
