@@ -1,6 +1,6 @@
 ---
 title: Salariile și prețurile
-summary: Salariul mediu net a ajuns la 5.717 lei, dar prețurile au crescut mai repede. Cât îți ajung banii și ce aștepți de la prețuri.
+summary: Salariul mediu net a ajuns la 5.717 lei, dar prețurile au crescut mai repede; cum s-a schimbat salariul tău și ce îți permiți cu el.
 tags: [bani, muncă]
 date: 2026-11-12
 stat: { value: "5.717 lei", label: "a fost salariul mediu net în septembrie 2026", quote: "Salariul mediu net din România a ajuns la 5.717 lei în septembrie 2026, cu 29 de lei mai mult decât în august, însă scumpirile continuă să erodeze puterea de cumpărare a angajaților.", source: 3 }
@@ -19,14 +19,14 @@ quiz: salariul-real-septembrie
 ### Salariul mediu, în septembrie
 tip: cifră
 - 5.717 lei
-a fost salariul mediu net, adică banii primiți în mână, în septembrie 2026. E cu 5% mai mult decât acum un an.
+a fost salariul mediu net, adică banii primiți în mână, în septembrie 2026.
 > „Câștigul salarial mediu brut a fost, în septembrie 2026, de 9.532 lei, cu 35 lei (+0,4%) mai mare decât cel înregistrat în luna august 2026, iar câștigul salarial mediu net a fost de 5.717 lei, în creștere cu 29 lei (+0,5%) față de luna precedentă, conform datelor publicate joi de Institutul Național de Statistică (INS).” [2]
-> „Comparativ cu luna septembrie a anului precedent, câștigul salarial mediu net a crescut cu 5%.” [2]
 
 ### Cu salariul se cumpără mai puțin
 tip: cifră
 - 1,5%
-mai puțin putea cumpăra salariul mediu în septembrie 2026 decât în septembrie 2025. Prețurile au crescut mai repede decât salariul.
+mai puțin putea cumpăra salariul mediu în septembrie 2026 decât în septembrie 2025. Salariul a crescut, dar prețurile au crescut mai repede.
+> „Astfel, deși salariul mediu net a crescut , majorarea nu a fost suficientă pentru a compensa creșterea prețurilor.” [4]
 > „Raportat la inflație, salariul real a fost în septembrie 2026 cu 1,5% mai mic decât în septembrie 2025” [1]
 > „Cu alte cuvinte, puterea de cumpărare a salariului mediu net a scăzut cu 1,5%.” [4]
 
@@ -48,17 +48,16 @@ tip: comparație
 - Motorina: 43,45%
 - Chiriile: 38,46%
 - Benzina: 32,91%
-s-au scumpit într-un an, până în octombrie. Sunt cele mai mari creșteri de prețuri.
+s-au scumpit într-un an, până în octombrie. Sunt cele mai mari creșteri de prețuri. Alte produse s-au ieftinit, de exemplu fructele proaspete.
+> „Scăderi de preț pe parcursul unui an s-au mai înregistrat și la cartofi, cu 2,53%, la fasole boabe, cu 0,65%, precum și la fructele proaspete, cu 15,38%.” [4]
 > „Motorina, chiriile și benzina au înregistrat cele mai mari creșteri de prețuri în octombrie 2026, comparativ cu aceeași lună a anului trecut, cu 43,45%, 38,46% și, respectiv, 32,91%, potrivit unei analize a Institutului Național de Statistică (INS).” [2]
 
 ### Inflația a crescut din nou
 tip: evoluție
-- Iun. 2026: 10,42%
 - Aug. 2026: 6,17%
 - Sept. 2026: 6,61%
 - Oct. 2026: 6,94%
-Inflația arată cu cât au crescut prețurile într-un an. A scăzut mult după vară, apoi a urcat din nou două luni la rând.
-> „Pe ansamblul trimestrului III 2026, rata anuală a inflației a înregistrat o scădere substanțială, de la 10,42% în iunie, pe fondul epuizării efectelor directe ale eliminării plafonului la prețul energiei electrice și ale majorării cotelor de TVA și a accizelor în lunile iulie și august 2025.” [6]
+Inflația arată cu cât au crescut prețurile într-un an. Din august, a urcat două luni la rând, mai ales din cauza carburanților.
 > „Rata anuală a inflației a crescut la 6,94% în octombrie 2026, de la 6,61% în septembrie și 6,17% în august, în principal ca urmare a continuării scumpirii combustibililor și a creșterii prețurilor alimentelor cu prețuri volatile (LFO).” [5]
 
 ### Salarii foarte diferite
@@ -66,13 +65,13 @@ tip: comparație
 - IT: 13.513 lei
 - Petrol și gaze: 13.336 lei
 - Pescuit: 3.005 lei
-- Alte servicii: 2.982 lei
+- Alte activități de servicii: 2.982 lei
 a fost salariul mediu net în septembrie, în domeniile cu cele mai mari și cele mai mici salarii.
 > „Valorile cele mai mari ale câștigului salarial mediu net s-au înregistrat în activități de programare și activități de consultanță în tehnologia informației (13.513 lei) și în extracția petrolului brut și a gazelor naturale (13.336 lei), iar cele mai mici în alte activități de servicii (2.982 lei) și în pescuit și acvacultură (3.005 lei).” [2]
 
 ### Ce urmează
 tip: text
-Banca Națională (BNR) se așteaptă ca inflația să mai crească puțin până la sfârșitul anului. Apoi ar scădea treptat, până la ținta băncii, la începutul lui 2028.
+Banca Națională (BNR) se așteaptă ca inflația să mai crească puțin până la sfârșitul anului. Apoi ar scădea treptat și ar ajunge, abia la începutul lui 2028, în intervalul pe care BNR și-l propune pentru inflație.
 > „Rata anuală a inflației va crește ușor în ultimele luni din 2026, pe fondul scumpirii combustibililor și energiei și al evoluției cursului de schimb, urmând să intre pe o traiectorie descendentă ulterior și să revină în intervalul țintit de Banca Națională a României (BNR) abia în primul trimestru din 2028, potrivit noii prognoze incluse în Raportul asupra inflației din noiembrie 2026.” [5]
 
 ## Articol
@@ -88,6 +87,7 @@ Institutul Național de Statistică (INS), instituția care măsoară salariile 
 Față de septembrie 2025, salariul mediu net a crescut cu 5%. Prețurile au crescut însă mai repede. De aceea, salariul real, adică ce poți cumpăra efectiv cu banii primiți, a fost cu 1,5% mai mic decât acum un an.
 > „Comparativ cu luna septembrie a anului precedent, câștigul salarial mediu net a crescut cu 5%.” [2]
 > „Raportat la inflație, salariul real a fost în septembrie 2026 cu 1,5% mai mic decât în septembrie 2025” [1]
+> „Astfel, deși salariul mediu net a crescut , majorarea nu a fost suficientă pentru a compensa creșterea prețurilor.” [4]
 
 [card: Cu salariul se cumpără mai puțin]
 
@@ -105,8 +105,11 @@ Diferențele dintre domenii sunt mari. În IT, salariul mediu net a fost de 13.5
 
 [card: Salarii foarte diferite]
 
-La stat, față de august, salariul mediu net a scăzut puțin în sănătate și asistență socială și în administrația publică. În învățământ a crescut cu 1%.
+La angajații statului, față de august, salariul mediu net a scăzut puțin în sănătate și asistență socială și în administrația publică. În învățământ a crescut cu 1%.
 > „În sectorul bugetar, comparativ cu luna precedentă, câștigul salarial mediu net a scăzut ușor în sănătate și asistență socială (-0,5%), respectiv în administrația publică (-0,2%), în timp ce în învățământ a crescut cu 1%.” [2]
+
+Pe piața muncii, BNR arată că numărul angajaților a scăzut din nou în iulie și august, iar rata șomajului a coborât la 6,4% în al treilea trimestru, de la 6,8% în trimestrul dinainte.
+> „Pe piața muncii, numărul salariaților a înregistrat noi scăderi în iulie și august, în timp ce rata șomajului BIM a coborât la 6,4% în trimestrul al treilea, de la o medie de 6,8% în trimestrul precedent.” [5]
 
 ### Ce s-a scumpit
 
@@ -123,7 +126,7 @@ Cele mai mari scumpiri au fost la motorină, cu 43,45%, la chirii, cu 38,46%, ș
 
 [card: Carburanții și chiriile, în frunte]
 
-Inflația a scăzut mult după vară: era de 10,42% în iunie. A urcat însă din nou în septembrie și în octombrie, mai ales pentru că s-au scumpit carburanții.
+În vară, inflația a scăzut mult: era de 10,42% în iunie. A scăzut pentru că scumpirile din vara lui 2025, când a crescut TVA și s-a terminat plafonarea prețului la curent, nu mai intră în comparația pe un an. A urcat însă din nou în septembrie și în octombrie, mai ales pentru că s-au scumpit carburanții.
 > „Pe ansamblul trimestrului III 2026, rata anuală a inflației a înregistrat o scădere substanțială, de la 10,42% în iunie, pe fondul epuizării efectelor directe ale eliminării plafonului la prețul energiei electrice și ale majorării cotelor de TVA și a accizelor în lunile iulie și august 2025.” [6]
 > „Rata anuală a inflației a crescut la 6,94% în octombrie 2026, de la 6,61% în septembrie și 6,17% în august, în principal ca urmare a continuării scumpirii combustibililor și a creșterii prețurilor alimentelor cu prețuri volatile (LFO).” [5]
 
@@ -131,17 +134,14 @@ Inflația a scăzut mult după vară: era de 10,42% în iunie. A urcat însă di
 
 ### Ce urmează
 
-Banca Națională a României (BNR) a publicat noua sa prognoză. Banca se așteaptă ca inflația să mai crească puțin în ultimele luni din 2026, din cauza scumpirii carburanților și a energiei și din cauza cursului leului. Apoi inflația ar scădea treptat și ar reveni în ținta BNR în primele trei luni din 2028.
+Banca Națională a României (BNR) a publicat noua sa prognoză. Banca se așteaptă ca inflația să mai crească puțin în ultimele luni din 2026, din cauza scumpirii carburanților și a energiei și din cauza schimbărilor cursului leului. Apoi inflația ar scădea treptat și ar reveni, abia în primele trei luni din 2028, în intervalul pe care BNR și-l propune pentru ea.
 > „Rata anuală a inflației se va mări ușor în ultimele luni din 2026, în principal pe fondul influențelor așteptate să decurgă din scumpirile recente ale combustibililor și energiei și din evoluția cursului de schimb al leului, arată, joi, Banca Națională a României (BNR).” [7]
 > „Ulterior, rata anuală a inflației se va înscrie pe o traiectorie gradual descrescătoare, reintrând în interiorul intervalului țintei în trimestrul I 2028, sub impactul efectelor de bază dezinflaționiste, potrivit Raportului asupra inflației, ediția noiembrie 2026, aprobat joi de Consiliul de Administrație al BNR.” [7]
 
 [card: Ce urmează]
 
-BNR spune că prognoza e nesigură. Totul depinde mult de prețul curentului și al petrolului și de măsurile pe care statul le-ar putea lua ca să-și reducă cheltuielile și deficitul.
+BNR spune că prognoza e nesigură. Totul depinde mult de prețul curentului și al petrolului și de măsurile pe care statul le-ar mai putea lua ca să-și reducă deficitul, adică diferența dintre cât cheltuie și cât încasează.
 > „BNR avertizează însă că perspectiva inflației rămâne marcată de incertitudini, în special în ceea ce privește prețurile energiei electrice și evoluția cotației petrolului, dar și măsurile fiscale care ar putea fi adoptate în continuarea procesului de reducere a deficitului bugetar.” [5]
-
-În aceeași zi, BNR a hotărât să păstreze dobânda de politică monetară, dobânda de referință a băncii, la 6,5% pe an.
-> „Consiliul de administrație al BNR a decis joi, 12 noiembrie, să mențină rata dobânzii de politică monetară la 6,5% pe an, nivel stabilit anterior.” [5]
 
 ## Surse
 

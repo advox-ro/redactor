@@ -1,14 +1,14 @@
 - economie-082
 - economie-033
 
-### În ultimele 12 luni, cum s-a schimbat salariul tău net?
+### În ultimele 12 luni, cum s-a schimbat salariul pe care îl primești în mână?
 
 | id | salariul-tau |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Nu am un salariu |
+| na | Nu am avut salariu în toate ultimele 12 luni |
 | outlook | a: -1, b: -0.5, c: 0, d: 0.5, e: 1, f: 0 |
 
 1. A scăzut
@@ -32,19 +32,20 @@
 3. Da, și încă aștept un răspuns
 4. Nu
 
-### Ce faci sau ce ai face mai întâi când banii nu îți ajung până la sfârșitul lunii?
+### În ultimele 12 luni, când banii nu ți-au ajuns până la sfârșitul lunii, ce ai făcut mai întâi?
 
 | id | bani-pana-la-salariu |
 |---|---|
 | type | single |
-| measures | tradeoff |
+| measures | experience |
 | where | romania |
+| na | Banii mi-au ajuns în fiecare lună |
 
-1. Tai din cheltuieli
-2. Iau din economii
-3. Împrumut bani
-4. Caut un loc de muncă mai bine plătit
-5. Caut un venit în plus
+1. Am tăiat din cheltuieli
+2. Am luat din economii
+3. Am împrumutat bani
+4. Am amânat plata unor facturi sau rate
+5. Am căutat un venit în plus
 6. Altceva
 
 ### În următoarele 12 luni, cum crezi că se va schimba ce îți permiți să cumperi cu banii tăi?
@@ -54,9 +55,10 @@
 | type | single |
 | measures | expectation |
 | where | romania |
-| outlook | a: 1, b: 0, c: -1, d: 0 |
+| outlook | a: 1, b: 0, c: -0.5, d: -1, e: 0 |
 
-1. Voi putea cumpăra mai multe
-2. Voi putea cumpăra la fel
-3. Voi putea cumpăra mai puține
-4. Nu știu
+1. Mai multe
+2. La fel
+3. Puțin mai puține
+4. Mult mai puține
+5. Nu știu
