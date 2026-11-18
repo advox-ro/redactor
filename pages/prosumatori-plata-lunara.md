@@ -1,6 +1,6 @@
 ---
 title: Prosumatorii, plătiți lunar
-summary: Cine are panouri solare va primi lunar socoteala pentru curentul dat în rețea și îl poate folosi și la alte facturi.
+summary: Cine are panouri solare va fi plătit lunar pentru curentul dat în rețea și poate folosi banii și la alte facturi.
 tags: [energie, bani, locuință]
 date: 2026-11-13
 stat: { value: "385.791", label: "de prosumatori erau înregistrați în România la 31 august 2026", quote: "Potrivit datelor ANRE, la 31 august 2026, în România erau înregistrați 385.791 de prosumatori, cu o putere electrică instalată totală de 4.281,86 MW.", source: 5 }
@@ -26,17 +26,21 @@ Prosumatorul își face singur curent, de obicei cu panouri solare, și dă în 
 
 ### Socoteala se face în fiecare lună
 tip: text
-Până acum, curentul dat în plus în rețea era plătit doar o dată la doi ani. De acum, în fiecare lună, curentul dat în rețea se scade din cel luat din rețea. Ce trece peste e excedentul, adică surplusul.
-> „Până acum, energia livrată în plus era plătită doar o dată la doi ani.” [3]
+Până acum, furnizorii aveau până la doi ani să plătească curentul dat în plus. Acum, în fiecare lună, curentul luat din rețea se acoperă cu cel dat în rețea. Ce dai peste e surplusul. HotNews scrie că plata lunară vine de acum, Știrile ProTV că din 1 ianuarie.
+> „În plus, noua metodologie stabilește un mecanism distinct pentru energia livrată până la 25 iulie 2026 inclusiv și rămasă în report, când furnizorii aveau la dispoziție 2 ani pentru plata facturilor către prosumatori.” [1]
+> „Din acest moment, prosumatorii își vor putea primi banii lunar pentru energie livrată în rețea, iar sumele restante de până acum le vor fi plătite în termen de 40 de zile de lucrătoare.” [1]
+> „Surplusul livrat va fi plătit lunar, începând cu 1 ianuarie.” [3]
 > „La fiecare loc de consum și producere, compensarea se face pentru cantitatea cea mai mică dintre energia trimisă în rețea și cea consumată din rețea în aceeași lună.” [2]
 > „Dacă prosumatorul livrează mai mult decât consumă, diferența devine excedent și poate fi valorificată prin noile mecanisme de alocare.” [2]
 
 ### Unde poate merge surplusul
 tip: listă
+- Banii, de la furnizor
 - Factura de curent de la altă locuință
-- Facturi venite, dar încă neplătite
+- Facturi venite, care nu au ajuns la termenul de plată
 - Factura la gaze
-Pentru altă locuință, contractul trebuie să fie la același furnizor. Factura la gaze se poate plăti doar de oamenii cu instalații mici.
+Pentru altă locuință, contractul trebuie să fie la același furnizor. Factura la gaze, doar pentru persoane cu instalații de cel mult 27 kW.
+> „Prosumatorul poate alege banii sau plata facturilor pentru altă locuință, dacă are contract cu același furnizor.” [3]
 > „După compensarea consumului la locul unde sunt instalate panourile, valoarea excedentului poate fi folosită pentru plata facturilor de energie electrică de la alte locuri de consum ale aceluiași prosumator, dacă acestea sunt în portofoliul aceluiași furnizor.” [2]
 > „Prosumatorii pot alege și să rezerve sumele disponibile pentru plata unor facturi deja emise, dar care nu au ajuns încă la scadență.” [2]
 > „Pentru persoanele fizice cu instalații de cel mult 27 kW la fiecare loc de consum, există și opțiunea direcționării valorilor disponibile către plata facturilor la gaze naturale, în condițiile stabilite de metodologie.” [2]
@@ -44,7 +48,8 @@ Pentru altă locuință, contractul trebuie să fie la același furnizor. Factur
 ### Banii rămași din urmă
 tip: cifră
 - 40 de zile lucrătoare
-au furnizorii, de la publicarea regulilor, ca să plătească banii rămași pentru curentul dat în rețea până în vară. Prosumatorii primesc și o situație cu ce li se cuvine.
+au furnizorii, de la publicarea regulilor, ca să plătească banii rămași pentru curentul dat în rețea până la 25 iulie 2026. Prosumatorii primesc și o situație cu ce li se cuvine.
+> „În plus, noua metodologie stabilește un mecanism distinct pentru energia livrată până la 25 iulie 2026 inclusiv și rămasă în report, când furnizorii aveau la dispoziție 2 ani pentru plata facturilor către prosumatori.” [1]
 > „Din acest moment, prosumatorii își vor putea primi banii lunar pentru energie livrată în rețea, iar sumele restante de până acum le vor fi plătite în termen de 40 de zile de lucrătoare.” [1]
 > „Metodologia introduce plata acestor sume, în termen de cel mult 40 de zile lucrătoare de la intrarea în vigoare a ordinului.” [4]
 > „Prosumatorii vor primi o situație detaliată din care vor putea urmări soldul inițial, utilizările efectuate și sumele rămase.” [1]
@@ -69,7 +74,7 @@ Furnizorii au timp până la 31 decembrie să-și schimbe programele de calculat
 ### Ce urmează
 tip: cronologie
 - 31 decembrie 2026: furnizorii își termină schimbările
-- 31 decembrie 2030: se termină socoteala curent pe curent
+- 31 decembrie 2030: se termină socoteala curent pe curent, pentru instalațiile de până la 200 kW
 - 1 ianuarie 2031: plata la prețul pieței, la cerere
 După 2030, prosumatorii vor putea cere să fie plătiți pentru curentul dat în rețea la prețul mediu de pe bursa de energie.
 > „Furnizorii trebuie să finalizeze adaptările până la data de 31 decembrie 2026.” [4]
@@ -95,9 +100,11 @@ La 31 august 2026, în România erau 385.791 de prosumatori. Cei mai mulți, 349
 
 ### Socoteala, lunar
 
-Până acum, curentul dat în plus în rețea era plătit doar o dată la doi ani. De acum, furnizorul face socoteala în fiecare lună: curentul dat în rețea se scade din cel luat din rețea în aceeași lună. Ce rămâne peste e excedentul, adică surplusul. Noile reguli se aplică pentru curentul dat în rețea începând cu 26 iulie 2026, ziua în care a fost publicată legea, și pentru contractele care există deja.
-> „Până acum, energia livrată în plus era plătită doar o dată la doi ani.” [3]
+Până acum, furnizorii aveau la dispoziție până la doi ani ca să plătească curentul dat în plus în rețea. Acum, furnizorul face socoteala în fiecare lună: curentul luat din rețea se acoperă cu cel dat în rețea în aceeași lună. Ce dai peste e excedentul, adică surplusul. HotNews scrie că banii pot fi primiți lunar din momentul publicării regulilor; Știrile ProTV scrie că surplusul va fi plătit lunar de la 1 ianuarie. Noile reguli se aplică pentru curentul dat în rețea începând cu 26 iulie 2026, ziua în care a fost publicată legea, și pentru contractele care există deja.
+> „În plus, noua metodologie stabilește un mecanism distinct pentru energia livrată până la 25 iulie 2026 inclusiv și rămasă în report, când furnizorii aveau la dispoziție 2 ani pentru plata facturilor către prosumatori.” [1]
 > „La fiecare loc de consum și producere, compensarea se face pentru cantitatea cea mai mică dintre energia trimisă în rețea și cea consumată din rețea în aceeași lună.” [2]
+> „Din acest moment, prosumatorii își vor putea primi banii lunar pentru energie livrată în rețea, iar sumele restante de până acum le vor fi plătite în termen de 40 de zile de lucrătoare.” [1]
+> „Surplusul livrat va fi plătit lunar, începând cu 1 ianuarie.” [3]
 > „Aceste beneficii se vor aplica pentru energia livrată în rețea începând cu 26 iulie 2026, data publicării în Monitorul Oficial a noii legi.” [1]
 > „Noile prevederi se aplică energiei livrate în rețea începând cu 26 iulie 2026, inclusiv în cazul contractelor aflate deja în derulare.” [2]
 
@@ -116,7 +123,9 @@ Oamenii cu instalații de cel mult 27 kW (kilowați, mărimea instalației) pot 
 
 [card: Unde poate merge surplusul]
 
-Un specialist citat de Știrile ProTV spune că fiecare ar trebui să-și facă singur socoteala, după facturile de curent și de gaze, pentru că gazul e mai ieftin decât curentul.
+Un specialist citat de Știrile ProTV spune că gazul e de trei ori mai ieftin, pentru că statul îl subvenționează, și că surplusul din vară ar putea plăti gazul folosit iarna. El îi sfătuiește pe oameni să-și facă singuri socoteala, după facturile de curent și de gaze.
+> „Gazul, să știți că este mai ieftin de trei ori în România, este subvenționat.” [3]
+> „Cu megawattul acela excedent de vară putem să plătim megawattul-oră pe care îl consumăm din gaze iarna.” [3]
 > „Ar trebui să ne uităm pe facturile de curent și facturile de gaz și să ne facem calculele proprii.” [3]
 
 ### Banii din urmă
@@ -154,7 +163,7 @@ Furnizorii au timp până la 31 decembrie 2026 să-și schimbe programele de cal
 
 ### Ce urmează
 
-Socoteala curent pe curent, pentru instalațiile de cel mult 200 kW, se termină la 31 decembrie 2030. De la 1 ianuarie 2031, prosumatorii vor putea cere să fie plătiți pentru curentul dat în rețea la prețul mediu de pe bursa de energie, piața unde se vinde curentul pentru ziua următoare.
+Socoteala în care curentul dat se scade din cel luat, pentru instalațiile de cel mult 200 kW, se termină la 31 decembrie 2030. De la 1 ianuarie 2031, prosumatorii vor putea cere să fie plătiți pentru curentul dat în rețea la prețul mediu de pe bursa de energie, piața unde se vinde curentul pentru ziua următoare.
 > „De asemenea, în conformitate cu Legea nr. 160/2026, mecanismul de compensare cantitativă pentru instalațiile de cel mult 200 kW încetează la 31 decembrie 2030.” [4]
 > „Începând cu 1 ianuarie 2031, prosumatorii vor putea solicita valorificarea energiei livrate la prețul mediu ponderat al Pieței pentru Ziua Următoare, în condițiile prevăzute de lege.” [4]
 
