@@ -70,7 +70,8 @@ Ministrul se gândește să-i concedieze pe medicii care pleacă de la spitalul 
 
 ### Ce urmează
 tip: text
-Controlul în toată țara ar putea dura două-trei luni. Ministrul spune că va face public raportul și că, cel mai probabil, vor urma schimbări de lege. Până atunci, le cere pacienților să facă sesizări.
+Controlul în toată țara ar putea dura două-trei luni. Pe 12 noiembrie, ministerul a trimis controale și în aproximativ 25 de ambulatorii de stat și private, din 13 orașe. Ministrul spune că va face public raportul.
+> „Ministrul Sănătății, Alexandru Rogobete, a anunțat joi, 12 noiembrie, că vor fi efectuate controale comune în aproximativ 25 de ambulatorii publice și private din 13 orașe, pentru verificarea neregulilor semnalate de pacienți.” [9]
 > „Alexandru Rogobete a afirmat, luni seară, la Euronews, că a început un control la nivel național, care ar putea dura două-trei luni, inspectorii urmând a verifica programările pacienților, pontajele medicilor și serviciile decontate de CNAS.” [6]
 > „După ce voi termina raportul de control la nivel național, îl voi face public și, cel mai probabil, că vor veni noi modificări legislative pentru corectarea acestor situații”, a încheiat Alexandru Rogobete.” [1]
 > „Îi rog în continuare să facă sesizare la Ministerul Sănătății ori de câte ori apare o astfel de situație.” [1]
@@ -181,6 +182,16 @@ Controlul în toată țara ar putea dura două-trei luni. Inspectorii verifică 
 
 [card: Ce urmează]
 
+### Controale și la clinicile private
+
+Pe 12 noiembrie, ministrul a anunțat controale comune ale Ministerului Sănătății și ale CNAS în aproximativ 25 de ambulatorii, adică policlinici și cabinete de specialitate, de stat și private. Sunt în 13 orașe: București și alte 12 reședințe de județ. Controalele pornesc de la sesizările trimise de pacienți. Ministrul nu a spus ce clinici vor fi verificate și nici când.
+> „Ministrul Sănătății, Alexandru Rogobete, a anunțat joi, 12 noiembrie, că vor fi efectuate controale comune în aproximativ 25 de ambulatorii publice și private din 13 orașe, pentru verificarea neregulilor semnalate de pacienți.” [9]
+> „Verificările vor viza ambulatorii publice și private din București și alte 12 reședințe de județ, iar ministrul spune că echipele vor analiza neregulile semnalate de pacienți și vor sancționa abaterile care se confirmă.” [10]
+> „Controalele vor acoperi atât unități publice, cât și private, însă ministrul nu a nominalizat instituțiile vizate și nu a anunțat calendarul verificărilor.” [10]
+
+Ministrul spune că nu vrea să pună presiune pe medici, ci să găsească neregulile și să le sancționeze acolo unde se confirmă.
+> „Vreau să fie foarte clar: nu este o vânătoare de vrăjitoare! Nu urmărim să punem presiune pe personalul medical, ci să identificăm neregulile, să sancționăm abaterile acolo unde acestea se confirmă și să reducem practicile care afectează accesul pacienților la servicii medicale.” [9]
+
 ## Surse
 
 1. Programări fictive în spitalele de stat, locuri libere la privat. Rogobete, după experimentul cu „bunica”: „Pacienții să facă sesizări” — Antena 3 CNN. https://www.antena3.ro/life/sanatate/programari-fictive-in-spitalele-de-stat-locuri-libere-la-privat-rogobete-dupa-experimentul-cu-bunica-pacientii-sa-faca-sesizari-810096.html
@@ -191,3 +202,5 @@ Controlul în toată țara ar putea dura două-trei luni. Inspectorii verifică 
 6. Rogobete ia în calcul concedierea medicilor care pleacă din spitalul public mai devreme pentru a merge la cabinetul privat — Digi24. https://www.digi24.ro/stiri/actualitate/sanatate/rogobete-ia-in-calcul-concedierea-medicilor-care-pleaca-din-spitalul-public-mai-devreme-pentru-a-merge-la-cabinetul-privat-4028905
 7. Rogobete ia în calcul concedierea medicilor care pleacă de la stat la privat în timpul programului de lucru — Cotidianul. https://www.cotidianul.ro/rogobete-ia-in-calcul-concedierea-medicilor-care-pleaca-de-la-stat-la-privat-in-timpul-programului-de-lucru/
 8. Colegiul Medicilor cere respectarea programului de lucru, după ce ministrul Sănătății a anunțat controale în spitale — Antena 3 CNN. https://www.antena3.ro/life/sanatate/colegiul-medicilor-cere-respectarea-programului-de-lucru-dupa-ce-ministrul-sanatatii-a-anuntat-controale-in-spitale-778150.html
+9. Controale în 25 de ambulatorii din țară, după sesizările pacienților. Rogobete: „Nu este o vânătoare de vrăjitoare” — Adevărul. https://adevarul.ro/stiri-interne/sanatate/controale-in-25-de-ambulatorii-din-tara-dupa-2571114.html
+10. Rogobete trimite Corpul de control în 25 de ambulatorii din 13 orașe, după sesizările pacienților: „Nu este o vânătoare de vrăjitoare” — Cotidianul. https://www.cotidianul.ro/rogobete-trimite-corpul-de-control-in-25-de-ambulatorii-din-13-orase-dupa-sesizarile-pacientilor-nu-este-o-vanatoare-de-vrajitoare/
