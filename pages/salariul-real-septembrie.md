@@ -3,7 +3,7 @@ title: Salariile și prețurile
 summary: Salariul mediu net a ajuns la 5.717 lei, dar prețurile au crescut mai repede; cum s-a schimbat salariul tău și ce îți permiți cu el.
 tags: [bani, muncă]
 date: 2026-11-12
-stat: { value: "5.717 lei", label: "a fost salariul mediu net în septembrie 2026", quote: "Salariul mediu net din România a ajuns la 5.717 lei în septembrie 2026, cu 29 de lei mai mult decât în august, însă scumpirile continuă să erodeze puterea de cumpărare a angajaților.", source: 3 }
+stat: { value: "5.717 lei", label: "a fost salariul mediu net în septembrie 2026", quote: "Potrivit Institutul Național de Statistică, salariul mediu net a ajuns la 5.717 lei în septembrie 2026, în creștere cu 5% față de aceeași lună a anului trecut.", source: 3 }
 image:
   src: /photos/salariul-real-septembrie.jpg
   alt: Tarabe cu legume și fructe într-o piață din București
@@ -20,37 +20,33 @@ quiz: salariul-real-septembrie
 tip: cifră
 - 5.717 lei
 a fost salariul mediu net, adică banii primiți în mână, în septembrie 2026.
-> „Câștigul salarial mediu brut a fost, în septembrie 2026, de 9.532 lei, cu 35 lei (+0,4%) mai mare decât cel înregistrat în luna august 2026, iar câștigul salarial mediu net a fost de 5.717 lei, în creștere cu 29 lei (+0,5%) față de luna precedentă, conform datelor publicate joi de Institutul Național de Statistică (INS).” [2]
+> „Potrivit datelor oficiale publicate de INS joi, 12 noiembrie 2026, câștigul salarial mediu net a fost de 5.717 lei, în creștere cu 29 de lei (+0,51%) față de luna august 2026, iar cel brut a ajuns în septembrie la 9.532 de lei, cu 35 de lei (+0,37%) mai mult decât în luna precedentă.” [2]
 
 ### Cu salariul se cumpără mai puțin
 tip: cifră
 - 1,5%
 mai puțin putea cumpăra salariul mediu în septembrie 2026 decât în septembrie 2025. Salariul a crescut, dar prețurile au crescut mai repede.
-> „Astfel, deși salariul mediu net a crescut , majorarea nu a fost suficientă pentru a compensa creșterea prețurilor.” [4]
 > „Raportat la inflație, salariul real a fost în septembrie 2026 cu 1,5% mai mic decât în septembrie 2025” [1]
-> „Cu alte cuvinte, puterea de cumpărare a salariului mediu net a scăzut cu 1,5%.” [4]
-
-### A 15-a lună la rând
-tip: text
-De 15 luni, salariul real, adică ce poți cumpăra efectiv cu el, e mai mic decât în aceeași lună a anului dinainte.
-> „Este a 15-a lună consecutivă în care salariul real înregistrează o scădere față de aceeași perioadă a anului precedent, potrivit datelor publicate joi de Institutul Național de Statistică (INS).” [3]
+> „Cu alte cuvinte, puterea de cumpărare a salariului mediu net a scăzut cu 1,5%.” [3]
+> „Astfel, deși salariul mediu net a crescut , majorarea nu a fost suficientă pentru a compensa creșterea prețurilor.” [3]
 
 ### Ce s-a scumpit cel mai mult
 tip: comparație
-- Servicii: 11,23%
-- Mărfuri, fără alimente: 7,66%
-- Alimente: 3,07%
-au crescut prețurile în ultimul an, până în octombrie. Serviciile, de exemplu chiriile, s-au scumpit cel mai mult.
-> „Astfel, rata anuală a inflației, comparativ cu luna similară a anului precedent, a fost 6,94%, cele mai mari creșteri de prețuri înregistrându-se și de această dată tot la servicii, 11,23%. În același interval de timp, prețurile mărfurilor nealimentare s-au majorat cu 7,66%, iar cel al mărfurilor alimentare cu 3,07%” [2]
+- Servicii: 11,12%
+- Mărfuri, fără alimente: 7,06%
+- Alimente: 3%
+au crescut prețurile într-un an, până în septembrie. Serviciile s-au scumpit cel mai mult.
+> „Serviciile s-au scumpit cu 11,12% față de septembrie 2025, bunurile nealimentare cu 7,06%, iar alimentele cu 3%.” [4]
 
 ### Carburanții și chiriile, în frunte
 tip: comparație
 - Motorina: 43,45%
 - Chiriile: 38,46%
 - Benzina: 32,91%
-s-au scumpit într-un an, până în octombrie. Sunt cele mai mari creșteri de prețuri. Alte produse s-au ieftinit, de exemplu fructele proaspete.
-> „Scăderi de preț pe parcursul unui an s-au mai înregistrat și la cartofi, cu 2,53%, la fasole boabe, cu 0,65%, precum și la fructele proaspete, cu 15,38%.” [4]
-> „Motorina, chiriile și benzina au înregistrat cele mai mari creșteri de prețuri în octombrie 2026, comparativ cu aceeași lună a anului trecut, cu 43,45%, 38,46% și, respectiv, 32,91%, potrivit unei analize a Institutului Național de Statistică (INS).” [2]
+s-au scumpit într-un an, până în octombrie. Sunt printre cele mai mari creșteri de prețuri. Alte produse s-au ieftinit, de exemplu fructele proaspete.
+> „În același timp, dintre mărfurile nealimentare, cele mai însemnate creșteri din octombrie sunt la motorină, 43,45%, urmate de cele la benzină, 32,91%.” [3]
+> „În categoria serviciilor, cele mai mari creșteri de prețuri în octombrie 2026 comparativ cu luna similară din 2025 s-au consemnat la chirii, acestea majorându-se cu 38,46%, urmate de tarifele la biletele de avion, care s-au majorat cu 14,44%, apă, canal și salubritate, cu 13,69% și abonamentele de televiziune, cu 13,10%.” [3]
+> „Scăderi de preț pe parcursul unui an s-au mai înregistrat și la cartofi, cu 2,53%, la fasole boabe, cu 0,65%, precum și la fructele proaspete, cu 15,38%.” [3]
 
 ### Inflația a crescut din nou
 tip: evoluție
@@ -67,7 +63,7 @@ tip: comparație
 - Pescuit: 3.005 lei
 - Alte activități de servicii: 2.982 lei
 a fost salariul mediu net în septembrie, în domeniile cu cele mai mari și cele mai mici salarii.
-> „Valorile cele mai mari ale câștigului salarial mediu net s-au înregistrat în activități de programare și activități de consultanță în tehnologia informației (13.513 lei) și în extracția petrolului brut și a gazelor naturale (13.336 lei), iar cele mai mici în alte activități de servicii (2.982 lei) și în pescuit și acvacultură (3.005 lei).” [2]
+> „Cele mai mari valori ale câștigului salarial mediu net rămân în zona de programare și activități de consultanță în tehnologia informației (13.513 lei), alături de extracția petrolului brut și a gazelor naturale (13.336 lei), iar cele mai mici în alte activități de servicii (2982 lei) și în pescuit și acvacultură (3005 lei).” [1]
 
 ### Ce urmează
 tip: text
@@ -76,57 +72,56 @@ Banca Națională (BNR) se așteaptă ca inflația să mai crească puțin pân�
 
 ## Articol
 
-Institutul Național de Statistică (INS), instituția care măsoară salariile și prețurile, a publicat cifrele pentru septembrie. Salariul mediu net, adică banii pe care un angajat îi primește în mână, a fost de 5.717 lei. Este cu 29 de lei mai mult decât în august. Salariul mediu brut, înainte de taxe, a fost de 9.532 de lei.
-> „Salariul mediu net din România a ajuns la 5.717 lei în septembrie 2026, cu 29 de lei mai mult decât în august, însă scumpirile continuă să erodeze puterea de cumpărare a angajaților.” [3]
-> „Câștigul salarial mediu brut a fost, în septembrie 2026, de 9.532 lei, cu 35 lei (+0,4%) mai mare decât cel înregistrat în luna august 2026, iar câștigul salarial mediu net a fost de 5.717 lei, în creștere cu 29 lei (+0,5%) față de luna precedentă, conform datelor publicate joi de Institutul Național de Statistică (INS).” [2]
+Institutul Național de Statistică (INS), instituția care măsoară salariile și prețurile, a publicat joi cifrele pentru septembrie. Salariul mediu net, adică banii pe care un angajat îi primește în mână, a fost de 5.717 lei. Este cu 29 de lei mai mult decât în august. Salariul mediu brut, înainte de taxe, a fost de 9.532 de lei.
+> „Potrivit datelor oficiale publicate de INS joi, 12 noiembrie 2026, câștigul salarial mediu net a fost de 5.717 lei, în creștere cu 29 de lei (+0,51%) față de luna august 2026, iar cel brut a ajuns în septembrie la 9.532 de lei, cu 35 de lei (+0,37%) mai mult decât în luna precedentă.” [2]
 
 [card: Salariul mediu, în septembrie]
 
 ### Banii cresc, dar cumpără mai puțin
 
 Față de septembrie 2025, salariul mediu net a crescut cu 5%. Prețurile au crescut însă mai repede. De aceea, salariul real, adică ce poți cumpăra efectiv cu banii primiți, a fost cu 1,5% mai mic decât acum un an.
-> „Comparativ cu luna septembrie a anului precedent, câștigul salarial mediu net a crescut cu 5%.” [2]
+> „Potrivit Institutul Național de Statistică, salariul mediu net a ajuns la 5.717 lei în septembrie 2026, în creștere cu 5% față de aceeași lună a anului trecut.” [3]
+> „Astfel, deși salariul mediu net a crescut , majorarea nu a fost suficientă pentru a compensa creșterea prețurilor.” [3]
 > „Raportat la inflație, salariul real a fost în septembrie 2026 cu 1,5% mai mic decât în septembrie 2025” [1]
-> „Astfel, deși salariul mediu net a crescut , majorarea nu a fost suficientă pentru a compensa creșterea prețurilor.” [4]
 
 [card: Cu salariul se cumpără mai puțin]
 
-Nu e prima lună în care se întâmplă asta. Este a 15-a lună la rând în care salariul real e mai mic decât în aceeași lună a anului dinainte.
-> „Este a 15-a lună consecutivă în care salariul real înregistrează o scădere față de aceeași perioadă a anului precedent, potrivit datelor publicate joi de Institutul Național de Statistică (INS).” [3]
-
-INS spune că salariile urcă și coboară de la o lună la alta și din cauza primelor, de exemplu cele de sărbători sau cele anuale. Pe tot anul, aceste diferențe se mai echilibrează. În septembrie, salariile au crescut în cele mai multe domenii și datorită unor prime.
-> „INS precizează că în cursul anului se înregistrează fluctuații ale câștigului salarial determinate, în principal, de acordarea premiilor anuale și a primelor de sărbători, în special în lunile luate ca bază de comparație (decembrie, martie/aprilie).” [3]
-> „În luna septembrie 2026, în majoritatea activităților din sectorul economic, nivelul câștigului salarial mediu net a crescut comparativ cu luna august 2026, ca urmare a acordării de prime ocazionale (prime trimestriale, anuale sau pentru performanțe deosebite), drepturi în natură și ajutoare bănești, sume din profitul net și din alte fonduri (inclusiv bilete de valoare).” [3]
+Și de la o lună la alta, prețurile au crescut mai repede decât salariul: în septembrie, cu 0,77% față de august.
+> „Prin comparație, prețurile de consum au crescut în septembrie față de august cu 0,77% .” [2]
+> „Cu alte cuvinte, inflația lunară a fost mai mare decât avansul atât al salariului brut, cât și al celui net.” [2]
 
 ### Unde se câștigă mai mult și unde mai puțin
 
-Diferențele dintre domenii sunt mari. În IT, salariul mediu net a fost de 13.513 lei, iar în extracția de petrol și gaze de 13.336 lei. La celălalt capăt, în pescuit a fost de 3.005 lei, iar în alte activități de servicii de 2.982 lei.
-> „Valorile cele mai mari ale câștigului salarial mediu net s-au înregistrat în activități de programare și activități de consultanță în tehnologia informației (13.513 lei) și în extracția petrolului brut și a gazelor naturale (13.336 lei), iar cele mai mici în alte activități de servicii (2.982 lei) și în pescuit și acvacultură (3.005 lei).” [2]
+Diferențele dintre domenii sunt mari. În IT, salariul mediu net a fost de 13.513 lei, iar în extracția de petrol și gaze de 13.336 lei. La celălalt capăt, în pescuit a fost de 3.005 lei, iar în alte activități de servicii de 2.982 de lei.
+> „Cele mai mari valori ale câștigului salarial mediu net rămân în zona de programare și activități de consultanță în tehnologia informației (13.513 lei), alături de extracția petrolului brut și a gazelor naturale (13.336 lei), iar cele mai mici în alte activități de servicii (2982 lei) și în pescuit și acvacultură (3005 lei).” [1]
 
 [card: Salarii foarte diferite]
 
-La angajații statului, față de august, salariul mediu net a scăzut puțin în sănătate și asistență socială și în administrația publică. În învățământ a crescut cu 1%.
-> „În sectorul bugetar, comparativ cu luna precedentă, câștigul salarial mediu net a scăzut ușor în sănătate și asistență socială (-0,5%), respectiv în administrația publică (-0,2%), în timp ce în învățământ a crescut cu 1%.” [2]
+Salariul mediu e ridicat de câștigurile foarte mari din unele domenii. Cei mai mulți angajați câștigă mai puțin: un raport al patronatelor, pe date ale Ministerului Muncii, arată că aproximativ 58% dintre angajați aveau în 2025 salarii nete sub 4.100 de lei.
+> „Media salarială poate fi influențată de câștigurile foarte mari din anumite sectoare.” [4]
+> „Potrivit unui raport al Confederației Patronale Concordia, bazat pe date ale Ministerului Muncii și citat de Adevărul Financiar, aproximativ 58% dintre angajați aveau în 2025 salarii nete sub 4.100 de lei.” [4]
 
 Pe piața muncii, BNR arată că numărul angajaților a scăzut din nou în iulie și august, iar rata șomajului a coborât la 6,4% în al treilea trimestru, de la 6,8% în trimestrul dinainte.
 > „Pe piața muncii, numărul salariaților a înregistrat noi scăderi în iulie și august, în timp ce rata șomajului BIM a coborât la 6,4% în trimestrul al treilea, de la o medie de 6,8% în trimestrul precedent.” [5]
 
 ### Ce s-a scumpit
 
-Inflația arată cu cât au crescut prețurile într-un an. În octombrie, ea a fost de 6,94%. Serviciile s-au scumpit cu 11,23%, celelalte mărfuri în afară de alimente cu 7,66%, iar alimentele cu 3,07%.
-> „Astfel, rata anuală a inflației, comparativ cu luna similară a anului precedent, a fost 6,94%, cele mai mari creșteri de prețuri înregistrându-se și de această dată tot la servicii, 11,23%. În același interval de timp, prețurile mărfurilor nealimentare s-au majorat cu 7,66%, iar cel al mărfurilor alimentare cu 3,07%” [2]
+Inflația arată cu cât au crescut prețurile într-un an. În septembrie, ea a fost de 6,61%. Serviciile s-au scumpit cu 11,12%, celelalte mărfuri în afară de alimente cu 7,06%, iar alimentele cu 3%.
+> „Presiunea prețurilor a continuat în septembrie, când rata anuală a inflației a ajuns la 6,61%, conform datelor INS prezentate de Adevărul Financiar .” [4]
+> „Serviciile s-au scumpit cu 11,12% față de septembrie 2025, bunurile nealimentare cu 7,06%, iar alimentele cu 3%.” [4]
 
 [card: Ce s-a scumpit cel mai mult]
 
-Cele mai mari scumpiri au fost la motorină, cu 43,45%, la chirii, cu 38,46%, și la benzină, cu 32,91%. La alimente, cafeaua s-a scumpit cu 12,48%, iar ouăle cu 10,50%. Fructele proaspete s-au ieftinit cu 15,38%.
-> „Motorina, chiriile și benzina au înregistrat cele mai mari creșteri de prețuri în octombrie 2026, comparativ cu aceeași lună a anului trecut, cu 43,45%, 38,46% și, respectiv, 32,91%, potrivit unei analize a Institutului Național de Statistică (INS).” [2]
-> „La alimente, cele mai mari majorări de prețuri s-au menținut și în acest interval la cafea, prețul acesteia majorându-se într-un an cu 12,48%.” [4]
-> „Ouăle se află în continuare pe locul secund, cu o creștere a prețurilor de 10,50%, în timp ce laptele de vacă s-a scumpit cu 8,11%, potrivit datelor INS.” [4]
-> „Scăderi de preț pe parcursul unui an s-au mai înregistrat și la cartofi, cu 2,53%, la fasole boabe, cu 0,65%, precum și la fructele proaspete, cu 15,38%.” [4]
+În octombrie, cele mai mari scumpiri față de acum un an au fost la motorină, cu 43,45%, la chirii, cu 38,46%, și la benzină, cu 32,91%. La alimente, cafeaua s-a scumpit cu 12,48%, iar ouăle cu 10,50%. Fructele proaspete s-au ieftinit cu 15,38%.
+> „În același timp, dintre mărfurile nealimentare, cele mai însemnate creșteri din octombrie sunt la motorină, 43,45%, urmate de cele la benzină, 32,91%.” [3]
+> „În categoria serviciilor, cele mai mari creșteri de prețuri în octombrie 2026 comparativ cu luna similară din 2025 s-au consemnat la chirii, acestea majorându-se cu 38,46%, urmate de tarifele la biletele de avion, care s-au majorat cu 14,44%, apă, canal și salubritate, cu 13,69% și abonamentele de televiziune, cu 13,10%.” [3]
+> „La alimente, cele mai mari majorări de prețuri s-au menținut și în acest interval la cafea, prețul acesteia majorându-se într-un an cu 12,48%.” [3]
+> „Ouăle se află în continuare pe locul secund, cu o creștere a prețurilor de 10,50%, în timp ce laptele de vacă s-a scumpit cu 8,11%, potrivit datelor INS.” [3]
+> „Scăderi de preț pe parcursul unui an s-au mai înregistrat și la cartofi, cu 2,53%, la fasole boabe, cu 0,65%, precum și la fructele proaspete, cu 15,38%.” [3]
 
 [card: Carburanții și chiriile, în frunte]
 
-În vară, inflația a scăzut mult: era de 10,42% în iunie. A scăzut pentru că scumpirile din vara lui 2025, când a crescut TVA și s-a terminat plafonarea prețului la curent, nu mai intră în comparația pe un an. A urcat însă din nou în septembrie și în octombrie, mai ales pentru că s-au scumpit carburanții.
+În vară, inflația a scăzut mult: era de 10,42% în iunie. A scăzut pentru că scumpirile din vara lui 2025, când a crescut TVA și s-a terminat plafonarea prețului la curent, nu mai intră în comparația pe un an. În octombrie a urcat însă la 6,94%, a doua lună de creștere, mai ales pentru că s-au scumpit carburanții.
 > „Pe ansamblul trimestrului III 2026, rata anuală a inflației a înregistrat o scădere substanțială, de la 10,42% în iunie, pe fondul epuizării efectelor directe ale eliminării plafonului la prețul energiei electrice și ale majorării cotelor de TVA și a accizelor în lunile iulie și august 2025.” [6]
 > „Rata anuală a inflației a crescut la 6,94% în octombrie 2026, de la 6,61% în septembrie și 6,17% în august, în principal ca urmare a continuării scumpirii combustibililor și a creșterii prețurilor alimentelor cu prețuri volatile (LFO).” [5]
 
@@ -135,8 +130,8 @@ Cele mai mari scumpiri au fost la motorină, cu 43,45%, la chirii, cu 38,46%, ș
 ### Ce urmează
 
 Banca Națională a României (BNR) a publicat noua sa prognoză. Banca se așteaptă ca inflația să mai crească puțin în ultimele luni din 2026, din cauza scumpirii carburanților și a energiei și din cauza schimbărilor cursului leului. Apoi inflația ar scădea treptat și ar reveni, abia în primele trei luni din 2028, în intervalul pe care BNR și-l propune pentru ea.
-> „Rata anuală a inflației se va mări ușor în ultimele luni din 2026, în principal pe fondul influențelor așteptate să decurgă din scumpirile recente ale combustibililor și energiei și din evoluția cursului de schimb al leului, arată, joi, Banca Națională a României (BNR).” [7]
-> „Ulterior, rata anuală a inflației se va înscrie pe o traiectorie gradual descrescătoare, reintrând în interiorul intervalului țintei în trimestrul I 2028, sub impactul efectelor de bază dezinflaționiste, potrivit Raportului asupra inflației, ediția noiembrie 2026, aprobat joi de Consiliul de Administrație al BNR.” [7]
+> „Rata anuală a inflației se va mări ușor în ultimele luni din 2026, în principal pe fondul influențelor așteptate să decurgă din scumpirile recente ale combustibililor și energiei, dar și din evoluția cursului de schimb al leului, arată, joi, Banca Națională a României.” [6]
+> „Rata anuală a inflației va crește ușor în ultimele luni din 2026, pe fondul scumpirii combustibililor și energiei și al evoluției cursului de schimb, urmând să intre pe o traiectorie descendentă ulterior și să revină în intervalul țintit de Banca Națională a României (BNR) abia în primul trimestru din 2028, potrivit noii prognoze incluse în Raportul asupra inflației din noiembrie 2026.” [5]
 
 [card: Ce urmează]
 
@@ -146,9 +141,8 @@ BNR spune că prognoza e nesigură. Totul depinde mult de prețul curentului și
 ## Surse
 
 1. Salariul mediu net a fost în luna septembrie de 5.717 lei, în creștere cu 5% față de perioada similară din 2025, dar este de fapt a 15-a lună consecutivă de scădere a salariului real an/an — Ziarul Financiar. https://www.zf.ro/eveniment/salariul-mediu-net-a-fost-in-luna-septembrie-de-5-717-lei-in-crestere-cu-5-fata-de-perioada-similara-din-2025-dar-este-de-fapt-a-15-a-luna-consecutiva-de-scadere-a-salariului-real-an-an-23280620
-2. Câștigul salarial mediu net a crescut la 5.717 lei în septembrie; câștigul salarial real a fost mai mic (INS) — Monitorul de Vrancea. https://www.monitoruldevrancea.ro/2026/11/13/castigul-salarial-mediu-net-a-crescut-la-5-717-lei-in-septembrie-castigul-salarial-real-a-fost-mai-mic-ins/
-3. Salariile românilor cresc doar pe hârtie: Puterea de cumpărare scade de 15 luni la rând. Domeniile în care se câștigă peste 13.000 de lei — Știri pe surse. https://www.stiripesurse.ro/salariile-romanilor-cresc-doar-pe-hartie-puterea-de-cumparare-scade-de-15-luni-la-rand-domeniile-in-care-se-castiga-peste-13000-de-lei_3936094
-4. Rata anuală a inflației a ajuns la 6,9. Românii câștigă mai mult, dar își permit mai puțin — Gândul. https://www.gandul.ro/actualitate/rata-anuala-a-inflatiei-a-ajuns-la-69-romanii-castiga-mai-mult-dar-isi-permit-mai-putin-21062423
+2. Salariile au crescut, dar nu țin pasul cu scumpirile - date INS. Românii au câștigat în medie cu 29 de lei mai mult — Realitatea. https://www.realitatea.net/stiri/economie/salariile-au-crescut-dar-nu-tin-pasul-cu-scumpirile-date-ins-romanii-au-castigat-in-medie-cu-29-de-lei-mai-mult-bydeac
+3. Rata anuală a inflației a ajuns la 6,9. Românii câștigă mai mult, dar își permit mai puțin — Gândul. https://www.gandul.ro/actualitate/rata-anuala-a-inflatiei-a-ajuns-la-69-romanii-castiga-mai-mult-dar-isi-permit-mai-putin-21062423
+4. Diferențe uriașe între salariile românilor: peste 13.000 de lei în IT, sub 3.000 de lei în alte domenii — Adevărul. https://adevarul.ro/economie/diferente-uriase-intre-salariile-romanilor-peste-2569837.html
 5. BNR: Prețurile vor continua să crească ușor până la finalul anului / Inflația va reintra în ținta băncii centrale abia în primul trimestru din 2028 — Economedia. https://economedia.ro/bnr-preturile-vor-continua-sa-creasca-usor-pana-la-finalul-anului-inflatia-va-reintra-in-tinta-bancii-centrale-abia-in-primul-trimestru-din-2028.html
 6. Rata anuală a inflației va crește ușor la final de 2026, apoi va scădea treptat. Cauzele explicate de BNR — Observator. https://observatornews.ro/economic/rata-anuala-a-inflatiei-va-creste-usor-la-final-de-2026-apoi-va-scadea-treptat-cauzele-enumerate-de-bnr-672160.html
-7. BNR: Rata anuală a inflației se va mări ușor în ultimele luni din 2026 — News.ro. https://www.news.ro/economic/bnr-rata-anuala-inflatiei-mari-usor-ultimele-luni-2026-fondul-scumpirilor-combustibili-energie-evolutiei-cursului-schimb-leului-dupa-urma-traiectorie-gradual-descrescatoare-1922404712232026111522983405
