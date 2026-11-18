@@ -70,7 +70,7 @@ Ministrul se gândește să-i concedieze pe medicii care pleacă de la spitalul 
 
 ### Ce urmează
 tip: text
-Controlul în toată țara ar putea dura două-trei luni. Pe 12 noiembrie, ministerul a trimis controale și în aproximativ 25 de ambulatorii de stat și private, din 13 orașe. Ministrul spune că va face public raportul.
+Controlul în toată țara ar putea dura două-trei luni. Pe 12 noiembrie, ministrul a anunțat controale și în aproximativ 25 de ambulatorii de stat și private, din 13 orașe. Raportul va fi public și, cel mai probabil, vor urma schimbări de lege. Pacienții pot face sesizări.
 > „Ministrul Sănătății, Alexandru Rogobete, a anunțat joi, 12 noiembrie, că vor fi efectuate controale comune în aproximativ 25 de ambulatorii publice și private din 13 orașe, pentru verificarea neregulilor semnalate de pacienți.” [9]
 > „Alexandru Rogobete a afirmat, luni seară, la Euronews, că a început un control la nivel național, care ar putea dura două-trei luni, inspectorii urmând a verifica programările pacienților, pontajele medicilor și serviciile decontate de CNAS.” [6]
 > „După ce voi termina raportul de control la nivel național, îl voi face public și, cel mai probabil, că vor veni noi modificări legislative pentru corectarea acestor situații”, a încheiat Alexandru Rogobete.” [1]
@@ -173,6 +173,18 @@ Articolele despre declarațiile ministrului nu cuprind o reacție a medicilor. L
 
 [card: Ministrul ia în calcul concedieri]
 
+### Controale și la clinicile private
+
+Pe 12 noiembrie, ministrul a anunțat controale comune ale Ministerului Sănătății și ale CNAS în aproximativ 25 de ambulatorii, locurile unde mergi la specialist fără să fii internat, de stat și private. Sunt în 13 orașe: Brașov, Alba Iulia, Sibiu, Iași, Arad, Timișoara, București, Ploiești, Pitești, Buzău, Baia Mare, Constanța și Târgu Mureș. Controalele pornesc de la sesizările trimise de pacienți. Ministrul nu a spus ce clinici vor fi verificate și nici când.
+> „Ministrul Sănătății, Alexandru Rogobete, a anunțat joi, 12 noiembrie, că vor fi efectuate controale comune în aproximativ 25 de ambulatorii publice și private din 13 orașe, pentru verificarea neregulilor semnalate de pacienți.” [9]
+> „Verificările vor viza ambulatorii publice și private din București și alte 12 reședințe de județ, iar ministrul spune că echipele vor analiza neregulile semnalate de pacienți și vor sancționa abaterile care se confirmă.” [10]
+> „Controalele vor acoperi atât unități publice, cât și private, însă ministrul nu a nominalizat instituțiile vizate și nu a anunțat calendarul verificărilor.” [10]
+> „Echipele reunite ale Corpului de Control al Ministerului Sănătății și Corpului de Control al CNAS vor ajunge în ambulatorii din Brașov, Alba Iulia, Sibiu, Iași, Arad, Timișoara, București, Ploiești, Pitești, Buzău, Baia Mare, Constanța și Târgu Mureș.” [10]
+
+Ministrul spune că nu vrea să pună presiune pe medici, ci să găsească neregulile și să le sancționeze acolo unde se confirmă. A avertizat și că cei care cred că pot păcăli sistemul se înșală. Articolele despre anunț nu cuprind o reacție a medicilor sau a clinicilor private.
+> „Vreau să fie foarte clar: nu este o vânătoare de vrăjitoare! Nu urmărim să punem presiune pe personalul medical, ci să identificăm neregulile, să sancționăm abaterile acolo unde acestea se confirmă și să reducem practicile care afectează accesul pacienților la servicii medicale.” [9]
+> „Cine crede că mai poate fenta sistemul, are o părere greșită despre determinarea mea!”, a adăugat el, încurajându-i pe pacienți să continue să semnaleze problemele.” [10]
+
 ### Ce urmează
 
 Controlul în toată țara ar putea dura două-trei luni. Inspectorii verifică programările, pontajele medicilor și consultațiile plătite de CNAS. Ministrul spune că va face public raportul și că, cel mai probabil, vor urma schimbări de lege. Le cere pacienților care pățesc așa ceva să facă sesizări la Ministerul Sănătății.
@@ -182,15 +194,6 @@ Controlul în toată țara ar putea dura două-trei luni. Inspectorii verifică 
 
 [card: Ce urmează]
 
-### Controale și la clinicile private
-
-Pe 12 noiembrie, ministrul a anunțat controale comune ale Ministerului Sănătății și ale CNAS în aproximativ 25 de ambulatorii, adică policlinici și cabinete de specialitate, de stat și private. Sunt în 13 orașe: București și alte 12 reședințe de județ. Controalele pornesc de la sesizările trimise de pacienți. Ministrul nu a spus ce clinici vor fi verificate și nici când.
-> „Ministrul Sănătății, Alexandru Rogobete, a anunțat joi, 12 noiembrie, că vor fi efectuate controale comune în aproximativ 25 de ambulatorii publice și private din 13 orașe, pentru verificarea neregulilor semnalate de pacienți.” [9]
-> „Verificările vor viza ambulatorii publice și private din București și alte 12 reședințe de județ, iar ministrul spune că echipele vor analiza neregulile semnalate de pacienți și vor sancționa abaterile care se confirmă.” [10]
-> „Controalele vor acoperi atât unități publice, cât și private, însă ministrul nu a nominalizat instituțiile vizate și nu a anunțat calendarul verificărilor.” [10]
-
-Ministrul spune că nu vrea să pună presiune pe medici, ci să găsească neregulile și să le sancționeze acolo unde se confirmă.
-> „Vreau să fie foarte clar: nu este o vânătoare de vrăjitoare! Nu urmărim să punem presiune pe personalul medical, ci să identificăm neregulile, să sancționăm abaterile acolo unde acestea se confirmă și să reducem practicile care afectează accesul pacienților la servicii medicale.” [9]
 
 ## Surse
 
