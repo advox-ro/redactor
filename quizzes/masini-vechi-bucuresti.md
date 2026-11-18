@@ -31,12 +31,13 @@
 1. Mi-aș schimba mașina
 2. Aș merge cu transportul public
 3. Aș merge pe jos
-4. Aș merge cu bicicleta sau trotineta
+4. Aș merge cu bicicleta
 5. Aș lăsa mașina la marginea zonei
 6. Aș merge mai rar în centru
-7. Altceva
+7. Nu merg cu mașina în centru
+8. Nu știu
 
-### Cât de mult ești de acord ca mașinile care poluează cel mai mult să nu mai aibă voie, treptat, în centrul orașului?
+### Cât de mult ești de acord ca mașinile vechi, după norma Euro, să nu mai aibă voie, treptat, în centrul orașului?
 
 | id | acord-restrictii |
 |---|---|
@@ -53,9 +54,9 @@
 | measures | priority |
 | where | romania |
 
-1. Să oprească treptat mașinile vechi
+1. Să aducă mai multe autobuze, troleibuze și tramvaie noi
 2. Să ajute casele să renunțe la încălzirea cu lemne și cărbune
-3. Să aducă mai multe autobuze, troleibuze și tramvaie noi
+3. Să oprească treptat mașinile vechi
 4. Să repare termoficarea
 5. Să spele străzile în loc să le măture
 6. Altceva
