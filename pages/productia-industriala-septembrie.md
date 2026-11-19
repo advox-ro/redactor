@@ -50,12 +50,12 @@ Nu e o lună slabă izolată. Industria a avut rezultate negative de-a lungul an
 > „Industria românească a continuat să înregistreze rezultate negative în 2026, producția industrială fiind în scădere cu 6,1% ca serie brută în septembrie față de perioada similară din 2025.” [2]
 
 INS dă două cifre. Prima e cea brută, adică exact cât s-a produs. A doua e ajustată: ține cont de câte zile lucrătoare au fost și de anotimp, ca lunile să poată fi comparate mai corect. Pe cifra ajustată, scăderea din primele nouă luni e de 3,9%.
-> „În primele nouă luni din 2026, comparativ cu perioada similară din 2025, producția industrială a scăzut cu 3,7% ca serie brută și cu 3,9% ca serie ajustată în funcție de numărul de zile lucrătoare și de sezonalitate.” [4]
+> „Producția industrială a scăzut în primele 9 luni din 2026 cu 3,7% ca serie brută și cu 3,9% ca serie ajustată în funcție de numărul de zile lucrătoare și de sezonalitate, luna septembrie aducând o reducere mai accentuată, de peste 6%, arată datele publicate de Institutul Național de Statistică.” [1]
 
 ### Septembrie, mai slab
 
 Doar în septembrie, producția a fost cu 6,1% mai mică decât în septembrie 2025. Pe cifra ajustată, scăderea a fost de 6,2%.
-> „Producția industrială a fost mai mică în luna septembrie, atât ca serie brută (6,1%), cât și ca serie ajustată în funcție de numărul de zile lucrătoare și de sezonalitate (6,2%), față de luna septembrie 2025, anunță Institutul Național de Statistică (INS).” [4]
+> „Față de septembrie 2025, industria s-a contractat cu 6,1% pe serie brută și cu 6,2% pe serie ajustată în funcție de numărul de zile lucrătoare și de sezonalitate.” [1]
 
 [card: În septembrie, scăderea a fost mai mare]
 
@@ -79,4 +79,3 @@ INS împarte industria în trei ramuri: industria prelucrătoare, adică fabrici
 1. Producția industrială a scăzut în primele 9 luni din 2026 cu 3,7% ca serie brută, luna septembrie aducând o reducere mai accentuată, de peste 6% — Ziarul Financiar. https://www.zf.ro/zf-24/productia-industriala-a-scazut-in-primele-9-luni-din-2026-cu-3-7-ca-serie-bruta-luna-septembrie-aducand-o-reducere-mai-accentuata-de-peste-6-23281237
 2. Industria accelerează în septembrie față de august, dar pierde peste 6% într-un an — Realitatea. https://www.realitatea.net/stiri/economie/industria-accelereaza-in-septembrie-fata-de-august-dar-pierde-peste-6-intr-un-an-tnyiry
 3. Producția industrială a României a scăzut cu aproape 4% în primele nouă luni — Mediafax. https://www.mediafax.ro/economic/productia-industriala-a-romaniei-a-scazut-cu-aproape-4-in-primele-noua-luni-23842417
-4. INS: Producția industrială în luna septembrie, în scădere cu peste 6% față de septembrie 2025/ Avans de 13,7%, ca serie brută, față de august — News.ro. https://www.news.ro/economic/ins-productia-industriala-in-luna-septembrie-in-scadere-cu-peste-6-fata-de-septembrie-2025-avans-de-13-7-ca-serie-bruta-fata-de-august-1922400213492026111022984827
