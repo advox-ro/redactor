@@ -1,17 +1,21 @@
 - economie-053
-- economie-084
-- social-002
+- social-026
 
-### Economia a crescut în iulie–septembrie față de lunile dinainte. Cât de mult ai simțit asta în banii tăi?
+### Față de primăvara aceasta, cum s-au schimbat banii de care dispune gospodăria ta în ultimele trei luni?
 
-| id | crestere-simtita |
+| id | bani-trei-luni |
 |---|---|
-| type | scale |
+| type | single |
 | measures | experience |
 | where | romania |
-| scale | Deloc … Foarte mult |
+| outlook | a: 1, b: 0, c: -1, d: 0 |
 
-### În ultimele trei luni, cum s-au schimbat cheltuielile tale pentru lucruri de care te poți lipsi (de exemplu, ieșiri în oraș, haine noi)?
+1. Mai mulți
+2. La fel
+3. Mai puțini
+4. Nu știu
+
+### Față de lunile dinainte, cât ai cheltuit în ultimele trei luni pe lucruri de care te poți lipsi (de exemplu, ieșiri în oraș, haine noi)?
 
 | id | cheltuieli-trei-luni |
 |---|---|
@@ -20,21 +24,7 @@
 | where | romania |
 | na | Nu am astfel de cheltuieli |
 
-1. Au crescut
-2. Au rămas la fel
-3. Au scăzut
-4. Nu știu
-
-### Cum crezi că o va duce gospodăria ta cu banii în 2027, față de acum?
-
-| id | gospodaria-2027 |
-|---|---|
-| type | single |
-| measures | expectation |
-| where | romania |
-| outlook | a: 1, b: 0, c: -1, d: 0 |
-
-1. Mai bine
+1. Mai mult
 2. La fel
-3. Mai rău
+3. Mai puțin
 4. Nu știu
