@@ -4,43 +4,35 @@
 |---|---|
 | type | single |
 | measures | experience |
+| where | romania |
 | na | Nu lucrez în prezent |
 
-1. Într-o fabrică
-2. În producția de energie, gaze sau apă
-3. Într-o mină sau în extracția de petrol și gaze
+1. Într-o fabrică, inclusiv în birourile ei
+2. În producția sau furnizarea de curent, căldură ori apă
+3. Într-o mină, o carieră sau la scos petrol și gaze din pământ
 4. În alt domeniu
 
-### Față de acum 12 luni, cât de mult are de lucru firma la care lucrezi?
+### Față de acum 12 luni, cât de mult de lucru este la locul tău de muncă?
 
-| id | volum-munca |
+| id | de-lucru |
 |---|---|
 | type | single |
-| measures | experience |
-| na | Nu lucrez în prezent |
-| outlook | a: 1, b: 0, c: -0.5, d: -1, e: 0 |
-
-1. Mai mult
-2. La fel
-3. Puțin mai puțin
-4. Mult mai puțin
-5. Nu știu
-
-### În ultimele 12 luni, cineva din familia ta a rămas fără loc de muncă?
-
-| id | familie-fara-loc |
-|---|---|
-| type | single |
-| measures | experience |
+| measures | trend |
 | where | romania |
+| na | Nu lucrez în prezent |
+| outlook | a: 1, b: 0.5, c: 0, d: -0.5, e: -1, f: 0, g: 0 |
 
-1. Da
-2. Nu
-3. Nu știu
+1. Mult mai mult
+2. Puțin mai mult
+3. La fel
+4. Puțin mai puțin
+5. Mult mai puțin
+6. Lucrez acolo de mai puțin de un an
+7. Nu știu
 
-### Cum crezi că se va schimba, în următoarele 12 luni, numărul locurilor de muncă din fabricile din județul tău?
+### Cum crezi că va merge producția fabricilor din județul tău în următoarele 12 luni?
 
-| id | locuri-fabrici-judet |
+| id | fabrici-judet |
 |---|---|
 | type | single |
 | measures | expectation |
@@ -48,17 +40,16 @@
 | na | Nu sunt fabrici în județul meu |
 | outlook | a: 1, b: 0, c: -1, d: 0 |
 
-1. Vor fi mai multe
-2. Vor rămâne la fel
-3. Vor fi mai puține
+1. Vor produce mai mult
+2. Vor produce la fel
+3. Vor produce mai puțin
 4. Nu știu
 
-### Când cumperi un aparat pentru casă, de exemplu un frigider, cât de mult contează pentru tine dacă a fost fabricat în România?
+### Cât de mult depind locurile de muncă din județul tău de fabrici?
 
-| id | fabricat-in-romania |
+| id | judet-depinde |
 |---|---|
 | type | scale |
 | measures | opinion |
 | where | romania |
 | scale | Deloc … Foarte mult |
-| na | Nu cumpăr eu aparate pentru casă |
