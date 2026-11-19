@@ -108,22 +108,23 @@ tip: cronologie
 tip: comparație
 - Acum: 3 lei
 - Propus: 5 lei
-costă o călătorie de 90 de minute cu STB, acum și după propunerea administratorului judiciar. E doar o propunere: Consiliul General al Bucureștiului trebuie s-o voteze.
+costă acum o călătorie de 90 de minute cu STB și cât ar costa dacă propunerea administratorului judiciar e aprobată. Întâi trebuie s-o voteze Consiliul General, consiliul local al Bucureștiului.
 > „Printre măsurile propuse pentru redresarea financiară a STB se numără majorarea tarifului unei călătorii de 90 de minute de la 3 la 5 lei și creșterea abonamentului lunar de la 80 la 100 de lei.” [9]
 > „Pentru ca aceste propuneri să fie puse și în aplicare, ele trebuie mai întâi să fie supuse votului Consiliului General al Municipiului București într-o viitoare ședință.” [11]
 
-### Gratuitatea pensionarilor
+### Cine ar mai merge gratuit
 tip: listă
-- Ar rămâne: pensionarii cu pensia sub 3.000 de lei pe lună
-- Ar dispărea: însoțitorii pensionarilor
-- Ar dispărea: angajații companiilor primăriei
-Așa ar arăta călătoriile gratuite după propunerea administratorului judiciar. Aproximativ 220.000 de pensionari și-ar păstra gratuitatea.
+- Da: pensionarii cu pensia sub 3.000 de lei pe lună
+- Nu: însoțitorii pensionarilor
+- Nu: angajații companiilor primăriei
+Acum merg gratuit toți pensionarii, oricât de mare le e pensia. Așa ar fi dacă propunerea administratorului judiciar e aprobată.
+> „Cea mai mare parte a sumei, 22,49 milioane de lei, reprezintă transportul gratuit al pensionarilor, indiferent de nivelul pensiei.” [9]
 > „O altă măsură vizează gratuitățile acordate pensionarilor. Acestea ar urma să fie păstrate doar pentru persoanele cu pensii sub 3.000 de lei pe lună, categorie în care s-ar încadra aproximativ 220.000 de beneficiari. Ar urma să fie eliminate gratuitățile pentru însoțitorii pensionarilor și pentru angajații companiilor municipale.” [9]
 
 ### Cine ce spune despre bilet
 tip: voci
 - Administratorul judiciar: 5 lei e „mai mult decât rezonabil”
-- Primarul general: de acord doar dacă STB începe o restructurare serioasă
+- Primarul general (primarul Bucureștiului): de acord doar dacă STB începe o restructurare serioasă
 Primarul spune că va evalua și propunerea despre pensionari și că ea va fi „corectă pentru pensionari”.
 > „Mi se pare un 5 lei mai mult decât rezonabil și de bun-simț.” [10]
 > „Voi fi de acord cu creșterea biletului doar în momentul în care o să văd că începe o restructurare semnificativă.” [10]
@@ -196,6 +197,8 @@ Cei concediați primesc salarii compensatorii, bani dați la plecare, între 20.
 > „Astfel că, de săptămâna viitoare, angajații vor intra în preaviz și, așa cum prevede legea, vor lucra doar 4 ore zilnic timp de 20 de zile lucrătoare.” [3]
 > „Potrivit sindicatelor, concedierile colective ar trebui finalizate până pe 17 decembrie, iar angajații ale căror posturi dispar ar putea primi între 2 și 4 salarii compensatorii, în funcție de vechime.” [4]
 
+[card: Pașii restructurării]
+
 ### De ce concediază STB
 
 Tribunalul București a deschis insolvența STB la începutul lui septembrie. Insolvența e procedura pentru o firmă care nu-și mai poate plăti datoriile. Atunci, datoriile erau de peste 1,5 miliarde de lei, scria Știrile ProTV. Acum, spune administratorul judiciar, trec de 3 miliarde de lei, iar în primele 10 luni din 2026 compania a pierdut 765 de milioane de lei.
@@ -206,8 +209,9 @@ Tribunalul București a deschis insolvența STB la începutul lui septembrie. In
 
 [card: De ce: datoriile]
 
-Salariile costă STB 1,2 miliarde de lei pe an, adică 70% din venituri, spune administratorul judiciar. La începutul lui noiembrie, Știrile ProTV scria 68%. Fără reducerea acestor cheltuieli, spune Borza, STB riscă falimentul. STB spune că restructurarea continuă măsurile începute de Primăria Capitalei, care conduce orașul.
+Salariile costă STB 1,2 miliarde de lei pe an, adică 70% din venituri, spune administratorul judiciar. La începutul lui noiembrie, Știrile ProTV scria 68%. Mai recent, după prezentarea administratorului judiciar, Economedia scrie că în primele zece luni ale anului salariile au luat aproximativ 81% din venituri, față de 70% în 2025. Fără reducerea acestor cheltuieli, spune Borza, STB riscă falimentul. STB spune că restructurarea continuă măsurile începute de Primăria Capitalei, care conduce orașul.
 > „Fără o optimizare a costurilor cu forța de muncă, care în prezent presupune un efort financiar de 1,2 miliarde lei anual, reprezentând 70% din total venituri, STB riscă falimentul", a avertizat Borza.” [6]
+> „Cheltuielile salariale au ajuns la 1,01 miliarde de lei în primele zece luni ale anului, reprezentând aproximativ 81% din venituri. Pentru comparație, în 2025, cheltuielile salariale reprezentau 70% din venituri.” [9]
 > „Cheltuielile cu salariile ajung la 106 milioane de lei pe lună, adică peste 1,2 miliarde de lei anual, și reprezintă 68% din veniturile societății.” [1]
 > „societatea e în proces de restructurare în continuarea măsurilor inițiate de Primăria Capitalei, iar cheltuielile trebuie reduse la maximum.” [4]
 
@@ -221,36 +225,44 @@ La începutul lui noiembrie, administratorul judiciar propusese bilete mai scump
 
 ### Biletul ar putea costa 5 lei
 
-Vineri, după primele concedieri, într-o conferință comună cu primarul general Ciprian Ciucu, Remus Borza a spus concret ce propune. O călătorie de 90 de minute ar costa 5 lei în loc de 3, iar abonamentul lunar 100 de lei în loc de 80. Administratorul judiciar estimează că STB ar câștiga astfel în plus 131,5 milioane de lei pe an.
+Administratorul judiciar a pus propunerile concrete într-o prezentare despre cauzele insolvenței, iar vineri le-a susținut într-o conferință comună cu primarul general Ciprian Ciucu, primarul Bucureștiului. O călătorie de 90 de minute ar costa 5 lei în loc de 3, iar abonamentul lunar 100 de lei în loc de 80. Administratorul judiciar estimează că STB ar câștiga astfel în plus 131,5 milioane de lei pe an.
 > „Remus Borza, reprezentantul consorțiului de administratori judiciari ai STB, Societatea de Transport a Bucureștiului, aflată din septembrie în insolvență, a propus vineri, majorarea de la 3 la 5 lei a prețului călătoriei de 90 de minute pentru transportul public cu STB” [10]
 > „Printre măsurile propuse pentru redresarea financiară a STB se numără majorarea tarifului unei călătorii de 90 de minute de la 3 la 5 lei și creșterea abonamentului lunar de la 80 la 100 de lei. Administratorul judiciar estimează că aceste modificări ar putea aduce venituri suplimentare de 131,5 milioane de lei anual.” [9]
 
 [card: Biletul, propus la 5 lei]
 
-Borza spune că energia, carburanții și salariul minim s-au scumpit și că biletele aduc doar 13% din veniturile STB. El compară prețul cu alte orașe: la Cluj-Napoca, un bilet de 60 de minute costă 7 lei, la Timișoara 5 lei, iar la Brașov biletul de 90 de minute costă tot 5 lei.
+Borza spune că energia, carburanții și salariul minim s-au scumpit, că biletul costă 3 lei din 2021 și că biletele aduc 13% din veniturile STB. El compară prețul cu alte orașe. La Cluj-Napoca, un bilet de 60 de minute costă 7 lei, iar unul pentru o singură călătorie 3,50 lei. La Timișoara, biletul de 60 de minute costă 5 lei, iar la Oradea 4 lei. La Brașov, biletul de 90 de minute costă 5 lei.
 > „La creșterile galopante pe zona de energie, pe zona de combustibil, pe inflație și pe salariu minim.” [10]
 > „Potrivit acestuia, titlurile de călătorie aduc 13% din veniturile STB.” [10]
+> „Administratorul judiciar arată și că tariful unei călătorii a rămas la 3 lei din 2021” [9]
 > „La Brașov , biletul urban de 90 de minute costă 5 lei . La Cluj-Napoca , biletul de 60 de minute costă 7 lei , iar cel pentru o singură călătorie costă 3,50 lei .” [10]
 > „Borza a comparat tariful STB cu prețurile din alte orașe: la Oradea biletul de 60 de minute costă 4 lei , iar la Timișoara un bilet cu aceeași valabilitate costă 5 lei .” [10]
 
 Propunerea despre pensionari: gratuitatea ar rămâne doar pentru cei cu pensia sub 3.000 de lei pe lună, aproximativ 220.000 de oameni. N-ar mai merge gratuit însoțitorii pensionarilor și angajații companiilor primăriei. Gratuitățile pentru pensionari costă STB aproximativ 22,49 milioane de lei pe lună, după calculul administratorului judiciar.
+> „Potrivit prezentării, gratuitățile pentru cele trei categorii de beneficiari analizate costă STB aproximativ 24,6 milioane de lei lunar.” [9]
 > „O altă măsură vizează gratuitățile acordate pensionarilor. Acestea ar urma să fie păstrate doar pentru persoanele cu pensii sub 3.000 de lei pe lună, categorie în care s-ar încadra aproximativ 220.000 de beneficiari. Ar urma să fie eliminate gratuitățile pentru însoțitorii pensionarilor și pentru angajații companiilor municipale.” [9]
 > „Cea mai mare parte a sumei, 22,49 milioane de lei, reprezintă transportul gratuit al pensionarilor, indiferent de nivelul pensiei.” [9]
 
-[card: Gratuitatea pensionarilor]
+[card: Cine ar mai merge gratuit]
 
-Primarul general spune că va fi de acord cu un bilet mai scump doar dacă STB începe o restructurare serioasă și dacă planul administratorului îl convinge că firma poate fi salvată. Cât ar costa biletul nu știe încă; există un studiu despre cât își permit călătorii să plătească. Despre pensionari, spune că propunerea finală va fi „corectă pentru pensionari”.
+Primarul general spune că va fi de acord cu un bilet mai scump doar dacă STB începe o restructurare serioasă și dacă planul administratorului îl convinge că firma poate fi salvată. Cât ar costa biletul nu știe încă; există un studiu despre cât își permit călătorii să plătească. Despre pensionari, spune că propunerea va fi „corectă pentru pensionari”.
 > „Voi fi de acord cu creșterea biletului doar în momentul în care o să văd că începe o restructurare semnificativă. Și dacă văd și voi fi convins prin planul pe care îl va depune că da, […] STB-ul poate fi salvat, atunci la un moment dat ne vom gândi dacă vom crește tariful. Dar cât? Nu știu, să vedem. […] Există un studiu de suportabilitate”, a declarat Ciucu.” [10]
 > „om evalua propunerea pe care o face, dar va fi o propunere corectă pentru pensionari” [10]
 
 [card: Cine ce spune despre bilet]
 
-Nimic nu se schimbă automat. Propunerile trebuie votate de Consiliul General al Municipiului București. O scumpire a mai ajuns în fața Consiliului în ianuarie, dar atunci n-a fost aprobată.
+Administratorul judiciar pune însă o parte din greutățile STB și pe seama banilor pe care nu i-a primit. În 2025, cursele au costat 1,46 miliarde de lei, dar STB a primit aproximativ 1,22 miliarde, cu 247 de milioane mai puțin. La 30 septembrie, Primăria Capitalei îi datora STB 423,2 milioane de lei. Primăria, spune primarul, plătește în schimb liniile noi de tramvai și autobuzele, troleibuzele și tramvaiele noi.
+> „Potrivit auditului tehnico-economic pentru 2025, STB a avut nevoie de 1,46 miliarde de lei pentru serviciile prestate, dar a decontat aproximativ 1,22 miliarde de lei.” [9]
+> „Diferența de 247 de milioane de lei reprezintă subcompensarea prestației în 2025.” [9]
+> „În plus, la 30 septembrie 2026, societatea avea de încasat creanțe de 610 milioane de lei, inclusiv penalități de întârziere de 160 de milioane de lei. Din această sumă, 423,2 milioane de lei erau datorate de Primăria Capitalei” [9]
+> „Primarul general a amintit că Primăria Capitalei finanțează investițiile în linii și stații de tramvai, precum și achizițiile de autobuze, troleibuze și tramvaie.” [10]
+
+Nimic nu se schimbă automat. Propunerile trebuie votate de Consiliul General, consiliul local al Bucureștiului. Primarul spune că va decide dacă le trimite la vot după ce primește documentele oficiale. O scumpire a mai ajuns în fața Consiliului în ianuarie, dar atunci n-a fost aprobată. Articolele nu redau o reacție a călătorilor sau a consilierilor generali.
+> „Primarul general a adăugat că va decide dacă trimite propunerea la vot în Consiliul General după ce va primi documentele oficiale.” [10]
 > „Măsurile sunt propuneri și nu înseamnă că tarifele sau gratuitățile se modifică automat.” [9]
 > „Prima oară, în ianuarie, această propunere a ajuns pe masa Consiliului General al Municipiului București, însă nu a fost aprobată.” [11]
 > „Pentru ca aceste propuneri să fie puse și în aplicare, ele trebuie mai întâi să fie supuse votului Consiliului General al Municipiului București într-o viitoare ședință.” [11]
 
-[card: Pașii restructurării]
 
 ## Surse
 
