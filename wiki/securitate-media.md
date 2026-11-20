@@ -1,7 +1,7 @@
 ---
 title: "Securitate, media și încredere"
 summary: "Războiul de la graniță, apărarea, dezinformarea, presa și încrederea românilor în instituții, UE și NATO — cifre și tendințe 2025–2026."
-updated: 2026-10-17
+updated: 2026-11-20
 order: 10
 ---
 
@@ -30,7 +30,7 @@ Pe plan intern, alegerile prezidențiale din noiembrie 2024 au fost anulate de C
 - **Sprijinul public pentru NATO rămâne ridicat.** În martie 2026, 84,4% dintre români nu doreau ieșirea din Alianță [17]. Apartenența la UE este văzută drept benefică de 73%, cu 6 puncte mai mult decât cu un an înainte. 74% văd UE drept „spațiu al stabilității” [16].
 
 ### Serviciu militar voluntar
-- Legea nr. 5/2026, publicată în Monitorul Oficial pe 9 ianuarie 2026, introduce un stagiu militar voluntar de până la 4 luni. Stagiul este deschis femeilor și bărbaților de 18–35 de ani care nu au făcut serviciul militar și nu sunt deja în rezervă. Participanții primesc gratuit cazare, hrană, echipament și asistență medicală. La final primesc o indemnizație echivalentă cu trei câștiguri salariale medii brute (circa 27.000 lei brut) și trec în rezervă [26][27]. Pentru 2026, ministrul apărării a vorbit de 1.000–3.000 de locuri, în funcție de buget [27]. Nu am găsit un număr oficial de înscriși.
+- Legea nr. 5/2026, publicată în Monitorul Oficial pe 9 ianuarie 2026, introduce un stagiu militar voluntar de până la 4 luni. Stagiul este deschis femeilor și bărbaților de 18–35 de ani care nu au făcut serviciul militar și nu sunt deja în rezervă. Participanții primesc gratuit cazare, hrană, echipament și asistență medicală. Primesc o indemnizație echivalentă cu trei câștiguri salariale medii brute (circa 27.000 lei brut), iar la final trec în rezervă [26][27]. Pentru 2026, ministrul apărării a vorbit de 1.000–3.000 de locuri, în funcție de buget [27]. Nu am găsit un număr oficial de înscriși. Pe 13 noiembrie 2026, MApN a pus în dezbatere publică proiectul de hotărâre de Guvern pentru normele de aplicare ale Legii nr. 446/2006 privind pregătirea populației pentru apărare, cu regulile programului de pregătire militară de bază pentru soldați și gradați voluntari în termen: 11 săptămâni de pregătire de bază și 5 de specialitate, cu jurământul la finalul primei luni. Potrivit proiectului, indemnizația de trei salarii medii brute se plătește în patru tranșe lunare, în timpul programului, adică 4.033 de lei net pe lună la nivelul anului 2026, plus suma pentru grad (217 lei pentru soldat, 239 de lei pentru fruntaș). Cine nu termină pregătirea trebuie să restituie indemnizația și cheltuielile, iar numărul maxim de locuri îl stabilește anual ministrul, după buget. La final, participanții pot continua o carieră militară sau trec în rezerva operațională. Proiectul nu era încă aprobat [39].
 
 ### Încredere în unele instituții și în ceilalți oameni
 - Armata, Biserica și Poliția au constant cea mai mare încredere. Poliția a crescut de la 43,2% (iulie 2025) la 50% (ianuarie 2026) [15].
@@ -78,6 +78,7 @@ Pe plan intern, alegerile prezidențiale din noiembrie 2024 au fost anulate de C
 - **Mai 2026:** acordul SAFE a fost semnat pe 12 mai [7]. În aceeași lună, drona Geran-2 a lovit blocul din Galați. CSAT s-a reunit de urgență, consulul rus de la Constanța a fost declarat persona non grata și consulatul a fost închis. CSAT nu a decis invocarea articolului 4 NATO [2].
 - **Iunie 2026:** Digital News Report a consemnat încrederea în știri la minimul istoric, de 23% [10][12].
 - **August 2026:** a fost raportat avansul SAFE de circa 2,5 mld. euro [6].
+- **Noiembrie 2026:** MApN a pus în dezbatere publică regulile stagiului militar voluntar, cu indemnizația plătită în patru tranșe lunare [39].
 - **Războiul din Ucraina:** negocierile s-au blocat din martie 2026. Un armistițiu scurt intermediat de SUA în mai 2026 nu a rezistat. În septembrie 2026, oficiali ucraineni nu vedeau condiții pentru încetarea focului înainte de primăvara lui 2027 [38].
 
 ## Dezbateri deschise
@@ -170,3 +171,4 @@ Pe plan intern, alegerile prezidențiale din noiembrie 2024 au fost anulate de C
 36. Alegeri parlamentare 2025 în Republica Moldova: partidul Maiei Sandu a obținut majoritatea absolută — BZI, 29.09.2025; Europa Liberă, live blog rezultate. https://www.bzi.ro/alegeri-parlamentare-2025-in-republica-moldova-partidul-maiei-sandu-a-obtinut-majoritatea-absoluta-in-parlament-opozitia-pro-rusa-contesta-rezultatul-si-cheama-la-proteste-5359711
 37. Why does Moldova rank better than Romania in terms of press freedom? — OBC Transeuropa, 11.06.2026. https://www.balcanicaucaso.org/en/cp_article/why-does-moldova-rank-better-than-romania-in-terms-of-press-freedom/
 38. Ukraine sees no conditions for Russia cease-fire before spring 2027 — Daily Sabah, sept. 2026. https://www.dailysabah.com/world/europe/ukraine-sees-no-conditions-for-russia-cease-fire-before-spring-2027/amp
+39. MApN oferă trei salarii medii brute tinerilor care aleg să devină rezerviști voluntari — Știrile ProTV, 13.11.2026; Tinerii de până la 35 de ani se pot înscrie voluntar în Armată — Gândul, nov. 2026. https://stirileprotv.ro/stiri/actualitate/mapn-ofera-trei-salarii-medii-brute-tinerilor-care-aleg-sa-devina-rezervisti-voluntari-cati-bani-ofera.html ; https://www.gandul.ro/actualitate/tinerii-de-pana-la-35-de-ani-se-pot-inscrie-voluntar-in-armata-ce-indemnizatie-vor-primi-lunar-si-cat-dureaza-pregatirea-militara-21064270
