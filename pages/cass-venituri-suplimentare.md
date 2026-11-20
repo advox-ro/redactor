@@ -45,8 +45,8 @@ tip: listă
 - Dobânzi
 - Drepturi de autor
 Scutirea ar fi doar pentru cei care au și un salariu, din care li se reține deja CASS.
-> „Printre veniturile vizate se numără cele obținute din activități independente, închirierea proprietăților, dividende, dobânzi, drepturi de autor și alte categorii reglementate fiscal.” [3]
-> „Proiectul înregistrat la Senat introduce o derogare de la regulile actuale pentru persoanele care obțin venituri salariale și pentru care contribuția de sănătate este deja reținută la sursă.” [3]
+> „Sunt avute în vedere venituri obținute din activități independente, închirierea proprietăților, dividende, dobânzi, drepturi de autor și alte categorii reglementate fiscal.” [3]
+> „Noul proiect legislativ depus la Senat propune o derogare de la regulile actuale pentru persoanele care obțin venituri salariale și pentru care contribuția de sănătate este deja reținută la sursă.” [3]
 
 ### Ce spune inițiatorul
 tip: listă
@@ -67,8 +67,8 @@ Proiectul trebuie să treacă prin Parlament. Până atunci, CASS pe chirii, div
 ## Articol
 
 Un proiect de lege depus la Senat propune ca salariații să nu mai plătească CASS pe banii câștigați din afara salariului, până la 120.000 de lei pe an. CASS e contribuția de asigurări sociale de sănătate: banii din care se plătesc consultațiile, tratamentele și spitalele pentru cei asigurați. Proiectul ar schimba Codul fiscal, legea care spune ce taxe și contribuții se plătesc.
-> „Un proiect legislativ depus marți la Senat propune eliminarea contribuției la asigurările sociale de sănătate ( CASS ) pentru veniturile suplimentare de până la 120.000 de lei anual.” [3]
-> „Inițiativa vizează modificarea Legii nr. 227/2015 privind Codul fiscal și urmărește să înlăture situațiile în care persoanele angajate ajung să achite contribuții la sănătate atât din salariu, cât și din alte câștiguri.” [3]
+> „Un proiect legislativ depus săptămâna aceasta în Senat propune eliminarea contribuției la asigurările sociale de sănătate (CASS) pentru veniturile suplimentare de până la 120.000 de lei annual.” [3]
+> „Inițiativa urmărește să modifice Legea nr. 227/2015 privind Codul fiscal în sensul înlăturării situațiilor în care persoanele angajate ajung să achite contribuții la sănătate atât din salariu, cât și din alte câștiguri.” [3]
 
 ### Cum e acum
 
@@ -96,15 +96,15 @@ Un exemplu dat de Realitatea: cine are 140.000 de lei pe an din afara salariului
 [card: Un exemplu]
 
 Ar intra la scutire veniturile din activități independente, din chirii, dividende, dobânzi, drepturi de autor și alte venituri prevăzute în Codul fiscal.
-> „Printre veniturile vizate se numără cele obținute din activități independente, închirierea proprietăților, dividende, dobânzi, drepturi de autor și alte categorii reglementate fiscal.” [3]
+> „Sunt avute în vedere venituri obținute din activități independente, închirierea proprietăților, dividende, dobânzi, drepturi de autor și alte categorii reglementate fiscal.” [3]
 
 [card: Ce venituri ar intra]
 
 ### De ce o propune inițiatorul
 
 Cel care a propus legea spune că salariatul e deja asigurat prin contribuția din salariu. Contribuția plătită în plus pe chirii sau dividende nu îi aduce servicii medicale în plus: primește același pachet de bază ca orice asigurat. El invocă și un principiu din Constituție, „justa așezare a sarcinilor fiscale”, adică ideea că taxele trebuie să fie echitabile și proporționale.
-> „Autorul propunerii legislative argumentează că persoanele angajate beneficiază deja de asigurare în sistemul public de sănătate, ca urmare a contribuției achitate prin intermediul salariului.” [3]
-> „În aceste condiții, plata unei noi contribuții pentru veniturile provenite din chirii sau dividende nu oferă acces la servicii medicale suplimentare. Salariatul beneficiază în continuare de același pachet de bază disponibil tuturor persoanelor asigurate.” [3]
+> „Printre argumentele aduse pentru această propunere se numără și aceea că persoanele angajate beneficiază deja de asigurare în sistemul public de sănătate, ca urmare a contribuției achitate prin intermediul salariului.” [3]
+> „Drept urmare, plata unei noi contribuții pentru veniturile provenite din chirii sau dividende nu oferă acces la servicii medicale suplimentare. Salariatul beneficiază în continuare de același pachet de bază disponibil tuturor persoanelor asigurate.” [3]
 > „În expunerea de motive este invocat și principiul constituțional al „justei așezări a sarcinilor fiscale”. Acesta presupune ca obligațiile impuse contribuabililor să respecte criterii de echitate și proporționalitate.” [2]
 
 O regulă asemănătoare a mai existat. Vechea formă a Legii 95/2006, legea sănătății, cerea contribuție pe chirii, dividende, dobânzi sau drepturi de autor doar celor care nu aveau deja un venit principal, cum e salariul. Proiectul nou nu scutește tot: peste prag, contribuția se plătește în continuare.
@@ -128,4 +128,4 @@ Măsura nu se aplică încă. Proiectul trebuie să treacă prin toate etapele d
 
 1. Salariații ar putea scăpa de plata CASS pentru venituri suplimentare de până la 120.000 de lei pe an. Un proiect a fost depus la Senat — Antena 3 CNN. https://www.antena3.ro/actualitate/social/salariatii-ar-putea-scapa-de-plata-cass-pentru-venituri-suplimentare-de-pana-la-120-000-de-lei-pe-an-un-proiect-a-fost-depus-la-senat-810716.html
 2. O nouă facilitate fiscală pentru salariați: cine ar putea scăpa de plata CASS pentru venituri suplimentare — Realitatea. https://www.realitatea.net/stiri/social/o-noua-facilitate-fiscala-pentru-salariati-cine-ar-putea-scapa-de-plata-cass-pentru-venituri-suplimentare-sznjin
-3. Schimbare majoră pregătită pentru salariații care au și alte venituri: Scutire de CASS până la 120.000 de lei pe an. Proiectul a ajuns în Parlament — Știri pe surse. https://www.stiripesurse.ro/schimbare-majora-pregatita-pentru-salariatii-care-au-si-alte-venituri-scutire-de-cass-pana-la-120000-de-lei-pe-an-proiectul-a-ajuns-in-parlament_3935757
+3. Salariații care au mai multe surse de venit ar putea fi scutiți de CASS. Condițiile pentru a beneficia de această reducere — Gândul. https://www.gandul.ro/actualitate/salariatii-care-au-mai-multe-surse-de-venit-ar-putea-fi-scutiti-de-cass-conditiile-pentru-a-beneficia-de-aceasta-reducere-21064268
