@@ -45,8 +45,8 @@ tip: listă
 - Asistență medicală
 Acestea se primesc gratuit pe toată durata pregătirii, pe lângă bani. Cine începe pregătirea și nu o termină trebuie să dea înapoi banii primiți și cheltuielile făcute de armată pentru el.
 > „Pe durata pregătirii, aceștia vor beneficia de drepturile financiare și materiale prevăzute de lege, inclusiv cazare, hrană, echipament și asistență medicală.” [2]
-> „Pe durata programului, voluntarii vor beneficia gratuit de cazare, hrană, echipament și asistență medicală.” [4]
-> „De notat că proiectul prevede și obligații pentru persoanele care încep pregătirea, dar nu o finalizează. Acestea vor trebui să restituie indemnizația primită și cheltuielile suportate de unitatea militară pentru instruirea lor.” [4]
+> „Pe durata programului, voluntarii vor beneficia gratuit de cazare, hrană, echipament și asistență medicală.” [3]
+> „De notat că proiectul prevede și obligații pentru persoanele care încep pregătirea, dar nu o finalizează. Acestea vor trebui să restituie indemnizația primită și cheltuielile suportate de unitatea militară pentru instruirea lor.” [3]
 
 ### După cele patru luni
 tip: listă
@@ -54,7 +54,7 @@ tip: listă
 - Rezerva operațională a armatei
 Cine termină programul poate alege să rămână militar. Dacă nu, e trecut în rezerva armatei: oameni pregătiți, care pot sprijini armata atunci când e nevoie.
 > „La finalizarea programului, participanții vor putea opta pentru continuarea unei cariere militare, în condițiile legii, sau vor fi luați în evidența rezervei operaționale a Armatei României, se arată în comunicatul citat.” [2]
-> „Inițiativa face parte din planul de dezvoltare a capacității de apărare a României și urmărește formarea unei rezerve de personal instruit, care să poată sprijini structurile militare atunci când este nevoie” [5]
+> „Inițiativa face parte din planul de dezvoltare a capacității de apărare a României și urmărește formarea unei rezerve de personal instruit, care să poată sprijini structurile militare atunci când este nevoie” [4]
 
 ### Voluntar, nu obligatoriu
 tip: text
@@ -67,7 +67,7 @@ Ministerul Apărării spune că programul e doar pentru cine vrea și că nu în
 Ministerul Apărării Naționale (MApN) a publicat vineri regulile pentru un program de pregătire militară voluntară. Tinerii între 18 și 35 de ani, femei și bărbați, ar putea face patru luni de instrucție, plătite, după care aleg între o carieră militară și rezerva armatei. Regulile sunt un proiect de decizie pe care trebuie s-o aprobe Guvernul. Proiectul e în „transparență decizională”: oricine îl poate citi și poate trimite propuneri înainte să fie aprobat.
 > „Ministerul Apărării Naționale (MApN) a anunțat, vineri, că a lansat în transparență decizională proiectul privind instituirea programului de pregătire militară a tinerilor între 18 și 35 de ani.” [1]
 > „Proiectul de act normativ poate fi consultat pe pagina oficială a Ministerului Apărării Naționale, în secțiunea dedicată transparenței decizionale, persoanele interesate având posibilitatea de a transmite propuneri și observații în condițiile legii.” [2]
-> „Tinerii cu vârste între 18 și 35 de ani se pot înscrie într-un nou program de pregătire militară de bază, exclusiv voluntar, cu o durată de patru luni” [3]
+> „Programul, cu o durată de până la patru luni, va permite participanților să dobândească deprinderile și cunoștințele militare de bază necesare îndeplinirii unor misiuni specifice.” [2]
 
 Proiectul stabilește cum se aplică legea despre pregătirea populației pentru apărare. Programul se numește Soldat-Gradat Voluntar în Termen. Se pot înscrie cetățenii români care nu au făcut deja serviciul militar, nici activ, nici în rezervă.
 > „Ministerul Apărării Naționale a lansat vineri, în transparență decizională, proiectul de Hotărâre a Guvernului pentru aprobarea Normelor de aplicare a prevederilor Legii nr. 446/2006 privind pregătirea populației pentru apărare.” [2]
@@ -91,12 +91,12 @@ Pentru tot programul, participanții primesc o indemnizație, adică o sumă de 
 [card: Cât se plătește]
 
 Suma de 4.033 de lei e cea pentru 2026. Pentru că e legată de salariul mediu brut, se va schimba odată cu acesta.
-> „Indemnizația prevăzută de program înseamnă 3 câștiguri salariale medii brute folosite la fundamentarea bugetului asigurărilor sociale de stat.” [4]
-> „Potrivit datelor prezentate de MApN, în 2026, indemnizația va fi de 4.033 de lei net pe lună.” [4]
+> „Indemnizația prevăzută de program înseamnă 3 câștiguri salariale medii brute folosite la fundamentarea bugetului asigurărilor sociale de stat.” [3]
+> „Potrivit datelor prezentate de MApN, în 2026, indemnizația va fi de 4.033 de lei net pe lună.” [3]
 
 Pe toată durata pregătirii, armata asigură gratuit cazare, hrană, echipament și asistență medicală. Proiectul are și o obligație: cine începe pregătirea și nu o termină trebuie să dea înapoi indemnizația primită și cheltuielile făcute de unitatea militară pentru instruirea lui.
-> „Pe durata programului, voluntarii vor beneficia gratuit de cazare, hrană, echipament și asistență medicală.” [4]
-> „De notat că proiectul prevede și obligații pentru persoanele care încep pregătirea, dar nu o finalizează. Acestea vor trebui să restituie indemnizația primită și cheltuielile suportate de unitatea militară pentru instruirea lor.” [4]
+> „Pe durata programului, voluntarii vor beneficia gratuit de cazare, hrană, echipament și asistență medicală.” [3]
+> „De notat că proiectul prevede și obligații pentru persoanele care încep pregătirea, dar nu o finalizează. Acestea vor trebui să restituie indemnizația primită și cheltuielile suportate de unitatea militară pentru instruirea lor.” [3]
 
 [card: Ce asigură armata]
 
@@ -105,13 +105,13 @@ Pe toată durata pregătirii, armata asigură gratuit cazare, hrană, echipament
 La final, fiecare alege: poate continua o carieră militară sau e trecut în rezerva operațională a armatei. Rezerva sunt oamenii pregătiți militar care nu lucrează în armată, dar care pot sprijini armata atunci când e nevoie. Ministerul spune că vrea astfel o rezervă de oameni instruiți, care să ajute la apărarea țării, inclusiv în cadrul NATO, alianța militară din care face parte România.
 > „La finalizarea programului, participanții vor putea opta pentru continuarea unei cariere militare, în condițiile legii, sau vor fi luați în evidența rezervei operaționale a Armatei României, se arată în comunicatul citat.” [2]
 > „Prin implementarea acestui program, Ministerul Apărării Naționale urmărește dezvoltarea unei rezerve de personal instruit, capabil să contribuie la completarea structurilor militare și la susținerea efortului național de apărare, inclusiv în cadrul obligațiilor asumate de România în sistemul de apărare colectivă al NATO.” [2]
-> „Inițiativa face parte din planul de dezvoltare a capacității de apărare a României și urmărește formarea unei rezerve de personal instruit, care să poată sprijini structurile militare atunci când este nevoie” [5]
+> „Inițiativa face parte din planul de dezvoltare a capacității de apărare a României și urmărește formarea unei rezerve de personal instruit, care să poată sprijini structurile militare atunci când este nevoie” [4]
 
 [card: După cele patru luni]
 
 Ministerul subliniază că programul e doar voluntar și că nu înseamnă întoarcerea armatei obligatorii. Ministerul spune și că Armata României rămâne o armată profesionistă. Câte locuri vor fi stabilește în fiecare an ministrul Apărării, după banii din bugetul ministerului. Articolele nu spun când începe primul program și când va aproba Guvernul hotărârea.
 > „Ministerul Apărării Naționale subliniază că programul are caracter exclusiv voluntar și nu reprezintă o măsură de reintroducere a serviciului militar obligatoriu. Armata României este o armată profesionistă, iar recrutarea personalului militar se realizează în continuare pe bază de voluntariat” [1]
-> „Numărul maxim de locuri disponibile va fi stabilit în fiecare an de ministrul Apărării, în funcție de fondurile aprobate în bugetul instituției.” [4]
+> „Numărul maxim de locuri disponibile va fi stabilit în fiecare an de ministrul Apărării, în funcție de fondurile aprobate în bugetul instituției.” [3]
 
 [card: Voluntar, nu obligatoriu]
 
@@ -119,6 +119,5 @@ Ministerul subliniază că programul e doar voluntar și că nu înseamnă înto
 
 1. Câți bani le dă România tinerilor care se înscriu în programul Soldat-Gradat Voluntar în Termen — HotNews. https://hotnews.ro/cati-bani-le-da-romania-tinerilor-care-se-inscriu-in-programul-soldat-gradat-voluntar-in-termen-2403931
 2. MApN oferă trei salarii medii brute tinerilor care aleg să devină rezerviști voluntari. Câți bani oferă — Știrile ProTV. https://stirileprotv.ro/stiri/actualitate/mapn-ofera-trei-salarii-medii-brute-tinerilor-care-aleg-sa-devina-rezervisti-voluntari-cati-bani-ofera.html
-3. Stagiu militar voluntar de patru luni. Tinerii primesc peste 4.200 de lei net lunar, cazare și masă asigurate — DC News. https://www.dcnews.ro/stagiu-militar-voluntar-de-patru-luni-tinerii-primesc-peste-4-200-de-lei-net-lunar-cazare-si-masa-asigurate-ministrul-radu-oprea-anunt_1096215.html
-4. Tinerii de până la 35 de ani se pot înscrie voluntar în Armată. Ce indemnizație vor primi lunar și cât durează pregătirea militară — Gândul. https://www.gandul.ro/actualitate/tinerii-de-pana-la-35-de-ani-se-pot-inscrie-voluntar-in-armata-ce-indemnizatie-vor-primi-lunar-si-cat-dureaza-pregatirea-militara-21064270
-5. MApN oferă peste 4.000 de lei lunar celor care aleg pregătirea militară voluntară. Programul durează patru luni — Spotmedia. https://spotmedia.ro/stiri/eveniment/mapn-ofera-peste-4-000-de-lei-lunar-celor-care-aleg-pregatirea-militara-voluntara-programul-dureaza-patru-luni
+3. Tinerii de până la 35 de ani se pot înscrie voluntar în Armată. Ce indemnizație vor primi lunar și cât durează pregătirea militară — Gândul. https://www.gandul.ro/actualitate/tinerii-de-pana-la-35-de-ani-se-pot-inscrie-voluntar-in-armata-ce-indemnizatie-vor-primi-lunar-si-cat-dureaza-pregatirea-militara-21064270
+4. MApN oferă peste 4.000 de lei lunar celor care aleg pregătirea militară voluntară. Programul durează patru luni — Spotmedia. https://spotmedia.ro/stiri/eveniment/mapn-ofera-peste-4-000-de-lei-lunar-celor-care-aleg-pregatirea-militara-voluntara-programul-dureaza-patru-luni
