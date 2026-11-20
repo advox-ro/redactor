@@ -23,7 +23,7 @@ Peste atâția adulți din România trăiesc cu diabet fără să știe, după u
 > „Peste 280.000 de adulți din România trăiesc cu diabet fără să știe, arată datele Barometrului datelor privind diabetul zaharat în România, lansat, sâmbătă, de Ziua Mondială a Diabetului, de către Forumul Român de Diabet.” [1]
 > „Forumul Român de Diabet este o platformă de colaborare ce reunește asociații de pacienți, societăți medicale și reprezentanți ai industriei farmaceutice.” [1]
 
-### Unul din cinci, nediagnosticat
+### Peste unul din cinci, fără diagnostic
 tip: parte
 - 21,4%
 dintre adulții cu diabet, de 20–79 de ani, nu au fost diagnosticați în 2024, după o estimare a Federației Internaționale de Diabet, citată de Forumul Român de Diabet.
@@ -87,7 +87,7 @@ Pentru România, Forumul Român de Diabet citează o estimare a Federației Inte
 > „Potrivit estimărilor Federației Internaționale de Diabet (IDF) pentru anul 2024, 21,4% dintre persoanele cu diabet cu vârste între 20 și 79 de ani nu au fost diagnosticate.” [2]
 > „INSP estimează că peste 40% dintre persoanele care trăiesc cu diabet zaharat nu au primit un diagnostic.” [4]
 
-[card: Unul din cinci, nediagnosticat]
+[card: Peste unul din cinci, fără diagnostic]
 
 Medicii spun că e nevoie de un studiu care să arate câți oameni au diabet sau prediabet, adică glicemie mai mare decât normal, dar nu încă boala. La o conferință din 8 octombrie, președintele Societății Române de Diabet, Nutriție și Boli Metabolice a spus că societatea va prezenta în curând rezultatele unui astfel de studiu, numit PREDATORR NEXT.
 > „Avem nevoie de un studiu epidemiologic care să ne arate dimensiunea reală a diabetului și a prediabetului în România. Societatea Română de Diabet, Nutriție și Boli Metabolice va prezenta în curând rezultatele studiului PREDATORR NEXT, care ne va oferi acuratețea necesară pentru a construi intervenții pe măsura problemei.” [1]
