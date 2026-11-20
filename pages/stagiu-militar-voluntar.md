@@ -34,7 +34,7 @@ tip: listă
 ### Cât se plătește
 tip: cifră
 - 4.033 lei
-net pe lună, la nivelul lui 2026, plus o sumă mică pentru grad. Suma e legată de salariul mediu brut, așa că se schimbă odată cu el.
+net pe lună, la nivelul lui 2026, plus o sumă pentru grad. Suma e legată de salariul mediu brut, așa că se schimbă odată cu el.
 > „Pentru întregul program, participanții primesc o indemnizație echivalentă cu trei salarii medii brute stabilite prin lege, împărțită în patru tranșe lunare. La nivelul anului 2026, aceasta înseamnă 4.033 de lei net pe lună, la care se adaugă 217 lei lunar pentru gradul de soldat sau 239 de lei pentru gradul de fruntaș.” [2]
 
 ### Ce asigură armata
