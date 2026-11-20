@@ -19,18 +19,15 @@ quiz: diabet-nediagnosticat
 ### Bolnavi fără să știe
 tip: cifră
 - 280.000
-Atâția adulți din România trăiesc cu diabet fără să știe, după un raport al medicilor și al asociațiilor de pacienți.
+Peste atâția adulți din România trăiesc cu diabet fără să știe, după un raport al asociațiilor de pacienți, al medicilor și al firmelor de medicamente.
 > „Peste 280.000 de adulți din România trăiesc cu diabet fără să știe, arată datele Barometrului datelor privind diabetul zaharat în România, lansat, sâmbătă, de Ziua Mondială a Diabetului, de către Forumul Român de Diabet.” [1]
 > „Forumul Român de Diabet este o platformă de colaborare ce reunește asociații de pacienți, societăți medicale și reprezentanți ai industriei farmaceutice.” [1]
 
-### Cât de mulți nu știu: estimările diferă
-tip: voci
-- Forumul Român de Diabet: 21,4% dintre cei cu diabet nu au fost diagnosticați
-- Institutul Național de Sănătate Publică: peste 40% dintre cei cu diabet nu sunt diagnosticați
-Cele două cifre vin din estimări diferite. Nimeni nu știe exact câți oameni au diabet fără să știe: medicii cer un studiu care să o arate.
+### Unul din cinci, nediagnosticat
+tip: parte
+- 21,4%
+dintre adulții cu diabet, de 20–79 de ani, nu au fost diagnosticați în 2024, după o estimare a Federației Internaționale de Diabet, citată de Forumul Român de Diabet.
 > „Potrivit estimărilor Federației Internaționale de Diabet (IDF) pentru anul 2024, 21,4% dintre persoanele cu diabet cu vârste între 20 și 79 de ani nu au fost diagnosticate.” [2]
-> „Institutul Național de Sănătate Publică (INSP) avertizează, sâmbătă, de Ziua Mondială a Diabetului, că peste 40% dintre persoanele care trăiesc cu diabet zaharat nu sunt diagnosticate” [3]
-> „Avem nevoie de un studiu epidemiologic care să ne arate dimensiunea reală a diabetului și a prediabetului în România.” [1]
 
 ### Semnele de care să ții seama
 tip: listă
@@ -38,14 +35,14 @@ tip: listă
 - Urinat des
 - Oboseală
 - Vedere încețoșată
-Acestea sunt semnele obișnuite ale diabetului. Cine le are poate cere analize la medicul de familie.
+Acestea sunt semnele obișnuite ale diabetului, spune Institutul Național de Sănătate Publică. Diagnosticul se pune la medic.
 > „Simptomele comune includ sete crescută, urinare frecventă, oboseală și vedere încețoșată.” [3]
 > „Recunoașterea manifestărilor specifice și prezentarea la medic pentru investigații sunt esențiale pentru stabilirea diagnosticului și inițierea tratamentului în timp util.” [4]
 
 ### Un control fără să fii bolnav
 tip: cifră
 - 370.778
-de consultații preventive s-au făcut anul trecut. La medicul de familie, consultația preventivă e pentru oricine, cu sau fără asigurare de sănătate.
+de consultații preventive s-au făcut anul trecut. Consultația preventivă se face și pentru cei fără asigurare de sănătate.
 > „În același an, au fost acordate 370.778 de consultații preventive, dintre care 5.042 pentru persoane cu vârste între 18 și 39 de ani identificate cu risc înalt.” [2]
 > „Consultațiile preventive sunt disponibile atât persoanelor asigurate, cât și celor neasigurate, potrivit informațiilor transmise de INSP.” [4]
 
@@ -53,19 +50,20 @@ de consultații preventive s-au făcut anul trecut. La medicul de familie, consu
 tip: comparație
 - România: 228
 - Media țărilor OECD: 111
-de internări în spital pentru diabet, la 100.000 de locuitori, în 2023, care ar fi putut fi evitate. Boala prinsă la timp și urmărită de medic duce la mai puține complicații.
+internări pentru diabet care puteau fi evitate, la fiecare 100.000 de locuitori, în 2023. OECD e un grup de țări dezvoltate.
 > „În 2023, România înregistra 228 de internări spitalicești evitabile pentru diabet la 100.000 de locuitori, față de media de 111 la nivelul țărilor OECD.” [2]
 > „Indicatorul evidențiază importanța depistării precoce și a monitorizării pacienților în ambulatoriu, pentru prevenirea complicațiilor care pot necesita spitalizare.” [2]
 
-### Ce cer medicii și pacienții
+### Ce cere Forumul Român de Diabet
 tip: listă
-- Un studiu care să numere bolnavii
-- Un registru național al diabetului
-- Mai multă prevenție la medicul de familie
-Fără aceste date, nu se știe exact câți oameni au diabet și unde e nevoie de mai mulți bani pentru tratament.
+- Un studiu care să arate câți oameni au diabet
+- Un registru național al celor diagnosticați
+- Aplicarea legii din 2020 despre depistarea diabetului
+Registrul ar arăta de ce au nevoie cei diagnosticați și unde e nevoie de mai mulți bani.
 > „O altă prioritate este dezvoltarea Registrului Național de Diabet, care ar permite o evaluare mai exactă a numărului de persoane diagnosticate, a nevoilor acestora și a rezultatelor îngrijirii.” [2]
 > „Un astfel de instrument ar putea oferi și informații despre utilizarea fondurilor din Programul Național de Diabet și despre zonele în care este nevoie de resurse suplimentare.” [2]
-> „În paralel, dezvoltarea unor programe eficiente de prevenție și depistare precoce presupune o mai bună coordonare între medicina de familie, medicii specialiști, autorități și comunitățile locale” [1]
+> „Avem nevoie de un studiu epidemiologic care să ne arate dimensiunea reală a diabetului și a prediabetului în România.” [1]
+> „În România, Legea nr. 249/2020 privind prevenția și depistarea precoce a diabetului zaharat este în vigoare din noiembrie 2020. Forumul Român de Diabet susține aplicarea acesteia și dezvoltarea unor măsuri de prevenție la nivel național, prin colaborarea dintre autorități, profesioniștii din sănătate și organizațiile de pacienți.” [2]
 
 ## Articol
 
@@ -82,17 +80,18 @@ Diabetul e boala în care zahărul din sânge, numit glicemie, rămâne prea mar
 
 ### Câți sunt, de fapt
 
-Casa Națională de Asigurări de Sănătate, instituția care plătește tratamentele din banii asigurărilor, avea în evidență 1.381.461 de oameni cu diabet în 2025. Erau cu 151.490 mai mulți decât în 2023.
+Casa Națională de Asigurări de Sănătate, instituția care plătește tratamentele din banii asigurărilor, avea în evidență 1.381.461 de oameni cu diabet în 2025. Erau cu 151.490 mai mulți decât în 2023. Articolele nu spun dacă creșterea vine din mai multe îmbolnăviri sau din mai multe cazuri descoperite.
 > „Datele Casei Naționale de Asigurări de Sănătate arată că, în 2025, erau înregistrate 1.381.461 de persoane cu diabet zaharat, cu 151.490 mai multe decât în 2023.” [2]
 
-Câți nu știu că sunt bolnavi e mai greu de spus. Forumul Român de Diabet citează o estimare a Federației Internaționale de Diabet pentru 2024: 21,4% dintre adulții cu diabet, de 20–79 de ani, nu au fost diagnosticați, adică mai mult de unul din cinci. Institutul Național de Sănătate Publică (INSP), instituția statului care urmărește sănătatea populației, spune că peste 40% dintre cei cu diabet nu sunt diagnosticați. Articolele nu explică de unde vine diferența.
+Pentru România, Forumul Român de Diabet citează o estimare a Federației Internaționale de Diabet pentru 2024: 21,4% dintre adulții cu diabet, de 20–79 de ani, nu au fost diagnosticați, adică mai mult de unul din cinci. Institutul Național de Sănătate Publică (INSP), instituția statului care urmărește sănătatea populației, a dat și el o cifră de Ziua Mondială a Diabetului: peste 40% dintre oamenii cu diabet nu sunt diagnosticați. Articolele nu spun dacă această cifră e pentru România sau pentru toată lumea.
 > „Potrivit estimărilor Federației Internaționale de Diabet (IDF) pentru anul 2024, 21,4% dintre persoanele cu diabet cu vârste între 20 și 79 de ani nu au fost diagnosticate.” [2]
 > „INSP estimează că peste 40% dintre persoanele care trăiesc cu diabet zaharat nu au primit un diagnostic.” [4]
 
-[card: Cât de mulți nu știu: estimările diferă]
+[card: Unul din cinci, nediagnosticat]
 
-Medicii spun că e nevoie de un studiu care să arate câți oameni au diabet sau prediabet, adică glicemie mai mare decât normal, dar nu încă boala. Societatea Română de Diabet, Nutriție și Boli Metabolice va prezenta în curând rezultatele unui astfel de studiu, numit PREDATORR NEXT.
+Medicii spun că e nevoie de un studiu care să arate câți oameni au diabet sau prediabet, adică glicemie mai mare decât normal, dar nu încă boala. La o conferință din 8 octombrie, președintele Societății Române de Diabet, Nutriție și Boli Metabolice a spus că societatea va prezenta în curând rezultatele unui astfel de studiu, numit PREDATORR NEXT.
 > „Avem nevoie de un studiu epidemiologic care să ne arate dimensiunea reală a diabetului și a prediabetului în România. Societatea Română de Diabet, Nutriție și Boli Metabolice va prezenta în curând rezultatele studiului PREDATORR NEXT, care ne va oferi acuratețea necesară pentru a construi intervenții pe măsura problemei.” [1]
+> „a subliniat Prof. Univ. Dr. Bogdan Timar, președintele Societății Române de Diabet, Nutriție și Boli Metabolice, la conferința care a marcat șapte ani de activitate ai Forumului Român de Diabet, organizată pe 8 octombrie la Palatul Parlamentului.” [2]
 
 ### Semnele și controlul
 
@@ -102,7 +101,7 @@ Semnele obișnuite sunt setea mare, urinatul des, oboseala și vederea încețo�
 
 [card: Semnele de care să ții seama]
 
-Medicul de familie poate face o consultație preventivă, adică un control pentru cine nu se simte bolnav. Ea e disponibilă și pentru oamenii fără asigurare de sănătate. În 2025 s-au făcut 370.778 de astfel de consultații. Tot în 2025 s-au făcut 79.445 de analize HbA1c prin Programul Național de Diabet. Această analiză de sânge arată cât de bine e ținută boala sub control.
+Medicul de familie poate face o consultație preventivă, adică un control pentru cine nu se simte bolnav. Ea e disponibilă și pentru oamenii fără asigurare de sănătate. În 2025 s-au făcut 370.778 de astfel de consultații. Pentru cei care știu deja că au diabet, Programul Național de Diabet a plătit în 2025 79.445 de analize HbA1c. Această analiză de sânge arată cât de bine e ținută boala sub control.
 > „Consultațiile preventive sunt disponibile atât persoanelor asigurate, cât și celor neasigurate, potrivit informațiilor transmise de INSP.” [4]
 > „În același an, au fost acordate 370.778 de consultații preventive, dintre care 5.042 pentru persoane cu vârste între 18 și 39 de ani identificate cu risc înalt. Tot în 2025, în cadrul Programului Național de Diabet au fost efectuate 79.445 de dozări ale hemoglobinei glicozilate (HbA1c), analiză utilizată pentru monitorizarea controlului glicemic.” [2]
 
@@ -119,12 +118,15 @@ Când boala nu e descoperită și urmărită la timp, apar complicații care duc
 
 [card: Mai multe internări care puteau fi evitate]
 
-Din 2020 există o lege despre prevenția și depistarea timpurie a diabetului, Legea 249/2020. Forumul Român de Diabet cere ca ea să fie aplicată și să se facă un Registru Național de Diabet. Registrul ar arăta câți oameni sunt diagnosticați, de ce au nevoie și unde trebuie mai mulți bani.
-> „În România, Legea nr. 249/2020 privind prevenția și depistarea precoce a diabetului zaharat este în vigoare din noiembrie 2020.” [2]
+Din 2020 există o lege despre prevenția și depistarea timpurie a diabetului, Legea 249/2020. Forumul Român de Diabet cere ca ea să fie aplicată, fără ca articolele să spună cât se aplică azi, și să se facă un Registru Național de Diabet. Registrul ar arăta câți oameni sunt diagnosticați, de ce au nevoie și unde trebuie mai mulți bani.
+> „În România, Legea nr. 249/2020 privind prevenția și depistarea precoce a diabetului zaharat este în vigoare din noiembrie 2020. Forumul Român de Diabet susține aplicarea acesteia și dezvoltarea unor măsuri de prevenție la nivel național, prin colaborarea dintre autorități, profesioniștii din sănătate și organizațiile de pacienți.” [2]
 > „O altă prioritate este dezvoltarea Registrului Național de Diabet, care ar permite o evaluare mai exactă a numărului de persoane diagnosticate, a nevoilor acestora și a rezultatelor îngrijirii.” [2]
 > „Un astfel de instrument ar putea oferi și informații despre utilizarea fondurilor din Programul Național de Diabet și despre zonele în care este nevoie de resurse suplimentare.” [2]
 
-[card: Ce cer medicii și pacienții]
+Articolele nu citează Ministerul Sănătății sau Casa Națională de Asigurări de Sănătate despre aceste cereri.
+> „Datele prezentate în Barometrul 2026 arată că depistarea persoanelor care au diabet fără să știe și îmbunătățirea accesului la îngrijire rămân provocări importante pentru sistemul de sănătate din România.” [2]
+
+[card: Ce cere Forumul Român de Diabet]
 
 ## Surse
 

@@ -8,35 +8,27 @@
 | measures | experience |
 | na | Prefer să nu spun |
 
-1. Da, am diabet
+1. Da
 2. Nu, dar mi-a spus că am glicemia mărită
 3. Nu
 
-### Are cineva din familia ta apropiată diabet?
-
-| id | familie |
-|---|---|
-| type | single |
-| measures | experience |
-
-1. Da
-2. Nu
-3. Nu știu
-
-### Dacă ai avea câteva săptămâni sete mare și ai urina des, ce ai face mai întâi?
+### Dacă ai avea câteva săptămâni o sete neobișnuit de mare, ce ai face mai întâi?
 
 | id | ce-ai-face |
 |---|---|
 | type | single |
 | measures | expectation |
+| na | Am deja diabet |
 
-1. Aș merge la medicul de familie
-2. Mi-aș face analize la un laborator
-3. Mi-aș măsura glicemia cu un aparat de acasă
-4. Aș aștepta să treacă
-5. Nu știu
+1. Aș aștepta să treacă
+2. Aș merge la medicul de familie
+3. Mi-aș face analize la un laborator
+4. Aș întreba la farmacie
+5. Mi-aș măsura glicemia cu un aparat de acasă
+6. Altceva
+7. Nu știu
 
-### În ultimele 12 luni, ți-a propus medicul de familie un control fără să fii bolnav(ă)?
+### În ultimele 12 luni, ți-a propus medicul de familie un control de rutină, de exemplu analize de sânge?
 
 | id | control-propus |
 |---|---|
@@ -44,8 +36,8 @@
 | measures | experience |
 | where | romania |
 | na | Nu am medic de familie |
-| outlook | a: 1, b: 0.5, c: -0.5 |
 
 1. Da, și l-am făcut
 2. Da, dar nu l-am făcut
 3. Nu
+4. Nu am fost la medicul de familie în ultimele 12 luni
