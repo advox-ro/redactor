@@ -1,25 +1,17 @@
 - sanatate-075
 
-### În ultimele 12 luni, ai avut, pe lângă salariu, și alte venituri, de exemplu din chirii, dividende sau ca PFA?
+### În ultimele 12 luni, ai avut, pe lângă salariu, venituri din chirii, dividende, dobânzi, drepturi de autor sau ca PFA?
 
 | id | alte-venituri |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Nu am salariu |
+| na | Nu am avut salariu în ultimele 12 luni |
 
 1. Da
 2. Nu
 3. Prefer să nu spun
-
-### Cât de corect ți se pare ca un salariat să plătească contribuția la sănătate și pe banii câștigați în afara salariului?
-
-| id | cat-de-corect |
-|---|---|
-| type | scale |
-| measures | opinion |
-| scale | Deloc corect … Foarte corect |
 
 ### Pentru cei care au deja un salariu, ce ar trebui să se întâmple cu contribuția la sănătate pe veniturile din afara salariului?
 
@@ -31,9 +23,21 @@
 1. Să se plătească la fel ca acum
 2. Să nu se plătească până la un anumit prag
 3. Să nu se plătească deloc
-4. Nu știu
+4. Altceva
+5. Nu știu
 
-### Dacă nu ai plăti contribuția la sănătate pe banii câștigați în afara salariului, ai căuta mai mult să câștigi bani în plus?
+### Ce e mai important pentru tine când e vorba de contribuția la sănătate pe veniturile din afara salariului?
+
+| id | ce-e-mai-important |
+|---|---|
+| type | single |
+| measures | tradeoff |
+
+1. Ca salariații să plătească mai puțin
+2. Ca sistemul de sănătate să aibă mai mulți bani
+3. Nu știu
+
+### Dacă nu ai plăti contribuția la sănătate pe banii câștigați în afara salariului, ai încerca să câștigi mai mulți bani în afara salariului?
 
 | id | bani-in-plus |
 |---|---|

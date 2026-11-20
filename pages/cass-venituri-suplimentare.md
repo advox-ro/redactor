@@ -15,13 +15,14 @@ quiz: cass-venituri-suplimentare
 
 ## Carduri
 
-### Azi, salariatul plătește de două ori
+### Azi, CASS se poate plăti și pe alte venituri
 tip: listă
 - Din salariu: o reține angajatorul, lunar
-- Din chirii, dividende sau PFA: o plătește separat, prin declarația unică
-CASS e contribuția la sănătate. Un salariat care mai câștigă bani și din alte surse o plătește și pe acei bani, deși e deja asigurat prin salariu.
+- Din chirii, dividende sau PFA: o declară salariatul, separat, la ANAF
+CASS e contribuția la sănătate. Pe veniturile din afara salariului se poate datora și ea, în funcție de tipul venitului și de pragurile din Codul fiscal.
 > „În prezent, un salariat plătește CASS din salariu, angajatorul o reține direct, în fiecare lună. Dacă aceeași persoană mai câștigă bani din alte surse, de exemplu încasează chirie pentru un apartament, primește dividende de la o firmă sau are venituri ca PFA, trebuie să plătească CASS și pe aceste venituri.” [1]
 > „Contribuția se calculează separat, pe baza veniturilor cumulate, și se declară prin declarația unică depusă la ANAF.” [1]
+> „În funcție de natura veniturilor și de plafoanele fiscale aplicabile, contribuabilul trebuie să își stabilească obligațiile și să le declare la Agenția Națională de Administrare Fiscală (ANAF), prin intermediul declarației unice.” [2]
 
 ### Scutire până la un prag
 tip: cifră
@@ -31,16 +32,14 @@ pe an: până la această sumă, veniturile din afara salariului nu ar mai plăt
 > „Dacă pragul este depășit, contribuția se plătește doar pentru suma de peste 120.000 de lei, nu pentru tot venitul.” [1]
 
 ### Un exemplu
-tip: comparație
-- Venituri din afara salariului: 140.000 lei
-- Suma pe care s-ar plăti CASS: 20.000 lei
-Cine are 140.000 de lei pe an din afara salariului ar plăti CASS doar pe 20.000 de lei. Procentul contribuției rămâne același.
+tip: text
+Din 140.000 de lei pe an câștigați în afara salariului, CASS s-ar calcula doar pe 20.000 de lei, partea de peste prag. Procentul contribuției rămâne același.
 > „De exemplu, în cazul unui contribuabil care realizează venituri eligibile de 140.000 de lei pe an, CASS ar urma să fie calculată doar pentru diferența de 20.000 de lei, potrivit mecanismului propus.” [2]
 > „Cota contribuției nu ar urma să fie modificată.” [2]
 
 ### Ce venituri ar intra
 tip: listă
-- Activități independente, de exemplu PFA
+- Munca pe cont propriu, de exemplu ca PFA
 - Chirii
 - Dividende
 - Dobânzi
@@ -53,7 +52,7 @@ Scutirea ar fi doar pentru cei care au și un salariu, din care li se reține de
 tip: listă
 - Salariatul e deja asigurat prin salariu
 - CASS în plus nu aduce servicii medicale în plus
-- Statul ar încasa mai puțin, dar puțin
+- Statul ar pierde puțini bani, spune el
 - Mai mulți oameni și-ar declara veniturile
 Acestea sunt argumentele celui care a propus legea. Articolele nu spun ce cred Guvernul sau ANAF despre proiect.
 > „Principalul argument al inițiatorilor este că salariatul are deja calitatea de asigurat în sistemul de sănătate, prin contribuția reținută din salariu. Contribuția suplimentară plătită pe chirii sau dividende nu îi aduce acces la servicii medicale în plus.” [1]
@@ -67,17 +66,21 @@ Proiectul trebuie să treacă prin Parlament. Până atunci, CASS pe chirii, div
 
 ## Articol
 
-Un proiect de lege depus la Senat propune ca salariații să nu mai plătească CASS pe banii câștigați din afara salariului, până la 120.000 de lei pe an. CASS e contribuția de asigurări sociale de sănătate: banii din care se plătesc consultațiile, tratamentele și spitalele pentru cei asigurați. Proiectul schimbă Codul fiscal, legea care spune ce taxe și contribuții se plătesc.
+Un proiect de lege depus la Senat propune ca salariații să nu mai plătească CASS pe banii câștigați din afara salariului, până la 120.000 de lei pe an. CASS e contribuția de asigurări sociale de sănătate: banii din care se plătesc consultațiile, tratamentele și spitalele pentru cei asigurați. Proiectul ar schimba Codul fiscal, legea care spune ce taxe și contribuții se plătesc.
 > „Un proiect legislativ depus marți la Senat propune eliminarea contribuției la asigurările sociale de sănătate ( CASS ) pentru veniturile suplimentare de până la 120.000 de lei anual.” [3]
 > „Inițiativa vizează modificarea Legii nr. 227/2015 privind Codul fiscal și urmărește să înlăture situațiile în care persoanele angajate ajung să achite contribuții la sănătate atât din salariu, cât și din alte câștiguri.” [3]
 
 ### Cum e acum
 
-Angajatorul reține CASS din salariu în fiecare lună. Dacă salariatul mai câștigă bani și altfel, de exemplu din chiria unui apartament, din dividende, adică partea din profitul unei firme care revine proprietarilor, sau ca PFA, persoană fizică autorizată, plătește CASS și pe acești bani. O declară la ANAF, Agenția Națională de Administrare Fiscală, prin declarația unică, formularul anual pentru veniturile din afara salariului.
+Angajatorul reține CASS din salariu în fiecare lună. Un salariat poate câștiga bani și altfel: din chiria unui apartament, din dividende sau ca PFA. Dividendele sunt partea din profitul unei firme care revine proprietarilor. PFA înseamnă persoană fizică autorizată, adică cineva care lucrează pe cont propriu.
+> „În prezent, un salariat plătește CASS din salariu, angajatorul o reține direct, în fiecare lună.” [1]
+
+Pe acești bani, salariatul poate datora și el CASS, în funcție de tipul venitului și de pragurile din Codul fiscal. O declară la ANAF, Agenția Națională de Administrare Fiscală, prin declarația unică, formularul pentru veniturile din afara salariului.
 > „În prezent, un salariat plătește CASS din salariu, angajatorul o reține direct, în fiecare lună. Dacă aceeași persoană mai câștigă bani din alte surse, de exemplu încasează chirie pentru un apartament, primește dividende de la o firmă sau are venituri ca PFA, trebuie să plătească CASS și pe aceste venituri.” [1]
 > „Contribuția se calculează separat, pe baza veniturilor cumulate, și se declară prin declarația unică depusă la ANAF.” [1]
+> „În funcție de natura veniturilor și de plafoanele fiscale aplicabile, contribuabilul trebuie să își stabilească obligațiile și să le declare la Agenția Națională de Administrare Fiscală (ANAF), prin intermediul declarației unice.” [2]
 
-[card: Azi, salariatul plătește de două ori]
+[card: Azi, CASS se poate plăti și pe alte venituri]
 
 ### Ce s-ar schimba
 
@@ -104,11 +107,11 @@ Cel care a propus legea spune că salariatul e deja asigurat prin contribuția d
 > „În aceste condiții, plata unei noi contribuții pentru veniturile provenite din chirii sau dividende nu oferă acces la servicii medicale suplimentare. Salariatul beneficiază în continuare de același pachet de bază disponibil tuturor persoanelor asigurate.” [3]
 > „În expunerea de motive este invocat și principiul constituțional al „justei așezări a sarcinilor fiscale”. Acesta presupune ca obligațiile impuse contribuabililor să respecte criterii de echitate și proporționalitate.” [2]
 
-O regulă asemănătoare a mai existat. O formă mai veche a legii sănătății, Legea 95/2006, cerea contribuție pe chirii, dividende, dobânzi sau drepturi de autor doar celor care nu aveau deja un venit principal, cum e salariul. Proiectul nou nu scutește tot: peste prag, contribuția se plătește în continuare.
+O regulă asemănătoare a mai existat. Vechea formă a Legii 95/2006, legea sănătății, cerea contribuție pe chirii, dividende, dobânzi sau drepturi de autor doar celor care nu aveau deja un venit principal, cum e salariul. Proiectul nou nu scutește tot: peste prag, contribuția se plătește în continuare.
 > „Vechea formă a Legii nr. 95/2006 privind reforma în domeniul sănătății prevedea că, pentru chirii, dividende, dobânzi sau drepturi de autor, contribuția se plătea doar dacă persoana nu avea deja alte venituri principale, cum ar fi salariul.” [1]
 > „Spre deosebire de vechea regulă, proiectul nu scutește complet veniturile suplimentare.” [1]
 
-Inițiatorul recunoaște că statul ar încasa mai puțini bani din CASS. Spune însă că pierderea ar fi mică, pentru că veniturile de peste prag plătesc în continuare, și că mai mulți oameni și-ar declara toate veniturile dacă ar plăti mai puțin. Articolele nu dau o cifră pentru banii pe care statul nu i-ar mai încasa și nu spun ce cred Guvernul sau ANAF despre proiect.
+Inițiatorul recunoaște că statul ar încasa mai puțini bani din CASS. Spune însă că pierderea ar fi mică, pentru că veniturile de peste prag plătesc în continuare, și că mai mulți oameni și-ar declara toate veniturile dacă ar plăti mai puțin. Articolele nu dau o cifră pentru banii pe care statul nu i-ar mai încasa, nu spun cine a propus proiectul și nici ce cred Guvernul sau ANAF despre el. Scutirea i-ar ajuta pe salariații care au și alte venituri, nu pe cei care trăiesc doar din salariu.
 > „Inițiatorul admite că statul ar încasa mai puțini bani din CASS pentru veniturile de sub prag, dar susține că pierderea ar fi limitată deoarece contribuția se păstrează pentru veniturile mari, de peste 120.000 de lei, iar mai mulți oameni ar putea fi încurajați să-și declare toate veniturile, dacă povara fiscală scade.” [1]
 
 [card: Ce spune inițiatorul]
