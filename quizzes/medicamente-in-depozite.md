@@ -10,13 +10,15 @@
 | na | Nu mi s-a întâmplat |
 
 1. L-am căutat la alte farmacii
-2. Am luat un înlocuitor recomandat de farmacist
-3. M-am întors la medic pentru altă rețetă
-4. L-am adus din altă țară
-5. Am renunțat la el
-6. Altceva
+2. L-am comandat la aceeași farmacie
+3. Am așteptat să apară din nou
+4. Am luat un înlocuitor recomandat de farmacist
+5. M-am întors la medic pentru altă rețetă
+6. L-am cumpărat din altă țară
+7. Am renunțat la el
+8. Altceva
 
-### Dacă farmacistul îți propune un medicament cu aceeași substanță activă, dar cu alt nume, cât de dispus(ă) ești să-l iei?
+### Dacă farmacistul îți propune un medicament cu același ingredient care tratează (aceeași substanță activă), dar cu alt nume, cât de dispus(ă) ești să-l iei?
 
 | id | alt-nume |
 |---|---|
@@ -26,14 +28,20 @@
 | scale | Deloc dispus(ă) … Foarte dispus(ă) |
 | na | Nu iau medicamente |
 
-### Cât de util ți-ar fi să poți vedea pe internet dacă un medicament de care ai nevoie se află în depozitele din țară?
+### Când nu găsești un medicament, ce te-ar ajuta cel mai mult?
 
-| id | stocuri-online |
+| id | ce-ar-ajuta |
 |---|---|
-| type | scale |
+| type | single |
 | measures | priority |
 | where | romania |
-| scale | Deloc util … Foarte util |
+| na | Nu cumpăr medicamente |
+
+1. Să văd pe internet ce farmacii îl au
+2. Să știu dacă se găsește în depozitele din țară
+3. Să-l pot comanda la farmacia la care merg
+4. Să primesc de la farmacist un înlocuitor potrivit
+5. Altceva
 
 ### Câtă încredere ai că vei găsi în farmacii, în următoarele 12 luni, medicamentele de care ai nevoie?
 
@@ -42,6 +50,6 @@
 | type | scale |
 | measures | expectation |
 | where | romania |
-| scale | Deloc … Foarte multă |
-| na | Nu iau medicamente |
+| scale | Nicio încredere … Foarte multă încredere |
+| na | Nu cred că voi avea nevoie de medicamente |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
