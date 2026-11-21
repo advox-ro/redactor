@@ -55,3 +55,17 @@
 3. Mesaj numai după ce o dronă a intrat în România
 4. Altceva
 5. Nu știu
+
+### Față de începutul lui noiembrie, cât de în siguranță te simți acum în localitatea ta?
+
+| id | siguranta-dupa-sulina |
+|---|---|
+| type | single |
+| measures | trend |
+| where | romania |
+| outlook | a: 1, b: 0, c: -1, d: 0 |
+
+1. Mai în siguranță
+2. La fel
+3. Mai puțin în siguranță
+4. Nu știu
