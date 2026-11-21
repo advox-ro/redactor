@@ -1,6 +1,6 @@
 ---
-title: Rezidențiatul, fără posturi
-summary: Aproape 10.000 de tineri medici au dat examenul de rezidențiat. Ministrul Sănătății se gândește să nu mai scoată posturi, doar locuri.
+title: Rezidențiat, poate fără posturi
+summary: Aproape 10.000 de tineri au dat examenul de rezidențiat. Ministrul se gândește să renunțe la posturile care dau un loc de muncă sigur.
 tags: [sănătate, muncă]
 date: 2026-11-15
 stat: { value: "5.483", label: "de locuri și posturi au fost la examenul de rezidențiat din 2026", quote: "Cătălina Poiană, a afirmat că pentru concursul de rezidențiat din acest an s-au înscris 9.969 de candidați pe un număr de 5.483 de locuri și posturi.", source: 1 }
@@ -19,7 +19,7 @@ quiz: rezidentiat-2026
 ### Examenul de după facultate
 tip: cifră
 - 9.969
-de absolvenți de medicină, medicină dentară și farmacie au dat pe 15 noiembrie examenul de rezidențiat. După el își aleg specialitatea în care se pregătesc ca medici.
+de absolvenți de medicină, medicină dentară și farmacie s-au înscris la examenul de rezidențiat din 15 noiembrie. După el își aleg specialitatea în care se pregătesc.
 > „Astăzi, pentru mulți dintre oameni pare, e doar o zi de duminică, însă pentru cei din săli, pentru cei 9.969 de absolvenți de medicină, de medicină dentară și de farmacie care susțin examenul de rezidențiat, este o zi importantă.” [1]
 > „Concursul național de intrare în Rezidențiat în domeniile Medicină, Medicină dentară și Farmacie s-a desfășurat astăzi, 15 noiembrie 2026, în cele șase centre universitare acreditate din țară: București, Cluj-Napoca, Craiova, Iași, Târgu Mureș și Timișoara.” [5]
 > „Este un concurs cu o mare miză: alegerea specialității și a pregătirii acestor candidați.” [3]
@@ -29,7 +29,9 @@ de absolvenți de medicină, medicină dentară și farmacie au dat pe 15 noiemb
 tip: comparație
 - 2025: 10.147
 - 2026: 9.969
-de candidați s-au înscris la rezidențiat. Locurile și posturile au fost cu aproximativ 110 mai multe decât anul trecut, spune ministrul Sănătății.
+de candidați s-au înscris la rezidențiat. La medicină au fost însă mai mulți decât anul trecut; au scăzut la medicină dentară și la farmacie.
+> „La începutul lunii noiembrie, ministrul Sănătății, Alexandru Rogobete, anunța că 7.180 de candidați s-au înscris la Medicină, anul acesta, față de 6.956 anul trecut, iar numărul locurilor a crescut de la 4.354 la 4.481.” [4]
+> „La medicină sunt 1,51 pe loc, față de 1,49 anul trecut, la medicină dentară, 3,7 pe loc, față de 4,2 anul trecut, iar la farmacie, 3,79 pe loc în acest an, comparativ cu 4,75 în anul trecut.” [1]
 > „Numărul de candidați din anul 2026 este mai mic decât cel din 2025.” [1]
 > „Vorbim de 9.969 versus 10.147, cât am avut anul anul trecut.” [1]
 > „Ministrul Sănătății, Alexandru Rogobete, a precizat că, în acest an, numărul de locuri și de posturi pentru examenul de rezidențiat a fost suplimentat cu 110, față de anul trecut, în timp ce numărul candidaților este mai mic.” [1]
@@ -44,9 +46,9 @@ Cine ia un post are, practic, un loc de muncă asigurat la finalul pregătirii.
 > „Medicii, medicii dentiști/medicii stomatologi și farmaciștii care devin rezidenți pe post încheie contract individual de muncă pe perioadă nedeterminată cu unitatea sanitară publică ce a publicat postul respectiv.” [4]
 > „Un motiv ar fi faptul că, deși tinerii își aleg rezidențiatul pe un post și practic acest lucru le asigură un loc de muncă la finalul perioadei de pregătire, de multe ori renunță la el, iar unitatea sanitară rămâne tot fără medic.” [3]
 
-### Propunerea: doar locuri
+### Ideea ministrului: doar locuri
 tip: text
-Ministrul Sănătății se gândește ca acesta să fie ultimul an cu posturi la rezidențiat. El spune că multe posturi nu se ocupă, iar unii medici își schimbă specialitatea sau nu se mai întorc la spital după pregătire.
+Ministrul Sănătății se gândește ca acesta să fie ultimul an cu posturi la rezidențiat. El spune, fără să dea cifre, că multe posturi nu se ocupă, iar unii medici își schimbă specialitatea sau nu se mai întorc la spital după pregătire.
 > „Ministerul Sănătății propune o schimbare în organizarea rezidențiatului: concursul să fie doar pe locuri, fără posturi.” [3]
 > „„Dacă vorbim de posturile la rezidențiat, mă gândesc serios să fie ultimul an când la rezidențiat scoatem posturi.” [2]
 > „Experiența ultimilor patru-cinci ani ne arată că aceste posturi, pe de o parte, nu se ocupă, pe de altă parte, și dacă se ocupă, în scurt timp își modifică specialitatea sau, a treia variantă, după patru-cinci ani de rezidențiat, nu se mai întorc la post”, a declarat ministrul Sănătății.” [2]
@@ -60,16 +62,17 @@ Ministerul Sănătății pregătește o platformă pe site-ul său, unde medicii
 ### Unde au ajuns posturile deblocate
 tip: cifră
 - 7.000
-de posturi din spitale au fost deblocate în iunie. Ministrul a cerut să afle câte au fost scoase la concurs, câte s-au ocupat și în ce spitale.
+de posturi din spitale au primit voie să fie ocupate din iunie. Întrebat de ce s-au scos puține la concurs, deși spitalele duc lipsă de medici, ministrul a spus că a cerut o analiză: câte au fost scoase la concurs, câte s-au ocupat și unde.
+> „Întrebat despre numărul redus de posturi scoase la concurs în spitale, în condițiile în care mai multe unități medicale se confruntă cu lipsa medicilor, ministrul Sănătății a anunțat că a cerut o analiză privind cele 7.000 de posturi deblocate în luna iunie.” [6]
 > „Întrebat despre numărul redus de posturi scoase la concurs în unitățile medicale, în contextul deficitului de personal,ministrul Sănătății a declarat că a solicitat o analiză privind cele 7.000 de posturi deblocate în luna iunie.” [2]
 > „Ministerul urmărește să afle câte dintre acestea au fost scoase efectiv la concurs, câte au fost ocupate și în ce spitale au ajuns noii angajați.” [2]
 
-### Specialitățile cu cele mai multe locuri
+### Unde au fost cele mai multe locuri
 tip: listă
 - Cele mai multe: medicina de familie
-- Apoi: cardiologia și ATI
-- Cele mai puține: specialitățile pentru copii
-ATI înseamnă anestezie și terapie intensivă. La specialitățile pentru copii, de exemplu neurologia sau cardiologia pediatrică, au fost cele mai puține locuri.
+- Apoi: cardiologia, anestezia și terapia intensivă
+- Cele mai puține: unele specialități pentru copii
+Așa a fost la medicină, spune un reporter Știrile ProTV. Printre cele cu cele mai puține locuri: neurologia și cardiologia pentru copii.
 > „Corespondent PRO TV: „La domeniul medicină, anul acesta, cele mai multe locuri au fost scoase la concurs pentru medicina de familie. Urmează cardiologia și ATI. La polul opus, cele mai puține locuri sunt la specialități dedicate copiilor, de exemplu neurologie pediatrică, oncologie și hematologie pediatrică sau cardiologie pediatrică”.” [3]
 
 ## Articol
@@ -81,19 +84,21 @@ Pe 15 noiembrie, 9.969 de absolvenți de medicină, medicină dentară și farma
 
 [card: Examenul de după facultate]
 
-Examenul a fost un test grilă cu 200 de întrebări, timp de 4 ore. Ca să-și poată alege un loc, un candidat are nevoie de cel puțin 60% din cel mai mare punctaj obținut în țară. Anul acesta s-au înscris 9.969 de candidați, față de 10.147 anul trecut. Pentru ei au fost 5.483 de locuri și posturi, cu aproximativ 110 mai multe decât anul trecut, spune ministrul Sănătății.
+Examenul a fost un test grilă cu 200 de întrebări, timp de 4 ore. Ca să-și poată alege un loc sau un post, un candidat are nevoie de cel puțin 60% din cel mai mare punctaj obținut în țară. Anul acesta s-au înscris 9.969 de candidați, față de 10.147 anul trecut. La medicină au fost mai mulți, 7.180 față de 6.956, iar la medicină dentară și farmacie, mai puțini. Pentru ei au fost 5.483 de locuri și posturi, cu aproximativ 110 mai multe decât anul trecut, spune ministrul Sănătății.
 > „Concursul se desfășoară sub formă de test-grilă cu 200 de întrebări pentru fiecare domeniu, identice pentru toate centrele universitare în care se organizează concursul, pe o durată de 4 ore.” [4]
 > „Alegerea unui loc sau post este condiționată de obținerea unui punctaj minim de promovare de 60% din punctajul maxim realizat la nivel național pentru cele 200 de întrebări corespunzătoare fiecărui domeniu.” [4]
 > „Vorbim de 9.969 versus 10.147, cât am avut anul anul trecut.” [1]
+> „La începutul lunii noiembrie, ministrul Sănătății, Alexandru Rogobete, anunța că 7.180 de candidați s-au înscris la Medicină, anul acesta, față de 6.956 anul trecut, iar numărul locurilor a crescut de la 4.354 la 4.481.” [4]
+> „La medicină sunt 1,51 pe loc, față de 1,49 anul trecut, la medicină dentară, 3,7 pe loc, față de 4,2 anul trecut, iar la farmacie, 3,79 pe loc în acest an, comparativ cu 4,75 în anul trecut.” [1]
 > „Cătălina Poiană, a afirmat că pentru concursul de rezidențiat din acest an s-au înscris 9.969 de candidați pe un număr de 5.483 de locuri și posturi.” [1]
 > „Ministrul Sănătății, Alexandru Rogobete, a precizat că, în acest an, numărul de locuri și de posturi pentru examenul de rezidențiat a fost suplimentat cu 110, față de anul trecut, în timp ce numărul candidaților este mai mic.” [1]
 
 [card: Puțin mai puțini candidați]
 
-La medicină, cele mai multe locuri au fost pentru medicina de familie, apoi pentru cardiologie și pentru anestezie și terapie intensivă. Cele mai puține au fost la specialitățile pentru copii.
+La medicină, cele mai multe locuri au fost pentru medicina de familie, apoi pentru cardiologie și pentru anestezie și terapie intensivă. Cele mai puține au fost la unele specialități pentru copii, scrie Știrile ProTV.
 > „Corespondent PRO TV: „La domeniul medicină, anul acesta, cele mai multe locuri au fost scoase la concurs pentru medicina de familie. Urmează cardiologia și ATI. La polul opus, cele mai puține locuri sunt la specialități dedicate copiilor, de exemplu neurologie pediatrică, oncologie și hematologie pediatrică sau cardiologie pediatrică”.” [3]
 
-[card: Specialitățile cu cele mai multe locuri]
+[card: Unde au fost cele mai multe locuri]
 
 ### Loc sau post
 
@@ -113,7 +118,7 @@ Ministrul Sănătății spune că se gândește serios ca anul acesta să fie ul
 > „Un motiv ar fi faptul că, deși tinerii își aleg rezidențiatul pe un post și practic acest lucru le asigură un loc de muncă la finalul perioadei de pregătire, de multe ori renunță la el, iar unitatea sanitară rămâne tot fără medic.” [3]
 > „Nu văd sensul unui post la început de rezidențiat, pentru că după terminarea rezidențiatului încep să se contureze abilitățile din specialitatea respectivă și atunci fiecare poate să își găsească mai ușor locul, în funcție de cum evoluează pregătirea de rezidențiat”, a conchis Alexandru Rogobete.” [2]
 
-[card: Propunerea: doar locuri]
+[card: Ideea ministrului: doar locuri]
 
 ### Angajările din spitale
 
@@ -125,9 +130,10 @@ Ministerul Sănătății pregătește, împreună cu Serviciul de Telecomunicaț
 
 [card: Posturile libere, pe un site]
 
-Ministrul a cerut și o analiză a celor 7.000 de posturi din spitale deblocate în iunie: câte au fost scoase la concurs, câte s-au ocupat și în ce spitale au ajuns noii angajați. Rezultatul nu a fost făcut public încă.
+Ministrul a fost întrebat și de ce s-au scos puține posturi la concurs, deși mai multe spitale duc lipsă de medici. El a spus că a cerut o analiză a celor 7.000 de posturi din spitale care au primit voie să fie ocupate din iunie: câte au fost scoase la concurs, câte s-au ocupat și în ce spitale au ajuns noii angajați. Articolele nu spun când va fi gata analiza.
 > „Întrebat despre numărul redus de posturi scoase la concurs în unitățile medicale, în contextul deficitului de personal,ministrul Sănătății a declarat că a solicitat o analiză privind cele 7.000 de posturi deblocate în luna iunie.” [2]
 > „Ministerul urmărește să afle câte dintre acestea au fost scoase efectiv la concurs, câte au fost ocupate și în ce spitale au ajuns noii angajați.” [2]
+> „Întrebat despre numărul redus de posturi scoase la concurs în spitale, în condițiile în care mai multe unități medicale se confruntă cu lipsa medicilor, ministrul Sănătății a anunțat că a cerut o analiză privind cele 7.000 de posturi deblocate în luna iunie.” [6]
 
 [card: Unde au ajuns posturile deblocate]
 
