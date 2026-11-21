@@ -70,3 +70,18 @@
 5. Calorifere electrice
 6. Altceva
 7. Nu știu
+
+### După 15 noiembrie, cum s-a schimbat căldura din caloriferele tale?
+
+| id | dupa-repornire |
+|---|---|
+| type | single |
+| measures | trend |
+| where | romania |
+| na | Locuința mea nu e legată la termoficare |
+| outlook | a: 1, b: 0, c: -1, d: 0 |
+
+1. Sunt mai calde
+2. Au rămas la fel
+3. Sunt mai reci
+4. Nu știu
