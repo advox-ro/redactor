@@ -58,17 +58,31 @@ async function read(env: Env, feed: Feed, now: number): Promise<number> {
   return results.reduce((n, r) => n + (r.meta.changes ?? 0), 0);
 }
 
-type Open = { id: number; centroid: Vec; n: number; outlets: Set<string>; counties: Record<string, number>; dirty: boolean };
+type Open = { id: number; seen: number; centroid: Vec; n: number; outlets: Set<string>; counties: Record<string, number>; dirty: boolean };
+
+/** Rows with embeddings, read a page at a time: D1 returns a blob as a list of numbers, and a
+ *  single result over 50 MB fails. */
+async function paged<T extends { id: number }>(env: Env, sql: string, ...binds: unknown[]): Promise<T[]> {
+  const out: T[] = [];
+  for (let after = 0; ; ) {
+    const rows = (await env.DB.prepare(`${sql} AND id > ? ORDER BY id LIMIT 500`).bind(...binds, after).all<T>()).results ?? [];
+    out.push(...rows);
+    if (rows.length < 500) return out;
+    after = rows[rows.length - 1].id;
+  }
+}
 
 /** Embeds the articles not embedded yet and places each in a story: the closest open story above
- *  JOIN, or a new one. */
+ *  JOIN, or a new one. A story was last seen when its newest article was fetched. */
 async function place(env: Env, now: number): Promise<{ placed: number; stories: number }> {
-  const fresh = (await env.DB.prepare('SELECT id, outlet, title, lede, counties FROM articles WHERE emb IS NULL ORDER BY id LIMIT 400').all<{ id: number; outlet: string; title: string; lede: string; counties: string }>()).results ?? [];
+  // Newest first: when runs fall behind, today's articles still reach their stories.
+  const fresh = (await env.DB.prepare('SELECT id, outlet, title, lede, counties, fetched_at FROM articles WHERE emb IS NULL ORDER BY id DESC LIMIT 400').all<{ id: number; outlet: string; title: string; lede: string; counties: string; fetched_at: number }>()).results ?? [];
   if (!fresh.length) return { placed: 0, stories: 0 };
   const vecs = await embed(env.AI, fresh.map((a) => `${a.title}. ${a.lede}`));
 
-  const open: Open[] = ((await env.DB.prepare('SELECT id, centroid, n_articles, outlets, counties FROM stories WHERE last_seen > ?').bind(now - OPEN_FOR).all<{ id: number; centroid: ArrayBuffer; n_articles: number; outlets: string; counties: string }>()).results ?? []).map((s) => ({
+  const open: Open[] = (await paged<{ id: number; centroid: ArrayBuffer; n_articles: number; outlets: string; counties: string; last_seen: number }>(env, 'SELECT id, centroid, n_articles, outlets, counties, last_seen FROM stories WHERE last_seen > ?', now - OPEN_FOR)).map((s) => ({
     id: s.id,
+    seen: s.last_seen,
     centroid: fromBlob(s.centroid),
     n: s.n_articles,
     outlets: new Set(JSON.parse(s.outlets)),
@@ -76,7 +90,7 @@ async function place(env: Env, now: number): Promise<{ placed: number; stories: 
     dirty: false,
   }));
   // Recent articles from other outlets, to spot republished copy.
-  const recent = ((await env.DB.prepare('SELECT id, outlet, emb FROM articles WHERE emb IS NOT NULL AND dup_of IS NULL AND fetched_at > ?').bind(now - 48 * HOUR).all<{ id: number; outlet: string; emb: ArrayBuffer }>()).results ?? []).map((r) => ({ id: r.id, outlet: r.outlet, v: fromBlob(r.emb) }));
+  const recent = (await paged<{ id: number; outlet: string; emb: ArrayBuffer }>(env, 'SELECT id, outlet, emb FROM articles WHERE length(emb) > 0 AND dup_of IS NULL AND fetched_at > ?', now - 48 * HOUR)).map((r) => ({ id: r.id, outlet: r.outlet, v: fromBlob(r.emb) }));
 
   let created = 0;
   const writes: D1PreparedStatement[] = [];
@@ -95,14 +109,15 @@ async function place(env: Env, now: number): Promise<{ placed: number; stories: 
     }
     if (!best) {
       const r = await env.DB.prepare('INSERT INTO stories (title, centroid, n_articles, outlets, counties, first_seen, last_seen) VALUES (?, ?, 0, ?, ?, ?, ?) RETURNING id')
-        .bind(a.title, toBlob(v), '[]', '{}', now, now).first<{ id: number }>();
-      best = { id: r!.id, centroid: v, n: 0, outlets: new Set(), counties: {}, dirty: true };
+        .bind(a.title, toBlob(v), '[]', '{}', a.fetched_at, a.fetched_at).first<{ id: number }>();
+      best = { id: r!.id, seen: a.fetched_at, centroid: v, n: 0, outlets: new Set(), counties: {}, dirty: true };
       open.push(best);
       created++;
     } else if (best.n < FROZEN_AT) {
       best.centroid = addToMean(best.centroid, best.n, v);
     }
     best.n++;
+    best.seen = Math.max(best.seen, a.fetched_at);
     if (!copyOf) best.outlets.add(a.outlet);
     for (const c of JSON.parse(a.counties) as string[]) best.counties[c] = (best.counties[c] ?? 0) + 1;
     best.dirty = true;
@@ -115,7 +130,7 @@ async function place(env: Env, now: number): Promise<{ placed: number; stories: 
         s.n,
         JSON.stringify([...s.outlets]),
         JSON.stringify(s.counties),
-        now,
+        s.seen,
         s.id,
       ),
     );
