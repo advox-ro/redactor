@@ -55,3 +55,17 @@
 3. Mesaj numai după ce o dronă a intrat în România
 4. Altceva
 5. Nu știu
+
+### Față de acum o lună, cum te simți acum în localitatea ta în privința dronelor?
+
+| id | siguranta-dupa-sulina |
+|---|---|
+| type | single |
+| measures | trend |
+| where | romania |
+| outlook | a: 1, b: 0, c: -1, d: 0 |
+
+1. Mai în siguranță
+2. La fel de în siguranță
+3. Mai puțin în siguranță
+4. Nu știu
