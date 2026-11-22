@@ -8,12 +8,13 @@
 | measures | experience |
 | where | romania |
 | na | Nu cumpăr eu alimentele |
-| outlook | a: -1, b: 0, c: 1, d: 0 |
+| outlook | a: -1, b: -0.5, c: 0, d: 1, e: 0 |
 
-1. Mai mult
-2. La fel
-3. Mai puțin
-4. Nu știu
+1. Mult mai mult
+2. Puțin mai mult
+3. La fel
+4. Mai puțin
+5. Nu știu
 
 ### Cât de îngrijorat(ă) ești că alimentele de bază se vor scumpi în primele trei luni din 2027?
 
@@ -26,7 +27,7 @@
 | na | Nu cumpăr eu alimentele |
 | outlook | 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1 |
 
-### Ce ai prefera să facă statul cu prețurile alimentelor de bază din 2027?
+### Ce ai prefera să facă statul cu limita la adaosul pe alimentele de bază, începând din 2027?
 
 | id | ce-sa-faca-statul |
 |---|---|
@@ -34,12 +35,14 @@
 | measures | tradeoff |
 | where | romania |
 
-1. Să păstreze limita la adaosul magazinelor
-2. Să renunțe la limită și să lase piața să stabilească prețurile
-3. Să ajute direct cu bani oamenii cu venituri mici
-4. Nu știu
+1. Să păstreze limita la fel
+2. Să pună limita la mai multe alimente
+3. Să renunțe la limită
+4. Să renunțe la limită și să dea bani direct oamenilor cu venituri mici
+5. Altceva
+6. Nu știu
 
-### Dacă găsești la raft același aliment, unul românesc și unul din import, la același preț, pe care îl alegi?
+### Dacă găsești la raft același fel de aliment, românesc și din import, la același preț, pe care îl alegi?
 
 | id | romanesc-sau-import |
 |---|---|
@@ -53,7 +56,7 @@
 3. Nu contează pentru mine
 4. Nu știu
 
-### Câtă încredere ai că instituțiile statului verifică bine prețurile din magazine?
+### Câtă încredere ai că statul verifică dacă magazinele respectă limita la adaos?
 
 | id | incredere-control-preturi |
 |---|---|
