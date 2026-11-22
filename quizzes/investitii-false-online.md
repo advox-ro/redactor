@@ -4,15 +4,15 @@
 |---|---|
 | type | single |
 | measures | experience |
-| na | Nu folosesc internetul |
 
 1. Niciodată
-2. De 1–2 ori
-3. De câteva ori
-4. Des
-5. Nu țin minte
+2. Rar
+3. Lunar
+4. Săptămânal
+5. Zilnic
+6. Nu țin minte
 
-### Ai pus vreodată bani într-o investiție pe care ai găsit-o pe internet?
+### Ai pus vreodată bani într-o investiție despre care ai aflat pe internet, de exemplu dintr-o reclamă?
 
 | id | investitie-online |
 |---|---|
@@ -35,17 +35,19 @@
 2. Unui prieten
 3. Băncii mele
 4. Unui consultant financiar
-5. Nimănui
-6. Nu aș pune bani într-o astfel de investiție
+5. Altcuiva
+6. M-aș informa singur(ă)
+7. Nu aș pune bani într-o astfel de investiție
+8. Nu știu
 
-### Cât de îngrijorat(ă) ești că cineva în vârstă din familia ta ar putea fi păcălit să trimită bani pentru o investiție falsă?
+### Cât de îngrijorat(ă) ești că cineva apropiat din familia ta ar putea fi păcălit să trimită bani pentru o investiție falsă?
 
 | id | ingrijorare-familie |
 |---|---|
 | type | scale |
 | measures | expectation |
 | scale | Deloc îngrijorat(ă) … Foarte îngrijorat(ă) |
-| na | Nu am pe nimeni în vârstă în familie |
+| na | Nu am familie apropiată |
 | outlook | 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1 |
 
 ### Câtă încredere ai că poliția îi găsește pe cei care fac înșelătorii cu investiții pe internet?
