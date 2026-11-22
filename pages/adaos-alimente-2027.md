@@ -21,13 +21,12 @@ tip: cronologie
 - Sfârșitul lui 2026: limita ar trebui să expire
 - 31 decembrie 2027: data propusă de ministrul Agriculturii
 Adaosul comercial e partea pe care magazinul o pune peste prețul cu care cumpără marfa. Din 2023, la alimentele de bază, el are o limită. Articolele nu spun ce alimente sunt pe listă și cât e limita.
-> „Măsura, introdusă în 2023, ar trebui să expire la sfârșitul anului 2026.” [5]
+> „Măsura, introdusă în 2023, ar trebui să expire la sfârșitul anului 2026.” [4]
 > „Ministrul Agriculturii, Florin Barbu, a propus prelungirea plafonării adaosului comercial la alimentele de bază până la 31 decembrie 2027, scrie G4Food .” [1]
 
 ### Încă un an, cere ministrul
 tip: text
 Ministrul Agriculturii, Florin Barbu, a cerut ca limita să mai țină un an. A trimis propunerea Ministerului Finanțelor, care scrie ordonanța prin care Guvernul schimbă mai multe legi la final de an. Decizia o iau ministrul Finanțelor și premierul.
-> „Ministrul Agriculturii a anunțat că a propus prelungirea plafonării adaosului comercial la alimentele de bază până la 31 decembrie 2027.” [4]
 > „Florin Barbu a precizat că propunerea privind continuarea plafonării a fost transmisă ministrului Finanțelor, instituția care elaborează ordonanța-trenuleț, și că decizia finală va fi luată de premier și ministrul Finanțelor.” [3]
 
 ### Ce spune fiecare
@@ -57,15 +56,15 @@ Ministrul crede că magazinele pun adaosuri diferite la produsele românești ș
 tip: text
 Înainte de sărbători, producătorii avertizează că pâinea și carnea de porc s-ar putea scumpi cu peste 15%.
 > „Plafonarea adaosului comercial la alimentele de bază ar putea rămâne în vigoare încă un an. Ministrul Agriculturii, Florin Barbu, a declarat, la Antena 3 CNN, că a propus prelungirea măsurii până la 31 decembrie 2027, în condițiile în care producătorii avertizează că, în apropierea sărbătorilor, prețul pâinii și al cărnii de porc ar putea crește cu peste 15%.” [2]
-> „Ministrul Agriculturii, Florin Barbu, a propus plafonarea adaosului comercial până la finalul anului 2027, după ce au apărut avertismente de la producători -pâinea s-ar putea scumpi cu peste 15% la fel și carnea de porc.” [4]
 
 ## Articol
 
 Din 2023, magazinele nu pot pune oricât peste prețul cu care cumpără alimentele de bază. Partea pe care o pun peste acest preț se numește adaos comercial, iar pentru alimentele de bază ea are o limită. Măsura ar trebui să expire la sfârșitul lui 2026.
-> „Măsura, introdusă în 2023, ar trebui să expire la sfârșitul anului 2026.” [5]
+> „Măsura, introdusă în 2023, ar trebui să expire la sfârșitul anului 2026.” [4]
 
 Sâmbătă, ministrul Agriculturii, Florin Barbu, a spus la Antena 3 CNN că a propus ca limita să mai țină un an, până la 31 decembrie 2027. A cerut ca propunerea să intre în așa-numita „ordonanță trenuleț”, actul prin care Guvernul schimbă la final de an mai multe legi deodată.
-> „Ministrul Agriculturii, Florin Barbu, a anunțat sâmbătă la Antena 3 că a propus prelungirea plafonării adaosului comercial la alimentele de bază până la data de 31 decembrie 2027.” [6]
+> „Ministrul Agriculturii, Florin Barbu, a propus prelungirea plafonării adaosului comercial la alimentele de bază până la 31 decembrie 2027, scrie G4Food .” [1]
+> „În cadrul unei intervenții telefonice în emisiunea „Zona Zero” de la Antena 3, Florin Barbu a declarat, sâmbătă seara, că a solicitat prelungirea mecanismului de plafonare a adaosului comercial până la finalul anului 2027.” [1]
 > „Ministrul spune că a cerut ca ea să fie inclusă în „ordonanța trenuleț”, actul normativ prin care Guvernul modifică la final de an mai multe legi deodată.” [2]
 
 [card: Limita ar expira la final de an]
@@ -111,7 +110,6 @@ Barbu mai vrea ca, la raft, un produs românesc și unul din import din aceeași
 
 Propunerea vine când producătorii avertizează că, înainte de sărbători, pâinea și carnea de porc s-ar putea scumpi cu peste 15%. Articolele nu leagă direct acest avertisment de limită și nu spun când decide Guvernul.
 > „Plafonarea adaosului comercial la alimentele de bază ar putea rămâne în vigoare încă un an. Ministrul Agriculturii, Florin Barbu, a declarat, la Antena 3 CNN, că a propus prelungirea măsurii până la 31 decembrie 2027, în condițiile în care producătorii avertizează că, în apropierea sărbătorilor, prețul pâinii și al cărnii de porc ar putea crește cu peste 15%.” [2]
-> „Ministrul Agriculturii, Florin Barbu, a propus plafonarea adaosului comercial până la finalul anului 2027, după ce au apărut avertismente de la producători -pâinea s-ar putea scumpi cu peste 15% la fel și carnea de porc.” [4]
 
 [card: Producătorii se tem de scumpiri]
 
@@ -120,6 +118,4 @@ Propunerea vine când producătorii avertizează că, înainte de sărbători, p
 1. Ministrul Agriculturii, Florin Barbu, propune prelungirea plafonării adaosului comercial la alimente până la 31 decembrie 2027 — G4Media. https://www.g4media.ro/ministrul-agriculturii-florin-barbu-propune-prelungirea-plafonarii-adaosului-comercial-la-alimente-pana-la-31-decembrie-2027-mecanismul-si-a-produs-efectele.html
 2. Plafonarea adaosului comercial la alimentele de bază, menținută până la final de 2027. Barbu: „Acest mecanism trebuie prelungit” — Antena 3 CNN. https://www.antena3.ro/politica/plafonarea-adaosului-comercial-la-alimentele-de-baza-mentinuta-pana-la-final-de-2027-barbu-acest-mecanism-trebuie-prelungit-812094.html
 3. Ministrul Agriculturii propune prelungirea plafonării adaosului comercial la alimente — Economedia. https://economedia.ro/video-ministrul-agriculturii-propune-prelungirea-plafonarii-adaosului-comercial-la-alimente-si-a-produs-efectele-ministrul-vrea-acelasi-adaos-pentru-produsele-romanesti-si-cele-d.html
-4. Prețul alimentelor, înainte de sărbători. Florin Barbu propune plafonarea adaosului comercial până la finalul lui 2027 — DC News. https://www.dcnews.ro/pretul-alimentelor-in-apropierea-sarbatorilor-florin-barbu-ministrul-agriculturii-propune-plafonarea-adaosului-comercial-pana-la-finalul-lui-2027_1097922.html
-5. Până când ar putea fi prelungită plafonarea adaosului comercial la alimentele de bază — România TV. https://www.romaniatv.net/veste-buna-pentru-romani-pana-cand-ar-putea-fi-prelungita-plafonarea-adaosului-comercial-la-alimentele-de-baza-ministrul-agriculturii-si-a-produs-efectele_9933598.html
-6. Florin Barbu a propus în guvern plafonarea adaosului la alimente până la finalul anului 2027 — Știri pe surse. https://www.stiripesurse.ro/florin-barbu-a-propus-in-guvern-plafonarea-adaosului-la-alimente-pana-la-finalul-anului-2027_3938752
+4. Până când ar putea fi prelungită plafonarea adaosului comercial la alimentele de bază — România TV. https://www.romaniatv.net/veste-buna-pentru-romani-pana-cand-ar-putea-fi-prelungita-plafonarea-adaosului-comercial-la-alimentele-de-baza-ministrul-agriculturii-si-a-produs-efectele_9933598.html
