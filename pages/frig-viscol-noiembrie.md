@@ -28,14 +28,14 @@ tip: cifră
 pot avea rafalele de vânt luni, cu cod galben, în părți din Oltenia, Muntenia, Transilvania, Moldova și în Dobrogea.
 > „Din 23 noiembrie, în intervalul 12-23, va fi în vigoare un cod portocaliu de viscol puternic la altitudini de peste 1700 m în Carpații Meridionali și de Curbură, și un cod galben de intensificări ale vântului în vestul și sudul Olteniei, sud-vestul și estul Munteniei, cea mai mare parte a Transilvaniei, centrul și sudul Moldovei și Dobrogea.” [2]
 > „În intervalul menționat, vântul va avea intensificări în vestul și sudul Olteniei, sud-vestul Munteniei, sudul Transilvaniei, centrul și sudul Moldovei, nord-estul Munteniei și în Dobrogea, cu viteze la rafală de 50...70 km/h.” [2]
-> „De asemenea, luni, între orele 12:00 - 23:00, vântul va avea intensificări în vestul și sudul Olteniei, sud-vestul Munteniei, sudul Transilvaniei, centrul și sudul Moldovei, nord-estul Munteniei și în Dobrogea, cu viteze la rafală de 50 - 70 km/h.” [4]
+> „Celălalt Cod galben va fi de vânt și va fi valabil în vestul și sudul Olteniei, sud-vestul și estul Munteniei, cea mai mare parte a Transilvaniei, centrul și sudul Moldovei și Dobrogea. Rafalele vor atinge 50-70 km/h.” [1]
 
 ### Viscol puternic sus pe munte
 tip: cifră
 - 100–120 km/h
 pot avea rafalele luni, pe crestele cele mai înalte din Carpații Meridionali și de Curbură. E cod portocaliu, mai serios decât codul galben: viscol puternic, iar în față se vede foarte puțin.
 > „În Carpații Meridionali și Carpații de Curbură la altitudini de peste 1700 m, vântul va sufla tare cu rafale de 100...120 km/h, va fi viscol puternic, iar vizibilitatea va scădea sub 50 m.” [2]
-> „Potrivit ANM , Codul portocaliu va fi intra în vigoare la ora 12:00 și va expira la ora 23:00. În acest interval, în Carpații Meridionali și Carpații de Curbură, la altitudini de peste 1.700 de metri, vântul va sufla tare cu rafale de 100 - 120 km/h, va fi viscol puternic, iar vizibilitatea va scădea sub 50 de metri.” [4]
+> „Avertizarea Cod portocaliu vizează Carpații Meridionali și Carpații de Curbură, la altitudini de peste 1.700 de metri. În aceste zone, vântul va sufla cu rafale de 100-120 km/h.” [1]
 
 ### Zăpadă la munte și pe unele dealuri
 tip: listă
@@ -54,7 +54,7 @@ De duminică seara până marți seara plouă în cea mai mare parte a țării. 
 
 Administrația Națională de Meteorologie (ANM), instituția statului care face prognoza vremii, a anunțat o schimbare a vremii în toată țara. Între duminică seara și marți seara plouă în cea mai mare parte a țării, vântul se întețește, iar la munte ninge și e viscol.
 > „Administrația Națională de Meteorologie a emis o informare meteo de precipitații pentru aproape toată țara și viscol la munte, valabilă de duminică până marți seara, precum și un Cod galben de ninsori viscolite însemnate cantitativ.” [2]
-> „Meteorologii anunță precipitații în general moderate cantitativ, intensificări ale vântului și viscol la munte începând de duminică seară până marți seară.” [1]
+> „În zonele montane și în nordul Moldovei vor predomina treptat ninsorile.” [1]
 
 ### Mai frig decât de obicei
 
@@ -74,23 +74,24 @@ Luni și marți, vântul bate tare în cea mai mare parte a țării, în general
 > „Vântul va avea intensificări în noaptea de duminică spre luni (22/23 noiembrie) mai ales în zona montană înaltă, iar luni și marți (23 și 24 noiembrie) în cea mai mare parte a țării. Vor fi viteze în general de 40 - 60 km/h, iar la altitudini mari rafalele vor fi de peste 80 - 100 km/h.” [2]
 > „Din 23 noiembrie, în intervalul 12-23, va fi în vigoare un cod portocaliu de viscol puternic la altitudini de peste 1700 m în Carpații Meridionali și de Curbură, și un cod galben de intensificări ale vântului în vestul și sudul Olteniei, sud-vestul și estul Munteniei, cea mai mare parte a Transilvaniei, centrul și sudul Moldovei și Dobrogea.” [2]
 > „În intervalul menționat, vântul va avea intensificări în vestul și sudul Olteniei, sud-vestul Munteniei, sudul Transilvaniei, centrul și sudul Moldovei, nord-estul Munteniei și în Dobrogea, cu viteze la rafală de 50...70 km/h.” [2]
-> „De asemenea, luni, între orele 12:00 - 23:00, vântul va avea intensificări în vestul și sudul Olteniei, sud-vestul Munteniei, sudul Transilvaniei, centrul și sudul Moldovei, nord-estul Munteniei și în Dobrogea, cu viteze la rafală de 50 - 70 km/h.” [4]
+> „Celălalt Cod galben va fi de vânt și va fi valabil în vestul și sudul Olteniei, sud-vestul și estul Munteniei, cea mai mare parte a Transilvaniei, centrul și sudul Moldovei și Dobrogea. Rafalele vor atinge 50-70 km/h.” [1]
 
 [card: Vânt puternic în multe zone]
 
 ### La munte
 
 Avertizările ANM au culori, după cât de periculoasă e vremea: codul portocaliu e mai serios decât cel galben. Din duminică, ora 22, până luni, ora 12, e cod galben de ninsori și viscol în cea mai mare parte a Carpaților Meridionali, peste 1.500 de metri. Doar în acest interval, acolo se poate depune un strat de zăpadă de 10–15 cm, izolat de 25 cm. Tot atunci e cod galben de ploi puternice în sudul Banatului.
-> „O atenționare meteorologică cod galben vizează intervalul 22 noiembrie, ora 22:00 - 23 noiembrie, ora 12:00, fiind prognozate ninsori viscolite însemnate cantitativ în cea mai mare parte a Carpaților Meridionali la altitudini în general de peste 1500 m, ploi însemnate cantitativ în sudul Banatului” [1]
+> „Avertizarea e valabilă în cea mai mare parte a Carpaților Meridionali la altitudini în general de peste 1.500 de metri și vizează ploi însemnate cantitativ în sudul Banatului, care va intra în vigoare duminică seara, potrivit Agerpres.” [2]
 > „Începând din 22 noiembrie, ora 22:00, va intra în vigoare Codul galben de viscol în zona montană, care va fi în vigoare până pe 23 noiembrie, ora 12:00. În acest interval, în cea mai mare parte a Carpaților Meridionali, la altitudini în general de peste 1.500 de metri vor fi ninsori însemnate cantitativ (10 - 25 l/mp) și se va depune strat de zăpadă de 10 - 15 cm și, izolat, de 25 cm.” [2]
 
 Luni, între orele 12 și 23, e cod portocaliu peste 1700 de metri, în Carpații Meridionali și de Curbură. Vântul bate în rafale de 100–120 km/h, e viscol puternic, iar vizibilitatea scade sub 50 de metri. Radio România Actualități scrie că acest cod portocaliu ține toată ziua de luni.
 > „În Carpații Meridionali și Carpații de Curbură la altitudini de peste 1700 m, vântul va sufla tare cu rafale de 100...120 km/h, va fi viscol puternic, iar vizibilitatea va scădea sub 50 m.” [2]
-> „Potrivit ANM , Codul portocaliu va fi intra în vigoare la ora 12:00 și va expira la ora 23:00. În acest interval, în Carpații Meridionali și Carpații de Curbură, la altitudini de peste 1.700 de metri, vântul va sufla tare cu rafale de 100 - 120 km/h, va fi viscol puternic, iar vizibilitatea va scădea sub 50 de metri.” [4]
+> „Avertizarea Cod portocaliu vizează Carpații Meridionali și Carpații de Curbură, la altitudini de peste 1.700 de metri. În aceste zone, vântul va sufla cu rafale de 100-120 km/h.” [1]
+> „Din 23 noiembrie, în intervalul 12-23, va fi în vigoare un cod portocaliu de viscol puternic la altitudini de peste 1700 m în Carpații Meridionali și de Curbură, și un cod galben de intensificări ale vântului în vestul și sudul Olteniei, sud-vestul și estul Munteniei, cea mai mare parte a Transilvaniei, centrul și sudul Moldovei și Dobrogea.” [2]
 > „Iar în Carpații Meridionali și de Curbură, la peste 1700 de metri, pe tot parcursul zilei de luni, va fi cod portocaliu, vântul va sufla tare cu rafale de 100-120 de km pe oră, va fi viscol puternic, iar vizibilitatea va scădea sub 50 de metri.” [3]
 
 În același timp, luni, e cod galben de ninsori viscolite și în Carpații Occidentali, Meridionali și de Curbură, cu 5–10 cm de zăpadă și vânt de 60–90 km/h.
-> „În același interval de valabilitate, va fi Cod galben de ninsori viscolite în Carpații Occidentali, Carpații Meridionali și în Carpații de Curbură. Aici va ninge moderat cantitativ (în jurul a 10 l/mp) și se va depune strat de zăpadă de 5 - 10 cm. Vântul va avea intensificări, cu viteze de 60 - 90 km/h, viscolind ninsoarea.” [4]
+> „Codul galben vizează Carpații Occidentali, Meridionali și Carpații de Curbură, unde sunt prognozate ninsori moderate cantitativ, în jur de 10 l/mp, și depunerea unui strat de zăpadă de 5-10 centimetri. Vântul va avea viteze de 60-90 km/h.” [1]
 
 [card: Viscol puternic sus pe munte]
 
@@ -105,7 +106,6 @@ La munte și în nordul Moldovei, ploaia trece treptat în ninsoare. În Maramur
 
 ## Surse
 
-1. Meteorologii anunță intensificări ale vântului și viscol la munte începând de duminică seară până marți seară — News.ro. https://www.news.ro/eveniment/meteorologii-anunta-intensificari-vantului-viscol-munte-incepand-duminica-seara-pana-marti-seara-luni-cea-mare-parte-tarii-intra-avertizare-cod-galben-vant-temperaturile-incep-scada-harta-1922403422552026111023003526
+1. ANM: Avertizări de viscol puternic, ninsori și vânt, emise. Vremea se răcește accentuat în toată țara — Mediafax. https://www.mediafax.ro/stirile-zilei/a-23847441
 2. Vremea se schimbă radical în România. ANM anunță viscol la munte, vânt puternic și ploi în aproape toată țara — Știrile ProTV. https://stirileprotv.ro/stiri/vremea/vremea-se-schimba-radical-in-romania-anm-anunta-viscol-la-munte-vant-puternic-si-ploi-in-aproape-toata-tara.html
 3. Vremea se răcește în toată țara. Sunt anunțate ploi, ninsori și viscol la munte — Radio România Actualități. https://www.romania-actualitati.ro/stiri/romania/vremea-se-raceste-in-toata-tara-sunt-anuntate-ploi-ninsori-si-viscol-la-munte-id237890.html
-4. ANM, prognoza meteo: Precipitații în toată țara și viscol la munte — DC News. https://www.dcnews.ro/anm-prognoza-meteo-precipitatii-in-toata-tara-si-viscol-la-munte_1097994.html
