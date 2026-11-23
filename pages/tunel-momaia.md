@@ -1,6 +1,6 @@
 ---
-title: Primul tunel de autostradă
-summary: Tunelul Momaia, de pe autostrada Sibiu–Pitești, se deschide pe 3 decembrie. Ce reguli are și cum te-ai simți la volan prin el.
+title: Primul tunel forat de autostradă
+summary: Tunelul Momaia, de pe autostrada Sibiu–Pitești, ar urma să se deschidă pe 3 decembrie. Ce reguli are și cum te-ai simți în el.
 tags: [transport, siguranță]
 date: 2026-11-23
 stat: { value: "1.350 m", label: "lungimea tunelului Momaia, de pe autostrada Sibiu–Pitești", quote: "Tunelul are o lungime de 1.350 de metri și este format din două galerii unidirecționale separate.", source: 5 }
@@ -16,9 +16,9 @@ quiz: tunel-momaia
 
 ## Carduri
 
-### Se deschide pe 3 decembrie
+### Programat pe 3 decembrie
 tip: text
-Pe autostrada Sibiu–Pitești, lângă Curtea de Argeș, se deschide primul tunel de autostradă săpat pe sub un deal din România. Compania de drumuri a statului a publicat regulile de circulație prin el.
+Pe autostrada Sibiu–Pitești, lângă Curtea de Argeș, ar urma să se deschidă primul tunel de autostradă săpat pe sub un deal din România. Compania de drumuri a statului (CNAIR) a publicat regulile de circulație prin el.
 > „CNAIR a publicat două videoclipuri în care explică modul de traversare și măsurile care trebuie luate în cazul unei pene, al unui accident sau al unui incendiu. Deschiderea circulației este programată pentru 3 decembrie.” [3]
 > „Tunelul Momaia face parte din Autostrada Sibiu – Pitești și este construit pe sub dealul cu același nume, în zona Curtea de Argeș.” [3]
 
@@ -33,10 +33,10 @@ Cele două sensuri nu se întâlnesc. Dacă se întâmplă ceva într-unul, oame
 > „Fiecare galerie dispune de două benzi, iar viteza maximă admisă în interiorul tunelului va fi de 80 km/h.” [2]
 > „Cele două galerii sunt conectate prin două galerii pietonale, destinate evacuării persoanelor în situații de urgență, și printr-o galerie rutieră, rezervată accesului autovehiculelor de intervenție.” [2]
 
-### Senzori și camere peste tot
+### Peste 2.500 de echipamente
 tip: cifră
 - 2.500
-de puncte de supraveghere urmăresc fumul, aerul, lumina și ce apare pe carosabil. Când e nevoie, pot închide o bandă sau tot tunelul.
+Și peste, după CNAIR: senzori de fum, ventilație, iluminat și camere care văd ce apare pe drum. Pot închide o bandă sau tot tunelul de pe acel sens.
 > „Obiectivul este echipat cu peste 2.500 de puncte de monitorizare, care includ senzori de fum și incendiu, sisteme de ventilație și iluminat, precum și camere video inteligente. Acestea pot identifica obiectele de pe carosabil și pot declanșa închiderea uneia dintre benzi sau chiar a întregii galerii, în funcție de situație.” [4]
 
 ### Cum treci prin tunel
@@ -44,7 +44,7 @@ tip: listă
 - Aprinzi faza scurtă înainte să intri
 - Mergi cu cel mult 80 km/h
 - Păstrezi distanță față de mașina din față
-- Nu oprești, nu întorci, nu mergi cu spatele
+- Nu oprești fără motiv, nu întorci, nu mergi cu spatele
 - La semafor roșu, oprești înainte de tunel
 Atenție la panourile electronice și la semnalele de deasupra benzilor.
 > „Potrivit instrucțiunilor prezentate de CNAIR, conducătorii auto trebuie să aprindă luminile de întâlnire înainte de intrarea în tunel și să le mențină aprinse pe toată durata traversării. Viteza maximă admisă este de 80 km/h.” [3]
@@ -53,7 +53,7 @@ Atenție la panourile electronice și la semnalele de deasupra benzilor.
 > „Atenție și la semafoarele de la intrare: dacă acestea indică roșu, șoferii trebuie să oprească înainte de a intra în tunel.” [3]
 > „De asemenea, șoferii trebuie să respecte indicatoarele rutiere, semnalele luminoase de deasupra benzilor și mesajele afișate pe panourile electronice.” [3]
 
-### Dacă se oprește coloana
+### Dacă traficul se blochează
 tip: listă
 - Aprinzi avariile
 - Lași cel puțin 5 metri până la mașina din față
@@ -65,10 +65,10 @@ Dacă stai mult, poți opri motorul. Indicațiile vin de la dispeceratul tunelul
 ### Dacă ai o pană sau un accident
 tip: listă
 - Aprinzi avariile și ieși din tunel, dacă poți
-- Dacă nu, oprești cât mai pe dreapta, cu cheia în contact
+- Dacă nu, oprești pe dreapta, motorul oprit, cheia în contact
 - Pui vesta și cobori pe partea trotuarului
 - Ceri ajutor de la nișa SOS sau la 112
-Nișele SOS au un telefon de urgență.
+La nișele SOS e un telefon de urgență.
 > „Dacă aveți o pană sau un accident, aprindeți luminile de avarie. Dacă puteți, ieșiți din tunel.” [1]
 > „Dacă acest lucru nu este posibil, vehiculul trebuie oprit cât mai aproape de marginea din dreapta, motorul oprit, iar cheia lăsată în contact.” [2]
 > „Conducătorii auto trebuie să îmbrace vesta reflectorizantă, să coboare din mașină pe partea dinspre trotuar și să se deplaseze către cea mai apropiată nișă SOS, de unde pot solicita ajutor prin intermediul telefonului de urgență sau apelând numărul 112.” [2]
@@ -79,7 +79,7 @@ tip: listă
 - Oprești, aprinzi avariile, oprești motorul
 - Iei telefonul, lași bagajele
 - Pleci pe jos, în sens opus fumului, după indicatoarele verzi
-Treci prin galeria pentru oameni în celălalt tunel și aștepți acolo echipele de intervenție.
+Treci în celălalt tunel, mergi spre ieșire și aștepți în zona dintre cele două intrări.
 > „Aceștia nu trebuie să întoarcă și nici să circule cu spatele. Recomandarea este să oprească, să aprindă luminile de avarie, să oprească motorul și să părăsească imediat vehiculul, luând telefonul, dar lăsând bagajele în mașină.” [2]
 > „Evacuarea trebuie făcută pe jos, în direcția opusă fumului, către cea mai apropiată ieșire de urgență, urmând indicatoarele verzi.” [2]
 > „După traversarea galeriei pietonale, persoanele trebuie să se îndrepte către ieșirea din galeria vecină și să aștepte instrucțiunile echipelor de intervenție în zona mediană, între cele două portaluri ale tunelului.” [2]
@@ -92,14 +92,14 @@ angajați, în ture, vor avea grijă ca tunelul să funcționeze, în fiecare mo
 
 ## Articol
 
-Pe 3 decembrie se deschide circulația prin Tunelul Momaia, de pe autostrada Sibiu–Pitești, în zona Curtea de Argeș. Este primul tunel de autostradă din România săpat (forat) pe sub un deal, după o metodă de construcție numită Noua Metodă Austriacă.
+Pe 3 decembrie e programată deschiderea circulației prin Tunelul Momaia, de pe autostrada Sibiu–Pitești, în zona Curtea de Argeș. Este primul tunel de autostradă din România săpat (forat) pe sub un deal.
 > „CNAIR a publicat două videoclipuri în care explică modul de traversare și măsurile care trebuie luate în cazul unei pene, al unui accident sau al unui incendiu. Deschiderea circulației este programată pentru 3 decembrie.” [3]
 > „Tunelul Momaia face parte din Autostrada Sibiu – Pitești și este construit pe sub dealul cu același nume, în zona Curtea de Argeș. Este primul tunel de autostradă forat din România prin Noua Metodă Austriacă (NATM).” [3]
 
 Tunelul face parte din secțiunea 4 a autostrăzii, o bucată de aproximativ 10 kilometri între Curtea de Argeș și Tigveni.
 > „Tunelul Momaia face parte din Secțiunea 4 a Autostrăzii Sibiu–Pitești, un tronson de aproximativ 10 kilometri care asigură legătura dintre Curtea de Argeș și Tigveni.” [2]
 
-[card: Se deschide pe 3 decembrie]
+[card: Programat pe 3 decembrie]
 
 ### Cum e construit
 
@@ -110,14 +110,16 @@ Tunelul are 1.350 de metri. De fapt, sunt două tuneluri separate, câte unul pe
 
 [card: Câte un tunel pe fiecare sens]
 
-Compania Națională de Administrare a Infrastructurii Rutiere (CNAIR), care se ocupă de autostrăzile și drumurile naționale, spune că tunelul are peste 2.500 de puncte de supraveghere: senzori de fum și de incendiu, ventilație, iluminat și camere video. Camerele pot vedea un obiect căzut pe drum și pot porni închiderea unei benzi sau a întregului tunel.
+Compania Națională de Administrare a Infrastructurii Rutiere (CNAIR), care se ocupă de autostrăzile și drumurile naționale, spune că tunelul are peste 2.500 de puncte de supraveghere: senzori de fum și de incendiu, ventilație, iluminat și camere video. Camerele pot vedea un obiect căzut pe drum și pot porni închiderea unei benzi sau a întregului tunel de pe acel sens.
 > „Compania Națională de Administrare a Infrastructurii Rutiere (CNAIR) a publicat regulile de circulație pentru Tunelul Momaia, de pe Autostrada Sibiu - Pitești, care urmează să fie deschis circulației la decembrie.” [4]
 > „Obiectivul este echipat cu peste 2.500 de puncte de monitorizare, care includ senzori de fum și incendiu, sisteme de ventilație și iluminat, precum și camere video inteligente. Acestea pot identifica obiectele de pe carosabil și pot declanșa închiderea uneia dintre benzi sau chiar a întregii galerii, în funcție de situație.” [4]
 
-[card: Senzori și camere peste tot]
+[card: Peste 2.500 de echipamente]
 
 Tunelul va fi urmărit de 14 angajați, care lucrează în ture de câte 8 ore, astfel încât cineva să fie mereu de serviciu.
 > „Un colectiv de 14 angajați va asigura în fiecare moment funcționarea tunelului, în ture de câte 8 ore.” [5]
+
+[card: Oameni de serviciu la orice oră]
 
 ### Regulile de circulație
 
@@ -133,9 +135,11 @@ Dacă traficul se blochează, aprinzi avariile și lași cel puțin 5 metri pân
 > „Dacă traficul se blochează, șoferii sunt îndemnați să aprindă luminile de avarie, dar și să păstreze o distanță de cel puțin 5 metri față de mașina din față.” [5]
 > „Dacă staționarea se prelungește, motorul poate fi oprit, însă șoferii sunt îndemnați să rămână în vehicule și să urmeze indicațiile dispeceratului tunelului, potrivit Mediafax.” [2]
 
+[card: Dacă traficul se blochează]
+
 ### Când ceva merge prost
 
-La o pană sau un accident, aprinzi avariile și, dacă poți, ieși din tunel. Dacă nu, oprești cât mai pe dreapta, oprești motorul și lași cheia în contact. Îmbraci vesta reflectorizantă, cobori pe partea dinspre trotuar și ceri ajutor de la cea mai apropiată nișă SOS, care are telefon de urgență, sau suni la 112.
+La o pană sau un accident, aprinzi avariile și, dacă poți, ieși din tunel. Dacă nu, oprești cât mai pe dreapta, oprești motorul și lași cheia în contact. Îmbraci vesta reflectorizantă, cobori pe partea dinspre trotuar și ceri ajutor de la cea mai apropiată nișă SOS, unde e un telefon de urgență, sau suni la 112.
 > „Dacă aveți o pană sau un accident, aprindeți luminile de avarie. Dacă puteți, ieșiți din tunel.” [1]
 > „Dacă acest lucru nu este posibil, vehiculul trebuie oprit cât mai aproape de marginea din dreapta, motorul oprit, iar cheia lăsată în contact.” [2]
 > „Conducătorii auto trebuie să îmbrace vesta reflectorizantă, să coboare din mașină pe partea dinspre trotuar și să se deplaseze către cea mai apropiată nișă SOS, de unde pot solicita ajutor prin intermediul telefonului de urgență sau apelând numărul 112.” [2]
@@ -144,6 +148,7 @@ La o pană sau un accident, aprinzi avariile și, dacă poți, ieși din tunel. 
 
 Dacă ia foc chiar mașina ta, încerci să ieși cu ea din tunel. Dacă nu se poate, oprești pe dreapta și cobori imediat, cu toți cei din mașină. Anunți incendiul de la nișa SOS. Încerci să stingi focul doar dacă e mic și nu e periculos; altfel, pleci spre cea mai apropiată galerie pentru oameni.
 > „Dacă o mașină ia foc, șoferul trebuie să încerce să iasă cu aceasta din tunel. Dacă nu este posibil, trebuie să oprească pe dreapta, să evacueze toți pasagerii și să anunțe incendiul de la o nișă SOS. În cazul în care focul nu poate fi stins în siguranță, ocupanții trebuie să se îndrepte către cea mai apropiată galerie pietonală.” [1]
+> „Stingeți focul doar dacă este mic și o puteți face fără risc.” [5]
 
 Dacă vezi fum sau foc în fața ta, nu întorci și nu mergi cu spatele. Oprești, aprinzi avariile, oprești motorul și cobori, cu telefonul, dar fără bagaje. Mergi pe jos în sens opus fumului, după indicatoarele verzi, până la ieșirea de urgență. Treci în celălalt tunel, te îndrepți spre ieșire și aștepți echipele de intervenție în zona dintre cele două intrări.
 > „Aceștia nu trebuie să întoarcă și nici să circule cu spatele. Recomandarea este să oprească, să aprindă luminile de avarie, să oprească motorul și să părăsească imediat vehiculul, luând telefonul, dar lăsând bagajele în mașină.” [2]
