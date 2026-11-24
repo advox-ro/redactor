@@ -1,6 +1,6 @@
 ---
 title: Scrisorile de la ANAF
-summary: Înalta Curte a decis că un act de la ANAF trimis prin poștă contează doar dacă ajunge la tine sau la cine ai împuternicit, nu la o rudă.
+summary: Un act de la ANAF trimis prin poștă e comunicat legal doar dacă ajunge la tine sau la un împuternicit, nu la o rudă neîmputernicită.
 tags: [taxe, servicii publice]
 date: 2026-11-23
 image:
@@ -17,7 +17,7 @@ quiz: scrisori-anaf-posta
 
 ### Actul trebuie să ajungă la tine
 tip: text
-Când ANAF îți trimite un act pe hârtie, cu scrisoare recomandată, el contează doar dacă îl primești tu. Dacă nu ești acasă, îl poate primi doar cine e împuternicit de tine să-ți ridice corespondența.
+Când ANAF sau altă autoritate fiscală îți trimite un act pe hârtie, cu scrisoare recomandată, se consideră că ți-a fost comunicat legal doar dacă îl primești tu. Dacă nu ești acasă, îl poate primi doar cine e împuternicit de tine să-ți ridice corespondența.
 > „Scrisorile trimise de organele fiscale contribuabililor sau plătitorilor sunt considerate „comunicări legale” doar dacă sunt înmânate personal contribuabilului sau împuternicitului acestuia, stabilește Înalta Curte de Casație și Justiție (ICCJ), în urma unei sesizări formulate de procurorul general al României.” [1]
 > „Potrivit ÎCCJ, actul trebuie înmânat destinatarului sau, în lipsa acestuia de la domiciliul fiscal, împuternicitului autorizat să primească trimiterea poștală.” [3]
 
@@ -25,9 +25,9 @@ Când ANAF îți trimite un act pe hârtie, cu scrisoare recomandată, el contea
 tip: listă
 - Da: tu, cel căruia îi e trimisă
 - Da: cine e împuternicit de tine, când nu ești acasă
-- Nu: o rudă
-- Nu: cine locuiește cu tine
-Dacă scrisoarea a primit-o o rudă sau cineva din casă, în instanță nu se mai consideră că ai aflat de ea.
+- Nu: o rudă care nu e împuternicită de tine
+- Nu: cine locuiește cu tine, fără împuternicire
+Dacă scrisoarea a primit-o o rudă sau cineva din casă, în instanță asta nu mai dovedește că ai aflat de ea.
 > „Instanța supremă a stabilit că simpla primire a unei scrisori recomandate de către o rudă sau de către o persoană care locuiește cu contribuabilul nu îndeplinește condițiile unei comunicări legale.” [3]
 > „Magistrații au stabilit că înmânarea documentelor fiscale unor rude sau unor persoane care locuiesc la aceeași adresă cu destinatarii trimiterilor poștale ale fiscului nu se consideră, în instanță, ca dovezi că destinatarului i-au fost aduse la cunoștință aceste comunicări.” [2]
 
@@ -45,14 +45,14 @@ tip: cronologie
 
 ## Articol
 
-ANAF, autoritatea care strânge taxele, trimite multe acte pe hârtie, prin poștă, cu scrisoare recomandată și confirmare de primire. Luni, Înalta Curte de Casație și Justiție, cea mai înaltă instanță din România, a stabilit când un astfel de act este comunicat legal: doar când ajunge în mâna celui căruia îi e trimis.
+ANAF, autoritatea care strânge taxele, trimite acte pe hârtie, prin poștă, cu scrisoare recomandată și confirmare de primire. Luni, Înalta Curte de Casație și Justiție, cea mai înaltă instanță din România, a stabilit când un astfel de act este comunicat legal, adică atunci când, în fața legii, se consideră că ai aflat de el: doar când ajunge în mâna celui căruia îi e trimis sau a unui împuternicit al lui.
 > „Înalta Curte de Casație și Justiție (ÎCCJ) a stabilit , luni, că scrisorile, înștiințările sau notificările pe care le trimite ANAF prin poștă sunt considerate "comunicări legale" doar dacă sunt primite personal de contribuabil sau de un împuternicit autorizat să preia corespondența.” [4]
 
 [card: Actul trebuie să ajungă la tine]
 
 ### Cine poate primi scrisoarea
 
-Dacă nu ești acasă, actul îl poate primi doar persoana pe care ai împuternicit-o să-ți ridice corespondența. Dacă scrisoarea o ia o rudă sau altcineva care locuiește cu tine, actul nu e comunicat legal. În instanță, asta nu mai dovedește că ai aflat de el.
+Dacă nu ești acasă, actul îl poate primi doar persoana pe care ai împuternicit-o să-ți ridice corespondența. Dacă scrisoarea o ia o rudă sau altcineva care locuiește cu tine, fără să-l fi împuternicit, actul nu e comunicat legal. În instanță, asta nu mai dovedește că ai aflat de el. Decizia privește actele trimise de autoritățile fiscale contribuabililor, adică oamenilor și firmelor care plătesc taxe.
 > „Potrivit ÎCCJ, actul trebuie înmânat destinatarului sau, în lipsa acestuia de la domiciliul fiscal, împuternicitului autorizat să primească trimiterea poștală.” [3]
 > „Așadar, dacă o rudă primește comunicarea oficială de la Fisc în locul contribuabilului vizat direct nu se consideră, în instanță, ca dovezi că destinatarului i-au fost aduse la cunoștință aceste comunicări.” [4]
 
@@ -66,7 +66,7 @@ Decizia a venit după ce procurorul general al României a cerut Înaltei Curți
 
 ### De ce
 
-Curtea spune că oamenii au dreptul să se apere în fața autorităților fiscale, iar pentru asta trebuie să afle ei înșiși de actele care îi privesc. Se sprijină și pe deciziile Curții de Justiție a Uniunii Europene. Instanța spune că hotărârea întărește protecția contribuabililor în relația cu ANAF.
+Curtea spune că contribuabilii au dreptul să se apere în fața autorităților fiscale, iar pentru asta trebuie să afle ei înșiși de actele care îi privesc. Se sprijină și pe deciziile Curții de Justiție a Uniunii Europene. Instanța spune că hotărârea întărește protecția contribuabililor în relația cu ANAF.
 > „Înalta Curte a reținut că respectarea dreptului la apărare garantat contribuabililor presupune, așa cum rezultă și din jurisprudența Curții de Justiție a Uniunii Europene, ca actele administrativ-fiscale comunicate prin poștă să fie înmânate doar destinatarului sau împuternicitului autorizat să primească trimiterea poștală și nu altor categorii de persoane determinate pe criteriul gradului de rudenie față de contribuabil ori al coabitării cu acesta din urmă.” [2]
 > „Hotărârea oferă, potrivit instanței, ”un reper care consolidează standardul de protecție recunoscut contribuabililor în relația cu autoritățile fiscale”.” [3]
 
@@ -74,7 +74,7 @@ Curtea spune că oamenii au dreptul să se apere în fața autorităților fisca
 
 ### Ce urmează
 
-Judecătorii trebuie să scrie motivarea și să semneze decizia. Apoi ea va fi publicată în Monitorul Oficial, unde apar legile și deciziile oficiale.
+Judecătorii trebuie să scrie motivarea și să semneze decizia. Apoi ea va fi publicată în Monitorul Oficial, unde apar legile și deciziile oficiale. Articolele nu spun ce se întâmplă cu actele primite deja de rude înainte de decizie și nici ce crede ANAF despre ea.
 > „După redactarea considerentelor și semnarea deciziei, aceasta se va publica în Monitorul Oficial al României, Partea I.” [2]
 
 [card: Ce urmează]
