@@ -26,9 +26,10 @@ din cei 195 de angajați ai fabricii sunt concediați. Rămâne doar directorul 
 tip: cronologie
 - Sfârșitul lui 2025: Metinvest cumpără fabrica
 - August 2026: atacuri rusești lovesc combinatul care îi trimitea oțel
-- 15 octombrie: producția era deja oprită
-Grupul ucrainean Metinvest a ținut fabrica mai puțin de un an.
+- 15 octombrie: un document intern arată producția deja oprită
+Fabrica se oprește la mai puțin de un an după ce a cumpărat-o Metinvest.
 > „Unitatea a fost preluată de Metinvest la sfârșitul anului 2025, în cadrul extinderii grupului ucrainean pe piața europeană.” [1]
+> „Decizia vine la mai puțin de un an de la achiziție și va duce la concedierea colectivă a aproape tuturor angajaților: 194 din cei 195 de salariați.” [1]
 > „Atacurile rusești asupra combinatului Zaporizhstal din Ucraina, în august 2026, au afectat livrările de oțel folosit de fabrică.” [1]
 > „La momentul redactării documentului, în 15 octombrie, producția fabricii era deja suspendată.” [3]
 
@@ -41,12 +42,13 @@ Fabrica face țevi din oțel pe care îl aducea în principal din Ucraina.
 > „Atacurile rusești asupra combinatului Zaporizhstal din Ucraina, în august 2026, au afectat livrările de oțel folosit de fabrică.” [1]
 > „Metinvest susține că aprovizionarea din alte surse europene ar implica un cost suplimentar de aproximativ 110 euro pe tonă pentru oțelul laminat la cald.” [1]
 > „Grupul invocă și restricțiile europene privind importurile de oțel, prin sistemul cotelor tarifare, care limitează opțiunile de aprovizionare.” [1]
+> „Documentul arată că modelul de afaceri al fabricii se baza pe aprovizionarea constantă cu rulouri de oțel laminate la cald din Ucraina, în principal de la combinatul Zaporizhstal.” [3]
 
 ### Bani în plus pentru cei cu vechime
 tip: comparație
 - Peste 10 ani vechime: 10.000 lei
 - Peste 30 de ani vechime: 25.000 lei
-net primesc o parte dintre cei concediați. Restul plăților vin după contractul colectiv de muncă.
+net primesc o parte dintre cei concediați, după câți ani au lucrat; sumele nu se adună. Restul plăților vin după contractul colectiv de muncă.
 > „Angajații cu o vechime mai mare de 10 ani vor beneficia de 10.000 de lei net, în timp ce persoanele care au peste 30 de ani vechime vor primi 25.000 de lei net. Alte plăți compensatorii vor fi acordate potrivit prevederilor contractului colectiv de muncă.” [2]
 
 ### Se pune și vechimea de dinainte
@@ -54,7 +56,7 @@ tip: text
 Anii lucrați în fabrică înainte ca Metinvest s-o cumpere intră și ei la socoteală.
 > „Un aspect important este că vechimea angajaților va include și perioadele lucrate înainte de preluarea fabricii de către Metinvest.” [2]
 
-### Ar putea reporni, cu o condiție
+### Ar putea reporni, în anumite condiții
 tip: text
 Compania spune că ar relua producția doar dacă se îmbunătățesc condițiile, inclusiv regulile UE pentru oțelul adus din Ucraina.
 > „Compania nu exclude o eventuală reluare a activității în România, însă aceasta ar depinde de îmbunătățirea condițiilor economice și de reglementare, inclusiv de modificarea cotelor de import stabilite de UE pentru oțelul provenit din Ucraina.” [2]
@@ -82,17 +84,20 @@ Fabrica face țevi din oțel sudate. Înainte se numea ArcelorMittal Tubular Pro
 
 ### De ce se oprește
 
-Fabrica lucra cu oțel adus în principal de la combinatul Zaporizhstal din Ucraina. În august 2026, atacurile rusești asupra combinatului au oprit livrările.
+Potrivit companiei, fabrica lucra cu oțel adus în principal de la Zaporizhstal, o uzină mare de oțel din Ucraina. În august 2026, atacurile rusești asupra uzinei au afectat livrările.
 > „Documentul arată că modelul de afaceri al fabricii se baza pe aprovizionarea constantă cu rulouri de oțel laminate la cald din Ucraina, în principal de la combinatul Zaporizhstal. Însă, în august 2026, atacurile militare asupra combinatului au afectat aprovizionarea cu materia primă necesară producției.” [3]
 
-Compania spune că oțelul de la alte fabrici din Europa ar fi costat cu aproximativ 110 euro pe tonă mai mult și că nu putea cere prețuri mai mari pentru țevi. Mai spune că și limitele puse de Uniunea Europeană la importul de oțel i-au încurcat aprovizionarea.
+Compania spune că oțelul de la alte fabrici din Europa ar fi costat cu aproximativ 110 euro pe tonă mai mult și că nu putea cere prețuri mai mari pentru țevi. Mai spune că și limitele puse de Uniunea Europeană la importul de oțel, numite cote, îi limitează opțiunile de aprovizionare.
 > „Potrivit documentului, rulourile de oțel de la furnizorii europeni erau cu aproximativ 110 euro pe tonă mai scumpe decât cele provenite din Ucraina.” [3]
 > „Reprezentanții companiei explicau că aceste diferențe de preț nu puteau fi transferate către clienți, în condițiile concurenței de pe piața țevilor sudate.” [3]
 > „Grupul invocă și restricțiile europene privind importurile de oțel, prin sistemul cotelor tarifare, care limitează opțiunile de aprovizionare.” [1]
 
+Adevărul scrie că oprirea fabricii la câteva luni după vânzare arată cât de mult depinde ea de materia primă și de costul acesteia.
+> „Suspendarea producției la câteva luni după tranzacție arată însă cât de mult depinde funcționarea unității de accesul la materii prime și de costurile acestora.” [1]
+
 [card: De ce se oprește, spune compania]
 
-Potrivit unui document intern al conducerii fabricii, din 15 octombrie 2026, fabrica pierduse aproximativ 16,8 milioane de lei în primele opt luni ale anului. La acea dată, producția era deja oprită.
+Un document intern al conducerii, din 15 octombrie 2026, arată că fabrica pierduse aproximativ 16,8 milioane de lei în primele opt luni ale anului. La acea dată, producția era deja oprită.
 > „Potrivit unui memorandum al conducerii Metinvest Tubular Iași, datat 15 octombrie 2026 și adresat acționarilor, compania înregistrase pierderi cumulate de aproximativ 16,8 milioane de lei în primele opt luni ale anului.” [3]
 > „La momentul redactării documentului, în 15 octombrie, producția fabricii era deja suspendată.” [3]
 
@@ -109,11 +114,11 @@ Compania spune că regretă efectele asupra angajaților și a familiilor lor ș
 
 ### Ce urmează
 
-Metinvest spune că avea planuri să mărească fabrica și producția. Nu exclude să reia lucrul în România, dar doar dacă se îmbunătățesc condițiile economice și regulile, inclusiv cotele stabilite de UE pentru oțelul adus din Ucraina.
+Metinvest spune că avea planuri să mărească fabrica și producția. Nu exclude să reia lucrul în România, dar doar dacă se îmbunătățesc condițiile economice și regulile, inclusiv cotele, limitele stabilite de UE pentru oțelul adus din Ucraina.
 > „Grupul afirmă că avea planuri de extindere a fabricii și de creștere a producției, dar evoluțiile din piață au împiedicat punerea lor în aplicare.” [2]
 > „Compania nu exclude o eventuală reluare a activității în România, însă aceasta ar depinde de îmbunătățirea condițiilor economice și de reglementare, inclusiv de modificarea cotelor de import stabilite de UE pentru oțelul provenit din Ucraina.” [2]
 
-[card: Ar putea reporni, cu o condiție]
+[card: Ar putea reporni, în anumite condiții]
 
 ## Surse
 
