@@ -1,14 +1,14 @@
 ---
 title: "Economie și finanțe publice"
 summary: "Deficit record în UE, taxe majorate în 2025–2026, inflație ridicată, economie în stagnare și ultimele luni ale PNRR: cum arată economia României în 2026."
-updated: 2026-11-10
+updated: 2026-11-24
 order: 2
 ---
 
 ## Pe scurt
 - România a avut în 2025 cel mai mare deficit bugetar din UE: 7,9% din PIB (ESA), în scădere de la 9,3% în 2024. Media UE a fost 3,1% [1].
 - După opt luni din 2026, deficitul cash a scăzut la 2,89% din PIB (59,4 mld. lei), față de 4,51% în aceeași perioadă din 2025. Ținta pentru tot anul este 6,2% [2][3].
-- Inflația anuală a fost 6,61% în septembrie 2026, după un vârf de 10,42% în iunie, cel mai mare din UE. Coborârea din vară vine din efectul de bază, nu din scăderea prețurilor [4][5].
+- Inflația anuală a fost 6,94% în octombrie 2026 (IAPC 7%, cea mai mare din UE), a doua lună de creștere după 6,61% în septembrie. Vârful a fost 10,42% în iunie; coborârea din vară a venit din efectul de bază, nu din scăderea prețurilor [4][5][41].
 - Economia stagnează: în T2 2026 PIB-ul a fost cu 2,0% sub T2 2025 (serie ajustată sezonier), iar Comisia Europeană prognozează +0,1% pentru tot anul [6].
 - Toate cele trei agenții mari (S&P, Fitch, Moody's) țin România pe ultima treaptă „investment grade”, cu perspectivă negativă [7][8][9].
 - Euro a ajuns la un maxim istoric de 5,3527 lei (6 octombrie 2026). Dobânda BNR este 6,50% din august 2024 [10][11].
@@ -33,7 +33,7 @@ Pe plan politic, Guvernul Bolojan a fost demis prin moțiune de cenzură la 5 ma
 ## Ce nu merge
 - **Deficitul rămâne cel mai mare din UE**, iar ținta de 6,2% pentru 2026 este de două ori peste media europeană. Ministerul Finanțelor vizează ieșirea din PDE în orizontul anului 2029 [1][3].
 - **Dobânzile cresc mai repede decât orice altă cheltuială.** Au crescut cu 26,7% în ianuarie–august 2026 (42 mld. lei, circa 2% din PIB). Pentru tot anul, Ministerul Finanțelor estimează aproximativ 60,8 mld. lei, adică circa 3% din PIB. Costul mediu al datoriei (5,2% în 2025) este cel mai mare din UE [2][22]. Randamentul titlurilor de stat pe 10 ani a ajuns la aproximativ 7,35% în octombrie 2026 [10].
-- **Inflația a fost cea mai mare din UE în prima jumătate a lui 2026.** În septembrie 2026, serviciile s-au scumpit cu 11,1% față de anul anterior, motorina cu 37,6%, iar benzina cu 28,4% [4][5]. BNR a ridicat prognoza pentru decembrie 2026 la 6,1% [24].
+- **Inflația a fost cea mai mare din UE în 2026, inclusiv în octombrie (după IAPC) [41].** În septembrie 2026, serviciile s-au scumpit cu 11,1% față de anul anterior, motorina cu 37,6%, iar benzina cu 28,4% [4][5]. BNR și-a ridicat prognoza pentru decembrie 2026 la 6,1% în august [24] și apoi la 7,4% în noiembrie [42].
 - **Economia s-a contractat.** În semestrul I 2026, PIB-ul real a fost cu 1,6% sub nivelul din semestrul I 2025 (serie ajustată sezonier). În T2 2026, industria a scăzut cu 2,9%, IT-ul cu 3,5%, iar imobiliarele cu 4,5% [6].
 - **Puterea de cumpărare a scăzut.** Salariul real a fost sub nivelul de acum un an (indice 99,5% în august 2026). Pensiile și salariile din sectorul public sunt înghețate în 2026 [14][25].
 - **Investițiile străine directe s-au prăbușit.** În ianuarie–iulie 2026 au fost 1,13 mld. euro, față de 4,92 mld. euro în aceeași perioadă din 2025. Deficitul de cont curent a crescut la 16,3 mld. euro, iar datoria externă a ajuns la 234,9 mld. euro [26].
@@ -73,7 +73,8 @@ Datele regionale detaliate pentru 2025–2026 (PIB județean, salarii pe județe
 
 ### Energie și inflație
 - Plafonarea prețului la energie electrică pentru populație a încetat la 1 iulie 2025. Facturile au crescut, iar inflația anuală a sărit de la 5,7% în iunie la 7,8% în iulie 2025 [32][33]. După majorarea TVA din august 2025, inflația a rămas aproape de 10% (9,69% în decembrie 2025) [34].
-- În iulie–august 2026, aceste șocuri au ieșit din comparația anuală (efect de bază), iar inflația a coborât la 8,16% și apoi la 6,17%. În septembrie a urcat din nou la 6,61%, peste prognoza BNR de 5,9% [4][24].
+- În iulie–august 2026, aceste șocuri au ieșit din comparația anuală (efect de bază), iar inflația a coborât la 8,16% și apoi la 6,17%. În septembrie a urcat din nou la 6,61%, peste prognoza BNR de 5,9% [4][24]. În octombrie a crescut la 6,94%; cel mai mult s-au scumpit serviciile (11,23%), apoi mărfurile nealimentare (7,66%) și alimentele (3,07%). După calculul Eurostat (IAPC), inflația a fost 7%, cea mai mare din UE [41].
+- Pe 23 noiembrie 2026, la conferința ROINVEST, viceguvernatorul BNR Cosmin Marinescu a spus că BNR se așteaptă ca inflația să urce la 7,4% la sfârșitul anului, după ce și-a ridicat prognoza de mai multe ori din cauza scumpirii energiei, și să coboare la 3,7% spre sfârșitul lui 2027. BNR ar putea relua reducerea dobânzii de politică monetară spre mijlocul lui 2027, dacă inflația reintră pe traiectoria descendentă; e o estimare, nu un angajament [42][41].
 - Familiile vulnerabile au primit 50 lei pe lună pentru factura la electricitate (iulie 2025 – martie 2026) [32].
 
 ### PNRR [12][13][35]
@@ -103,9 +104,9 @@ Datele regionale detaliate pentru 2025–2026 (PIB județean, salarii pe județe
 | Datorie publică (metodologie UE) | 60,1% din PIB | T1 2026 | media UE ~82% | [23][22] |
 | Cost mediu al datoriei | 5,2% | 2025 | cel mai mare din UE | [22] |
 | Cheltuieli cu dobânzile | ~60,8 mld. lei (~3% din PIB), estimare | 2026 | — | [22] |
-| Inflație anuală (IPC) | 6,61% | septembrie 2026 | IAPC 6,5% | [4] |
+| Inflație anuală (IPC) | 6,94% | octombrie 2026 | IAPC 7%, cea mai mare din UE | [41] |
 | Vârf de inflație | 10,42% | iunie 2026 | cea mai mare din UE | [5] |
-| Prognoza BNR de inflație | 6,1% | decembrie 2026 | — | [24] |
+| Prognoza BNR de inflație | 7,4% (decembrie 2026); 3,7% (sfârșitul lui 2027) | noiembrie 2026 | prognoza din august: 6,1% / 3,4% | [42][41][24] |
 | Dobânda de politică monetară BNR | 6,50% | octombrie 2026 | BCE: mult mai mică | [11] |
 | Curs EUR/RON (record) | 5,3527 | 6 octombrie 2026 | începutul anului: ~5,09 | [10][39] |
 | PIB real, T2 2026 față de T2 2025 | −2,0% (ajustat sezonier) | 2026 | — | [6] |
@@ -180,3 +181,5 @@ Datele regionale detaliate pentru 2025–2026 (PIB județean, salarii pe județe
 38. Consiliul Fiscal: bugetul e construit în realitate pe un deficit de 7,7% — Newsweek România, februarie 2025. https://newsweek.ro/economie/consiliul-fiscal-afirma-ca-bugetul-e-construit-in-realitate-pe-un-deficit-de-77
 39. Curs BNR, 2–6 octombrie 2026 (preluare a cursurilor oficiale BNR) — cursbnr.nxm.ro, octombrie 2026. https://cursbnr.nxm.ro/data/03-10-2026
 40. Impozitul pe locuințe nu va fi calculat la valoarea de piață din 2027 — Adevărul, 6 noiembrie 2026; Impozitarea proprietăților la valoarea de piață nu va fi introdusă din 2027 — Tion, 6 noiembrie 2026. https://adevarul.ro/stiri-interne/societate/impozitul-pe-locuinte-nu-va-fi-calculat-la-2569552.html ; https://www.tion.ro/romania/impozitarea-proprietatilor-la-valoarea-de-piata-nu-va-fi-introdusa-din-2027-se-amana-spre-finalul-perioadei-de-consolidare-2385468/
+41. Inflația va crește puternic. Viceguvernator BNR: Ne așteptăm la o reintensificare a inflației pe final de an, până la 7,4% — Profit.ro, 23 noiembrie 2026 (cu datele INS și Eurostat pentru octombrie). https://www.profit.ro/stiri/economie/inflatia-va-creste-puternic-viceguvernator-bnr-ne-asteptam-la-o-reintensificare-a-inflatiei-pe-final-de-an-pana-la-7-4-eveniment-news-ro-23005893
+42. Vești de la BNR despre prețuri și dobânzi. La ce nivel ar putea ajunge rata inflației la finalul lui 2027 — Digi24, 23 noiembrie 2026; Cosmin Marinescu, viceguvernatorul BNR: Inflația ajunge la 7,4% la finalul anului — Adevărul, 23 noiembrie 2026. https://www.digi24.ro/stiri/economie/vesti-de-la-bnr-despre-preturi-si-dobanzi-la-ce-nivel-ar-putea-ajunge-rata-inflatiei-la-finalul-lui-2027-4048557 ; https://adevarul.ro/economie/cosmin-marinescu-viceguvernatorul-bnr-inflatia-2573681.html
