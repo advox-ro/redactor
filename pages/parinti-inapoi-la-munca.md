@@ -1,8 +1,8 @@
 ---
 title: Părinți înapoi la muncă
-summary: Părinții care revin la muncă din concediul de creștere a copilului ar primi, pe lângă salariu, cât indemnizația. Senatul discută ideea.
+summary: Părinții care revin la muncă din concediul de creștere a copilului ar primi, pe lângă salariu, cât indemnizația. Senatul a votat proiectul.
 tags: [familie, muncă, bani]
-date: 2026-11-03
+date: 2026-11-23
 image:
   src: /photos/parinti-inapoi-la-munca.jpg
   alt: Doi părinți țin de mână o pereche de pantofi de copil
@@ -57,12 +57,14 @@ Cele două consilii dau Parlamentului avize. Avizele lor nu opresc proiectul, da
 
 ### Nu e încă lege
 tip: cronologie
-- Marți: comisia de buget a Senatului o aprobă, cu toate voturile
-- Urmează: votul tuturor senatorilor
-- Apoi: Camera Deputaților decide
+- Mai întâi: comisia de buget a Senatului o aprobă, cu toate voturile
+- Luni: Senatul votează proiectul
+- Urmează: Camera Deputaților decide
 Până atunci, sumele de acum rămân. Dacă ar deveni lege în 2026, noile reguli s-ar aplica din 2027.
+> „Părinții care se întorc la muncă în perioada de creștere a copilului nu vor mai pierde indemnizația, potrivit unui proiect de lege care a trecut luni de votul Senatului. Proiectul merge la Camera Deputaților, for decizional în acest caz.” [6]
+> „Astăzi, Senatul a votat în unanimitate proiectul pe care l-am inițiat împreună cu senatoarea Gabriela Horga și alți colegi parlamentari. Mulțumesc tuturor colegilor care l-au susținut, în comisii și în plen”, a scris deputatul PNL Raluca Turcan pe Facebook.” [6]
 > „Comisia de buget a Senatului a aprobat în unanimitate, marți, propunerea ca părinții care revin la muncă din concediul de creștere a copilului să primească un stimulent de inserție egal cu indemnizația anterioară.” [1]
-> „Senatul este prima Cameră care examinează proiectul L604/2026. După etapa comisiilor, acesta trebuie să ajungă în plenul Senatului și apoi la Camera Deputaților, care ia decizia finală.” [2]
+> „Proiectul de lege a fost transmis Camerei Deputaților, care este for decizional în acest caz.” [7]
 > „Dacă publicarea ar avea loc în 2026, aplicarea ar începe în 2027.” [2]
 > „Până atunci, stimulentul de inserție rămâne la cuantumurile stabilite de legislația actuală.” [3]
 
@@ -121,13 +123,16 @@ Consiliul Legislativ, care dă avize Parlamentului despre proiectele de lege, a 
 
 ### Ce urmează
 
-Marți, comisia de buget a Senatului a dat aviz favorabil propunerii, cu votul tuturor membrilor. Este un vot de etapă. Urmează votul tuturor senatorilor, apoi Camera Deputaților, care ia decizia finală. Până atunci, sumele de acum rămân. Dacă ar deveni lege și ar fi publicată în 2026, noile reguli s-ar aplica din 2027.
+Mai întâi, comisia de buget a Senatului a dat aviz favorabil propunerii, cu votul tuturor membrilor. Propunerea a fost susținută de parlamentari din toate partidele.
 > „Comisia de buget a Senatului a aprobat în unanimitate, marți, propunerea ca părinții care revin la muncă din concediul de creștere a copilului să primească un stimulent de inserție egal cu indemnizația anterioară.” [1]
-> „Votul este preliminar, iar inițiativa urmează să intre la vot final în plenul Senatului.” [1]
-> „Senatul este prima Cameră care examinează proiectul L604/2026. După etapa comisiilor, acesta trebuie să ajungă în plenul Senatului și apoi la Camera Deputaților, care ia decizia finală.” [2]
 > „Propunerea, care a fost susținută de parlamentari din toate partidele, urmează să intre în atenția plenului Senatului, ca primă cameră sesizată.” [5]
+
+Luni, Senatul a votat proiectul, în unanimitate, potrivit deputatei PNL Raluca Turcan, una dintre inițiatori. Acum proiectul merge la Camera Deputaților, care ia decizia finală. Până atunci, sumele de acum rămân. Dacă ar deveni lege și ar fi publicată în 2026, noile reguli s-ar aplica din 2027. Atunci, și stimulentele care se plătesc deja pentru copiii sub doi ani (trei ani, cu dizabilități) ar fi calculate din nou, după noile reguli.
+> „Părinții care se întorc la muncă în perioada de creștere a copilului nu vor mai pierde indemnizația, potrivit unui proiect de lege care a trecut luni de votul Senatului. Proiectul merge la Camera Deputaților, for decizional în acest caz.” [6]
+> „Astăzi, Senatul a votat în unanimitate proiectul pe care l-am inițiat împreună cu senatoarea Gabriela Horga și alți colegi parlamentari. Mulțumesc tuturor colegilor care l-au susținut, în comisii și în plen”, a scris deputatul PNL Raluca Turcan pe Facebook.” [6]
 > „Dacă publicarea ar avea loc în 2026, aplicarea ar începe în 2027.” [2]
 > „Până atunci, stimulentul de inserție rămâne la cuantumurile stabilite de legislația actuală.” [3]
+> „De asemenea, la intrarea în vigoare a legii, stimulentele de inserție aflate deja în plată pentru părinții ai căror copii nu au împlinit doi ani, respectiv trei ani în cazul copiilor cu dizabilități, ar urma să fie recalculate conform noilor prevederi.” [7]
 
 [card: Nu e încă lege]
 
@@ -138,3 +143,5 @@ Marți, comisia de buget a Senatului a dat aviz favorabil propunerii, cu votul t
 3. Stimulentul de inserție ar putea crește până la 8.500 de lei. Proiectul a primit vot favorabil într-o comisie a Senatului — Alba24. https://alba24.ro/stimulentul-de-insertie-ar-putea-creste-pana-la-8-500-de-lei-proiectul-a-primit-vot-favorabil-intr-o-comisie-a-senatului-1166020.html
 4. Senat: Indemnizația pentru creșterea copilului se păstrează în cazul reintegrării părintelui în activitate — Observator. https://observatornews.ro/economic/senat-indemnizatia-pentru-cresterea-copilului-se-pastreaza-in-cazul-reintegrarii-parintelui-in-activitate-671169.html
 5. Părinții care revin mai devreme la muncă ar putea primi un nou stimulent financiar — Radio România Actualități. https://www.romania-actualitati.ro/stiri/romania/parintii-care-revin-mai-devreme-la-munca-ar-putea-primi-un-nou-stimulent-financiar-id236808.html
+6. Părinții care se întorc la muncă în perioada de creștere a copilului ar putea păstra indemnizația. Proiect adoptat de Senat — Digi24. https://www.digi24.ro/stiri/actualitate/politica/parintii-care-se-intorc-la-munca-in-perioada-de-crestere-a-copilului-ar-putea-pastra-indemnizatia-proiect-adoptat-de-senat-4049851
+7. Părinții care se întorc mai devreme la muncă ar putea primi în continuare și indemnizația de creștere a copilului. Proiect adoptat de Senat — Bihoreanul. https://www.ebihoreanul.ro/stiri/parintii-care-se-intorc-mai-devreme-la-munca-ar-putea-primi-si-indemnizatia-de-crestere-a-copilului-proiect-adoptat-de-senat-206827.html
