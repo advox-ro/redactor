@@ -29,7 +29,7 @@ tip: comparație
 - Alimente: 3,07%
 Cu atât au crescut prețurile într-un an, până în octombrie, după Institutul Național de Statistică.
 > „Astfel, rata anuală a inflației, comparativ cu luna similară a anului precedent, a fost 6,94%, cele mai mari creșteri de prețuri înregistrându-se și de această dată tot la servicii, 11,23%.” [3]
-> „În același interval de timp, prețurile mărfurilor nealimentare s-au majorat cu 7,66%, iar cel al mărfurilor alimentare cu 3,07%'', se arată în comunicatul de la Statistică.” [3]
+> „În același interval de timp, prețurile mărfurilor nealimentare s-au majorat cu 7,66%, iar cel al mărfurilor alimentare cu 3,07%” [3]
 
 ### Ce așteaptă BNR
 tip: comparație
@@ -56,20 +56,21 @@ BNR ar putea începe să scadă dobânda de bază spre mijlocul anului viitor, d
 
 Inflația arată cu cât au crescut prețurile într-un an. În octombrie, prețurile erau cu 6,9% mai mari decât cu un an în urmă, arată datele Institutului Național de Statistică (INS). E a doua lună la rând în care inflația crește: în septembrie fusese 6,6%.
 > „În cazul României, datele publicate anterior de Institutul Național de Statistică (INS) aratau că rata anuală a inflației a continuat să crească și în luna octombrie și a ajuns la 6,9%, de la 6,6% în septembrie.” [3]
-> „''Este a doua lună consecutivă în care inflația anuală își continuă creșterea și atinge nivelul de 6,9%.” [3]
+> „Este a doua lună consecutivă în care inflația anuală își continuă creșterea și atinge nivelul de 6,9%.” [3]
 
 [card: Prețurile cresc mai repede]
 
 Cel mai mult s-au scumpit serviciile, cu 11,23% într-un an. Produsele care nu sunt alimente s-au scumpit cu 7,66%, iar alimentele cu 3,07%.
 > „Astfel, rata anuală a inflației, comparativ cu luna similară a anului precedent, a fost 6,94%, cele mai mari creșteri de prețuri înregistrându-se și de această dată tot la servicii, 11,23%.” [3]
-> „În același interval de timp, prețurile mărfurilor nealimentare s-au majorat cu 7,66%, iar cel al mărfurilor alimentare cu 3,07%'', se arată în comunicatul de la Statistică.” [3]
+> „În același interval de timp, prețurile mărfurilor nealimentare s-au majorat cu 7,66%, iar cel al mărfurilor alimentare cu 3,07%” [3]
 
 [card: Ce s-a scumpit cel mai mult]
 
 Biroul de statistică al Uniunii Europene, Eurostat, calculează inflația altfel, ca să compare țările între ele. După calculul lui, România a avut în octombrie 7%, cea mai mare inflație din Uniunea Europeană. Media UE a fost 4%, iar față de septembrie inflația a crescut în 16 țări, între care și România.
 > „La polul opus, s-au situat România (7%), Lituania (6,1%) și Bulgaria (5,9%).” [3]
 > „Comparativ cu situația din septembrie 2026, rata anuală a inflației a scăzut în nouă state membre, a rămas stabilă în două și a crescut în 16 țări membre, inclusiv în România (de la 6,5% până la 7%).” [3]
-> „Rata anuală a inflației în zona euro și în Uniunea Europeană (UE) a crescut până la 4%, în octombrie, de la un nivel de 3,8% luna precedentă, iar România este din nou țara cu cea mai mare rată anuală a inflației, potrivit datelor publicate miercuri de Oficiul de statistică al Uniunii Europene (Eurostat).” [3]
+> „Inflația anuală a urcat la 4% în luna octombrie, atât în zona euro, cât și la nivelul Uniunii Europene, față de 3,8% în septembrie.” [3]
+> „România se menține pe primul loc în UE în ceea ce privește rata anuală a inflației, conform datelor publicate miercuri de Eurostat” [3]
 
 ### Ce spune Banca Națională
 
@@ -107,4 +108,4 @@ Pentru a ține prețurile în frâu, BNR stabilește o dobândă de bază, numit
 
 1. Vești de la BNR despre prețuri și dobânzi. La ce nivel ar putea ajunge rata inflației la finalul lui 2027 — Digi24. https://www.digi24.ro/stiri/economie/vesti-de-la-bnr-despre-preturi-si-dobanzi-la-ce-nivel-ar-putea-ajunge-rata-inflatiei-la-finalul-lui-2027-4048557
 2. Cosmin Marinescu, viceguvernatorul BNR: Inflația ajunge la 7,4% la finalul anului — Adevărul. https://adevarul.ro/economie/cosmin-marinescu-viceguvernatorul-bnr-inflatia-2573681.html
-3. Inflația va crește puternic. Viceguvernator BNR: Ne așteptăm la o reintensificare a inflației pe final de an, până la 7,4% — Profit.ro. https://www.profit.ro/stiri/economie/inflatia-va-creste-puternic-viceguvernator-bnr-ne-asteptam-la-o-reintensificare-a-inflatiei-pe-final-de-an-pana-la-7-4-eveniment-news-ro-23005893
+3. România, din nou în fruntea clasamentului inflației din UE. Ce arată cele mai recente date Eurostat — Observator. https://observatornews.ro/economic/romania-din-nou-in-fruntea-clasamentului-inflatiei-din-ue-ce-arata-cele-mai-recente-date-eurostat-672797.html
