@@ -45,3 +45,18 @@
 3. Să intre repede pe listă medicamentele noi
 4. Altceva
 5. Nu știu
+
+### După ce lista nouă e aprobată, în cât timp crezi că ai putea primi compensat un medicament nou de pe ea, dacă ți l-ar prescrie medicul?
+
+| id | cat-timp-medicament-nou |
+|---|---|
+| type | single |
+| measures | expectation |
+| where | romania |
+
+1. Mai puțin de o lună
+2. Între una și trei luni
+3. Între trei și șase luni
+4. Mai mult de șase luni
+5. Nu cred că l-aș putea primi
+6. Nu știu
