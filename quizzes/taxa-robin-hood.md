@@ -9,7 +9,7 @@
 | na | Nu plătesc eu factura la curent |
 | outlook | 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1 |
 
-### Cât de mult ești de acord ca statul să pună, în această iarnă, o taxă în plus pe profiturile neobișnuit de mari ale firmelor din energie?
+### Cât de mult ești de acord ca statul să pună, în această iarnă, o taxă în plus pe câștigurile pe care firmele din energie le fac din scumpirea curentului?
 
 | id | de-acord-taxa |
 |---|---|
@@ -29,11 +29,13 @@
 
 1. Tuturor gospodăriilor
 2. Gospodăriilor cu venituri mici
-3. Firmelor care folosesc mult curent
-4. Altcuiva
-5. Nu știu
+3. Gospodăriilor cu oameni bolnavi
+4. Firmelor care folosesc mult curent
+5. Altcuiva
+6. Nu cred că ar trebui să existe o astfel de taxă
+7. Nu știu
 
-### Dacă o astfel de taxă ar fi introdusă, ce crezi că s-ar întâmpla cu factura ta la curent în această iarnă?
+### Crezi că o astfel de taxă ți-ar face factura la curent mai mică sau mai mare decât ar fi fără ea?
 
 | id | efect-factura |
 |---|---|
@@ -41,13 +43,13 @@
 | measures | expectation |
 | where | romania |
 | na | Nu plătesc eu factura la curent |
-| outlook | a: 1, b: 0.5, c: 0, d: -1, e: 0 |
 
-1. Ar scădea mult
-2. Ar scădea puțin
-3. Nu s-ar schimba
-4. Ar crește
-5. Nu știu
+1. Mult mai mică
+2. Puțin mai mică
+3. La fel
+4. Puțin mai mare
+5. Mult mai mare
+6. Nu știu
 
 ### Câtă încredere ai că ajutoarele de la stat pentru facturile la energie ajung la oamenii care au nevoie de ele?
 
