@@ -1,6 +1,6 @@
 ---
 title: Rețete de până la 92 de zile
-summary: Casa de Asigurări de Sănătate propune rețete pe mai multe luni pentru unii bolnavi cronici și consultații plătite pentru bolnavii de cancer.
+summary: Casa de Asigurări propune rețete pe mai multe luni pentru unele medicamente și să plătească o consultație pentru bolnavii de cancer.
 tags: [sănătate, servicii publice]
 date: 2026-11-24
 image:
@@ -18,7 +18,7 @@ quiz: retete-92-de-zile
 ### O rețetă pentru mai multe luni
 tip: cifră
 - 92 de zile
-cel mult, pentru o rețetă cu anumite medicamente, dacă ai o boală cronică ținută sub control și iei același tratament de mult. E deocamdată o propunere.
+cel mult, pentru o rețetă, doar cu medicamentele din așa-numitele contracte cost-volum, nu cu toate. Pentru boli cronice ținute sub control, cu un tratament care nu se mai schimbă. E o propunere.
 > „Astfel, pacienții cu boli cronice stabilizate și cu o schemă terapeutică stabilă ar putea primi prescripții pentru aceste medicamente pentru o perioadă de până la 90, 91 sau 92 de zile.” [2]
 > „Propunerile sunt incluse în noua formă a proiectului de modificare a normelor Contractului-cadru și nu reprezintă, în această etapă, măsuri deja intrate în vigoare.” [1]
 
@@ -30,27 +30,25 @@ Chiar dacă rețeta e pentru mai multe luni, farmacia nu îți dă toate medicam
 ### Cine ar putea scrie rețeta
 tip: listă
 - Medicul de familie
-- Medicul specialist din policlinică, în contract cu Casa
+- Medicul specialist din cabinet sau policlinică, în contract cu Casa
 - Medicul din spital, când pleci acasă
 E vorba de medicii care lucrează cu casele de asigurări de sănătate.
 > „Prescripțiile ar putea fi eliberate de medicii de familie, de specialiștii din ambulatoriu aflați în contract cu casele de asigurări, dar și de medicii din spitale, în momentul externării.” [1]
 
 ### Medicii decid împreună
 tip: text
-Pentru un bolnav de cancer, medici din mai multe specialități se pot uita împreună la cazul lui și pot stabili tratamentul. Casa de Asigurări propune să plătească această consultație separat. În spitale i se spune „tumor board”.
+Pentru un bolnav de cancer, medici din mai multe specialități se pot uita împreună la cazul lui și pot stabili tratamentul. Casa de Asigurări propune să plătească această consultație separat. I se spune „tumor board”.
 > „Prin această măsură, CNAS propune reglementarea distinctă a consultațiilor în cadrul cărora specialiști din mai multe domenii medicale analizează împreună situația unui pacient oncologic și stabilesc conduita terapeutică.” [4]
 > „Casa Națională de Asigurări de Sănătate (CNAS) vrea să introducă decontarea consultațiilor oncologice multidisciplinare, cunoscute sub denumirea de „tumor board”, ca serviciu medical distinct în ambulatoriul de specialitate.” [1]
 
 ### Și pentru cine nu are asigurare
-tip: listă
-- Cei cu asigurare de sănătate
-- Cei fără asigurare de sănătate
-Consultația pentru bolnavii de cancer ar fi plătită pentru amândouă categoriile.
+tip: text
+Consultația comună a medicilor pentru bolnavii de cancer ar fi plătită de Casă și pentru cei cu asigurare de sănătate, și pentru cei fără.
 > „Măsura ar urma să se aplice atât pacienților asigurați, cât și celor care nu au asigurare medicală, potrivit unui proiect de modificare a normelor de aplicare a Contractului-cadru, publicat de instituție.” [1]
 
 ### Încă nu e în vigoare
 tip: text
-Casa de Asigurări a publicat proiectul pe site-ul ei, ca oricine să-l poată citi și comenta. Schimbările se aplică doar după ce proiectul e aprobat.
+Casa de Asigurări a publicat proiectul pe site-ul ei, unde oricine îl poate citi. Schimbările se aplică doar după ce proiectul e aprobat. Articolele nu spun când.
 > „Noua formă a proiectului de ordin poate fi consultată pe site-ul Casei Naționale de Asigurări de Sănătate, în secțiunea dedicată transparenței decizionale.” [3]
 > „Propunerile sunt incluse în noua formă a proiectului de modificare a normelor Contractului-cadru și nu reprezintă, în această etapă, măsuri deja intrate în vigoare.” [1]
 
@@ -61,12 +59,12 @@ Casa Națională de Asigurări de Sănătate (CNAS), instituția care plătește
 
 ### Rețete pe mai multe luni
 
-Proiectul schimbă perioada pentru care medicul poate scrie anumite medicamente, cele din așa-numitele contracte cost-volum. Pentru cei cu boli cronice ținute sub control, care iau același tratament de mult, rețeta ar putea acoperi până la 90, 91 sau 92 de zile, după câte zile au lunile.
+Proiectul schimbă perioada pentru care medicul poate scrie anumite medicamente, doar pe cele din așa-numitele contracte cost-volum, nu pe toate. Pentru cei cu boli cronice ținute sub control, cu un tratament care nu se mai schimbă, rețeta ar putea acoperi până la 90, 91 sau 92 de zile, după câte zile au lunile.
 > „Proiectul prevede revizuirea termenului de prescriere, astfel încât pacienții cu boli cronice stabilizate și cu schemă terapeutică stabilă să poată primi rețete pentru o perioadă de până la 90, 91 sau 92 de zile, în funcție de numărul de zile al lunii.” [3]
 
 [card: O rețetă pentru mai multe luni]
 
-Rețeta ar putea fi scrisă de medicul de familie, de medicul specialist din ambulatoriu, adică din policlinică, aflat în contract cu casa de asigurări, sau de medicul din spital, la externare, când pacientul pleacă acasă. Medicamentele nu se iau însă toate deodată de la farmacie, ci lună de lună.
+Rețeta ar putea fi scrisă de medicul de familie, de medicul specialist din ambulatoriu, adică din cabinet sau policlinică, aflat în contract cu casa de asigurări, sau de medicul din spital, la externare, când pacientul pleacă acasă. Medicamentele nu se iau însă toate deodată de la farmacie, ci lună de lună.
 > „Prescripțiile vor putea fi eliberate de medicii de familie, medicii specialiști din ambulatoriul clinic aflați în relație contractuală cu casele de asigurări de sănătate, precum și de medicii din spitale, la externarea pacientului.” [3]
 > „Medicamentele nu vor fi însă eliberate integral pentru întreaga perioadă, ci prin fracționare lunară.” [3]
 
@@ -74,7 +72,7 @@ Rețeta ar putea fi scrisă de medicul de familie, de medicul specialist din amb
 
 ### Consultația pentru bolnavii de cancer
 
-Cea mai importantă noutate, spun articolele, privește bolnavii de cancer. Uneori, medici din mai multe specialități se uită împreună la cazul unui pacient și hotărăsc tratamentul. Această consultație, numită „tumor board”, ar deveni un serviciu separat, plătit de Casa de Asigurări în ambulatoriu, și pentru cei cu asigurare, și pentru cei fără.
+Una dintre principalele noutăți, spun articolele, privește bolnavii de cancer. Uneori, medici din mai multe specialități se uită împreună la cazul unui pacient și hotărăsc tratamentul. Această consultație, numită „tumor board”, ar deveni un serviciu separat, plătit de Casa de Asigurări în ambulatoriu, și pentru cei cu asigurare, și pentru cei fără.
 > „Una dintre principalele noutăți vizează introducerea consultației oncologice multidisciplinare, cunoscută sub denumirea de tumor board, ca serviciu distinct decontat în ambulatoriul de specialitate. Acesta ar urma să fie disponibil atât pentru persoanele asigurate, cât și pentru cele neasigurate.” [3]
 > „Prin această măsură, CNAS propune reglementarea distinctă a consultațiilor în cadrul cărora specialiști din mai multe domenii medicale analizează împreună situația unui pacient oncologic și stabilesc conduita terapeutică.” [4]
 
@@ -82,12 +80,12 @@ Cea mai importantă noutate, spun articolele, privește bolnavii de cancer. Uneo
 
 ### Alte schimbări
 
-Proiectul mai adaugă o radiografie, numită cefalometrică, printre investigațiile plătite de Casa de Asigurări. Mai stabilește cum pot primi îngrijiri medicale și paliative la domiciliu asigurații care locuiesc într-un județ vecin cu cel în care are sediul firma care le oferă. Îngrijirile paliative sunt cele care ușurează suferința bolnavilor grav.
+Proiectul mai adaugă un tip de radiografie, numită cefalometrică, printre investigațiile plătite de Casa de Asigurări. Mai stabilește cum pot primi îngrijiri medicale și paliative la domiciliu asigurații care locuiesc într-un județ vecin cu cel în care are sediul firma care le oferă. Îngrijirile paliative sunt cele care ușurează suferința celor cu boli grave.
 > „Proiectul mai prevede introducerea radiografiei cefalometrice în pachetul serviciilor medicale paraclinice. O altă modificare stabilește modul în care vor putea fi acordate îngrijirile medicale și paliative la domiciliu pacienților asigurați din județele învecinate celui în care furnizorul acestor servicii își are sediul.” [2]
 
 ### Ce urmează
 
-Deocamdată, totul e un proiect, publicat pe site-ul CNAS la secțiunea „Transparență decizională”, unde oricine îl poate citi. Schimbările nu sunt încă în vigoare.
+Deocamdată, totul e un proiect, publicat pe site-ul CNAS la secțiunea „Transparență decizională”, unde oricine îl poate citi. Schimbările nu sunt încă în vigoare, iar articolele nu spun când ar intra.
 > „Proiectul de act normativ este disponibil pe site-ul instituției, în secțiunea „Informații publice”, subsecțiunea „Transparență decizională”.” [4]
 > „Propunerile sunt incluse în noua formă a proiectului de modificare a normelor Contractului-cadru și nu reprezintă, în această etapă, măsuri deja intrate în vigoare.” [1]
 
