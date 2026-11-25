@@ -1,10 +1,10 @@
 ---
-title: A7 ajunge la Roman Sud
+title: Noul termen pentru A7
 summary: Încă 30 de km din Autostrada Moldovei, de la Bacău la Roman Sud, ar urma să se deschidă până la sfârșitul anului. Pașcani, în 2027.
 tags: [transport, județ]
 counties: [BC, NT, IS, SV]
 date: 2026-11-24
-stat: { value: "77 km", label: "are tronsonul Bacău–Pașcani al Autostrăzii Moldovei, în lucru pe trei loturi", quote: "A7 de la Bacău la Pașcani are o lungime de 77 de kilometri, împărțiți pe trei loturi.", source: 5 }
+stat: { value: "77 km", label: "are porțiunea Bacău–Pașcani a Autostrăzii Moldovei, împărțită în trei bucăți, în lucru", quote: "A7 de la Bacău la Pașcani are o lungime de 77 de kilometri, împărțiți pe trei loturi.", source: 5 }
 image:
   src: /photos/a7-roman-sud.jpg
   alt: Autostrada A7 pe centura Bacăului, privită de pe un pod, printre câmpuri
@@ -29,46 +29,50 @@ tip: cifră
 cam atât ar avea Autostrada Moldovei la sfârșitul anului, cu tot cu centura Bacăului, dacă termenul e respectat.
 > „Astfel, autostrada va ajunge la o lungime de aproximativ 290 de kilometri, între Ploiești și Roman, inclusiv Varianta Ocolitoare Bacău.” [6]
 
-### Ce urmează în 2027
+### Ce urmează: Roman, Mircești, Pașcani
 tip: cronologie
 - Sfârșitul anului: Bacău – Roman Sud, 30 km
 - Începutul lui 2027: Roman Sud – Mircești, 19 km
-- Prima parte a lui 2027: până la Pașcani
-Ministrul a dat și un termen puțin mai târziu pentru Pașcani: mijlocul anului viitor, chiar puțin după.
+- Mijlocul lui 2027, poate puțin după: până la Pașcani
+Într-o declarație scrisă, ministrul a spus „prima parte a anului 2027”. Pe șantier, a spus „după jumătatea anului viitor”.
 > „Ministrul Transporturilor, Ștefan-Ovidiu Popa, a anunțat marți, 24 noiembrie, că doar 30 de kilometri din tronsonul Bacău–Pașcani al Autostrăzii Moldovei ar urma să fie deschiși circulației până la sfârșitul anului, iar întregul tronson, până la jumătatea anului viitor.” [3]
 > „La începutul anului viitor vom da în circulație și diferența de 19 kilometri, de la Roman Sud până la Mircești, iar după jumătatea anului viitor vom da în circulație întregul tronson până la Pașcani.” [3]
 > „„În prima parte a anului 2027 lucrările vor fi finalizate până la Pașcani”, a mai spus Popa.” [5]
+> „Pentru sectorul rămas până la Pașcani, ministrul a indicat un termen situat în a doua parte a anului 2027.” [1]
 
 ### Cât e gata pe fiecare lot
-tip: comparație
-- Lotul 1: 83%
-- Lotul 2: 70%
-- Lotul 3: 62%
+tip: listă
+- Lotul 1: 83% gata
+- Lotul 2: 70% gata
+- Lotul 3: 62% gata
 Așa arată lucrările pe cele trei bucăți dintre Bacău și Pașcani, după compania de drumuri a statului.
 > „Lucrările au ajuns la 83% pe lotul 1, la 70% pe lotul 2 și la 62% pe lotul 3.” [5]
 
-### Termenul s-a mutat de trei ori
+### Termenul s-a tot mutat
 tip: cronologie
-- Primul termen: 31 august 2026, până la Săbăoani
+- În contracte: noiembrie 2025
+- Apoi: 31 august 2026, până la Săbăoani
 - Apoi: sfârșitul lui 2026
 - Acum: prima parte a lui 2027
-Ministrul spune că vremea rea încetinește lucrările. Un specialist în infrastructură spune că autostrada trebuia să ajungă la Pașcani încă de anul trecut.
+Ministrul spune că vremea rea încetinește lucrările. Asociația Pro Infrastructura spunea în septembrie că autostrada trebuia să ajungă la Pașcani încă de anul trecut.
+> „Termen de finalizare: noiembrie 2025” [2]
 > „Inițial, fostul ministru Ciprian Șerban a spus că tronsonul va fi deschis până la Săbăoani, la 31 august 2026.” [3]
 > „Ulterior, termenul pentru finalizarea A7 până la Săbăoani a fost mutat până la finele anului 2026, iar acum a fost modificat din nou: doar sectorul până la Roman Sud ar urma să fie dat în circulație până la 31 decembrie. La Săbăoani, Autostrada A7 va ajunge „în prima parte a anului 2027”.” [3]
 > „„Din păcate, lucrările sunt îngreunate pe autostrada Bacău-Pașcani, din cauza condițiilor meteorologice nefavorabile”, a spus ministrul.” [5]
 > „„Trebuia să fim la Pașcani anul trecut”, afirma reprezentantul Pro Infrastructura.” [5]
+> „Reprezentantul Asociației Pro Infrastructura, Ionuț Ciurea, explica pentru HotNews în luna septembrie că practic toate șantierele în lucru de pe A7 și care au rămas de finalizat ar fi trebuit să fie gata încă de aproape acum un an.” [5]
 
 ### Ce poate încurca din nou termenul
 tip: listă
 - Vremea
-- Banii: după programul european de redresare (PNRR), lucrările se plătesc de la bugetul statului
-Așa spune chiar șeful companiei de drumuri a statului.
+- Banii: după ce se încheie PNRR, programul cu bani europeni, restul lucrărilor se plătesc din bugetul statului
+Așa spune șeful companiei de drumuri a statului (CNAIR).
 > „El a precizat că respectarea calendarului depinde de condițiile meteo și de finanțare, lucrările rămase urmând să fie plătite de la bugetul de stat după încheierea PNRR.” [3]
 
 ### Mai departe, spre Suceava
 tip: cifră
 - 62 km
-are bucata Pașcani – Suceava, pentru care poate începe proiectarea, cu bani din programul european SAFE.
+are bucata Pașcani – Suceava, pentru care poate începe proiectarea, printr-un program european nou, numit SAFE.
 > „Totodată, acesta a anunțat că operaționalizarea programului european SAFE permite demararea proiectării următorului tronson al Autostrăzii Moldovei, între Pașcani și Suceava, în lungime de 62 de kilometri.” [4]
 
 ## Articol
@@ -87,14 +91,14 @@ Dacă termenul e respectat, la sfârșitul anului se va putea merge pe autostrad
 
 ### Ce urmează
 
-Bucata de la Bacău la Pașcani are 77 de kilometri, împărțiți în trei loturi. După ministru, la începutul anului viitor s-ar deschide încă 19 kilometri, de la Roman Sud la Mircești. Pentru restul, până la Pașcani, ministrul a dat termene diferite: „prima parte a anului 2027” într-o declarație, iar în alta mijlocul anului viitor, „chiar puțin peste”.
+Bucata de la Bacău la Pașcani are 77 de kilometri, împărțiți în trei loturi. După ministru, la începutul anului viitor s-ar deschide încă 19 kilometri, de la Roman Sud la Mircești. Pentru restul, până la Pașcani, ministrul a dat termene diferite: „prima parte a anului 2027” într-o declarație scrisă, iar pe șantier mijlocul anului viitor, „chiar puțin peste”.
 > „A7 de la Bacău la Pașcani are o lungime de 77 de kilometri, împărțiți pe trei loturi.” [5]
 > „La începutul anului viitor vom da încă 19 km până la Mircești. Și diferența până la 49 de km, adică de la Roman Sud până la Pașcani, o vom da în circulație până la jumătatea anului viitor, chiar puțin peste jumătatea anului viitor.” [1]
 > „„În prima parte a anului 2027 lucrările vor fi finalizate până la Pașcani”, a mai spus Popa.” [5]
 
-[card: Ce urmează în 2027]
+[card: Ce urmează: Roman, Mircești, Pașcani]
 
-Compania Națională de Administrare a Infrastructurii Rutiere (CNAIR), care se ocupă de autostrăzi, spune că lucrările au ajuns la 83% pe primul lot, 70% pe al doilea și 62% pe al treilea. Pe toate trei lucrează același constructor, UMB.
+Compania Națională de Administrare a Infrastructurii Rutiere (CNAIR), care se ocupă de autostrăzi, spune că lucrările au ajuns la 83% pe primul lot, 70% pe al doilea și 62% pe al treilea. Pe toate trei lucrează același constructor, UMB. La vizită au fost și lideri politici, care au lăudat ritmul lucrărilor.
 > „„Lucrările au ajuns la 83% pe lotul 1, la 70% pe lotul 2 și la 62% pe lotul 3.”, a transmis marți, 24 noiembrie 2026, directorul de la Compania de Drumuri, Cristian Pistol, pe o rețea socială .” [2]
 > „„Pe cele trei loturi, în lungime totală de 77 km, constructorul român (UMB) este mobilizat cu peste 1.500 de muncitori și mai mult de 900 de utilaje.” [3]
 
@@ -102,16 +106,17 @@ Compania Națională de Administrare a Infrastructurii Rutiere (CNAIR), care se 
 
 ### Termene mutate
 
-Nu e prima dată când termenul se schimbă. La început, se promisese că autostrada va ajunge la Săbăoani pe 31 august 2026. Apoi termenul s-a mutat la sfârșitul lui 2026, iar acum, până la 31 decembrie, ar urma să se deschidă doar porțiunea până la Roman Sud. Contractele aveau ca termen de finalizare luna noiembrie 2025.
+Nu e prima dată când termenul se schimbă. Contractele aveau ca termen de finalizare luna noiembrie 2025. Apoi, constructorul a promis că autostrada va ajunge la Săbăoani pe 31 august 2026 și la Pașcani pe 22 decembrie 2026. Termenul pentru Săbăoani s-a mutat la sfârșitul lui 2026, iar acum, până la 31 decembrie, ar urma să se deschidă porțiunea până la Roman Sud.
 > „Inițial, fostul ministru Ciprian Șerban a spus că tronsonul va fi deschis până la Săbăoani, la 31 august 2026.” [3]
 > „Ulterior, termenul pentru finalizarea A7 până la Săbăoani a fost mutat până la finele anului 2026, iar acum a fost modificat din nou: doar sectorul până la Roman Sud ar urma să fie dat în circulație până la 31 decembrie. La Săbăoani, Autostrada A7 va ajunge „în prima parte a anului 2027”.” [3]
 > „Termen de finalizare: noiembrie 2025” [2]
+> „Constructorul a anunțat că tronsonul Adjudu Vechi–Săbăoani, de 95 de kilometri, va fi gata până la 31 august 2026, iar ultimii 27 de kilometri (până la Pașcani), vor fi gata la 22 decembrie 2026.” [3]
 
 Ministrul spune că vremea rea îngreunează lucrările. Asociația Pro Infrastructura, care urmărește construcția drumurilor, spunea încă din septembrie că loturile rămase ar fi trebuit să fie gata de aproape un an.
 > „„Din păcate, lucrările sunt îngreunate pe autostrada Bacău-Pașcani, din cauza condițiilor meteorologice nefavorabile”, a spus ministrul.” [5]
 > „Reprezentantul Asociației Pro Infrastructura, Ionuț Ciurea, explica pentru HotNews în luna septembrie că practic toate șantierele în lucru de pe A7 și care au rămas de finalizat ar fi trebuit să fie gata încă de aproape acum un an.” [5]
 
-[card: Termenul s-a mutat de trei ori]
+[card: Termenul s-a tot mutat]
 
 Șeful CNAIR spune că noul calendar depinde de vreme și de bani. Lucrările rămase vor fi plătite de la bugetul statului, după ce se termină Planul Național de Redresare și Reziliență (PNRR), programul cu bani europeni din care s-a finanțat și această autostradă.
 > „El a precizat că respectarea calendarului depinde de condițiile meteo și de finanțare, lucrările rămase urmând să fie plătite de la bugetul de stat după încheierea PNRR.” [3]
@@ -121,7 +126,7 @@ Ministrul spune că vremea rea îngreunează lucrările. Asociația Pro Infrastr
 
 ### După Pașcani
 
-Ministrul a anunțat că a pornit programul european SAFE, din care vor fi plătite 9 loturi de drum de la Pașcani spre Siret și de la Pașcani spre Ungheni. Pentru bucata de autostradă Pașcani – Suceava, de 62 de kilometri, poate începe proiectarea, apoi construcția.
+Ministrul a anunțat că a pornit SAFE, un program european nou, din care vor fi plătite 9 loturi de drum de la Pașcani spre Siret și de la Pașcani spre Ungheni. Pentru bucata de autostradă Pașcani – Suceava, de 62 de kilometri, poate începe proiectarea, apoi construcția.
 > „Am avut discuțiile cu Finanțele, am primit creditele de angajament de 35 de miliarde de lei, așa că avem 9 loturi de la Pașcani la Siret și de la Pașcani la Ungheni.” [1]
 > „În plus, de astăzi este operaționalizat programul SAFE ceea ce permite începerea urgentă a fazei de proiectare și ulterior a fazei de execuție pe tronsonul dintre Pașcani și Suceava (62 km) al A7”, a mai transmis ministrul.” [4]
 

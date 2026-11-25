@@ -1,4 +1,4 @@
-### În ultimele 12 luni, de câte ori ai mers cu mașina, autocarul sau microbuzul din județul tău spre altă regiune a țării?
+### În ultimele 12 luni, de câte ori ai călătorit pe șosea în afara județului tău?
 
 | id | drumuri-lungi |
 |---|---|
@@ -20,39 +20,44 @@
 | measures | experience |
 | where | romania |
 | scale | Deloc sigur(ă) … Foarte sigur(ă) |
-| na | Nu circul pe drumurile naționale |
+| na | Nu circul pe acest drum |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### Cât de mult crezi termenele anunțate pentru deschiderea autostrăzii din regiunea ta?
+### Câtă încredere ai că porțiunile de autostradă din regiunea ta se vor deschide la termenele anunțate acum?
 
 | id | crezi-termenele |
 |---|---|
 | type | scale |
 | measures | trust |
 | where | romania |
-| scale | Deloc … Foarte mult |
+| scale | Deloc … Foarte multă |
 | na | Nu știu |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### Cât de mult s-ar schimba drumurile tale obișnuite dacă autostrada din regiunea ta ar fi gata pe toată lungimea în 2027?
+### Când se va deschide următoarea porțiune de autostradă din regiunea ta, cât de des crezi că o vei folosi?
 
-| id | ce-s-ar-schimba |
+| id | cat-de-des-autostrada |
 |---|---|
-| type | scale |
+| type | single |
 | measures | expectation |
 | where | romania |
-| scale | Deloc … Foarte mult |
-| na | Nu circul între orașe |
+| na | Nu circul cu mașina sau cu autocarul |
 
-### Pentru o autostradă în construcție în zona ta, ce ai prefera?
+1. Niciodată
+2. Mai rar de o dată pe lună
+3. Lunar
+4. Săptămânal
+5. Zilnic
+6. Nu știu
 
-| id | pe-bucati-sau-tot |
+### După ce se termină banii europeni din PNRR, lucrările rămase la autostrăzi se plătesc din bugetul statului. Ce ar trebui să conteze mai mult?
+
+| id | buget-autostrazi |
 |---|---|
 | type | single |
 | measures | tradeoff |
 | where | romania |
 
-1. Să se deschidă pe bucăți, pe rând, cum sunt gata
-2. Să se deschidă toată odată, la final
-3. Nu contează pentru mine
-4. Nu știu
+1. Terminarea autostrăzilor începute, chiar dacă rămân mai puțini bani pentru altceva
+2. Alte cheltuieli, chiar dacă autostrăzile se termină mai târziu
+3. Nu știu
