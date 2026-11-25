@@ -32,7 +32,8 @@
 1. Mai puțin de o oră
 2. Între una și trei ore
 3. Mai mult de trei ore
-4. Nu știu
+4. Trebuie să zbor sau să dorm pe drum
+5. Nu știu
 
 ### Ce ți-ar fi cel mai greu dacă ai depune la consulat o cerere pentru buletin?
 
@@ -45,17 +46,19 @@
 1. Să găsesc o programare
 2. Să ajung până la consulat
 3. Să-mi iau liber de la muncă
-4. Să adun actele în original
+4. Să plătesc drumul
 5. Să obțin dovada domiciliului din România
-6. Nimic din toate acestea
-7. Altceva
+6. Să adun celelalte acte în original
+7. Nu mi-ar fi greu nimic
+8. Altceva
 
-### Câtă încredere ai că vei găsi ușor o programare la consulat pentru buletinul electronic?
+### Cât de greu crezi că va fi să găsești o programare la consulat pentru buletinul electronic?
 
-| id | incredere-programare |
+| id | greu-programare |
 |---|---|
 | type | scale |
-| measures | trust |
+| measures | expectation |
 | where | diaspora |
-| scale | Nicio încredere … Foarte multă încredere |
+| scale | Foarte greu … Foarte ușor |
+| na | Nu voi cere buletinul la consulat |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |

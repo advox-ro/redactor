@@ -18,7 +18,7 @@ quiz: buletin-la-consulat
 
 ### Cererea, la consulat
 tip: text
-Românii care trăiesc în străinătate ar putea cere cartea electronică de identitate, adică buletinul electronic, direct la ambasade și consulate. Data de început e scrisă într-un proiect al Guvernului, care nu e încă adoptat.
+Românii care trăiesc în străinătate ar putea cere cartea electronică de identitate, adică buletinul electronic, direct la ambasade și consulate. Data de început, 2 decembrie, e scrisă într-un proiect al Guvernului, care nu e încă adoptat.
 > „Românii aflați în străinătate ar putea solicita Cartea Electronică de Identitate direct la consulate începând cu 2 decembrie 2026, potrivit unui proiect de Hotărâre de Guvern pus în dezbatere publică.” [1]
 
 ### Întâi, cei cu domiciliul în țară
@@ -36,9 +36,10 @@ tip: listă
 - Toate actele, în original
 - Dovada domiciliului din România
 - Acordul proprietarului, dacă locuința nu e a ta
-Dacă proprietarul locuinței e în România, își dă acordul printr-o procură sau o declarație la notar.
+Proprietarul aflat în România își dă acordul prin procură sau declarație la notar. Se lucrează la o dovadă a domiciliului obținută pe internet.
 > „Pentru depunerea cererii va fi necesară prezența personală la ghișeul consular, cu toate documentele cerute în original. Printre acestea se află și dovada domiciliului din România.” [1]
 > „Dacă solicitantul nu este proprietarul locuinței în care are domiciliul, iar proprietarul se află în România, acesta își poate da acordul printr-o procură sau o declarație notarială.” [2]
+> „Se lucrează și la o modalitate mai simplă pentru obținerea online a dovezii domiciliului și sper să avem vești bune curând pe acest proces.” [3]
 
 ### Cât durează trimiterea
 tip: comparație
@@ -48,29 +49,28 @@ Atât poate dura, cel mult, până ajunge buletinul la consulat. Nu e un termen 
 > „Termenul pentru trimiterea cărților electronice de identitate către ambasade și consulate va fi de cel mult 45 de zile lucrătoare pentru cererile depuse în țările Uniunii Europene și de cel mult 60 de zile lucrătoare pentru cele depuse în afara UE.” [2]
 > „Aceste intervale privesc expedierea documentelor către reprezentanțele României, nu un termen garantat pentru predarea lor solicitantului.” [1]
 
-### Buletinul vechi, nu se mai cere acolo
+### La consulat nu mai poți cere buletinul vechi
 tip: text
-Din aceeași zi, consulatele nu mai primesc cereri pentru buletinul de model vechi, din 1997. Ministerul spune că modelul vechi nu e recomandat pentru călătorii în străinătate.
+Când pornește noul serviciu, consulatele nu mai primesc cereri pentru buletinul de model vechi, din 1997. Ministerul spune că modelul vechi nu e recomandat pentru călătorii în străinătate.
 > „Totodată, MAE anunță că, de la 2 decembrie 2026, odată cu introducerea noului serviciu, ambasadele și consulatele nu vor mai prelua cereri pentru serviciile consulare legate de eliberarea cărții de identitate în formatul vechi, introdus în 1997.” [2]
 > „Ministerul le reamintește românilor că vechiul model de carte de identitate nu este recomandat pentru călătoriile în străinătate.” [2]
 
 ### Ce urmează
 tip: cronologie
-- Acum: proiectul e în dezbatere publică
+- Acum: proiectul poate fi citit și comentat de oricine
 - Apoi: Guvernul adoptă hotărârea
 - După: programări pe eConsulat.ro
-Până atunci nu se pot face programări. Ministrul spune că se lucrează la o dovadă a domiciliului care să se poată obține pe internet.
+Până atunci nu se pot face programări.
 > „Data de 2 decembrie este prevăzută în proiectul pus în transparență, însă deschiderea serviciului depinde de adoptarea Hotărârii de Guvern și de activarea procedurii.” [1]
 > „Anunțul privind proiectul nu înseamnă că programările pentru noul serviciu sunt deja disponibile.” [1]
 > „Acesta a explicat că, imediat ce actul normativ va fi adoptat în Guvern, programările se vor face pe eConsulat.ro.” [3]
-> „Se lucrează și la o modalitate mai simplă pentru obținerea online a dovezii domiciliului și sper să avem vești bune curând pe acest proces.” [3]
 
 ## Articol
 
 Românii care trăiesc în străinătate ar putea cere cartea electronică de identitate, numită pe scurt buletinul electronic, direct la ambasadele și consulatele României. Data de început, 2 decembrie, e scrisă într-un proiect de hotărâre a Guvernului pus în dezbatere publică, adică publicat ca oricine să-l poată citi și comenta înainte să fie adoptat.
 > „Românii aflați în străinătate ar putea solicita Cartea Electronică de Identitate direct la consulate începând cu 2 decembrie 2026, potrivit unui proiect de Hotărâre de Guvern pus în dezbatere publică.” [1]
 
-Anunțul l-a făcut marți ministrul Afacerilor Externe, Dan Neculăescu. El spune că serviciul pornește mai devreme decât se plănuise. Pregătirile tehnice și testele au fost făcute de Ministerul Afacerilor Externe (MAE) împreună cu Ministerul Afacerilor Interne.
+Anunțul l-a făcut marți ministrul Afacerilor Externe, Dan Neculăescu. El spune că autoritățile vor să pornească serviciul mai devreme decât se plănuise. Pregătirile tehnice și testele au fost făcute de Ministerul Afacerilor Externe (MAE) împreună cu Ministerul Afacerilor Interne.
 > „Anunțul a fost făcut marți de ministrul Afacerilor Externe, Dan Neculăescu, care spune că autoritățile vor să devanseze calendarul pentru introducerea acestui serviciu consular.” [1]
 > „Potrivit MAE, pregătirile tehnice și testele necesare pentru introducerea noului serviciu au fost realizate împreună cu Ministerul Afacerilor Interne.” [2]
 
@@ -87,7 +87,7 @@ Anunțul l-a făcut marți ministrul Afacerilor Externe, Dan Neculăescu. El spu
 
 ### Ce trebuie să aduci
 
-Cererea se depune doar mergând tu la ghișeul consulatului, cu toate actele în original, printre care și dovada domiciliului din România. Dacă locuința în care ai domiciliul nu e a ta, iar proprietarul e în România, el își poate da acordul printr-o procură sau o declarație făcută la notar.
+Cererea se depune doar mergând tu la ghișeul consulatului, cu toate actele în original, printre care și dovada domiciliului din România. Dacă locuința în care ai domiciliul nu e a ta, iar proprietarul e în România, el își poate da acordul printr-o procură (o împuternicire scrisă) sau o declarație făcută la notar.
 > „Pentru depunerea cererii va fi necesară prezența personală la ghișeul consular, cu toate documentele cerute în original. Printre acestea se află și dovada domiciliului din România.” [1]
 > „Dacă solicitantul nu este proprietarul locuinței în care are domiciliul, iar proprietarul se află în România, acesta își poate da acordul printr-o procură sau o declarație notarială.” [2]
 
@@ -107,13 +107,13 @@ După ce depui cererea, buletinul este trimis la consulat în cel mult 45 de zil
 
 ### Buletinul vechi
 
-Din 2 decembrie, odată cu noul serviciu, ambasadele și consulatele nu vor mai primi cereri pentru buletinul de model vechi, cel introdus în 1997. Ministerul le amintește românilor că modelul vechi nu e recomandat pentru călătoriile în străinătate.
+Odată cu noul serviciu, de la data când pornește, ambasadele și consulatele nu vor mai primi cereri pentru buletinul de model vechi, cel introdus în 1997. Ministerul le amintește românilor că modelul vechi nu e recomandat pentru călătoriile în străinătate.
 > „Totodată, MAE anunță că, de la 2 decembrie 2026, odată cu introducerea noului serviciu, ambasadele și consulatele nu vor mai prelua cereri pentru serviciile consulare legate de eliberarea cărții de identitate în formatul vechi, introdus în 1997.” [2]
 > „Ministerul le reamintește românilor că vechiul model de carte de identitate nu este recomandat pentru călătoriile în străinătate.” [2]
 
 ### Ce urmează
 
-Data de 2 decembrie e doar în proiect. Serviciul pornește după ce Guvernul adoptă hotărârea și procedura e pusă în funcțiune. Abia atunci se vor putea face programări, pe site-ul eConsulat.ro, unde alegi țara în care ești și serviciul „Carte Electronică de Identitate” și vezi lista completă a actelor.
+Data de 2 decembrie e doar în proiect. Serviciul pornește după ce Guvernul adoptă hotărârea și serviciul e pornit. Abia atunci se vor putea face programări, pe site-ul eConsulat.ro, unde alegi țara în care ești și serviciul „Carte Electronică de Identitate” și vezi lista completă a actelor.
 > „Data de 2 decembrie este prevăzută în proiectul pus în transparență, însă deschiderea serviciului depinde de adoptarea Hotărârii de Guvern și de activarea procedurii.” [1]
 > „După adoptarea Hotărârii de Guvern și activarea serviciului, românii vor putea intra pe platforma www.econsulat.ro, unde vor selecta țara în care se află și serviciul „Carte Electronică de Identitate”. Acolo vor putea verifica lista completă a documentelor necesare și vor putea face o programare.” [2]
 
