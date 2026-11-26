@@ -69,8 +69,8 @@ tip: listă
 - Bilet pentru bicicletă în trenurile Regio noi
 - Mesaj în aplicație despre cât întârzie trenul
 Aplicația este cea de cumpărat bilete online a CFR Călători.
-> „O altă noutate este posibilitatea achiziționării de bilete pentru biciclete la trenurile Regio operate cu rame electrice PESA.” [3]
-> „În plus, aplicația de cumpărare online a biletelor va include notificări de tip pop-up prin care călătorii vor putea primi informații despre durata întârzierilor trenurilor.” [3]
+> „Una dintre acestea vizează posibilitatea achiziționării biletelor pentru biciclete în trenurile Regio operate cu rame electrice PESA.” [3]
+> „Platforma va include notificări de tip pop-up, prin intermediul cărora utilizatorii vor putea primi informații despre întârzierile trenurilor și durata acestora.” [3]
 
 ### Reducerile rămân
 tip: listă
@@ -78,7 +78,7 @@ tip: listă
 - Bilet dus-întors: 10% reducere
 - Bilet cumpărat din timp: până la 10% reducere
 Rămân și abonamentele.
-> „CFR Călători amintește că pasagerii pot beneficia de mai multe oferte comerciale, printre care abonamente, cardul TrenPlus, care oferă o reducere de 25% la un număr nelimitat de bilete timp de un an, reducerea de 10% pentru călătoriile dus-întors și reduceri de până la 10% pentru biletele cumpărate în avans.” [3]
+> „Printre acestea se numără abonamentele, cardul TrenPlus, care oferă o reducere de 25% la bilete timp de un an, discountul de 10% pentru călătoriile dus-întors și reducerile de până la 10% pentru biletele cumpărate în avans.” [3]
 
 ## Articol
 
@@ -86,7 +86,7 @@ CFR Călători, compania de stat de transport feroviar de călători, schimbă o
 > „Noul Mers al Trenurilor 2026-2027 va intra în vigoare pe 13 decembrie 2026 și va fi valabil până pe 11 decembrie 2027. CFR Călători anunță că va pune zilnic în circulație aproximativ 1.000 de trenuri Regio, InterRegio și Intercity.” [2]
 
 Compania spune că a făcut orarul în funcție de câți oameni vor să călătorească, de starea căii ferate și de trenurile pe care le are.
-> „Potrivit companiei, noul plan de circulație a fost stabilit în funcție de cererea de transport, condițiile de exploatare a infrastructurii și materialul rulant disponibil.” [3]
+> „Programul a fost stabilit în funcție de solicitările călătorilor, de condițiile de circulație pe infrastructura feroviară și de trenurile disponibile, se arată într-un comunicat.” [2]
 
 [card: Orar nou de la 13 decembrie]
 
@@ -111,10 +111,10 @@ Compania folosește acum 12 rame Alstom și șapte rame PESA, adică trenuri ele
 > „În prezent, compania operează 12 rame Alstom Coradia Stream, șapte rame PESA și 16 locomotive TRAXX Alstom. Până la finalul anului 2027, flota ar urma să ajungă la 24 de rame Alstom, 22 de rame PESA InterRegio și 37 de rame PESA Regio.” [2]
 > „Compania feroviară de stat anunță că față de aproape 20 de trenuri moderne pe care le operează în prezent, la anul va ajunge la peste 80 de rame, care vor circula pe toate tipurile de trenuri, inclusiv Regio.” [1]
 
-Ramele Alstom sunt prevăzute pe rutele București – Suceava, București – Iași, București – Galați și Iași – Cluj-Napoca. Ramele PESA ar urma să meargă, printre altele, pe rutele București – Călărași, Suceava – Constanța și Brașov – Cluj-Napoca. Până sosesc toate ramele PESA, o parte dintre trenurile Regio vor circula tot cu locomotivă și vagoane obișnuite: Adevărul scrie „o parte”, Știri pe surse „o mare parte”.
-> „Potrivit planului anunțat, trenuri InterRegio formate din rame Alstom Coradia Stream sunt prevăzute pe rutele București Nord – Suceava, București Nord – Iași, București Nord – Galați și Iași – Cluj-Napoca.” [3]
-> „Ramele PESA vor fi utilizate pentru trenuri InterRegio pe relațiile București Nord – Călărași, Suceava – Constanța, Brașov – Cluj-Napoca, Reșița Nord – Timișoara Nord – Arad și Cluj-Napoca – Craiova – București Nord.” [3]
-> „Compania precizează că, până la preluarea ramelor PESA, o mare parte dintre trenurile Regio planificate vor circula în compunere clasică, cu locomotive și vagoane.” [3]
+Ramele Alstom sunt prevăzute pe rutele București – Suceava, București – Iași, București – Galați și Iași – Cluj-Napoca. Ramele PESA ar urma să meargă, printre altele, pe rutele București – Călărași, Suceava – Constanța și Brașov – Cluj-Napoca. Până sosesc toate ramele PESA, o parte dintre trenurile Regio vor circula tot cu locomotivă și vagoane obișnuite: Adevărul scrie „o parte”, DC News „o mare parte”.
+> „Trenurile Alstom Coradia Stream sunt prevăzute pentru curse InterRegio pe rutele București Nord – Suceava, București Nord – Iași, București Nord – Galați și Iași – Cluj-Napoca.” [2]
+> „Ramele PESA vor fi introduse pe mai multe trasee InterRegio, printre care București – Călărași, Suceava – Constanța, Brașov – Cluj-Napoca, Reșița Nord – Timișoara Nord – Arad și Cluj-Napoca – Craiova – București.” [2]
+> „Până la preluarea ramelor electrice PESA de către CFR Călători, o mare parte dintre trenurile Regio planificate vor circula în compunere clasică, cu locomotive și vagoane.” [4]
 > „Până la preluarea tuturor ramelor PESA, o parte dintre aceste curse vor fi asigurate cu locomotive și vagoane clasice.” [2]
 
 [card: Mai multe trenuri noi]
@@ -137,13 +137,13 @@ Pentru trenurile spre Republica Moldova și Ucraina, biletele nu se pot cumpăra
 Biletele pentru noul orar se vând din 2 decembrie, online, pe site-ul companiei sau în aplicația „CFR Călători bilete online”, la automatele din gări, la casele de bilete și la agențiile de voiaj. În trenurile Regio noi se va putea cumpăra bilet pentru bicicletă. Aplicația va arăta și un mesaj despre cât întârzie trenul.
 > „Biletele pentru trenurile care vor circula în zilele de 11 și 12 decembrie 2026, precum și pentru cursele programate în noul Mers al Trenurilor, începând cu 13 decembrie, vor fi disponibile din 2 decembrie 2026.” [2]
 > „Acestea vor putea fi cumpărate online, de pe site-ul CFR Călători sau prin aplicația mobilă „CFR Călători bilete online”, dar și de la automatele din gări, casele de bilete și agențiile de voiaj.” [2]
-> „O altă noutate este posibilitatea achiziționării de bilete pentru biciclete la trenurile Regio operate cu rame electrice PESA.” [3]
-> „În plus, aplicația de cumpărare online a biletelor va include notificări de tip pop-up prin care călătorii vor putea primi informații despre durata întârzierilor trenurilor.” [3]
+> „Una dintre acestea vizează posibilitatea achiziționării biletelor pentru biciclete în trenurile Regio operate cu rame electrice PESA.” [3]
+> „Platforma va include notificări de tip pop-up, prin intermediul cărora utilizatorii vor putea primi informații despre întârzierile trenurilor și durata acestora.” [3]
 
 [card: Mici schimbări pentru călători]
 
 Reducerile de până acum rămân: cardul TrenPlus dă 25% reducere la bilete timp de un an, biletul dus-întors are 10% reducere, iar cel cumpărat din timp, până la 10%.
-> „CFR Călători amintește că pasagerii pot beneficia de mai multe oferte comerciale, printre care abonamente, cardul TrenPlus, care oferă o reducere de 25% la un număr nelimitat de bilete timp de un an, reducerea de 10% pentru călătoriile dus-întors și reduceri de până la 10% pentru biletele cumpărate în avans.” [3]
+> „Printre acestea se numără abonamentele, cardul TrenPlus, care oferă o reducere de 25% la bilete timp de un an, discountul de 10% pentru călătoriile dus-întors și reducerile de până la 10% pentru biletele cumpărate în avans.” [3]
 
 [card: Reducerile rămân]
 
@@ -151,4 +151,5 @@ Reducerile de până acum rămân: cardul TrenPlus dă 25% reducere la bilete ti
 
 1. Noul Mers al Trenurilor va intra în vigoare pe 13 decembrie — Radio România Actualități. https://www.romania-actualitati.ro/stiri/romania/noul-mers-al-trenurilor-va-intra-in-vigoare-pe-13-decembrie-id238129.html
 2. Noul Mers al Trenurilor 2026-2027: vor fi trenuri mai rapide spre marile orașe și rute noi — Adevărul. https://adevarul.ro/stiri-interne/evenimente/noul-mers-al-trenurilor-2026-2027-vor-fi-trenuri-2574373.html
-3. CFR Călători introduce noul Mers al Trenurilor 2026-2027 — Știri pe surse. https://www.stiripesurse.ro/cfr-calatori-noul-mers-al-trenurilor-rute-trenuri_3939786
+3. Mersul Trenurilor 2027. Trenuri mai rapide și rute noi — Realitatea. https://www.realitatea.net/stiri/social/mersul-tenurilor-2027-trenuri-mai-rapide-si-rute-noi-ce-modoficari-mai-pregateste-cfr-ewco7b
+4. Mersul trenurilor se schimbă din decembrie, anunță CFR. Noi rute, reduceri și trenuri modernizate — DC News. https://www.dcnews.ro/mersul-trenurilor-schimba-decembrie-anunta-cfr-rute-reduceri_1098675.html
