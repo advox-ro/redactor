@@ -1,9 +1,9 @@
 ---
 title: Noul mers al trenurilor
-summary: Din 13 decembrie, trenurile CFR Călători circulă după un orar nou. Unele drumuri se scurtează, apar legături noi, iar câteva trenuri dispar.
+summary: Din 13 decembrie, CFR Călători are un orar nou. Unele călătorii durează mai puțin, apar legături noi, iar unele trenuri externe se opresc.
 tags: [transport, servicii publice]
 date: 2026-11-25
-stat: { value: "1.000", label: "de trenuri pe zi va pune în circulație CFR Călători, după noul mers al trenurilor", quote: "CFR Călători anunță că va pune zilnic în circulație aproximativ 1.000 de trenuri Regio, InterRegio și Intercity.", source: 2 }
+stat: { value: "1.000", label: "de trenuri pe zi, aproximativ, va pune în circulație CFR Călători în noul orar", quote: "CFR Călători anunță că va pune zilnic în circulație aproximativ 1.000 de trenuri Regio, InterRegio și Intercity.", source: 2 }
 image:
   src: /photos/mers-trenuri-2027.jpg
   alt: Un tren electric nou al CFR Călători trece pe un viaduct, lângă Cernavodă
@@ -21,20 +21,20 @@ tip: cronologie
 - 2 decembrie: se pun în vânzare biletele
 - 13 decembrie: intră în vigoare noul mers al trenurilor
 - 11 decembrie 2027: până atunci e valabil
-Orarul nou e pentru trenurile CFR Călători, compania de stat care duce călători cu trenul.
+Orarul nou e al CFR Călători, compania de stat de transport feroviar de călători.
 > „Noul Mers al Trenurilor 2026-2027 va intra în vigoare pe 13 decembrie 2026 și va fi valabil până pe 11 decembrie 2027.” [2]
 > „Biletele pentru trenurile care vor circula în zilele de 11 și 12 decembrie 2026, precum și pentru cursele programate în noul Mers al Trenurilor, începând cu 13 decembrie, vor fi disponibile din 2 decembrie 2026.” [2]
 
-### Mai repede spre trei orașe
+### Drumuri mai scurte, spune CFR
 tip: listă
-- București – Craiova: sub 3 ore, fără opriri pe drum
+- București – Craiova: un tren dus și unul întors, sub 3 ore, fără opriri
 - București – Brașov: în jur de 2 ore și 10 minute
 - București – Cluj-Napoca: sub 8 ore
-Așa ar urma să dureze drumul cu trenurile InterCity, cele mai rapide trenuri ale companiei.
+Așa ar urma să dureze drumul cu trenurile InterCity, după anunțul companiei.
 > „Va fi introdusă o pereche de trenuri InterCity, care vor circula fără opriri intermediare pe relația București-Nord și Craiova în mai puțin de 3 ore.” [1]
 > „Tot cu trenuri InterCity între București și Brașov, drumul se va străbate în aproximativ 2 ore și 10 minute, iar între București și Cluj-Napoca, timpul de parcurs revine la mai puțin de 8 ore.” [1]
 
-### Legături noi
+### Legături și trenuri schimbate
 tip: listă
 - București – Drobeta-Turnu Severin: tren direct
 - București – Cluj-Napoca prin Deda: cu legătură spre Târgu Mureș
@@ -47,7 +47,7 @@ Cele două trenuri Regio Expres vor opri în mai multe stații, iar biletul va f
 ### Mai multe trenuri noi
 tip: listă
 - Acum: 12 rame Alstom și șapte rame PESA
-- Până la sfârșitul lui 2027: 24 de rame Alstom, 22 PESA InterRegio și 37 PESA Regio
+- Plănuit până la sfârșitul lui 2027: 24 de rame Alstom, 22 PESA InterRegio și 37 PESA Regio
 Ramele sunt trenuri electrice moderne. CFR Călători spune că va trece de la aproape 20 la peste 80, pe măsură ce le primește.
 > „În prezent, compania operează 12 rame Alstom Coradia Stream, șapte rame PESA și 16 locomotive TRAXX Alstom. Până la finalul anului 2027, flota ar urma să ajungă la 24 de rame Alstom, 22 de rame PESA InterRegio și 37 de rame PESA Regio.” [2]
 > „Compania feroviară de stat anunță că față de aproape 20 de trenuri moderne pe care le operează în prezent, la anul va ajunge la peste 80 de rame, care vor circula pe toate tipurile de trenuri, inclusiv Regio.” [1]
@@ -57,10 +57,12 @@ tip: listă
 - București – Sofia, Varna, Istanbul: trenurile nu vor circula
 - București – Ruse: doar până în aprilie 2027
 - București – Budapesta: din februarie 2027, pe alt traseu
-Motivul e același peste tot: lucrări la calea ferată, la granița cu Bulgaria și pe linia Drobeta-Turnu Severin – Caransebeș.
+- Vagoane modernizate în mai multe trenuri internaționale
+Trenurile spre Sofia, Varna și Istanbul nu circulă din cauza lucrărilor la granița cu Bulgaria. Cele spre Budapesta ocolesc o linie închisă pentru lucrări.
 > „În schimb, trenurile 460 și 461, care asigură legături între București și Sofia, Varna sau Istanbul, nu vor circula din cauza lucrărilor care afectează traficul feroviar la frontiera Giurgiu Nord – Ruse.” [2]
 > „De asemenea, trenurile 1094 și 1095, pe ruta București Nord – Ruse și retur, vor circula doar până în aprilie 2027.” [2]
 > „Începând din februarie 2027, trenurile internaționale 72, 73, 78 și 79, care circulă între București și Budapesta, vor avea traseul modificat prin Filiași și Târgu Jiu, ca urmare a închiderii liniei Drobeta-Turnu Severin – Caransebeș pentru lucrări la infrastructură.” [2]
+> „Modificări sunt anunțate și pentru trenurile care asigură legături cu alte țări. CFR Călători va introduce vagoane modernizate în compunerea mai multor garnituri internaționale, pentru îmbunătățirea condițiilor de transport.” [2]
 
 ### Mici schimbări pentru călători
 tip: listă
@@ -80,10 +82,10 @@ Rămân și abonamentele.
 
 ## Articol
 
-CFR Călători, compania de stat care transportă călători cu trenul, schimbă orarul trenurilor pe 13 decembrie. Noul mers al trenurilor va fi valabil un an, până pe 11 decembrie 2027. După anunțul companiei, vor circula în fiecare zi aproximativ 1.000 de trenuri: Regio, InterRegio și InterCity.
+CFR Călători, compania de stat de transport feroviar de călători, schimbă orarul trenurilor pe 13 decembrie. Noul mers al trenurilor va fi valabil un an, până pe 11 decembrie 2027. După anunțul companiei, vor circula în fiecare zi aproximativ 1.000 de trenuri: Regio, InterRegio și InterCity.
 > „Noul Mers al Trenurilor 2026-2027 va intra în vigoare pe 13 decembrie 2026 și va fi valabil până pe 11 decembrie 2027. CFR Călători anunță că va pune zilnic în circulație aproximativ 1.000 de trenuri Regio, InterRegio și Intercity.” [2]
 
-Compania spune că a făcut orarul după ce cer călătorii, după starea căii ferate și după trenurile pe care le are.
+Compania spune că a făcut orarul în funcție de câți oameni vor să călătorească, de starea căii ferate și de trenurile pe care le are.
 > „Potrivit companiei, noul plan de circulație a fost stabilit în funcție de cererea de transport, condițiile de exploatare a infrastructurii și materialul rulant disponibil.” [3]
 
 [card: Orar nou de la 13 decembrie]
@@ -94,14 +96,14 @@ Compania spune că a făcut orarul după ce cer călătorii, după starea căii 
 > „Va fi introdusă o pereche de trenuri InterCity, care vor circula fără opriri intermediare pe relația București-Nord și Craiova în mai puțin de 3 ore.” [1]
 > „Tot cu trenuri InterCity între București și Brașov, drumul se va străbate în aproximativ 2 ore și 10 minute, iar între București și Cluj-Napoca, timpul de parcurs revine la mai puțin de 8 ore.” [1]
 
-[card: Mai repede spre trei orașe]
+[card: Drumuri mai scurte, spune CFR]
 
 Apare și un tren direct între București și Drobeta-Turnu Severin, în ambele sensuri. Două trenuri între București și Cluj-Napoca vor trece prin Deda, unde călătorii vor avea legătură spre Târgu Mureș. Alte două trenuri între București și Brașov devin Regio Expres: vor opri în mai multe stații, iar biletele vor fi mai ieftine.
 > „CFR Călători va introduce și o legătură directă cu trenuri InterRegio între București Nord și Drobeta-Turnu Severin, în ambele sensuri.” [2]
 > „Totodată, trenurile IR 1645 și IR 1646 vor circula între București și Cluj-Napoca, prin Deda, unde vor fi asigurate conexiuni către și dinspre Târgu Mureș.” [2]
 > „Alte două trenuri, IR 1633 și IR 1638, care circulă între București și Brașov, vor trece în categoria Regio Expres. Acestea vor opri în mai multe stații de interes, iar biletele vor avea tarife mai mici.” [2]
 
-[card: Legături noi]
+[card: Legături și trenuri schimbate]
 
 ### Trenuri noi, pe măsură ce sosesc
 
@@ -109,19 +111,21 @@ Compania folosește acum 12 rame Alstom și șapte rame PESA, adică trenuri ele
 > „În prezent, compania operează 12 rame Alstom Coradia Stream, șapte rame PESA și 16 locomotive TRAXX Alstom. Până la finalul anului 2027, flota ar urma să ajungă la 24 de rame Alstom, 22 de rame PESA InterRegio și 37 de rame PESA Regio.” [2]
 > „Compania feroviară de stat anunță că față de aproape 20 de trenuri moderne pe care le operează în prezent, la anul va ajunge la peste 80 de rame, care vor circula pe toate tipurile de trenuri, inclusiv Regio.” [1]
 
-Trenurile Alstom sunt plănuite între București și Suceava, Iași și Galați, precum și între Iași și Cluj-Napoca. Ramele PESA ar urma să meargă, printre altele, între București și Călărași, Suceava și Constanța, Brașov și Cluj-Napoca. Până sosesc toate ramele PESA, multe trenuri Regio vor circula tot cu locomotivă și vagoane obișnuite.
+Ramele Alstom sunt prevăzute pe rutele București – Suceava, București – Iași, București – Galați și Iași – Cluj-Napoca. Ramele PESA ar urma să meargă, printre altele, pe rutele București – Călărași, Suceava – Constanța și Brașov – Cluj-Napoca. Până sosesc toate ramele PESA, o parte dintre trenurile Regio vor circula tot cu locomotivă și vagoane obișnuite: Adevărul scrie „o parte”, Știri pe surse „o mare parte”.
 > „Potrivit planului anunțat, trenuri InterRegio formate din rame Alstom Coradia Stream sunt prevăzute pe rutele București Nord – Suceava, București Nord – Iași, București Nord – Galați și Iași – Cluj-Napoca.” [3]
 > „Ramele PESA vor fi utilizate pentru trenuri InterRegio pe relațiile București Nord – Călărași, Suceava – Constanța, Brașov – Cluj-Napoca, Reșița Nord – Timișoara Nord – Arad și Cluj-Napoca – Craiova – București Nord.” [3]
 > „Compania precizează că, până la preluarea ramelor PESA, o mare parte dintre trenurile Regio planificate vor circula în compunere clasică, cu locomotive și vagoane.” [3]
+> „Până la preluarea tuturor ramelor PESA, o parte dintre aceste curse vor fi asigurate cu locomotive și vagoane clasice.” [2]
 
 [card: Mai multe trenuri noi]
 
 ### Spre alte țări
 
-Din cauza lucrărilor la granița dintre Giurgiu și Ruse, trenurile dintre București și Sofia, Varna sau Istanbul nu vor circula. Trenurile dintre București și Ruse vor merge doar până în aprilie 2027. Din februarie 2027, trenurile dintre București și Budapesta vor trece prin Filiași și Târgu Jiu, pentru că linia dintre Drobeta-Turnu Severin și Caransebeș se închide pentru lucrări.
+Din cauza lucrărilor la granița dintre Giurgiu și Ruse, trenurile dintre București și Sofia, Varna sau Istanbul nu vor circula. Trenurile dintre București și Ruse vor merge doar până în aprilie 2027. Din februarie 2027, trenurile dintre București și Budapesta vor trece prin Filiași și Târgu Jiu, pentru că linia dintre Drobeta-Turnu Severin și Caransebeș se închide pentru lucrări. CFR Călători spune și că va pune vagoane modernizate în mai multe trenuri internaționale.
 > „În schimb, trenurile 460 și 461, care asigură legături între București și Sofia, Varna sau Istanbul, nu vor circula din cauza lucrărilor care afectează traficul feroviar la frontiera Giurgiu Nord – Ruse.” [2]
 > „De asemenea, trenurile 1094 și 1095, pe ruta București Nord – Ruse și retur, vor circula doar până în aprilie 2027.” [2]
 > „Începând din februarie 2027, trenurile internaționale 72, 73, 78 și 79, care circulă între București și Budapesta, vor avea traseul modificat prin Filiași și Târgu Jiu, ca urmare a închiderii liniei Drobeta-Turnu Severin – Caransebeș pentru lucrări la infrastructură.” [2]
+> „Modificări sunt anunțate și pentru trenurile care asigură legături cu alte țări. CFR Călători va introduce vagoane modernizate în compunerea mai multor garnituri internaționale, pentru îmbunătățirea condițiilor de transport.” [2]
 
 [card: Spre alte țări, câteva schimbări]
 
