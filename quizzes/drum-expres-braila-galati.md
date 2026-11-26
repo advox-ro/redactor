@@ -1,7 +1,7 @@
 - infrastructura-018
 - infrastructura-013
 
-### În ultimele 12 luni, cât de des ai mers pe drum (cu mașina, autobuzul sau microbuzul) dintr-un oraș al județului tău într-un oraș din județul vecin?
+### În ultimele 12 luni, cât de des ai mers din localitatea ta într-o localitate din alt județ?
 
 | id | drum-judet-vecin |
 |---|---|
@@ -16,9 +16,9 @@
 5. Mai rar de o dată pe lună
 6. Niciodată
 
-### Câtă încredere ai că șantierele de drumuri din zona ta sunt păzite bine?
+### Câtă încredere ai că drumurile noi din zona ta vor fi gata la termenul anunțat?
 
-| id | paza-santiere |
+| id | termen-drumuri-noi |
 |---|---|
 | type | scale |
 | measures | trust |
@@ -35,4 +35,4 @@
 | measures | expectation |
 | where | romania |
 | scale | Deloc … Foarte mult |
-| na | Nu circul pe drumurile din zona asta |
+| na | Nu circul cu mașina sau cu autobuzul în zona mea |

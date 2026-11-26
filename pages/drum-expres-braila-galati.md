@@ -19,14 +19,15 @@ quiz: drum-expres-braila-galati
 
 ### Nu se mai deschide anul acesta
 tip: text
-Drumul expres dintre Brăila și Galați e aproape gata, dar podul peste Siret nu poate fi terminat. Din șantier s-au furat piese, iar altele noi nu mai ajung anul acesta.
+Drumul expres dintre Brăila și Galați e aproape gata, dar podul peste Siret nu poate fi terminat. Din șantier s-au furat piese. După CNAIR, compania statului care se ocupă de drumurile naționale, altele noi nu mai ajung anul acesta.
 > „Drumul Expres Brăila–Galați , aflat la un stadiu de execuție de 99%, nu va putea fi deschis circulației până la sfârșitul acestui an, din cauza furtului unor componente structurale necesare podului peste Siret.” [4]
 > „Purtătorul de cuvânt al CNAIR, Alin Șerbănescu, a declarat pentru Adevărul că reprezentanții constructorului au confirmat că nu vor putea aduce în acest an componentele necesare înlocuirii celor furate.” [3]
 
 ### Ce s-a furat
 tip: text
-Hobane și piesele care le prind. Hobanele sunt cablurile groase de oțel care țin podul agățat de stâlpii lui. Fără ele, nu se poate turna partea pe care merg mașinile.
-> „Hoții au sustras hobane și elemente de prindere necesare finalizării podului peste Siret, cea mai complexă structură de pe traseul noului drum de mare viteză.” [2]
+După CNAIR, cabluri care țin podul, numite hobane, și piesele care le prind. Poliția vorbește de piese de prindere ale hobanelor și alte componente. Fără hobane, nu se poate turna partea pe care merg mașinile.
+> „Potrivit informațiilor comunicate de CNAIR, constructorul a reclamat dispariția cablurilor care susțin tablierul podului și a sistemelor de prindere, iar piesele de înlocuire nu vor ajunge pe șantier în 2026.” [4]
+> „Polițiștii efectuează cercetări în cadrul unui dosar penal pentru furt, după ce mai multe elemente de prindere a hobanelor și componente auxiliare ale acestora au fost sustrase de pe șantierul podului peste Siret, aferent Drumului Expres Galați-Brăila, a informat, joi, Inspectoratul de Poliție Județean (IPJ) Galați.” [1]
 > „Hobanele sunt cabluri de înaltă rezistență care transferă greutatea tablierului unui pod către pilonii de susținere.” [2]
 > „În lipsa lor, constructorul nu poate continua anumite etape ale lucrărilor, precum montarea și betonarea dalelor care formează platforma podului.” [2]
 
@@ -37,15 +38,25 @@ tip: comparație
 Atâtea hobane erau puse la începutul lui noiembrie, după Ministerul Transporturilor. Restul trebuie montate înainte ca podul să fie gata.
 > „La începutul lunii noiembrie, potrivit datelor Ministerului Transporturilor, fuseseră montate 64 dintre cele 96 de hobane prevăzute în proiect și doar 32 dintre cele 204 dale.” [2]
 
-### Un termen mutat de mai multe ori
+### 32 din 204 de plăci, montate
+tip: comparație
+- Montate: 32
+- În proiect: 204
+Dalele sunt plăcile de beton care formează partea podului pe care merg mașinile. Și ele trebuie puse înainte de deschidere.
+> „La începutul lunii noiembrie, potrivit datelor Ministerului Transporturilor, fuseseră montate 64 dintre cele 96 de hobane prevăzute în proiect și doar 32 dintre cele 204 dale.” [2]
+> „În lipsa lor, constructorul nu poate continua anumite etape ale lucrărilor, precum montarea și betonarea dalelor care formează platforma podului.” [2]
+
+### Termenele, unul după altul
 tip: cronologie
-- 2023: primul termen anunțat
+- 2023: primul termen de deschidere
+- 2024: termenul următor
 - Decembrie 2025: termenul din contract
-- Octombrie 2026: termenul dat în aprilie
-- Sfârșitul lui 2026: estimarea din august
+- Octombrie 2026: termenul dat de CNAIR în aprilie
+- Sfârșitul lui 2026: termenul dat de minister în august
 - Primăvara lui 2027: noua estimare
-CNAIR, compania statului care se ocupă de drumurile naționale, spune acum că drumul s-ar putea deschide în martie sau aprilie.
+Fiecare dată e momentul în care drumul trebuia deschis. Presa scrie acum că s-ar putea deschide în martie sau aprilie.
 > „Deschiderea Drumului Expres Brăila–Galați a fost anunțată inițial pentru 2023.” [2]
+> „Ulterior, perspectiva inaugurării a fost mutată succesiv în 2024, 2025 și 2026.” [2]
 > „Termenul contractual de finalizare a fost decembrie 2025.” [3]
 > „Ulterior, inaugurarea a fost amânată succesiv, iar în aprilie 2026 CNAIR avansa luna octombrie drept nou termen.” [3]
 > „În august 2026, Ministerul Transporturilor estima că drumul va fi deschis până la sfârșitul anului.” [3]
@@ -67,11 +78,12 @@ Poliția din Galați a deschis un dosar penal pentru furt. Furturile ar fi avut 
 
 ## Articol
 
-Drumul expres dintre Brăila și Galați, numit DEx6, nu se va mai deschide anul acesta, cum se anunțase. Din șantierul podului peste râul Siret s-au furat piese de care podul are nevoie, iar constructorul spune că nu poate aduce altele noi până la sfârșitul anului.
+Drumul expres dintre Brăila și Galați, numit DEx6, nu se va mai deschide anul acesta, cum se anunțase. Din șantierul podului peste râul Siret s-au furat piese de care podul are nevoie. După purtătorul de cuvânt al CNAIR, constructorul nu poate aduce altele noi până la sfârșitul anului. Ministrul Transporturilor anunțase de curând deschiderea în decembrie.
 > „Drumul Expres Brăila–Galați , aflat la un stadiu de execuție de 99%, nu va putea fi deschis circulației până la sfârșitul acestui an, din cauza furtului unor componente structurale necesare podului peste Siret.” [4]
 > „Purtătorul de cuvânt al CNAIR, Alin Șerbănescu, a declarat pentru Adevărul că reprezentanții constructorului au confirmat că nu vor putea aduce în acest an componentele necesare înlocuirii celor furate.” [3]
+> „Finalizat în procent de 99%, drumul expres Brăila – Galați (DEx6) nu va mai fi inaugurat în luna decembrie, așa cum anunțase recent ministrul Transporturilor.” [5]
 
-Un drum expres e un drum rapid, cu două benzi pe fiecare sens, ca o autostradă mai scurtă. Cel dintre Brăila și Galați are 10,76 kilometri. Ar urma să ia o parte din traficul de pe DN22B, inclusiv camioanele, și să ducă mai ușor de la Galați spre podul suspendat peste Dunăre de la Brăila, deschis în iulie 2023.
+Un drum expres e un drum rapid, apropiat de o autostradă. Cel dintre Brăila și Galați are 10,76 kilometri. Ar urma să ia o parte din traficul de pe DN22B, inclusiv camioanele, și să ducă mai ușor de la Galați spre podul suspendat peste Dunăre de la Brăila, deschis în iulie 2023.
 > „Drumul Expres Brăila–Galați (DEx6) are o lungime de 10,76 kilometri și va dispune de două benzi de circulație pe fiecare sens.” [2]
 > „Noua șosea va prelua o parte din traficul de pe DN22B, inclusiv traficul greu, și va facilita accesul dinspre Galați către podul suspendat peste Dunăre de la Brăila, inaugurat în iulie 2023.” [2]
 
@@ -80,11 +92,14 @@ Un drum expres e un drum rapid, cu două benzi pe fiecare sens, ca o autostradă
 ### Ce lipsește
 
 Compania Națională de Administrare a Infrastructurii Rutiere (CNAIR), care se ocupă de drumurile naționale, spune că lucrarea e gata în proporție de 99%. Pe 10 noiembrie, ministrul Transporturilor vorbea de 98%.
+> „Din cauza furtului, deși drumul expres Brăila – Galați este finalizat în proporție de 99%, lucrările nu pot avansa” [5]
 > „Drumul Expres Brăila–Galați , aflat la un stadiu de execuție de 99%, nu va putea fi deschis circulației până la sfârșitul acestui an, din cauza furtului unor componente structurale necesare podului peste Siret.” [4]
 > „La 10 noiembrie, ministrul Transporturilor, Ștefan Ovidiu Popa, anunța că Drumul Expres Brăila–Galați a ajuns la un stadiu fizic de 98%.” [3]
 
-Ce a rămas de făcut ține de podul peste Siret, cea mai grea parte a drumului. E un pod hobanat: platforma pe care merg mașinile e ținută de cabluri groase de oțel, numite hobane, prinse de stâlpi înalți. Hoții au luat hobane și piesele cu care se prind. Fără ele, constructorul nu poate pune și turna în beton plăcile (dalele) care formează platforma podului.
+Ce a rămas de făcut ține de podul peste Siret, cea mai grea parte a drumului. E un pod hobanat: platforma pe care merg mașinile e ținută de cabluri groase de oțel, numite hobane, prinse de stâlpi înalți. După CNAIR, s-au furat hobane și piesele cu care se prind. Poliția vorbește de piese de prindere ale hobanelor și alte componente. Fără hobane, constructorul nu poate pune și turna în beton plăcile (dalele) care formează platforma podului.
 > „Hoții au sustras hobane și elemente de prindere necesare finalizării podului peste Siret, cea mai complexă structură de pe traseul noului drum de mare viteză.” [2]
+> „Potrivit informațiilor comunicate de CNAIR, constructorul a reclamat dispariția cablurilor care susțin tablierul podului și a sistemelor de prindere, iar piesele de înlocuire nu vor ajunge pe șantier în 2026.” [4]
+> „Polițiștii efectuează cercetări în cadrul unui dosar penal pentru furt, după ce mai multe elemente de prindere a hobanelor și componente auxiliare ale acestora au fost sustrase de pe șantierul podului peste Siret, aferent Drumului Expres Galați-Brăila, a informat, joi, Inspectoratul de Poliție Județean (IPJ) Galați.” [1]
 > „Hobanele sunt cabluri de înaltă rezistență care transferă greutatea tablierului unui pod către pilonii de susținere.” [2]
 > „În lipsa lor, constructorul nu poate continua anumite etape ale lucrărilor, precum montarea și betonarea dalelor care formează platforma podului.” [2]
 
@@ -96,9 +111,12 @@ La începutul lui noiembrie, după datele Ministerului Transporturilor, erau mon
 
 [card: 64 din 96 de cabluri, montate]
 
-Nu se știe încă exact ce s-a furat. Autoritățile nu au spus câte piese lipsesc și nici cât valorează paguba.
+[card: 32 din 204 de plăci, montate]
+
+Nu se știe încă exact ce s-a furat. Autoritățile nu au spus câte piese lipsesc și nici cât valorează paguba. Purtătorul de cuvânt al CNAIR a numit urmările furturilor „o pagubă națională”.
 > „Rămâne de clarificat ce anume a fost furat și cum au fost scoase aceste componente de pe șantier.” [3]
 > „Autoritățile nu au comunicat public numărul exact al pieselor furate și nici valoarea prejudiciului.” [3]
+> „Reprezentantul CNAIR a caracterizat consecințele furturilor drept o „pagubă națională”, subliniind că inclusiv autorii acestora ar fi putut beneficia de noua infrastructură.” [2]
 
 ### Ancheta
 
@@ -108,25 +126,28 @@ Poliția din Galați a deschis un dosar penal pentru furt. După primele verific
 
 [card: Poliția face cercetări]
 
-Constructorul, o asociere de firme condusă de UMB, a făcut plângere la poliție. Purtătorul de cuvânt al CNAIR spune că pe șantier era o firmă de pază și că lucrurile trebuie lămurite de constructor cu poliția și cu firma de pază.
+Constructorul, o asociere de firme condusă de UMB, a făcut plângere la poliție. Purtătorul de cuvânt al CNAIR spune că pe șantier era sau fusese o firmă de pază și că lucrurile trebuie lămurite de constructor cu poliția și cu firma de pază.
 > „Contractul pentru construcția DEx6 a fost semnat în aprilie 2021 cu asocierea condusă de UMB Spedition, din care mai fac parte Tehnostrade și SA&PE Construct.” [3]
 > „Potrivit reprezentantului CNAIR, constructorul a depus plângere la Poliție. Acesta a arătat că pe șantier exista sau existase o firmă de pază, iar circumstanțele în care au dispărut componentele urmează să fie clarificate.” [4]
+> „Trebuie lămurită treaba de către constructori, atât cu Poliția, cât și cu firma de pază” [4]
 
 ### Când s-ar putea deschide
 
-Drumul trebuia deschis la început în 2023. Contractul, semnat în aprilie 2021, cerea ca lucrarea să fie gata în decembrie 2025. În aprilie 2026, CNAIR dădea ca termen luna octombrie, iar în august Ministerul Transporturilor spunea că drumul se deschide până la sfârșitul anului. Acum, după CNAIR, drumul s-ar putea deschide în primăvara lui 2027, cel mai probabil în martie sau aprilie.
+Drumul trebuia deschis la început în 2023. Termenul a fost mutat apoi, pe rând, în 2024, 2025 și 2026. Contractul, semnat în aprilie 2021, cerea ca lucrarea să fie gata în decembrie 2025. În aprilie 2026, CNAIR dădea ca termen luna octombrie, iar în august Ministerul Transporturilor spunea că drumul se deschide până la sfârșitul anului. Acum, după G4Media, care citează ziarul Adevărul, drumul s-ar putea deschide în primăvara lui 2027, cel mai probabil în martie sau aprilie.
 > „Deschiderea Drumului Expres Brăila–Galați a fost anunțată inițial pentru 2023.” [2]
+> „Ulterior, perspectiva inaugurării a fost mutată succesiv în 2024, 2025 și 2026.” [2]
 > „Contractul pentru construcția DEx6 a fost semnat în aprilie 2021 cu asocierea condusă de UMB Spedition, din care mai fac parte Tehnostrade și SA&PE Construct.” [3]
 > „Termenul contractual de finalizare a fost decembrie 2025.” [3]
 > „Ulterior, inaugurarea a fost amânată succesiv, iar în aprilie 2026 CNAIR avansa luna octombrie drept nou termen.” [3]
 > „În august 2026, Ministerul Transporturilor estima că drumul va fi deschis până la sfârșitul anului.” [3]
 > „Drumul expres ar putea fi inaugurat în primăvara lui 2027, cel mai probabil în martie sau aprilie.” [5]
 
-[card: Un termen mutat de mai multe ori]
+[card: Termenele, unul după altul]
 
-Constructorii pot lucra la unele părți de metal și iarna, dar podul nu poate fi terminat până nu ajung piesele noi. Contractul valorează 449,42 milioane de lei, fără TVA, și e plătit din Programul Transport 2021–2027.
+După CNAIR, constructorii pot lucra și iarna la părțile de metal, dar podul nu poate fi terminat până nu ajung piesele noi. Valoarea contractului a crescut de la 371,42 la aproximativ 449,42 milioane de lei, fără TVA. Banii vin din Programul Transport 2021–2027.
+> „Constructorii pot lucra la confecțiile metalice și iarna.” [4]
 > „Chiar dacă muncitorii pot executa alte lucrări în timpul iernii, finalizarea structurii depinde de sosirea și instalarea componentelor de înlocuire.” [2]
-> „Valoarea contractului de construcție este de 449,42 milioane de lei, fără TVA, potrivit datelor comunicate de CNAIR în luna august. Finanțarea este asigurată prin Programul Transport 2021–2027.” [2]
+> „Valoarea contractului a crescut de la 371,42 milioane de lei la aproximativ 449,42 milioane de lei, fără TVA, iar finanțarea este asigurată prin Programul Transport 2021–2027.” [3]
 
 ## Surse
 
