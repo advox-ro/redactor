@@ -1,30 +1,39 @@
-### Pentru medicamentele pe care le iei des, cât de mare e rezerva pe care o ai acasă?
+### Pentru medicamentul pe care îl iei cel mai des, pentru cât timp ai rezervă acasă?
 
 | id | rezerva-acasa |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Nu iau medicamente des |
+| na | Nu iau medicamente în mod regulat |
 
 1. Nicio rezervă
-2. Pentru câteva zile
-3. Pentru câteva săptămâni
-4. Pentru mai mult de o lună
+2. Mai puțin de o săptămână
+3. Între o săptămână și o lună
+4. Mai mult de o lună
 
-### În următorii doi ani, crezi că medicamentele de care ai nevoie vor lipsi din farmacii mai des sau mai rar decât acum?
+### Cât de mult crezi că regulile noi ale Uniunii Europene te vor ajuta să găsești mai ușor medicamentele de care ai nevoie, în următorii trei ani?
 
-| id | lipsa-viitor |
+| id | reguli-ue-ajutor |
 |---|---|
-| type | single |
+| type | scale |
 | measures | expectation |
 | where | romania |
-| na | Nu iau medicamente |
-| outlook | a: -1, b: 0, c: 1, d: 0 |
+| scale | Deloc … Foarte mult |
+| na | Nu știu |
 
-1. Mai des
-2. La fel de des
-3. Mai rar
+### Dacă ar trebui să alegi, ce ai prefera pentru medicamentele pe care le iei?
+
+| id | europa-sau-ieftin |
+|---|---|
+| type | single |
+| measures | tradeoff |
+| where | romania |
+| na | Nu iau medicamente |
+
+1. Fabricate în Europa, chiar dacă ar costa mai mult
+2. Cât mai ieftine, oriunde ar fi fabricate
+3. Depinde de medicament
 4. Nu știu
 
 ### Când cumperi un medicament, cât contează pentru tine în ce țară a fost fabricat?
@@ -37,19 +46,6 @@
 | scale | Deloc … Foarte mult |
 | na | Nu cumpăr medicamente |
 
-### Ce ai alege pentru medicamentele pe care le iei?
-
-| id | europa-sau-ieftin |
-|---|---|
-| type | single |
-| measures | tradeoff |
-| where | romania |
-| na | Nu iau medicamente |
-
-1. Medicamente fabricate în Europa, chiar dacă sunt mai scumpe
-2. Cele mai ieftine medicamente, oriunde ar fi fabricate
-3. Nu știu
-
 ### În ultimele 12 luni, ai cumpărat un antibiotic fără rețetă?
 
 | id | antibiotic-fara-reteta |
@@ -57,7 +53,7 @@
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Nu am luat antibiotice în ultimele 12 luni |
+| na | Nu am cumpărat antibiotice în ultimele 12 luni |
 
 1. Nu
 2. Da, o dată
