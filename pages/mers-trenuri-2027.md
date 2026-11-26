@@ -111,11 +111,9 @@ Compania folosește acum 12 rame Alstom și șapte rame PESA, adică trenuri ele
 > „În prezent, compania operează 12 rame Alstom Coradia Stream, șapte rame PESA și 16 locomotive TRAXX Alstom. Până la finalul anului 2027, flota ar urma să ajungă la 24 de rame Alstom, 22 de rame PESA InterRegio și 37 de rame PESA Regio.” [2]
 > „Compania feroviară de stat anunță că față de aproape 20 de trenuri moderne pe care le operează în prezent, la anul va ajunge la peste 80 de rame, care vor circula pe toate tipurile de trenuri, inclusiv Regio.” [1]
 
-Ramele Alstom sunt prevăzute pe rutele București – Suceava, București – Iași, București – Galați și Iași – Cluj-Napoca. Ramele PESA ar urma să meargă, printre altele, pe rutele București – Călărași, Suceava – Constanța și Brașov – Cluj-Napoca. Până sosesc toate ramele PESA, o parte dintre trenurile Regio vor circula tot cu locomotivă și vagoane obișnuite: Adevărul scrie „o parte”, DC News „o mare parte”.
+Ramele Alstom sunt prevăzute pe rutele București – Suceava, București – Iași, București – Galați și Iași – Cluj-Napoca. Ramele PESA ar urma să meargă, printre altele, pe rutele București – Călărași, Suceava – Constanța și Brașov – Cluj-Napoca.
 > „Trenurile Alstom Coradia Stream sunt prevăzute pentru curse InterRegio pe rutele București Nord – Suceava, București Nord – Iași, București Nord – Galați și Iași – Cluj-Napoca.” [2]
 > „Ramele PESA vor fi introduse pe mai multe trasee InterRegio, printre care București – Călărași, Suceava – Constanța, Brașov – Cluj-Napoca, Reșița Nord – Timișoara Nord – Arad și Cluj-Napoca – Craiova – București.” [2]
-> „Până la preluarea ramelor electrice PESA de către CFR Călători, o mare parte dintre trenurile Regio planificate vor circula în compunere clasică, cu locomotive și vagoane.” [4]
-> „Până la preluarea tuturor ramelor PESA, o parte dintre aceste curse vor fi asigurate cu locomotive și vagoane clasice.” [2]
 
 [card: Mai multe trenuri noi]
 
@@ -152,4 +150,3 @@ Reducerile de până acum rămân: cardul TrenPlus dă 25% reducere la bilete ti
 1. Noul Mers al Trenurilor va intra în vigoare pe 13 decembrie — Radio România Actualități. https://www.romania-actualitati.ro/stiri/romania/noul-mers-al-trenurilor-va-intra-in-vigoare-pe-13-decembrie-id238129.html
 2. Noul Mers al Trenurilor 2026-2027: vor fi trenuri mai rapide spre marile orașe și rute noi — Adevărul. https://adevarul.ro/stiri-interne/evenimente/noul-mers-al-trenurilor-2026-2027-vor-fi-trenuri-2574373.html
 3. Mersul Trenurilor 2027. Trenuri mai rapide și rute noi — Realitatea. https://www.realitatea.net/stiri/social/mersul-tenurilor-2027-trenuri-mai-rapide-si-rute-noi-ce-modoficari-mai-pregateste-cfr-ewco7b
-4. Mersul trenurilor se schimbă din decembrie, anunță CFR. Noi rute, reduceri și trenuri modernizate — DC News. https://www.dcnews.ro/mersul-trenurilor-schimba-decembrie-anunta-cfr-rute-reduceri_1098675.html
