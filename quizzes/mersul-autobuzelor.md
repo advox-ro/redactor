@@ -1,4 +1,4 @@
-### În ultimele 12 luni, de câte ori ai mers cu autobuzul, autocarul sau microbuzul într-un alt județ?
+### În ultimele 12 luni, de câte ori ai călătorit cu autobuzul, autocarul sau microbuzul dintr-un județ în altul? Un drum dus-întors se socotește o dată.
 
 | id | drumuri-alt-judet |
 |---|---|
@@ -12,23 +12,24 @@
 4. De 6–12 ori
 5. De peste 12 ori
 
-### Când mergi cu autobuzul într-un alt județ, de unde afli de obicei la ce oră pleacă?
+### Când călătorești cu autobuzul, autocarul sau microbuzul dintr-un județ în altul, de unde afli de obicei la ce oră pleacă?
 
 | id | de-unde-afli-ora |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Nu merg cu autobuzul într-un alt județ |
+| na | Nu călătoresc cu autobuzul dintr-un județ în altul |
 
-1. De pe site-ul firmei de transport
-2. Sun la firmă sau la autogară
-3. Întreb direct la autogară
-4. De la cunoscuți
-5. Din grupuri de pe rețelele sociale
-6. Altfel
+1. De pe site-ul sau aplicația firmei de transport
+2. De pe un site sau o aplicație cu cursele mai multor firme
+3. Sun la firma de transport
+4. Întreb la autogară
+5. De la cunoscuți
+6. Din grupuri de pe rețelele sociale
+7. Altfel
 
-### Cât de ușor îți este să afli orele autobuzelor dintre localitatea ta și alt județ?
+### Cât de ușor îți este să afli la ce oră pleacă autobuzele din localitatea ta spre alt județ?
 
 | id | usor-de-aflat |
 |---|---|
@@ -36,10 +37,10 @@
 | measures | satisfaction |
 | where | romania |
 | scale | Deloc ușor … Foarte ușor |
-| na | Nu caut astfel de curse |
+| na | Nu există astfel de curse din localitatea mea |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### Cât de probabil este să cauți o cursă pe platforma „Mersul autobuzelor” în următoarele 12 luni?
+### Cât de probabil este să cauți o cursă pe site-ul „Mersul autobuzelor” în următoarele 12 luni?
 
 | id | platforma-probabil |
 |---|---|
@@ -47,19 +48,19 @@
 | measures | expectation |
 | where | romania |
 | scale | Deloc probabil … Foarte probabil |
-| na | Nu călătoresc cu autobuzul între județe |
+| na | Nu călătoresc cu autobuzul dintr-un județ în altul |
 
-### Pentru un drum într-un alt județ, ce alegi de obicei când ai și tren, și autobuz?
+### Când mergi într-un alt județ, cu ce călătorești cel mai des?
 
-| id | tren-sau-autobuz |
+| id | cu-ce-in-alt-judet |
 |---|---|
 | type | single |
-| measures | tradeoff |
+| measures | experience |
 | where | romania |
-| na | Nu călătoresc între județe |
+| na | Nu călătoresc în alt județ |
 
-1. Trenul
-2. Autobuzul
-3. Ce e mai ieftin
-4. Ce ajunge mai repede
-5. Nu am de obicei de ales
+1. Cu autobuzul, autocarul sau microbuzul
+2. Cu trenul
+3. Cu mașina proprie
+4. Cu mașina altcuiva
+5. Altfel
