@@ -10,11 +10,12 @@
 2. Alocația pentru copii
 3. Indemnizația pentru creșterea copilului
 4. Un ajutor pentru încălzire
-5. Ajutorul de incluziune
+5. Ajutorul de incluziune, pentru familiile cu venituri mici
 6. O pensie
-7. Niciunul
+7. Alt ajutor de la stat
+8. Niciunul
 
-### Dacă banii pe care îi primește gospodăria ta de la stat ar rămâne în 2027 la fel ca acum, cât de greu v-ar fi să vă acoperiți cheltuielile?
+### Dacă sumele pe care le primește gospodăria ta de la stat ar rămâne în 2027 la fel ca acum, cât de greu ți-ar fi să acoperi cheltuielile casei?
 
 | id | greu-in-2027 |
 |---|---|
@@ -25,20 +26,19 @@
 | na | Nimeni din gospodăria mea nu primește bani de la stat |
 | outlook | 1: 1, 2: 0.5, 3: 0, 4: -0.5, 5: -1 |
 
-### Cum crezi că vor crește, în 2027, veniturile gospodăriei tale față de prețuri?
+### În 2027, crezi că gospodăria ta își va permite mai mult, la fel sau mai puțin decât acum?
 
-| id | venituri-fata-de-preturi |
+| id | ce-iti-permiti-2027 |
 |---|---|
 | type | single |
 | measures | expectation |
 | where | romania |
-| outlook | a: 1, b: 0, c: -0.5, d: -1, e: 0 |
+| outlook | a: 1, b: 0, c: -1, d: 0 |
 
-1. Mai repede decât prețurile
-2. La fel de repede ca prețurile
-3. Mai încet decât prețurile
-4. Nu vor crește deloc
-5. Nu știu
+1. Mai mult
+2. La fel
+3. Mai puțin
+4. Nu știu
 
 ### Dacă statul nu poate mări în 2027 totalul banilor pentru ajutoare, ce ai prefera?
 
@@ -48,17 +48,20 @@
 | measures | tradeoff |
 | where | romania |
 
-1. Fiecare ajutor să rămână la suma de acum, pentru toți cei care îl primesc
+1. Fiecare ajutor să rămână la suma de acum, chiar dacă cei cu venituri mici nu primesc mai mult
 2. Ajutoare mai mari pentru cei cu venituri mici, chiar dacă alții primesc mai puțin
-3. Nu știu
+3. Altceva
+4. Nu știu
 
-### Cât de sigur(ă) ești că vei primi la timp, în 2027, banii pe care îi ai de la stat?
+### Dacă statul nu poate cheltui mai mult în total pe salariile de la stat, ce ai prefera?
 
-| id | la-timp-2027 |
+| id | salarii-sau-angajati |
 |---|---|
-| type | scale |
-| measures | trust |
+| type | single |
+| measures | tradeoff |
 | where | romania |
-| scale | Deloc sigur(ă) … Foarte sigur(ă) |
-| na | Nu primesc bani de la stat |
-| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
+
+1. Salarii mai mari, cu mai puțini angajați la stat
+2. Salarii la fel ca acum, cu tot atâția angajați
+3. Altceva
+4. Nu știu
