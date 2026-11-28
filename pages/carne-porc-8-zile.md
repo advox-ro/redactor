@@ -3,7 +3,7 @@ title: Carnea proaspătă de porc, 8 zile
 summary: Din 19 decembrie, carnea proaspătă de porc se vinde cel mult 8 zile de la tăiere. Statul vizează fraudele; comercianții se tem de lipsuri.
 tags: [prețuri, siguranță]
 date: 2026-11-27
-stat: { value: "8 zile", label: "de la tăierea porcului se poate vinde carnea proaspătă ținută la rece, după noile reguli", quote: "Are un termen de valabilitate de maximum 8 zile de la data sacrificării", source: 2 }
+stat: { value: "8 zile", label: "de la tăierea porcului se poate vinde carnea proaspătă ținută la rece, după noile reguli", quote: "Carnea proaspătă de porc păstrată la rece va putea fi vândută doar 8 zile de la sacrificare", source: 2 }
 image:
   src: /photos/carne-porc-8-zile.jpg
   alt: Raft frigorific dintr-un supermarket, cu carne ambalată în caserole
@@ -19,14 +19,15 @@ quiz: carne-porc-8-zile
 ### Cel mult 8 zile de la tăiere
 tip: cifră
 - 8 zile
-Carnea proaspătă de porc, ținută la rece, se poate vinde ca proaspătă cel mult 8 zile de la tăierea animalului. Firmele care o taie în bucăți sau o ambalează nu pot pune un termen nou.
-> „Carnea proaspătă refrigerată: Are un termen de valabilitate de maximum 8 zile de la data sacrificării (conform certificatului sanitar-veterinar) și nu a fost supusă niciunui tratament de conservare.” [2]
-> „Fără prelungiri artificiale: Unitățile de tranșare și/sau ambalare nu au voie să stabilească un nou termen de valabilitate și nici să îl modifice pe cel stabilit inițial.” [2]
+Carnea proaspătă de porc, ținută la rece, se poate vinde ca proaspătă cel mult 8 zile de la tăierea animalului. Firmele care o taie în bucăți sau o ambalează nu pot pune un termen nou. Regula e aceeași pentru carnea din România și pentru cea din import.
+> „Carnea proaspătă de porc păstrată la rece va putea fi vândută doar 8 zile de la sacrificare, prevede un ordin comun al Ministrului Agriculturii, Autoritatea Sanitară Veterinară și Autoritatea pentru Protecția Consumatorilor ce va intra în vigoare din 19 decembrie.” [2]
+> „Carnea proaspătă de porc refrigerată va avea un termen de valabilitate de maximum opt zile de la data sacrificării, iar unitățile de tranșare și ambalare nu vor putea să prelungească sau să modifice termenul stabilit inițial, potrivit unui proiect de ordin comun al Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor (ANSVSA), Autorității Naționale pentru Protecția Consumatorilor (ANPC) și Ministerului Agriculturii și Dezvoltării Rurale (MADR).” [1]
+> „Măsura se aplică firmelor care sacrifică, tranșează, prelucrează, depozitează, transportă și vând carne de porc, indiferent dacă aceasta provine din România sau din alte țări ale Uniunii Europene sau din afara ei.” [2]
 
 ### Carnea decongelată nu mai e „proaspătă”
 tip: text
-Carnea care a fost congelată nu mai poate fi pusă în vânzare ca proaspătă, nici după ce e dezghețată, tăiată sau ambalată din nou. Ministerul Agriculturii spune că asta vrea să oprească.
-> „Interdicția recongelării: Carnea anterior congelată nu poate fi reintrodusă sub nicio formă în circuitul de comercializare refrigerată (nici după decongelare, tranșare sau reambalare), se precizează în postarea ministerului.” [2]
+Autoritățile vor să oprească vânzarea cărnii dezghețate drept carne proaspătă. Ministrul Agriculturii spune că oamenii trebuie să știe ce cumpără.
+> „Oficialul a subliniat că oamenii trebuie să știe dacă achiziționează carne proaspătă sau carne care a fost anterior congelată și ulterior decongelată.” [4]
 > „Una dintre problemele pe care autoritățile vor să le combată este vânzarea cărnii decongelate sub aparența cărnii proaspete.” [3]
 
 ### Ce scrie la vitrină
@@ -45,7 +46,7 @@ tip: cronologie
 - Două zile mai târziu: apar în Monitorul Oficial, spun comercianții
 - 19 decembrie: regulile intră în vigoare
 Regulile vin de la Ministerul Agriculturii, de la autoritatea care controlează siguranța alimentelor (ANSVSA) și de la Protecția Consumatorilor (ANPC). Se aplică cu câteva zile înainte de Crăciun.
-> „Pe 17 noiembrie 2026 a fost publicat pe site-ul MADR proiectul de ordin comun emis de ANSVSA , ANPC și MADR, un act normativ esențial care aduce reguli clare și stricte pentru operatorii economici din sectorul alimentar și o protecție sporită pentru consumatori, a anunțat marți MADR, într-o postare pe pagina de Facebook.” [2]
+> „Ministerul Agriculturii a anunțat încă din 17 noiembrie că proiectul ordinului privind comercializarea cărnii proaspete și congelate de porc a fost pus în consultare publică.” [4]
 > „De pe 19 decembrie, chiar în ajunul Ignatului, intră în vigoare o reglementare care limitează la maximum opt zile de la sacrificare termenul de valabilitate al cărnii proaspete de porc.” [3]
 > „Cele două organizații atrag atenția că ordinul comun al Ministerului Agriculturii, Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor (ANSVSA) și Autorității Naționale pentru Protecția Consumatorilor (ANPC) a fost publicat în Monitorul Oficial la doar două zile după ce textul a fost pus în dezbatere publică, fără consultări efective cu industria.” [3]
 
@@ -69,14 +70,15 @@ din carnea de porc de pe piața din România vine din import, mai ales din Spani
 
 ## Articol
 
-Carnea proaspătă de porc are reguli noi. Dacă e ținută la rece și nu a fost tratată ca să se păstreze mai mult, se poate vinde cel mult 8 zile de la tăierea animalului. Firmele care o taie în bucăți sau o ambalează nu mai pot pune un termen nou și nici nu-l pot schimba pe cel de la început.
-> „Carnea proaspătă refrigerată: Are un termen de valabilitate de maximum 8 zile de la data sacrificării (conform certificatului sanitar-veterinar) și nu a fost supusă niciunui tratament de conservare.” [2]
-> „Fără prelungiri artificiale: Unitățile de tranșare și/sau ambalare nu au voie să stabilească un nou termen de valabilitate și nici să îl modifice pe cel stabilit inițial.” [2]
+Carnea proaspătă de porc are reguli noi. Dacă e ținută la rece și nu a fost tratată ca să se păstreze mai mult, se poate vinde cel mult 8 zile de la tăierea animalului. Firmele care o taie în bucăți sau o ambalează nu mai pot pune un termen nou și nici nu-l pot schimba pe cel de la început. Regula e aceeași pentru carnea din România și pentru cea din import.
+> „Carnea proaspătă de porc păstrată la rece va putea fi vândută doar 8 zile de la sacrificare, prevede un ordin comun al Ministrului Agriculturii, Autoritatea Sanitară Veterinară și Autoritatea pentru Protecția Consumatorilor ce va intra în vigoare din 19 decembrie.” [2]
+> „Carnea proaspătă de porc refrigerată va avea un termen de valabilitate de maximum opt zile de la data sacrificării, iar unitățile de tranșare și ambalare nu vor putea să prelungească sau să modifice termenul stabilit inițial, potrivit unui proiect de ordin comun al Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor (ANSVSA), Autorității Naționale pentru Protecția Consumatorilor (ANPC) și Ministerului Agriculturii și Dezvoltării Rurale (MADR).” [1]
+> „Măsura se aplică firmelor care sacrifică, tranșează, prelucrează, depozitează, transportă și vând carne de porc, indiferent dacă aceasta provine din România sau din alte țări ale Uniunii Europene sau din afara ei.” [2]
 
 [card: Cel mult 8 zile de la tăiere]
 
 Regulile sunt scrise împreună de trei instituții: Ministerul Agriculturii, Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor (ANSVSA), care controlează cât de sigure sunt alimentele, și Autoritatea Națională pentru Protecția Consumatorilor (ANPC). Ministerul a pus textul în dezbatere pe 17 noiembrie. Comercianții spun că ordinul a apărut în Monitorul Oficial, unde se publică legile, la doar două zile după aceea; unele articole îl numesc încă proiect. Regulile intră în vigoare pe 19 decembrie, cu câteva zile înainte de Crăciun.
-> „Pe 17 noiembrie 2026 a fost publicat pe site-ul MADR proiectul de ordin comun emis de ANSVSA , ANPC și MADR, un act normativ esențial care aduce reguli clare și stricte pentru operatorii economici din sectorul alimentar și o protecție sporită pentru consumatori, a anunțat marți MADR, într-o postare pe pagina de Facebook.” [2]
+> „Ministerul Agriculturii a anunțat încă din 17 noiembrie că proiectul ordinului privind comercializarea cărnii proaspete și congelate de porc a fost pus în consultare publică.” [4]
 > „Măsura urmează să intre în vigoare pe 19 decembrie 2026, cu doar câteva zile înainte de Crăciun, iar reprezentanții industriei susțin că aplicarea acesteia ar putea fi dificilă.” [4]
 > „Cele două organizații atrag atenția că ordinul comun al Ministerului Agriculturii, Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor (ANSVSA) și Autorității Naționale pentru Protecția Consumatorilor (ANPC) a fost publicat în Monitorul Oficial la doar două zile după ce textul a fost pus în dezbatere publică, fără consultări efective cu industria.” [3]
 > „Carnea proaspătă de porc refrigerată va avea un termen de valabilitate de maximum opt zile de la data sacrificării, iar unitățile de tranșare și ambalare nu vor putea să prelungească sau să modifice termenul stabilit inițial, potrivit unui proiect de ordin comun al Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor (ANSVSA), Autorității Naționale pentru Protecția Consumatorilor (ANPC) și Ministerului Agriculturii și Dezvoltării Rurale (MADR).” [1]
@@ -85,8 +87,8 @@ Regulile sunt scrise împreună de trei instituții: Ministerul Agriculturii, Au
 
 ### Ce se schimbă la raft
 
-Carnea care a fost congelată nu mai poate fi vândută ca proaspătă, nici dacă e dezghețată, tăiată sau ambalată din nou. Ministrul Agriculturii spune că oamenii trebuie să știe dacă iau carne proaspătă sau carne care a fost congelată și apoi dezghețată.
-> „Interdicția recongelării: Carnea anterior congelată nu poate fi reintrodusă sub nicio formă în circuitul de comercializare refrigerată (nici după decongelare, tranșare sau reambalare), se precizează în postarea ministerului.” [2]
+Autoritățile spun că vor să oprească vânzarea cărnii dezghețate drept carne proaspătă. Ministrul Agriculturii spune că oamenii trebuie să știe dacă iau carne proaspătă sau carne care a fost congelată și apoi dezghețată.
+> „Practica vânzării cărnii decongelate sub aparența unui produs proaspăt reprezintă una dintre problemele pe care autoritățile vor să le combată.” [4]
 > „Oficialul a subliniat că oamenii trebuie să știe dacă achiziționează carne proaspătă sau carne care a fost anterior congelată și ulterior decongelată.” [4]
 
 [card: Carnea decongelată nu mai e „proaspătă”]
@@ -95,10 +97,6 @@ La carnea vândută neambalată, la vitrina de la care te servește vânzătorul
 > „Astfel, pentru carnea proaspătă comercializată neambalată, eticheta trebuie să indice clar tipul produsului, țara de origine, unitatea în care a fost produsă, data sacrificării, data producției sau a abatorizării și termenul de valabilitate, iar toate aceste date trebuie să fie vizibile și la vitrina cu servirea asistată.” [1]
 
 [card: Ce scrie la vitrină]
-
-ANSVSA va verifica de unde vine carnea, termenele și temperaturile la care a fost ținută. ANPC va verifica dacă cumpărătorii primesc informații corecte. Cine nu respectă regulile poate primi amendă, iar marfa poate fi retrasă sau confiscată.
-> „ANSVSA va verifica trasabilitatea produselor, respectarea termenelor de valabilitate, istoricul temperaturilor și bilanțul cantitativ, în timp ce ANPC va controla corectitudinea informațiilor furnizate consumatorilor și practicile comerciale.” [2]
-> „Potrivit MADR, nerespectarea prevederilor va putea atrage sancțiuni contravenționale, precum și măsuri de reținere oficială a produselor, retragere de pe piață, confiscare, suspendare a activității sau retragere a autorizației, în condițiile legislației în vigoare (conform HG nr. 984/2005).” [2]
 
 ### Ce spun comercianții
 
@@ -121,6 +119,12 @@ Vicepreședintele asociației comercianților mici și mijlocii spune că 70% di
 
 [card: Comercianții: 70% e din import]
 
+### Ce spun crescătorii
+
+Crescătorii de porci din Mureș, întrebați de Radio Târgu Mureș, salută regula. Ei spun că acum carnea proaspătă din import va fi mai greu de adus.
+> „În schimb, crescătorii mureșeni salută noua măsură, care ar putea fi unica salvare a crescătorilor de porcine.” [2]
+> „Importul de carne proaspătă va fi mult mai dificil de făcut, în condițiile în care din Spania, spre exemplu, de la procesul de sacrificare până la recepția mărfii și expunerea în magazine trec cel puțin 6 zile.” [2]
+
 ### Ce spune ministerul
 
 Ministerul Agriculturii a explicat regulile încă din 17 noiembrie, înainte ca asociațiile comercianților să le critice. Ministrul spune că regulile îi apără pe cumpărători de înșelăciuni și pe crescătorii români de concurența neloială. Articolele nu spun dacă ministerul le-a răspuns comercianților. Ministrul mai spune că termenul de opt zile e doar pentru carnea proaspătă ținută la rece, care nu a fost tratată ca să se păstreze mai mult.
@@ -133,6 +137,6 @@ Ministerul Agriculturii a explicat regulile încă din 17 noiembrie, înainte ca
 ## Surse
 
 1. Românii ar putea să nu găsească de sărbători carne de porc în magazine. Comercianți: „A venit, așa, ordinul într-o noapte” — Știrile ProTV. https://stirileprotv.ro/stiri/social/romanii-ar-putea-sa-nu-gaseasca-de-sarbatori-carne-de-porc-in-magazine-comercianti-a-venit-asa-ordinul-intr-o-noapte.html
-2. Reguli noi pentru vânzarea cărnii de porc înainte de Crăciun. Practica de „reîmprospătare”, interzisă — DC News. https://www.dcnews.ro/reguli-vanzarea-carnii-porc-craciun-practica-reimprospatare_1099134.html
+2. Perspective salvatoare pentru crescătorii de porci din Mureș — Radio Mureș. https://www.radiomures.ro/stiri/perspective-salvatoare-pentru-crescatorii-de-porci-din-mures.html
 3. Carnea de porc ar putea fi mai greu de găsit de Crăciun. Comercianții spun că termenul de 8 zile de la sacrificare, impus de stat, e imposibil de respectat — Spotmedia. https://spotmedia.ro/stiri/social/carnea-de-porc-ar-putea-fi-mai-greu-de-gasit-de-craciun-comerciantii-spun-ca-termenul-de-8-zile-de-la-sacrificare-impus-de-stat-e-imposibil-de-respectat
 4. Riscăm să rămânem fără carne de porc în magazine chiar înainte de Crăciun! Noua regulă care îi nemulțumește pe comercianți — Realitatea. https://www.realitatea.net/stiri/economie/riscam-sa-ramanem-fara-carne-de-porc-in-magazine-chiar-inainte-de-craciun-noua-regula-care-ii-nemultumeste-pe-comercianti-si-ar-putea-provoca-probleme-de-aprovizionare-nw42zs
