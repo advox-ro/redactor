@@ -7,11 +7,11 @@
 | where | romania |
 | na | Nu aveam nimic plănuit |
 
-1. Da, am amânat un drum
-2. Da, am schimbat alte planuri
-3. Nu
+1. Da
+2. Nu
+3. Încă nu știu
 
-### Când drumurile sunt acoperite de zăpadă, cât de des conduci totuși mașina?
+### Iarna trecută, când era zăpadă pe drum, cât de des ai condus?
 
 | id | condus-pe-zapada |
 |---|---|
@@ -20,23 +20,23 @@
 | where | romania |
 | na | Nu conduc |
 
-1. Ori de câte ori am nevoie
-2. Doar pentru drumuri urgente
+1. Ori de câte ori am avut nevoie
+2. Doar pentru deplasări urgente
 3. Niciodată
 
-### Dacă drumurile din zona ta ar fi blocate de zăpadă, câte zile te-ai descurca cu mâncarea pe care o ai acum în casă?
+### Iarna, înainte să pleci cu mașina în altă localitate, cât de des afli cum sunt drumurile?
 
-| id | rezerva-mancare |
+| id | aflu-starea-drumului |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
+| na | Nu merg cu mașina iarna |
 
-1. Mai puțin de o zi
-2. 1–2 zile
-3. 3–6 zile
-4. 7 zile sau mai mult
-5. Nu știu
+1. De fiecare dată
+2. De cele mai multe ori
+3. Uneori
+4. Niciodată
 
 ### În această iarnă, cât de des folosești în casă un aparat electric de încălzit (calorifer electric, aerotermă)?
 
@@ -51,12 +51,12 @@
 3. Rar
 4. Niciodată
 
-### Cât de bine crezi că se va descurca județul tău cu ninsoarea din acest weekend?
+### Cât de mult ții cont de avertizările de cod galben când îți faci planurile?
 
-| id | judet-ninsoare |
+| id | cod-galben-planuri |
 |---|---|
 | type | scale |
-| measures | expectation |
+| measures | experience |
 | where | romania |
-| scale | Foarte prost … Foarte bine |
-| outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
+| scale | Deloc … Foarte mult |
+| na | Nu știu |

@@ -1,10 +1,10 @@
 ---
 title: Ninsori și viscol în sud
-summary: Cod galben de ninsori și viscol până duminică seară. În Mehedinți, Dolj, Olt și Teleorman zăpada poate trece izolat de 25 cm.
+summary: Cod galben de ninsori și viscol până duminică seară. În Mehedinți, Dolj, Olt și Teleorman sunt așteptați 15–20 cm de zăpadă.
 tags: [vreme, transport, județ]
 counties: [VN, GL, BR, GR, CL, IF, IL, CT, MH, DJ, OT, TR]
 date: 2026-11-28
-stat: { value: "25 cm", label: "de zăpadă pot fi depășiți izolat în Mehedinți, Dolj, Olt și Teleorman, după prognoza ANM", quote: "În județele Mehedinți, Dolj, Olt și Teleorman va ninge consistent și se va depune un strat de zăpadă de 15-20 de cm și izolat de peste 25 cm.", source: 1 }
+stat: { value: "15–20 cm", label: "de zăpadă sunt așteptați în Mehedinți, Dolj, Olt și Teleorman, după prognoza ANM", quote: "În județele Mehedinți, Dolj, Olt și Teleorman va ninge consistent și se va depune un strat de zăpadă de 15-20 de cm și izolat de peste 25 cm.", source: 1 }
 image:
   src: /photos/ninsori-viscol-sud.jpg
   alt: Un parc din Galați acoperit de zăpadă, cu brazi și bănci albe
@@ -19,11 +19,11 @@ quiz: ninsori-viscol-sud
 
 ### Cod galben până duminică seară
 tip: text
-Meteorologii au dat avertizări de cod galben pentru zone din 16 județe și din București, de sâmbătă dimineață până duminică seară. Vin ninsori, vânt puternic, viscol și frig.
+Meteorologii au dat avertizări de cod galben pentru zone din 16 județe și din București, de sâmbătă dimineață până duminică seară. Vin ninsori, vânt puternic, viscol și frig. Pagina aceasta e pentru județele pe care meteorologii le numesc în avertizări.
 > „Administrația Națională de Meteorologie a emis mai multe atenționări de tip cod galben de vreme rea valabile până duminică seara, în zone din 16 județe și în Municipiul București.” [1]
 > „Cod Galben de ninsori viscolite, strat de zăpadă, intensificări ale vântului, răcire accentuată, valabil între 28 noiembrie, ora 10:00, și 29 noiembrie, ora 20:00” [1]
 
-### Unde se depune cea mai multă zăpadă
+### Câtă zăpadă se depune
 tip: listă
 - Mehedinți, Dolj, Olt, Teleorman: 15–20 cm, izolat peste 25 cm
 - Vrancea, Galați, Brăila, Giurgiu, Călărași, Ilfov, Ialomița, Constanța: 5–10 cm
@@ -34,16 +34,17 @@ Așa arată prognoza ANM pentru sâmbătă și noaptea spre duminică. Stratul n
 ### Vântul spulberă zăpada
 tip: cifră
 - 70 km/h
-pot avea rafalele de vânt în sudul Moldovei, în Dobrogea și în cea mai mare parte a Munteniei. Pe alocuri se va vedea la mai puțin de 100 de metri.
+pot ajunge rafalele de vânt, de obicei între 50 și 70 km/h, în sudul și sud-estul țării. Pe alocuri se va vedea la mai puțin de 100 de metri.
 > „Între 28 noiembrie, ora 10:00, și 29 noiembrie, ora 10:00 , e valabil și un cod galben de vânt. În sudul Moldovei, Dobrogea și cea mai mare parte a Munteniei vântul va avea intensificări cu viteze la rafală de 50 – 70 km/h.” [1]
 > „În primele ore ale intervalului în județele Vrancea, Galați și Brăila, iar după-amiază în județele Giurgiu, Călărași, Ilfov și local în județele Ialomița și Constanța, precum și în municipiul București, intensificările de vânt vor fi asociate temporar cu ninsoare, va fi viscol, iar vizibilitatea va scădea local sub 100 m.” [1]
 
 ### După ninsoare, ger
 tip: cronologie
-- Sâmbătă după-amiază: începe să ningă în sud
+- Sâmbătă: ninge, întâi în Vrancea, Galați și Brăila
 - Duminică: vântul ridică zăpada, ziua e tot sub zero în est și sud
-- Până la mijlocul săptămânii: dimineți și nopți geroase
+- Până la mijlocul săptămânii: pe alocuri, dimineți și nopți geroase
 Frigul rămâne și după ce trece codul galben.
+> „În primele ore ale intervalului în județele Vrancea, Galați și Brăila, iar după-amiază în județele Giurgiu, Călărași, Ilfov și local în județele Ialomița și Constanța, precum și în municipiul București, intensificările de vânt vor fi asociate temporar cu ninsoare, va fi viscol, iar vizibilitatea va scădea local sub 100 m.” [1]
 > „În Moldova ninsorile vor continua până în dimineața zilei de duminică, 29 noiembrie, iar de sâmbătă după-amiază va ninge și în regiunile sudice și se va depune strat de zăpadă cu grosimi în general de 5…15 cm și izolat de peste 25 cm.” [1]
 > „În sudul Moldovei, Dobrogea și cea mai mare parte a Munteniei vântul va continua să aibă intensificări cu viteze la rafală de 50…70 km/h, viscolind zăpada deja depusă și determinând scăderea vizibilității.” [1]
 > „Metrorologii avertizează că până la mijlocul săptămânii viitoare vremea va fi deosebit de rece, geroasă dimineața și noaptea în nordul, centrul, estul și local în sudul țării, unde temperaturile minime vor fi în general de -16….-14 grade.” [1]
@@ -71,7 +72,7 @@ Pompierii spun că aparatele electrice de încălzit, folosite mult, pot supraî
 
 ## Articol
 
-Administrația Națională de Meteorologie (ANM), instituția care face prognoza vremii, a dat avertizări de cod galben pentru zone din 16 județe și din București. Codul galben înseamnă vreme care poate fi periculoasă. Avertizările țin de sâmbătă, 28 noiembrie, ora 10:00, până duminică, 29 noiembrie, ora 20:00: ninsori, vânt puternic, viscol și o răcire bruscă.
+Administrația Națională de Meteorologie (ANM), instituția care face prognoza vremii, a dat avertizări de cod galben pentru zone din 16 județe și din București. Codul galben înseamnă vreme care poate fi periculoasă. Avertizările țin de sâmbătă, 28 noiembrie, ora 10:00, până duminică, 29 noiembrie, ora 20:00: ninsori, vânt puternic, viscol și o răcire puternică.
 > „Administrația Națională de Meteorologie a emis mai multe atenționări de tip cod galben de vreme rea valabile până duminică seara, în zone din 16 județe și în Municipiul București.” [1]
 > „Cod Galben de ninsori viscolite, strat de zăpadă, intensificări ale vântului, răcire accentuată, valabil între 28 noiembrie, ora 10:00, și 29 noiembrie, ora 20:00” [1]
 
@@ -84,14 +85,14 @@ Cea mai multă zăpadă e așteptată în Mehedinți, Dolj, Olt și Teleorman: u
 > „În județele Mehedinți, Dolj, Olt și Teleorman va ninge consistent și se va depune un strat de zăpadă de 15-20 de cm și izolat de peste 25 cm.” [1]
 > „Temporar vântul se va intensifica în județele Olt și Teleorman cu rafale în general de 55...60 km/h, va viscoli ninsoarea și vizibilitatea va scădea sub 100 m.” [2]
 
-În Vrancea, Galați și Brăila ninge de sâmbătă dimineață, iar de după-amiază și în Giurgiu, Călărași, Ilfov și pe alocuri în Ialomița și Constanța. Acolo, zăpada va avea în general 5–10 centimetri, dar nu la fel peste tot, pentru că vântul o mută dintr-un loc în altul.
+În Vrancea, Galați și Brăila ninge de sâmbătă dimineață, iar de după-amiază și în Giurgiu, Călărași, Ilfov și pe alocuri în Ialomița și Constanța. Acolo, zăpada va avea în general 5–10 centimetri, dar nu la fel peste tot.
 > „În primele ore ale intervalului în județele Vrancea, Galați și Brăila, iar după-amiază în județele Giurgiu, Călărași, Ilfov și local în județele Ialomița și Constanța, precum și în municipiul București, intensificările de vânt vor fi asociate temporar cu ninsoare, va fi viscol, iar vizibilitatea va scădea local sub 100 m. Se va depune un strat de zăpadă neuniform cu grosimi în general de 5 – 10 cm.” [1]
 
-[card: Unde se depune cea mai multă zăpadă]
+[card: Câtă zăpadă se depune]
 
 ### Vânt și viscol
 
-În sudul Moldovei, în Dobrogea și în cea mai mare parte a Munteniei vântul va bate în rafale de 50–70 de kilometri pe oră. Duminică, între 10:00 și 20:00, vântul continuă și ridică zăpada deja căzută, așa că se vede greu și pe drumuri deja curățate se pot face troiene.
+În sudul Moldovei, în Dobrogea și în cea mai mare parte a Munteniei, adică în sudul și sud-estul țării, vântul va bate în rafale de 50–70 de kilometri pe oră. Duminică, între 10:00 și 20:00, vântul continuă și ridică zăpada deja căzută, așa că se vede greu.
 > „Între 28 noiembrie, ora 10:00, și 29 noiembrie, ora 10:00 , e valabil și un cod galben de vânt. În sudul Moldovei, Dobrogea și cea mai mare parte a Munteniei vântul va avea intensificări cu viteze la rafală de 50 – 70 km/h.” [1]
 > „Duminică, între orele 10:00 și 20:00, sudul Moldovei, Dobrogea și cea mai mare parte a Munteniei vor rămâne sub cod galben de intensificări ale vântului. Rafalele vor ajunge la 50-70 km/h și vor viscoli zăpada deja depusă.” [3]
 
