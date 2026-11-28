@@ -1,8 +1,8 @@
 ---
 title: În depozit, dar nu în farmacie
-summary: Ministrul Sănătății spune că unele medicamente stau în depozite și nu ajung în farmacii. Ministerul vrea să publice stocurile pe site.
+summary: Ministrul Sănătății spune că unele medicamente stau în depozite și nu ajung în farmacii. Acum vrea ca farmaciile să-și raporteze stocurile.
 tags: [sănătate]
-date: 2026-11-15
+date: 2026-11-27
 wiki: sanatate
 sources: [1]
 image:
@@ -42,6 +42,14 @@ tip: text
 Ministerul Sănătății pregătește o schimbare a legii: ce medicamente sunt în depozite ar urma să se vadă pe site-ul ministerului. Așa s-ar vedea ce există și ce ajunge, de fapt, în farmacii.
 > „Pentru a limita situațiile în care pacienții nu găsesc anumite tratamente, Ministerul Sănătății lucrează la o modificare legislativă care ar permite publicarea informațiilor despre stocurile de medicamente existente în depozite.” [3]
 > „Datele ar urma să fie disponibile pe site-ul instituției, astfel încât să existe o imagine mai clară asupra produselor disponibile și a celor care ajung efectiv în farmacii.” [3]
+
+### Farmaciile ar urma să-și raporteze stocurile
+tip: text
+Pe 27 noiembrie, Ministerul Sănătății a pus în dezbatere publică un proiect de lege: toate farmaciile ar trebui să se înscrie într-un sistem al ministerului și să spună, pe loc, ce medicamente au. Așa, ministerul ar vedea din timp unde lipsește un medicament.
+> „Potrivit propunerii, toate farmaciile vor avea obligația să se înregistreze în noul sistem și să raporteze permanent cantitățile de medicamente pe care le au disponibile.” [6]
+> „Proiectul de ordonanță de urgență care stabilește cadrul legal pentru funcționarea platformei a fost pus vineri în transparență decizională, a anunțat ministrul Alexandru Rogobete.” [6]
+> „„Am pus astăzi în transparență decizională proiectul de ordonanță de urgență prin care realizăm cadrul legal al Sistemului Electronic de Raportare (SER) a stocurilor de medicamente. Vreau să avem o imagine corectă, în timp real, a stocurilor de medicamente din farmaciile din România, să identificăm din timp problemele de aprovizionare și să putem interveni rapid atunci când apar discontinuități”, a declarat, pe Facebook, Rogobete.” [6]
+> „Ministrul Sănătății, Alexandru Rogobete , anunță, vineri, 27 noiembrie, punerea în transparență decizională a proiectului de ordonanță de urgență privind Sistemul Electronic de Raportare (SER) a stocurilor de medicamente.” [8]
 
 ### Ce poți face până atunci
 tip: listă
@@ -89,6 +97,20 @@ Ministerul Sănătății pregătește o schimbare a legii prin care stocurile de
 
 [card: Stocurile ar putea fi publice]
 
+Pe 27 noiembrie, ministerul a făcut un pas mai departe. A pus în dezbatere publică, adică pe site, ca oricine să-și poată spune părerea, un proiect de ordonanță de urgență, un fel de lege dată de Guvern. După proiect, toate farmaciile ar trebui să se înscrie în Sistemul Electronic de Raportare al ministerului și să spună, pe loc, ce medicamente au și în ce cantități. Ministrul spune că așa s-ar vedea din timp unde lipsește un medicament și s-ar putea interveni repede.
+> „Proiectul de ordonanță de urgență care stabilește cadrul legal pentru funcționarea platformei a fost pus vineri în transparență decizională, a anunțat ministrul Alexandru Rogobete.” [6]
+> „Potrivit propunerii, toate farmaciile vor avea obligația să se înregistreze în noul sistem și să raporteze permanent cantitățile de medicamente pe care le au disponibile.” [6]
+> „„Am pus astăzi în transparență decizională proiectul de ordonanță de urgență prin care realizăm cadrul legal al Sistemului Electronic de Raportare (SER) a stocurilor de medicamente. Vreau să avem o imagine corectă, în timp real, a stocurilor de medicamente din farmaciile din România, să identificăm din timp problemele de aprovizionare și să putem interveni rapid atunci când apar discontinuități”, a declarat, pe Facebook, Rogobete.” [6]
+> „Ministrul Sănătății, Alexandru Rogobete , anunță, vineri, 27 noiembrie, punerea în transparență decizională a proiectului de ordonanță de urgență privind Sistemul Electronic de Raportare (SER) a stocurilor de medicamente.” [8]
+
+[card: Farmaciile ar urma să-și raporteze stocurile]
+
+Sistemul nu e nou. Funcționează din 2016, dar un control intern prezentat la începutul lui octombrie a găsit probleme în felul în care merge. Ministrul spune că acum va putea vedea stocurile fiecărei farmacii, ca să-i ajute pe bolnavii care caută un medicament greu de găsit. Gândul scrie că oamenii vor putea afla mai ușor ce farmacii au medicamentele căutate. Articolele nu spun cum și când ar putea vedea oamenii aceste date și nici când ar intra în vigoare regulile.
+> „Sistemul Electronic de Raportare nu este o platformă nouă. Acesta funcționează din 2016, când a fost dezvoltat de Serviciul de Telecomunicații Speciale pentru Ministerul Sănătății.” [7]
+> „Cu toate acestea, un audit public intern, prezentat la începutul lunii octombrie, a semnalat deficiențe în funcționarea sistemului.” [7]
+> „Acum, odată cu această modificare, voi putea vedea și stocurile din fiecare farmacie, astfel încât să pot veni în sprijinul pacienților care au nevoie de anumite medicamente care se găsesc mai greu sau care au pentru o anumită perioadă discontinuitate”, a declarat ministrul Sănătății.” [7]
+> „Românii vor putea afla mai ușor în ce farmacii sunt disponibile medicamentele pe care le caută, inclusiv cele care se găsesc greu sau au probleme de aprovizionare.” [7]
+
 Ministrul a mai anunțat că marți urma să discute la Bruxelles cu reprezentanții producătorilor și ai distribuitorilor de medicamente din Europa. Discuțiile erau despre ce face ca unele medicamente să lipsească din România, de ce se întrerup livrările și cum pot ajunge la bolnavi medicamentele din depozite. Articolele nu spun ce s-a hotărât.
 > „Alexandru Rogobete a anunțat, pe de altă parte, că va discuta marți, la Bruxelles, cu reprezentanții distribuitorilor și producătorilor de medicamente de la nivel european, pentru a identifica soluții la problemele de aprovizionare.” [4]
 > „Discuțiile vor viza problemele care afectează disponibilitatea medicamentelor în România, cauzele întreruperilor de aprovizionare și modalitățile prin care produsele existente în depozite pot ajunge la pacienți.” [4]
@@ -111,3 +133,6 @@ Până se schimbă ceva, ministrul le spune bolnavilor să caute medicamentul du
 3. Alexandru Rogobete, anunț despre criza medicamentelor din România — Realitatea. https://www.realitatea.net/stiri/sanatate/alexandru-rogobete-anunt-despre-criza-medicamentelor-din-romania-produse-farmaceutice-exista-in-depozite-dar-nu-ajung-in-farmacii-ynj2rz
 4. Rogobete explică de ce lipsesc unele medicamente din farmacii — România TV. https://www.romaniatv.net/rogobete-explica-de-ce-lipsesc-unele-medicamente-din-farmacii-exista-in-depozite-dar-nu-sunt-distribuite_9920059.html
 5. Alexandru Rogobete: Piața de medicamente din România a început să devină tot mai controlată de marile lanțuri de farmacii — NewsBV. https://newsbv.ro/alexandru-rogobete-piata-medicamente-controlata-farmacii/
+6. Farmaciile din România vor fi obligate să raporteze în timp real stocurile de medicamente — Realitatea. https://www.realitatea.net/stiri/sanatate/farmaciile-din-romania-vor-fi-obligate-sa-raporteze-in-timp-real-stocurile-de-medicamente-ministerul-sanatatii-a-lansat-in-dezbatere-publica-proiectul-platformei-electronice-1wghqj
+7. Românii vor putea afla mai ușor ce farmacii au pe stoc medicamentele greu de găsit — Gândul. https://www.gandul.ro/actualitate/alexandru-rogobete-platforma-stocuri-medicamente-farmacii-21076184
+8. Farmaciile din România, obligate să raporteze stocurile de medicamente — DC News. https://www.dcnews.ro/farmaciile-romania-obligate-raporteze-stocurile-rogobete_1099278.html
