@@ -13,20 +13,21 @@
 4. De 4 ori sau mai mult
 5. Nu știu
 
-### Ultima dată când ai dat cardul de sănătate la medic, ce s-a întâmplat?
+### În ultimele 12 luni, ultima dată când ai folosit cardul de sănătate la medic, ce s-a întâmplat?
 
 | id | ultima-data |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Nu am folosit cardul de sănătate |
+| na | Nu l-am folosit în ultimele 12 luni |
 
 1. A mers din prima
 2. A mers după mai multe încercări
 3. N-a mers, dar am primit îngrijirea
 4. N-a mers și a trebuit să revin
-5. Nu țin minte
+5. Altceva
+6. Nu țin minte
 
 ### Dacă cardul de sănătate nu merge când ajungi la medic, câtă încredere ai că vei primi totuși îngrijirea de care ai nevoie?
 
@@ -36,9 +37,10 @@
 | measures | trust |
 | where | romania |
 | scale | Nicio încredere … Foarte multă încredere |
+| na | Nu am card de sănătate |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### Dacă ai putea folosi la medic buletinul electronic în locul cardului de sănătate, pe care l-ai folosi?
+### Dacă ai putea folosi la medic buletinul electronic (cartea de identitate cu cip) în locul cardului de sănătate, pe care l-ai folosi?
 
 | id | buletin-sau-card |
 |---|---|

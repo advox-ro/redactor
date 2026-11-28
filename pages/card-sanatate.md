@@ -1,6 +1,6 @@
 ---
 title: Probleme cu cardul de sănătate
-summary: Sistemul informatic al cardului de sănătate are probleme. CNAS spune că oamenii primesc în continuare îngrijirile de care au nevoie.
+summary: Sistemul informatic al cardului de sănătate are probleme. CNAS lucrează să-l repare, dar nu a spus până când.
 tags: [sănătate, servicii publice]
 date: 2026-11-27
 image:
@@ -17,27 +17,27 @@ quiz: card-sanatate
 
 ### Cardul de sănătate are probleme
 tip: text
-Casa Națională de Asigurări de Sănătate (CNAS), instituția care plătește din bani publici consultațiile și tratamentele celor asigurați, spune că partea informatică a cardului de sănătate nu merge cum trebuie. Instituția lucrează să o repare.
+Casa Națională de Asigurări de Sănătate (CNAS), instituția care plătește consultațiile și tratamentele celor asigurați, spune că partea informatică a cardului de sănătate nu merge cum trebuie. Instituția lucrează să o repare.
 > „Casa Națională de Asigurări de Sănătate (CNAS) informează că efectuează acțiuni tehnice de soluționare a disfuncționalităților care afectează componenta informatică a cardului național de asigurări sociale de sănătate (CEAS), în vederea restabilirii funcționării acesteia în condiții de stabilitate și siguranță.” [2]
 > „Casa Națională de Asigurări de Sănătate anunță că lucrează la remedierea problemelor din sistemul informatic al cardului național de sănătate.” [4]
 
 ### Anunțul a venit după o oprire programată
 tip: cronologie
-- 26 noiembrie, ora 21:00: platforma CNAS se oprește pentru lucrări
-- 27 noiembrie, ora 03:00: se încheie oprirea anunțată
+- 26 noiembrie, ora 21:00: începe oprirea anunțată a platformei CNAS
+- 27 noiembrie, ora 03:00: ora la care oprirea trebuia să se încheie
 - 27 noiembrie: CNAS anunță problemele cardului
-Platforma informatică a CNAS a fost oprită o noapte pentru întreținere. A doua zi, instituția a anunțat problemele cardului.
+Platforma CNAS trebuia oprită o noapte pentru întreținere. Vineri, CNAS a anunțat problemele cardului. Articolele nu spun dacă ele au pornit de la aceste lucrări.
 > „Potrivit instituției, sistemul urma să fie indisponibil în intervalul 26 noiembrie 2026, ora 21:00 – 27 noiembrie 2026, ora 03:00.” [3]
 > „Anunțul vine după întreruperea programată a Platformei Informatice a Asigurărilor Sociale de Sănătate (PIAS), din noaptea de joi spre vineri, pentru lucrări de mentenanță și optimizare.” [1]
 > „Problemele informatice ale cardului național de sănătate nu împiedică accesul pacienților la consultații și servicii medicale, iar măsurile pentru acordarea și decontarea acestora rămân în vigoare, a anunțat vineri, 27 noiembrie, Casa Națională de Asigurări de Sănătate (CNAS), care lucrează la remedierea defecțiunilor.” [1]
 
-### CNAS: mergi la medic ca de obicei
+### CNAS: problemele nu te opresc de la medic
 tip: text
-CNAS spune că problemele tehnice nu te împiedică să primești îngrijirile de care ai nevoie. Regulile prin care consultațiile se fac și se plătesc mai departe rămân valabile.
+CNAS spune că problemele tehnice nu te împiedică să primești îngrijirile de care ai nevoie. Regulile care permit medicului să te consulte și să fie plătit pentru asta rămân valabile.
 > „Potrivit CNAS, dificultățile de natură tehnică nu constituie un impediment în accesul asiguraților la serviciile medicale de care au nevoie.” [2]
 > „Până la remedierea problemelor tehnice, rămân în vigoare măsurile care asigură continuitatea acordării și decontării serviciilor medicale.” [4]
 
-### Ce nu spune anunțul
+### Ce nu explică încă anunțul
 tip: listă
 - Ce faci dacă medicul nu îți poate citi cardul
 - Dacă se schimbă ceva la rețete
@@ -50,13 +50,14 @@ Până la un nou anunț, dacă ai o problemă, întreabă medicul sau farmacia.
 
 ### Buletinul electronic, în loc de card
 tip: text
-Lucrările pregătesc și buletinul electronic, cel cu cip, ca să poată fi folosit la medic în locul cardului de sănătate. Firmele care fac programele folosite de medici vor primi instrucțiunile tehnice ca să-și schimbe programele.
+Lucrările pregătesc și buletinul electronic, cel cu cip, ca să poată fi folosit la medic în locul cardului de sănătate. Firmele care fac programele folosite de medici vor primi instrucțiunile tehnice ca să-și schimbe programele. CNAS nu a spus când va fi gata.
 > „Lucrările vizează și adaptarea sistemului pentru a permite utilizarea cărții electronice de identitate în locul cardului de sănătate.” [4]
 > „Potrivit instituției, furnizorii de aplicații informatice terțe urmează să fie notificați de către casele de asigurări de sănătate cu privire la publicarea de către CNAS a kitului SDK - trusă de dezvoltare software, astfel încât aceștia să poată implementa, în cel mai scurt timp, noile specificații tehnice.” [2]
+> „Instituția nu a indicat însă o dată exactă pentru publicarea kitului sau pentru finalizarea tuturor actualizărilor.” [1]
 
 ## Articol
 
-Cardul de sănătate e cardul cu cip pe care cei asigurați îl folosesc la medic. Vineri, 27 noiembrie, Casa Națională de Asigurări de Sănătate (CNAS) a anunțat că partea informatică a acestui card are probleme. CNAS este instituția care plătește, din banii strânși de la cei asigurați, consultațiile și tratamentele lor.
+Cardul de sănătate e cardul cu cip pe care cei asigurați îl folosesc la medic. Vineri, 27 noiembrie, Casa Națională de Asigurări de Sănătate (CNAS) a anunțat că partea informatică a acestui card are probleme. CNAS este instituția care plătește consultațiile și tratamentele celor asigurați.
 > „Problemele informatice ale cardului național de sănătate nu împiedică accesul pacienților la consultații și servicii medicale, iar măsurile pentru acordarea și decontarea acestora rămân în vigoare, a anunțat vineri, 27 noiembrie, Casa Națională de Asigurări de Sănătate (CNAS), care lucrează la remedierea defecțiunilor.” [1]
 > „Casa Națională de Asigurări de Sănătate (CNAS) informează că efectuează acțiuni tehnice de soluționare a disfuncționalităților care afectează componenta informatică a cardului național de asigurări sociale de sănătate (CEAS), în vederea restabilirii funcționării acesteia în condiții de stabilitate și siguranță.” [2]
 
@@ -68,11 +69,11 @@ Anunțul a venit după ce platforma informatică a CNAS a fost oprită, cum se a
 
 ### Ce înseamnă pentru tine
 
-CNAS spune că problemele tehnice nu îi împiedică pe oameni să primească îngrijirile de care au nevoie. Regulile prin care consultațiile se fac și se plătesc mai departe, chiar când sistemul nu merge, rămân valabile. Asta nu înseamnă că serviciile medicale s-au oprit.
+CNAS spune că problemele tehnice nu îi împiedică pe oameni să primească îngrijirile de care au nevoie. Regulile care permit medicului să te consulte și să fie plătit pentru asta rămân valabile în această perioadă. Cotidianul notează că problemele sistemului nu înseamnă că serviciile medicale s-au oprit sau că nu mai sunt plătite.
 > „Potrivit CNAS, dificultățile de natură tehnică nu constituie un impediment în accesul asiguraților la serviciile medicale de care au nevoie.” [2]
 > „Practic, asta înseamnă că problemele sistemului informatic nu trebuie confundate cu suspendarea serviciilor medicale sau cu oprirea decontării acestora.” [1]
 
-[card: CNAS: mergi la medic ca de obicei]
+[card: CNAS: problemele nu te opresc de la medic]
 
 Anunțul CNAS nu spune ce trebuie să facă un pacient când cardul lui nu poate fi citit. Nici nu explică separat ce se întâmplă cu rețetele sau cu medicamentele luate de la farmacie. Nu spune nici când se termină reparațiile. Până la un nou anunț, cine are o problemă poate întreba medicul care a scris rețeta sau farmacia.
 > „CNAS nu a detaliat însă în comunicatul de vineri procedura aplicabilă fiecărei categorii de servicii și nici ce trebuie să facă pacienții în situația concretă în care cardul nu poate fi validat.” [1]
@@ -80,7 +81,7 @@ Anunțul CNAS nu spune ce trebuie să facă un pacient când cardul lui nu poate
 > „Până la un nou anunț, nu există un termen precis comunicat pentru finalizarea lucrărilor.” [1]
 > „Pacienții care întâmpină dificultăți trebuie să ceară lămuriri medicului prescriptor sau farmaciei, iar eventualele reguli suplimentare trebuie confirmate de CNAS .” [1]
 
-[card: Ce nu spune anunțul]
+[card: Ce nu explică încă anunțul]
 
 ### Buletinul electronic la medic
 
