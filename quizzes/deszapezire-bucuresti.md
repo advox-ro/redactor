@@ -16,6 +16,7 @@
 | type | single |
 | measures | experience |
 | where | romania |
+| na | Iarna trecută n-am prea ieșit pe jos |
 
 1. Niciodată
 2. O dată
@@ -30,6 +31,7 @@
 | type | single |
 | measures | experience |
 | where | romania |
+| na | Iarna trecută nu locuiam aici |
 
 1. Da
 2. Nu, n-a fost nevoie
@@ -44,14 +46,15 @@
 | measures | priority |
 | where | romania |
 
-1. Drumurile pe care merg autobuzele și tramvaiele
-2. Străzile din jurul spitalelor
-3. Străzile din jurul școlilor
-4. Trotuarele
-5. Străzile dintre blocuri
-6. Altceva
+1. Trotuarele
+2. Străzile dintre blocuri
+3. Drumurile pe care merg autobuzele și tramvaiele
+4. Străzile din jurul spitalelor
+5. Străzile din jurul școlilor
+6. Străzile mari, cu mult trafic
+7. Altceva
 
-### Câtă încredere ai că autobuzele și tramvaiele din orașul tău vor circula normal în zilele cu ninsoare de la acest sfârșit de săptămână?
+### Câtă încredere ai că transportul public de suprafață din localitatea ta (autobuze, tramvaie, troleibuze) va circula normal în zilele cu ninsoare din această iarnă?
 
 | id | transport-ninsoare |
 |---|---|
