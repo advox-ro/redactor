@@ -1,6 +1,6 @@
 ---
-title: Carnea de porc, cel mult 8 zile
-summary: De pe 19 decembrie, carnea proaspătă de porc se vinde cel mult 8 zile de la tăiere. Comercianții spun că ar putea lipsi de sărbători.
+title: Carnea proaspătă de porc, 8 zile
+summary: Din 19 decembrie, carnea proaspătă de porc se vinde cel mult 8 zile de la tăiere. Statul vizează fraudele; comercianții se tem de lipsuri.
 tags: [prețuri, siguranță]
 date: 2026-11-27
 stat: { value: "8 zile", label: "de la tăierea porcului se poate vinde carnea proaspătă ținută la rece, după noile reguli", quote: "Are un termen de valabilitate de maximum 8 zile de la data sacrificării", source: 2 }
@@ -19,7 +19,7 @@ quiz: carne-porc-8-zile
 ### Cel mult 8 zile de la tăiere
 tip: cifră
 - 8 zile
-Carnea proaspătă de porc, ținută la rece, se poate vinde ca proaspătă cel mult atâtea zile de la tăierea animalului. Nimeni din drumul ei spre magazin nu mai poate prelungi termenul.
+Carnea proaspătă de porc, ținută la rece, se poate vinde ca proaspătă cel mult 8 zile de la tăierea animalului. Firmele care o taie în bucăți sau o ambalează nu pot pune un termen nou.
 > „Carnea proaspătă refrigerată: Are un termen de valabilitate de maximum 8 zile de la data sacrificării (conform certificatului sanitar-veterinar) și nu a fost supusă niciunui tratament de conservare.” [2]
 > „Fără prelungiri artificiale: Unitățile de tranșare și/sau ambalare nu au voie să stabilească un nou termen de valabilitate și nici să îl modifice pe cel stabilit inițial.” [2]
 
@@ -31,6 +31,7 @@ Carnea care a fost congelată nu mai poate fi pusă în vânzare ca proaspătă,
 
 ### Ce scrie la vitrină
 tip: listă
+- Ce fel de carne e
 - Țara de origine
 - Locul unde a fost produsă
 - Data tăierii
@@ -41,10 +42,12 @@ Pentru carnea vândută neambalată, la vitrina de la care te servește vânzăt
 ### De când se aplică
 tip: cronologie
 - 17 noiembrie: regulile, puse în dezbatere
+- Două zile mai târziu: apar în Monitorul Oficial, spun comercianții
 - 19 decembrie: regulile intră în vigoare
 Regulile vin de la Ministerul Agriculturii, de la autoritatea care controlează siguranța alimentelor (ANSVSA) și de la Protecția Consumatorilor (ANPC). Se aplică cu câteva zile înainte de Crăciun.
 > „Pe 17 noiembrie 2026 a fost publicat pe site-ul MADR proiectul de ordin comun emis de ANSVSA , ANPC și MADR, un act normativ esențial care aduce reguli clare și stricte pentru operatorii economici din sectorul alimentar și o protecție sporită pentru consumatori, a anunțat marți MADR, într-o postare pe pagina de Facebook.” [2]
 > „De pe 19 decembrie, chiar în ajunul Ignatului, intră în vigoare o reglementare care limitează la maximum opt zile de la sacrificare termenul de valabilitate al cărnii proaspete de porc.” [3]
+> „Cele două organizații atrag atenția că ordinul comun al Ministerului Agriculturii, Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor (ANSVSA) și Autorității Naționale pentru Protecția Consumatorilor (ANPC) a fost publicat în Monitorul Oficial la doar două zile după ce textul a fost pus în dezbatere publică, fără consultări efective cu industria.” [3]
 
 ### Ce spune fiecare
 tip: voci
@@ -55,13 +58,14 @@ Comercianții au cerut întâlniri urgente cu instituțiile care au scris reguli
 > „Asociația Națională a Comercianților Mici și Mijlocii din România (ANCMMR) și Asociația Marilor Rețele Comerciale din România (AMRCR) susțin că noua regulă este aproape imposibil de respectat și că ar putea afecta aprovizionarea magazinelor tocmai în perioada cu cea mai mare cerere.” [3]
 > „Reprezentanții comercianților au solicitat celor trei instituții care au emis ordinul organizarea urgentă a unor întâlniri cu reprezentanții întregului lanț de producție, procesare și comercializare a cărnii de porc, pentru a clarifica modul de aplicare a noilor reguli și a evita eventualele blocaje.” [3]
 
-### Multă carne vine de departe
+### Comercianții: 70% e din import
 tip: parte
 - 70%
-din carnea de porc de pe piața din România vine din import, mai ales din Spania și Germania, spun comercianții mici și mijlocii. Ei se tem că magazinele vor aduce mai puțină.
+din carnea de porc de pe piața din România vine din import, mai ales din Spania și Germania, spune asociația comercianților mici și mijlocii. Ea se teme că magazinele vor aduce mai puțină carne din import, iar producătorii români ar putea câștiga.
 > „El a precizat că 70% din carnea de porc prezentă pe piața din România este din import.” [1]
 > „În general, importul se face din Spania și din Germania.” [1]
 > „Din cauza termenului de garanție prestabilit la opt zile, este posibil ca retailerii să se aprovizioneze cu cantități mai mici din import pentru că n-o să-și permită cantități mai mari și e posibil să apară niște sincope pe piața cărnii.” [1]
+> „Importatorii, pe de o parte, sunt loviți, iar pe de altă parte, producătorii români au o gură de oxigen aici, că ar putea să fie mai prezenți pe galantare.” [1]
 
 ## Articol
 
@@ -71,9 +75,11 @@ Carnea proaspătă de porc are reguli noi. Dacă e ținută la rece și nu a fos
 
 [card: Cel mult 8 zile de la tăiere]
 
-Regulile sunt scrise împreună de trei instituții: Ministerul Agriculturii, Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor (ANSVSA), care controlează cât de sigure sunt alimentele, și Autoritatea Națională pentru Protecția Consumatorilor (ANPC). Ministerul a pus textul în dezbatere pe 17 noiembrie. Regulile intră în vigoare pe 19 decembrie, cu câteva zile înainte de Crăciun.
+Regulile sunt scrise împreună de trei instituții: Ministerul Agriculturii, Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor (ANSVSA), care controlează cât de sigure sunt alimentele, și Autoritatea Națională pentru Protecția Consumatorilor (ANPC). Ministerul a pus textul în dezbatere pe 17 noiembrie. Comercianții spun că ordinul a apărut în Monitorul Oficial, unde se publică legile, la doar două zile după aceea; unele articole îl numesc încă proiect. Regulile intră în vigoare pe 19 decembrie, cu câteva zile înainte de Crăciun.
 > „Pe 17 noiembrie 2026 a fost publicat pe site-ul MADR proiectul de ordin comun emis de ANSVSA , ANPC și MADR, un act normativ esențial care aduce reguli clare și stricte pentru operatorii economici din sectorul alimentar și o protecție sporită pentru consumatori, a anunțat marți MADR, într-o postare pe pagina de Facebook.” [2]
 > „Măsura urmează să intre în vigoare pe 19 decembrie 2026, cu doar câteva zile înainte de Crăciun, iar reprezentanții industriei susțin că aplicarea acesteia ar putea fi dificilă.” [4]
+> „Cele două organizații atrag atenția că ordinul comun al Ministerului Agriculturii, Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor (ANSVSA) și Autorității Naționale pentru Protecția Consumatorilor (ANPC) a fost publicat în Monitorul Oficial la doar două zile după ce textul a fost pus în dezbatere publică, fără consultări efective cu industria.” [3]
+> „Carnea proaspătă de porc refrigerată va avea un termen de valabilitate de maximum opt zile de la data sacrificării, iar unitățile de tranșare și ambalare nu vor putea să prelungească sau să modifice termenul stabilit inițial, potrivit unui proiect de ordin comun al Autorității Naționale Sanitare Veterinare și pentru Siguranța Alimentelor (ANSVSA), Autorității Naționale pentru Protecția Consumatorilor (ANPC) și Ministerului Agriculturii și Dezvoltării Rurale (MADR).” [1]
 
 [card: De când se aplică]
 
@@ -96,9 +102,10 @@ ANSVSA va verifica de unde vine carnea, termenele și temperaturile la care a fo
 
 ### Ce spun comercianții
 
-Două asociații ale magazinelor, a comercianților mici și mijlocii (ANCMMR) și a marilor rețele (AMRCR), spun că regula e aproape imposibil de respectat. În cele opt zile, carnea trebuie tăiată în bucăți, prelucrată, transportată, pusă pe raft și vândută. Ele se tem că magazinele nu vor avea destulă carne de Crăciun și de Anul Nou.
+Două asociații ale magazinelor, a comercianților mici și mijlocii (ANCMMR) și a marilor rețele (AMRCR), spun că regula e aproape imposibil de respectat. În cele opt zile, carnea trebuie tăiată în bucăți, prelucrată, transportată, pusă pe raft și vândută. Până acum, termenul îl stabilea producătorul; de acum îl stabilește statul. Asociațiile se tem că magazinele nu vor avea destulă carne de Crăciun și de Anul Nou.
 > „Asociația Națională a Comercianților Mici și Mijlocii din România (ANCMMR) și Asociația Marilor Rețele Comerciale din România (AMRCR) susțin că noua regulă este aproape imposibil de respectat și că ar putea afecta aprovizionarea magazinelor tocmai în perioada cu cea mai mare cerere.” [3]
 > „Comercianții explică faptul că, în cele opt zile de la sacrificare, carnea trebuie tranșată, procesată, transportată, distribuită în magazine și vândută.” [3]
+> „În acest mod, statul - și nu producătorul ca până acum - stabilește în mod arbitrar, termenul în care produsul trebuie să parcurgă toate etapele: tranșare, procesare, transport, distribuție pe raft, comercializare și consum.” [3]
 > „Semnalele primite de la producători și procesatori indică riscul ca magazinele să nu poată fi aprovizionate la nivelul necesar pentru a acoperi cererea din perioada Crăciunului și a Anului Nou.” [3]
 
 Comercianții mai spun că regulile au fost adoptate fără să fie întrebați cu adevărat și că nu spun ce se întâmplă cu carnea aflată deja în depozite sau cu contractele deja semnate. Au cerut întâlniri urgente cu cele trei instituții.
@@ -106,18 +113,19 @@ Comercianții mai spun că regulile au fost adoptate fără să fie întrebați 
 > „Mai mult, aceasta nu ar conține prevederi tranzitorii pentru produsele deja existente în stocuri sau pentru contractele aflate în desfășurare.” [4]
 > „Reprezentanții comercianților au solicitat celor trei instituții care au emis ordinul organizarea urgentă a unor întâlniri cu reprezentanții întregului lanț de producție, procesare și comercializare a cărnii de porc, pentru a clarifica modul de aplicare a noilor reguli și a evita eventualele blocaje.” [3]
 
-Vicepreședintele asociației comercianților mici și mijlocii spune că 70% din carnea de porc de pe piața din România vine din import, mai ales din Spania și Germania. Din cauza termenului de opt zile, magazinele ar putea aduce mai puțină. El spune și că producătorii români ar putea ajunge mai des pe rafturi.
+Vicepreședintele asociației comercianților mici și mijlocii spune că 70% din carnea de porc de pe piața din România vine din import, mai ales din Spania și Germania. Din cauza termenului de opt zile, magazinele ar putea aduce mai puțină carne din import. El spune și că producătorii români ar putea ajunge mai des pe rafturi.
 > „El a precizat că 70% din carnea de porc prezentă pe piața din România este din import.” [1]
 > „În general, importul se face din Spania și din Germania.” [1]
 > „Din cauza termenului de garanție prestabilit la opt zile, este posibil ca retailerii să se aprovizioneze cu cantități mai mici din import pentru că n-o să-și permită cantități mai mari și e posibil să apară niște sincope pe piața cărnii.” [1]
 > „Importatorii, pe de o parte, sunt loviți, iar pe de altă parte, producătorii români au o gură de oxigen aici, că ar putea să fie mai prezenți pe galantare.” [1]
 
-[card: Multă carne vine de departe]
+[card: Comercianții: 70% e din import]
 
 ### Ce spune ministerul
 
-Ministrul Agriculturii spune că regulile îi apără pe cumpărători de înșelăciuni și pe crescătorii români de concurența neloială. El spune că termenul de opt zile e doar pentru carnea proaspătă ținută la rece, care nu a fost tratată ca să se păstreze mai mult.
+Ministerul Agriculturii a explicat regulile încă din 17 noiembrie, înainte ca asociațiile comercianților să le critice. Ministrul spune că regulile îi apără pe cumpărători de înșelăciuni și pe crescătorii români de concurența neloială. Articolele nu spun dacă ministerul le-a răspuns comercianților. Ministrul mai spune că termenul de opt zile e doar pentru carnea proaspătă ținută la rece, care nu a fost tratată ca să se păstreze mai mult.
 > „Împreună cu ANSVSA și ANPC am emis un ordin prin care protejăm consumatorii români de eventuale practici comerciale înșelătoare și producătorii români de concurență neloială”, declara ministrul Agriculturii, Florin Barbu.” [3]
+> „Ministerul Agriculturii a anunțat pe 17 noiembrie că noile reguli urmăresc protejarea sănătății publice și prevenirea practicilor comerciale care pot induce în eroare consumatorii.” [3]
 > „Ministrul a precizat că termenul maxim de opt zile de la sacrificare se aplică în cazul cărnii proaspete care nu a beneficiat de niciun tratament pentru conservare și care este menținută în condiții de refrigerare.” [4]
 
 [card: Ce spune fiecare]

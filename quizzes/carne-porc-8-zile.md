@@ -1,4 +1,4 @@
-### Când cumperi carne proaspătă, cât de des te uiți până când e bună, pe etichetă?
+### Când cumperi carne proaspătă, cât de des te uiți pe etichetă la data până la care e bună?
 
 | id | eticheta-termen |
 |---|---|
@@ -12,6 +12,7 @@
 3. Uneori
 4. Rar
 5. Niciodată
+6. Cumpăr doar carne fără etichetă
 
 ### În ultimele 12 luni, ai cumpărat carne vândută ca proaspătă care ți s-a părut că fusese congelată?
 
@@ -39,7 +40,7 @@
 | na | Nu cumpăr carne |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### Cât de îngrijorat(ă) ești că nu vei găsi carne proaspătă de porc în magazine de sărbători?
+### Cât de îngrijorat(ă) ești că va fi greu să găsești carne proaspătă de porc în magazine de sărbători?
 
 | id | ingrijorare-sarbatori |
 |---|---|
@@ -61,7 +62,8 @@
 
 1. Aș cumpăra carne de porc congelată
 2. Aș căuta în alt magazin
-3. Aș cumpăra direct de la un crescător
-4. Aș cumpăra alt fel de carne
-5. Aș renunța la carne
-6. Altceva
+3. Aș cumpăra din piață
+4. Aș cumpăra direct de la un crescător
+5. Aș cumpăra alt fel de carne
+6. Aș renunța la carnea de porc de sărbători
+7. Altceva
