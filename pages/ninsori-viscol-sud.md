@@ -81,9 +81,9 @@ Administrația Națională de Meteorologie (ANM), instituția care face prognoza
 ### Unde ninge
 
 Cea mai multă zăpadă e așteptată în Mehedinți, Dolj, Olt și Teleorman: un strat de 15–20 de centimetri, iar pe alocuri peste 25. Acolo avertizarea ține de sâmbătă de la ora 13:00 până duminică la ora 10:00. În Olt și Teleorman vântul va ridica zăpada, iar pe alocuri nu se va vedea la mai mult de 100 de metri.
-> „O altă atenționare este în vigoare pentru perioada 28 noiembrie, ora 13:00 - 29 noiembrie, ora 10:00, când în județele Mehedinți, Dolj, Olt și Teleorman va ninge consistent și se va depune strat de zăpadă de 15...20 de cm și izolat de peste 25 cm (echivalent în apă de 20...35 l/mp).” [2]
+> „O avertizare cod galben va fi valabilă în intervalul 28 noiembrie, ora 13:00 – 29 noiembrie, ora 10:00, în județele Mehedinți, Dolj, Olt și Teleorman, unde va ninge consistent și se va depune strat de zăpadă de 15…20 de cm și izolat de peste 25 cm (echivalent în apă de 20…35 l/mp).” [2]
 > „În județele Mehedinți, Dolj, Olt și Teleorman va ninge consistent și se va depune un strat de zăpadă de 15-20 de cm și izolat de peste 25 cm.” [1]
-> „Temporar vântul se va intensifica în județele Olt și Teleorman cu rafale în general de 55...60 km/h, va viscoli ninsoarea și vizibilitatea va scădea sub 100 m.” [2]
+> „Temporar vântul se va intensifica în județele Olt și Teleorman cu rafale în general de 55… 60 km/h, va viscoli ninsoarea și vizibilitatea va scădea sub 100 m.” [2]
 
 În Vrancea, Galați și Brăila ninge de sâmbătă dimineață, iar de după-amiază și în Giurgiu, Călărași, Ilfov și pe alocuri în Ialomița și Constanța. Acolo, zăpada va avea în general 5–10 centimetri, dar nu la fel peste tot.
 > „În primele ore ale intervalului în județele Vrancea, Galați și Brăila, iar după-amiază în județele Giurgiu, Călărași, Ilfov și local în județele Ialomița și Constanța, precum și în municipiul București, intensificările de vânt vor fi asociate temporar cu ninsoare, va fi viscol, iar vizibilitatea va scădea local sub 100 m. Se va depune un strat de zăpadă neuniform cu grosimi în general de 5 – 10 cm.” [1]
@@ -126,7 +126,7 @@ Pe vânt puternic, pompierii recomandă să stai departe de copaci, stâlpi, pan
 ## Surse
 
 1. ANM: Cod galben de ninsori și viscol în 16 județe și în București, până duminică seara — G4Media. https://www.g4media.ro/anm-cod-galben-de-ninsori-si-viscol-in-16-judete-si-in-bucuresti-pana-duminica-seara-stratul-de-zapada-va-ajunge-in-anumite-zone-la-25-cm.html
-2. ANM - Ninsori viscolite, strat de zăpadă, intensificări ale vântului, răcire accentuată - Atenționări cod galben pentru sudul Moldovei, Dobrogea și cea mai mare parte a Munteniei — News.ro. https://www.news.ro/eveniment/anm-ninsori-viscolite-strat-zapada-intensificari-vantului-racire-accentuata-atentionari-cod-galben-sudul-moldovei-dobrogea-cea-mare-parte-munteniei-16-judete-capitala-afectate-harta-1922401528252026111123016131
+2. Alerte de vreme rea. Ninsori, viscol, nopți geroase și strat de zăpadă de până la 25 cm în sudul țării — HotNews. https://hotnews.ro/alerte-de-vreme-rea-ninsori-viscol-nopti-geroase-si-strat-de-zapada-de-pana-la-25-cm-in-sudul-tarii-2416444
 3. Ninsori, viscol și temperaturi cu minus în România. Până când va fi în vigoare atenționarea de vreme extremă — Știrile ProTV. https://stirileprotv.ro/stiri/vremea/ninsori-viscol-si-temperaturi-cu-minus-in-romania-pana-cand-este-in-vigoare-atentionarea-de-vreme-extrema-harta.html
 4. IGSU, avertisment înainte de venirea iernii: Pregătiți-vă pentru ninsori, viscol și temperaturi scăzute — Mediafax. https://www.mediafax.ro/social/igsu-avertisment-inainte-de-venirea-iernii-pregatiti-va-pentru-ninsori-viscol-si-temperaturi-scazute-23850932
 5. Infotrafic: recomandările polițiștilor de la Rutieră, în contextul ninsorilor anunțate în orele următoare — Digi24. https://www.digi24.ro/stiri/actualitate/infotrafic-recomandarile-politistilor-de-la-rutiera-in-contextul-ninsorilor-anuntate-in-orele-urmatoare-care-e-starea-drumurilor-4056431
