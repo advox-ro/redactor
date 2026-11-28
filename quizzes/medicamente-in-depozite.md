@@ -53,3 +53,18 @@
 | scale | Nicio încredere … Foarte multă încredere |
 | na | Nu cred că voi avea nevoie de medicamente |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
+
+### În ultimele 12 luni, de câte ori ai căutat un medicament la mai multe farmacii, pentru că nu-l găseai la prima?
+
+| id | mai-multe-farmacii |
+|---|---|
+| type | single |
+| measures | experience |
+| where | romania |
+| na | Nu am avut nevoie de medicamente în ultimele 12 luni |
+
+1. Niciodată
+2. O dată
+3. De 2–3 ori
+4. De 4 ori sau mai mult
+5. Nu țin minte
