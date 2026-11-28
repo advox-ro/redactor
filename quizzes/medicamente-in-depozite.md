@@ -54,14 +54,14 @@
 | na | Nu cred că voi avea nevoie de medicamente |
 | outlook | 1: -1, 2: -0.5, 3: 0, 4: 0.5, 5: 1 |
 
-### În ultimele 12 luni, de câte ori ai mers la mai multe farmacii ca să găsești un medicament?
+### În ultimele 12 luni, de câte ori ai căutat un medicament la mai multe farmacii, pentru că nu-l găseai la prima?
 
 | id | mai-multe-farmacii |
 |---|---|
 | type | single |
 | measures | experience |
 | where | romania |
-| na | Nu am cumpărat medicamente în ultimele 12 luni |
+| na | Nu am avut nevoie de medicamente în ultimele 12 luni |
 
 1. Niciodată
 2. O dată
